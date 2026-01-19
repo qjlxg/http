@@ -16,7 +16,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 INPUT_FILE = 'http.txt'
 OUTPUT_BASE_DIR = 'nodes'
-MAX_WORKERS = 20  # 并发数
+MAX_WORKERS = 80  # 并发数
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 }
