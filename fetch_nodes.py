@@ -6,157 +6,144 @@ import csv
 import urllib3
 import re
 import sys
+import json
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.parse import urlparse, unquote, urlencode, parse_qs
 
-# 禁用不安全请求警告
+# 禁用警告
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 INPUT_FILE = 'http.txt'
 OUTPUT_BASE_DIR = 'nodes'
-MAX_WORKERS = 65  # 略微调高并发数
-
-# 定义合法协议前缀
-SUPPORTED_SCHEMES = ['ss', 'ssr', 'vmess', 'vless', 'trojan', 'hysteria', 'hy2']
+MAX_WORKERS = 20  # 并发数
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+}
 
 def log(msg):
-    """实时打印日志"""
     print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}", flush=True)
 
-def standardize_node(node_str):
-    """标准化节点：提取核心要素，去除备注，用于精准去重"""
-    node_str = node_str.strip()
-    if not node_str: return None
-    
+def clean_vmess(vmess_link):
+    """深度清洗 VMess 节点"""
     try:
-        # 简单处理 vmess (通常是base64 json)
+        b64_data = vmess_link.replace('vmess://', '')
+        # 补全填充并解码
+        missing_padding = len(b64_data) % 4
+        if missing_padding: b64_data += '=' * (4 - missing_padding)
+        data = json.loads(base64.b64decode(b64_data).decode('utf-8'))
+        
+        # 移除备注(ps)和无关统计项
+        core_fields = ['add', 'port', 'id', 'aid', 'net', 'type', 'host', 'path', 'tls', 'sni', 'alpn', 'fp']
+        clean_data = {k: v for k, v in data.items() if k in core_fields}
+        # 重新按照字母顺序排序 key，确保去重一致性
+        sorted_str = json.dumps(clean_data, sort_keys=True)
+        return f"vmess://{base64.b64encode(sorted_str.encode('utf-8')).decode('utf-8')}"
+    except:
+        return None
+
+def standardize_node(node_str):
+    """标准化 SS/Trojan/Vless/Hy2 等节点"""
+    try:
+        # 预处理：去掉末尾可能的 HTML 标签或干扰
+        node_str = re.split(r'[<"\s\']', node_str)[0]
+        
         if node_str.startswith('vmess://'):
-            # vmess 协议通常不带 # 备注，如果带了则截断
-            return node_str.split('#')[0]
+            return clean_vmess(node_str)
             
         u = urlparse(node_str)
-        if u.scheme not in SUPPORTED_SCHEMES:
-            return None
+        # 核心：协议 + 用户信息(去备注) + 地址端口
+        netloc = u.netloc.split('#')[0]
         
-        # 核心要素：协议、用户信息(密码/UUID)、地址、端口
-        core_netloc = u.netloc.split('#')[0]
-        
-        # 过滤掉备注类查询参数
+        # 处理查询参数，只保留核心连接参数
         query = parse_qs(u.query)
-        for skip_arg in ['remarks', 'name', 'title', 'group', 'memo']:
-            query.pop(skip_arg, None)
-            
-        new_query = urlencode(query, doseq=True)
-        standardized = f"{u.scheme}://{core_netloc}"
+        # 排除掉所有非连接必须的字段
+        keep_params = ['type', 'security', 'sni', 'fp', 'path', 'serviceName', 'mode', 'cert']
+        new_query_dict = {k: v for k, v in query.items() if k in keep_params}
+        
+        new_query = urlencode(new_query_dict, doseq=True)
+        standardized = f"{u.scheme}://{netloc}"
         if new_query:
             standardized += f"?{new_query}"
-            
         return standardized
     except:
         return None
 
-def parse_nodes(content):
-    """解析并标准化节点"""
-    valid_nodes = set()
-    if not content: return valid_nodes
-
-    lines = []
-    # 尝试 Base64 解码整个内容
-    try:
-        b64_str = re.sub(r'\s+', '', content)
-        missing_padding = len(b64_str) % 4
-        if missing_padding: b64_str += '=' * (4 - missing_padding)
-        decoded = base64.b64decode(b64_str).decode('utf-8')
-        lines = decoded.splitlines()
-    except:
-        lines = content.splitlines()
-
-    for line in lines:
-        std = standardize_node(line)
+def extract_nodes_from_text(text):
+    """从杂乱的文本中正则提取节点"""
+    # 匹配各类协议的正则表达式
+    pattern = r'(ss|ssr|vmess|vless|trojan|hysteria|hy2)://[^\s<"\']+'
+    matches = re.findall(pattern, text, re.IGNORECASE)
+    
+    # 重新拼接完整的匹配项
+    found_urls = re.findall(r'(?:ss|ssr|vmess|vless|trojan|hysteria|hy2)://[^\s<"\']+', text)
+    
+    results = set()
+    for raw in found_urls:
+        std = standardize_node(raw)
         if std:
-            valid_nodes.add(std)
-    return valid_nodes
+            results.add(std)
+    return results
 
 def get_content(url):
-    url = url.strip()
-    if not url: return None, None, 0
-    clean_url = url.replace('https://', '').replace('http://', '')
-    
-    # 优先尝试 https
+    clean_url = url.strip().replace('https://', '').replace('http://', '')
     for protocol in ['https://', 'http://']:
-        target = f"{protocol}{clean_url}"
         try:
-            # 缩短超时时间：连接5秒，读取8秒
-            response = requests.get(target, timeout=(5, 8), verify=False)
-            if response.status_code == 200:
-                return response.text, protocol, 200
-        except Exception as e:
-            continue
-    return None, None, "Timeout/Error"
+            res = requests.get(f"{protocol}{clean_url}", timeout=(5, 10), verify=False, headers=HEADERS)
+            if res.status_code == 200:
+                return res.text, protocol
+        except: continue
+    return None, None
 
 def process_url(url):
-    log(f"正在抓取: {url} ...")
-    content, protocol, status = get_content(url)
-    nodes = parse_nodes(content) if content else set()
-    log(f"完成: {url} (找到 {len(nodes)} 个标准节点)")
-    return {
-        'url': url, 
-        'protocol': protocol or "None", 
-        'nodes': nodes, 
-        'count': len(nodes), 
-        'status': "Success" if content else f"Fail({status})"
-    }
+    log(f"Fetch: {url}")
+    text, protocol = get_content(url)
+    if not text:
+        log(f"Fail: {url}")
+        return {'url': url, 'nodes': set(), 'protocol': 'None', 'status': 'Fail'}
+    
+    # 尝试 Base64 解码整个页面内容（针对常见的订阅格式）
+    try:
+        decoded_text = base64.b64decode(text).decode('utf-8')
+        nodes = extract_nodes_from_text(decoded_text)
+    except:
+        nodes = extract_nodes_from_text(text)
+        
+    log(f"Done: {url} | Found: {len(nodes)}")
+    return {'url': url, 'nodes': nodes, 'protocol': protocol, 'status': 'Success'}
 
 def main():
-    if not os.path.exists(INPUT_FILE):
-        log("错误: 未找到 http.txt 文件")
-        return
-
+    if not os.path.exists(INPUT_FILE): return
     with open(INPUT_FILE, 'r') as f:
         urls = [line.strip() for line in f if line.strip()]
 
-    if not urls:
-        log("http.txt 为空")
-        return
-
-    log(f"开始并行处理 {len(urls)} 个域名，并发线程数: {MAX_WORKERS}")
-    
-    all_nodes_global = set()
-    stats_data = []
+    all_nodes = set()
+    stats = []
     
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        future_to_url = {executor.submit(process_url, url): url for url in urls}
-        for future in as_completed(future_to_url):
-            try:
-                res = future.result()
-                all_nodes_global.update(res['nodes'])
-                stats_data.append([res['url'], res['protocol'], res['count'], res['status']])
-            except Exception as e:
-                log(f"处理任务时发生严重错误: {e}")
+        futures = {executor.submit(process_url, url): url for url in urls}
+        for f in as_completed(futures):
+            r = f.result()
+            all_nodes.update(r['nodes'])
+            stats.append([r['url'], r['protocol'], len(r['nodes']), r['status']])
 
-    # 归档处理
+    # 存储结果
     now = datetime.now()
-    timestamp = now.strftime('%Y%m%d_%H%M%S')
-    current_month = now.strftime('%Y-%m')
-    dir_path = os.path.join(OUTPUT_BASE_DIR, current_month)
-    os.makedirs(dir_path, exist_ok=True)
-
-    txt_name = f"fetch_nodes_{timestamp}.txt"
-    csv_name = f"fetch_nodes_{timestamp}.csv"
-
-    # 保存 TXT
-    with open(os.path.join(dir_path, txt_name), 'w', encoding='utf-8') as f:
-        f.write('\n'.join(sorted(all_nodes_global)))
-
-    # 保存 CSV
-    with open(os.path.join(dir_path, csv_name), 'w', encoding='utf-8-sig', newline='') as f:
+    month_dir = os.path.join(OUTPUT_BASE_DIR, now.strftime('%Y-%m'))
+    os.makedirs(month_dir, exist_ok=True)
+    ts = now.strftime('%Y%m%d_%H%M%S')
+    
+    # 保存去重后的节点池
+    with open(os.path.join(month_dir, f"fetch_nodes_{ts}.txt"), 'w', encoding='utf-8') as f:
+        f.write('\n'.join(sorted(all_nodes)))
+    
+    # 保存详细统计
+    with open(os.path.join(month_dir, f"fetch_nodes_{ts}.csv"), 'w', encoding='utf-8-sig', newline='') as f:
         writer = csv.writer(f)
-        writer.writerow(['Domain', 'Protocol', 'StandardizedNodes', 'Status'])
-        writer.writerows(stats_data)
-
-    log(f"任务结束。总计捕获唯一节点: {len(all_nodes_global)}")
-    log(f"结果已存入目录: {dir_path}")
+        writer.writerow(['Domain', 'Protocol', 'StandardNodes', 'Status'])
+        writer.writerows(stats)
+    
+    log(f"Finished. Total Unique Nodes: {len(all_nodes)}")
 
 if __name__ == "__main__":
     main()
