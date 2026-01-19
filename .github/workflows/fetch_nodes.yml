@@ -1,0 +1,44 @@
+name: fetch_nodes
+
+on:
+  workflow_dispatch: # 支持手动运行
+  push:
+    paths:
+      - 'fetch_nodes.py'
+      - '.github/workflows/fetch_nodes.yml'
+      - 'http.txt'
+
+jobs:
+  execute_script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v3
+
+      - name: 设置 Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: 安装依赖
+        run: |
+          pip install requests pyyaml
+
+      - name: 运行脚本
+        env:
+          TZ: Asia/Shanghai
+        run: |
+          python fetch_nodes.py
+
+      - name: 提交并推送结果
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add nodes/
+          # 如果没有变化则跳过，有变化则提交
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Update nodes and stats: $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+          else
+            echo "No changes to commit"
+          fi
