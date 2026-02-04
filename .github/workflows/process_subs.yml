@@ -1,0 +1,55 @@
+name: process_subs
+
+on:
+  # 1. 当 process_subs.py 脚本变动时触发
+  push:
+    paths:
+      - 'process_subs.py'
+      - '.github/workflows/process_subs.yml'
+  # 2. 支持手动运行
+  workflow_dispatch:
+  # 3. 定时运行（建议每 6 小时运行一次，确保节点列表是最新的）
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  process-task:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          # 必须拉取最新代码，否则可能读不到最新的 subscriptions.txt
+          fetch-depth: 1
+
+      - name: 设置 Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 安装依赖
+        run: pip install requests
+
+      - name: 设置上海时区
+        run: sudo timedatectl set-timezone Asia/Shanghai
+
+      - name: 执行节点提取与统计
+        run: python process_subs.py
+
+      - name: 提交并推送结果
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Node-Processor-Bot"
+          # 添加生成的节点文件和统计 CSV
+          git add results/nodes.txt results/statistics.csv
+          
+          # 检查是否有变动
+          if ! git diff --cached --quiet; then
+            git commit -m "📊 节点统计更新: $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+          else
+            echo "没有新节点变动，跳过推送。"
+          fi
