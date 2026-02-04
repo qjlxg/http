@@ -25,6 +25,7 @@ def log(msg):
     print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}", flush=True)
 
 def clean_vmess(vmess_link):
+    """深度去重 VMess：删除所有备注和统计字段"""
     try:
         b64_data = vmess_link.replace('vmess://', '')
         missing_padding = len(b64_data) % 4
@@ -32,47 +33,54 @@ def clean_vmess(vmess_link):
         data = json.loads(base64.b64decode(b64_data).decode('utf-8'))
         
         if not data.get('add') or not data.get('port'): return None
-        # 仅保留核心连接字段
+        
+        # 核心连接字段白名单 (排除了 ps 备注字段)
         core_fields = ['add', 'port', 'id', 'aid', 'net', 'type', 'host', 'path', 'tls', 'sni', 'alpn', 'fp']
         clean_data = {k: v for k, v in data.items() if k in core_fields and v}
+        
+        # 通过排序 key 序列化，确保去重一致性
         sorted_str = json.dumps(clean_data, sort_keys=True)
         return f"vmess://{base64.b64encode(sorted_str.encode('utf-8')).decode('utf-8')}"
     except: return None
 
 def standardize_node(node_str):
+    """标准化所有节点，剔除备注和冗余参数"""
     try:
-        # 移除末尾可能的干扰字符 
+        # 1. 基础过滤与截断
         node_str = re.split(r'[<"\s\'\`,]', node_str)[0]
+        if len(node_str) < 12: return None
         
-        # 针对上传结果中发现的无效关键字进行拦截 
-        invalid_keywords = ['${', '...', 'host:port', 'server:port', 'your_', 'password@', 'nodeAddr']
-        if any(k in node_str for k in invalid_keywords) or len(node_str) < 12:
-            return None
-            
+        # 2. 针对协议处理
         if node_str.startswith('vmess://'):
             return clean_vmess(node_str)
             
+        # 3. 处理 SS/VLESS/Trojan 等 URL 格式
+        # 移除 # 及其后面的备注信息
+        node_str = node_str.split('#')[0]
+        
         u = urlparse(node_str)
         if not u.netloc: return None
 
-        # 核心：处理地址、端口、去除备注
-        netloc = u.netloc.split('#')[0]
+        # 核心：地址、端口、认证信息
+        netloc = u.netloc
         
-        # 处理查询参数：只保留白名单内的必要参数 
+        # 4. 参数清洗
         query = parse_qs(u.query)
-        keep_params = ['type', 'security', 'sni', 'fp', 'path', 'serviceName', 'mode', 'cert', 'sid', 'pbk', 'plugin']
-        new_query_dict = {k: v for k, v in query.items() if k in keep_params}
+        # 仅保留影响连接的必要参数，剔除 ps、remark、source 等
+        keep_params = ['type', 'security', 'sni', 'fp', 'path', 'serviceName', 'mode', 'cert', 'sid', 'pbk', 'plugin', 'encryption']
+        new_query_dict = {k: sorted(v) for k, v in query.items() if k.lower() in keep_params}
         
-        # 重新编码参数，确保 path 等特殊字符处理正确
+        # 重新按字母序组装参数，防止因为参数顺序不同导致的重复
         new_query = urlencode(new_query_dict, doseq=True)
+        
         standardized = f"{u.scheme}://{netloc}"
         if new_query:
             standardized += f"?{new_query}"
+            
         return standardized
     except: return None
 
 def extract_nodes_from_text(text):
-    # 增强匹配模式，特别是针对带 IPv6 和端口的复杂结构 
     pattern = r'(?:ss|ssr|vmess|vless|trojan|hysteria|hy2)://[^\s<"\'\`]+'
     found_urls = re.findall(pattern, text, re.IGNORECASE)
     
@@ -86,7 +94,7 @@ def get_content(url):
     clean_url = url.strip().replace('https://', '').replace('http://', '')
     for protocol in ['https://', 'http://']:
         try:
-            res = requests.get(f"{protocol}{clean_url}", timeout=(10, 20), verify=False, headers=HEADERS)
+            res = requests.get(f"{protocol}{clean_url}", timeout=(10, 20), verify=False, headers=HEADERS, allow_redirects=True)
             if res.status_code == 200: return res.text, protocol
         except: continue
     return None, None
@@ -97,12 +105,15 @@ def process_url(url):
     if not text:
         return {'url': url, 'nodes': set(), 'protocol': 'None', 'status': 'Fail'}
     
-    # 尝试解码 Base64 订阅内容
+    # 自动识别 Base64 订阅
     try:
-        # 去除非 base64 字符
-        clean_text = re.sub(r'[^a-zA-Z0-9+/=]', '', text.strip())
-        decoded_text = base64.b64decode(clean_text).decode('utf-8')
-        nodes = extract_nodes_from_text(decoded_text)
+        # 如果是标准的订阅内容（Base64 编码的列表），先解码
+        # 简单的 Base64 检测逻辑
+        if not any(s in text for s in ['://', 'vmess', 'vless', 'ss']):
+            decoded_text = base64.b64decode(text.strip()).decode('utf-8')
+            nodes = extract_nodes_from_text(decoded_text)
+        else:
+            nodes = extract_nodes_from_text(text)
     except:
         nodes = extract_nodes_from_text(text)
         
@@ -125,7 +136,7 @@ def main():
             r = f.result()
             all_nodes.update(r['nodes'])
             stats.append([r['url'], r['protocol'], len(r['nodes']), r['status']])
-            log(f"Done: {r['url']} | Nodes: {len(r['nodes'])}")
+            log(f"Done: {r['url']} | New: {len(r['nodes'])}")
 
     # 存储逻辑
     now = datetime.now()
@@ -140,15 +151,13 @@ def main():
             f.write('\n'.join(sorted_nodes))
         with open(csv_p, 'w', encoding='utf-8-sig', newline='') as f:
             writer = csv.writer(f)
-            writer.writerow(['Domain', 'Protocol', 'Count', 'Status'])
+            writer.writerow(['Source URL', 'Protocol', 'Node Count', 'Status'])
             writer.writerows(stats)
 
-    # 保存历史文件
     save_to_file(os.path.join(month_dir, f"fetch_{ts}.txt"), os.path.join(month_dir, f"fetch_{ts}.csv"))
-    # 保存根目录文件
     save_to_file(ROOT_LATEST_TXT, ROOT_LATEST_CSV)
     
-    log(f"Total Unique: {len(all_nodes)}")
+    log(f"Finished. Unique nodes after deep clean: {len(all_nodes)}")
 
 if __name__ == "__main__":
     main()
