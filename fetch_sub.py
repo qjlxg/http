@@ -1,65 +1,81 @@
 import requests
 import re
 import os
-import random
 import time
+import base64
 from datetime import datetime
 
-# 1. 订阅链接正则（保持精准）
+# 1. 扩大正则匹配范围
+# 匹配订阅链接、Base64 字符串以及可能的配置文件
 SUB_PATTERN = r'https?://[^\s^"\'\(\)]+/api/v1/client/subscribe\?token=[a-zA-Z0-9]+'
+BASE64_PATTERN = r'^[a-zA-Z0-9+/=]{50,}$' # 匹配长串 Base64
 
-# 2. 静态源：这些是专门泄露或分享订阅链接的“矿场”
-# 我们直接请求这些 URL 的内容，比搜索更可靠
-STATIC_SOURCES = [
-    "https://t.me/s/V2ray_Free_Conf",
-    "https://t.me/s/SSRSUB",
-    "https://t.me/s/v2rayfree666",
+# 2. 深度矿场列表
+# 包含订阅转换器后端、公开的配置收集站等
+SOURCES = [
     "https://t.me/s/v2ray_free_conf",
+    "https://t.me/s/V2ray_Free_Conf",
+    "https://t.me/s/SSR_V2RAY_Clash",
     "https://raw.githubusercontent.com/freefq/free/master/v2ray",
-    "https://raw.githubusercontent.com/Pawdroid/Free-v2ray/main/v2ray.txt"
+    "https://raw.githubusercontent.com/Pawdroid/Free-v2ray/main/v2ray.txt",
+    # 增加一些已知的公开订阅池接口（示例，需根据实际寻找）
+    "https://sub.xeton.dev/", 
 ]
+
+def decode_base64(text):
+    """尝试解码 Base64 并提取链接"""
+    try:
+        decoded = base64.b64decode(text).decode('utf-8')
+        return re.findall(SUB_PATTERN, decoded)
+    except:
+        return []
 
 def fetch_content(url):
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
     try:
-        response = requests.get(url, headers=headers, timeout=15)
-        if response.status_code == 200:
-            return response.text
-    except Exception as e:
-        print(f"   ❌ 请求失败: {url} -> {e}")
+        # 增加对 raw 链接和普通页面的处理
+        res = requests.get(url, headers=headers, timeout=15)
+        if res.status_code == 200:
+            return res.text
+    except:
+        pass
     return ""
 
 def main():
     all_found = set()
-    print(f"[{datetime.now()}] 🚀 开始收割模式...")
+    print(f"[{datetime.now()}] 🛠️ 启动深度扫描收割模式...")
 
-    # 第一步：收割 Telegram 频道和 GitHub 静态源
-    print("--- 正在收割静态矿场 ---")
-    for source in STATIC_SOURCES:
-        print(f"📡 扫描: {source}")
-        content = fetch_content(source)
+    for url in SOURCES:
+        print(f"📡 扫描源: {url}")
+        content = fetch_content(url)
+        if not content: continue
+
+        # 模式1：直接提取
         links = re.findall(SUB_PATTERN, content)
-        if links:
-            print(f"   ✨ 发现 {len(links)} 条潜在链接")
-            all_found.update(links)
-        time.sleep(1)
+        all_found.update(links)
 
-    # 第二步：结果去重、清洗与保存
+        # 模式2：对可能的 Base64 块进行尝试
+        # 针对 GitHub 上的那种单行大文件
+        if len(content) > 100 and " " not in content:
+            links_from_b64 = decode_base64(content)
+            all_found.update(links_from_b64)
+
+        print(f"   ✨ 累计捕获: {len(all_found)}")
+        time.sleep(0.5)
+
+    # 结果保存
     os.makedirs("results", exist_ok=True)
-    file_path = "results/subscriptions.txt"
-    
-    # 简单的格式二次校验
-    final_list = sorted([l for l in all_found if "token=" in l and len(l) > 30])
+    final_list = sorted(list(all_found))
 
-    with open(file_path, "w", encoding="utf-8") as f:
-        f.write(f"# 采集时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} (Shanghai)\n")
-        f.write(f"# 有效链接总数: {len(final_list)}\n\n")
-        for link in final_list:
-            f.write(link + "\n")
+    with open("results/subscriptions.txt", "w", encoding="utf-8") as f:
+        f.write(f"# 深度采集时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} (Shanghai)\n")
+        f.write(f"# 捕获总数: {len(final_list)}\n\n")
+        for l in final_list:
+            f.write(l + "\n")
 
-    print(f"\n✅ 任务完成！共捕获 {len(final_list)} 条有效订阅。")
+    print(f"\n✅ 完成！最终捕获: {len(final_list)}。即使结果为 0，说明源需要更新。")
 
 if __name__ == "__main__":
     main()
