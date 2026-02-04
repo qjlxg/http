@@ -32,7 +32,7 @@ jobs:
         run: |
           git config --local user.email "bot@github.com"
           git config --local user.name "API-Harvester"
-          git add results/subscriptions.txt
+          git add results/subscriptions.txt results/nodes_raw.txt
           if ! git diff --cached --quiet; then
             git commit -m "Update: $(date +'%Y-%m-%d %H:%M:%S')"
             git push
