@@ -7,7 +7,7 @@ import urllib3
 import re
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from urllib.parse import urlparse, unquote, quote, urlencode, parse_qs
+from urllib.parse import urlparse, unquote, quote, urlencode
 
 # 禁用警告
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -20,157 +20,177 @@ ROOT_LATEST_CSV = 'latest_nodes_stats.csv'
 MAX_WORKERS = 80
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
 
+# 协议验证核心参数
+REQUIRED_PARAMS = {
+    'ss': ['server', 'port', 'cipher', 'password'],
+    'vmess': ['server', 'port', 'uuid'],
+    'vless': ['server', 'port', 'uuid'],
+    'trojan': ['server', 'port', 'password'],
+    'hysteria2': ['server', 'port', 'password'],
+    'hy2': ['server', 'port', 'password'],
+    'hysteria': ['server', 'port', 'auth'],
+}
+
 def log(msg):
     print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}", flush=True)
 
-def safe_decode_base64(s):
-    """鲁棒的 Base64 解码"""
-    s = s.strip()
-    try:
-        # 补全填充
-        padding = len(s) % 4
-        if padding: s += "=" * (4 - padding)
-        return base64.b64decode(s).decode('utf-8', errors='ignore')
-    except:
-        return None
+# --- 工具函数 ---
 
-def parse_and_clean_node(raw_url):
-    """解析并进行最小化清理（仅去除备注和非法参数）"""
+def parse_to_standard_dict(raw_url):
+    """将各种协议链接统一解析为标准字典进行深度校验"""
     try:
-        # 1. 基础预处理：去掉 HTML 干扰
         raw_url = re.split(r'[<"\s\'\`,]', raw_url)[0]
         if '://' not in raw_url: return None
         
         parsed = urlparse(raw_url)
         proto = parsed.scheme.lower()
-        
-        # 仅处理已知协议
-        valid_protos = ['ss', 'ssr', 'vmess', 'vless', 'trojan', 'hysteria', 'hysteria2', 'hy2', 'tuic']
-        if proto not in valid_protos: return None
 
-        # 2. 特殊处理 VMess (JSON 格式)
         if proto == 'vmess':
             content = raw_url.split('://')[1]
-            decoded = safe_decode_base64(content)
-            if not decoded: return None
-            data = json.loads(decoded)
-            if not data.get('add'): return None
-            # 清理：仅移除 ps (备注)，保留其他所有参数
-            data.pop('ps', None)
-            return {'fp': f"vmess|{data.get('add')}|{data.get('port')}|{data.get('id')}", 
-                    'content': data, 'proto': 'vmess'}
+            padding = len(content) % 4
+            if padding: content += "=" * (4 - padding)
+            data = json.loads(base64.b64decode(content).decode('utf-8'))
+            return {
+                'type': 'vmess', 'server': data.get('add'), 'port': data.get('port'),
+                'uuid': data.get('id'), 'cipher': data.get('type', 'auto'),
+                'raw': raw_url, 'meta': data
+            }
+        
+        elif proto in REQUIRED_PARAMS or proto == 'hy2':
+            # 处理 IPv6 格式: [2001:...]:port
+            netloc = parsed.netloc.split('#')[0]
+            user_info = unquote(netloc.split('@')[0]) if '@' in netloc else ""
+            server_port = netloc.split('@')[-1] if '@' in netloc else netloc
+            
+            if ']' in server_port: # IPv6
+                server = server_port.split(']')[0] + ']'
+                port_part = server_port.split(']')[-1]
+                port = port_part.split(':')[1] if ':' in port_part else 443
+            else: # IPv4 or Domain
+                server = server_port.split(':')[0]
+                port = server_port.split(':')[1] if ':' in server_port else 443
 
-        # 3. 处理标准 URL 协议
-        # 移除备注 (#)
-        clean_url_no_tag = raw_url.split('#')[0]
-        u = urlparse(clean_url_no_tag)
-        
-        # 提取指纹 (用于去重)
-        netloc = u.netloc
-        auth = netloc.split('@')[0] if '@' in netloc else ""
-        addr = netloc.split('@')[-1]
-        
-        # 简单的指纹：协议+地址+账号部分
-        fingerprint = f"{proto}|{addr}|{auth}"
-        
-        # 过滤明显的占位符
-        if 'server' in addr or 'host' in addr or '${' in addr: return None
-
-        return {'fp': fingerprint, 'content': clean_url_no_tag, 'proto': proto}
+            res = {'type': proto, 'server': server, 'port': str(port), 'raw': raw_url}
+            
+            if proto == 'ss':
+                if ':' in user_info:
+                    res['cipher'], res['password'] = user_info.split(':', 1)
+                else: # 处理可能存在的 Base64 用户信息
+                    try:
+                        decoded_user = base64.b64decode(user_info).decode('utf-8')
+                        if ':' in decoded_user:
+                            res['cipher'], res['password'] = decoded_user.split(':', 1)
+                    except: pass
+            else:
+                res['uuid'] = user_info
+                res['password'] = user_info
+                res['auth'] = user_info
+            
+            # 提取必要 Query 参数 (TLS/SNI 等) 用于重建链接
+            query = parse_qs(parsed.query)
+            keep = ['type', 'security', 'sni', 'fp', 'path', 'pbk', 'sid']
+            res['query'] = {k: v for k, v in query.items() if k.lower() in keep}
+            
+            return res
     except:
         return None
 
-def process_url(url):
-    log(f"Fetching: {url}")
+def rebuild_url(d):
+    """根据标准字典重新生成去备注的规范化 URL"""
     try:
-        res = requests.get(url, timeout=(10, 25), verify=False, headers=HEADERS)
-        if res.status_code != 200: return []
-        text = res.text
-        
-        # 尝试解码 Base64 订阅页
-        if "://" not in text and len(text) > 30:
-            decoded = safe_decode_base64(text)
-            if decoded: text = decoded
+        if d['type'] == 'vmess':
+            meta = d['meta']
+            # 清理 VMess 备注
+            meta['ps'] = "CleanNode" 
+            core_meta = {k: v for k, v in meta.items() if k in ['add', 'port', 'id', 'aid', 'net', 'type', 'host', 'path', 'tls', 'sni', 'alpn', 'fp', 'ps']}
+            return f"vmess://{base64.b64encode(json.dumps(core_meta).encode()).decode()}"
+        else:
+            # 重新拼装 SS/VLESS/Trojan 等，彻底去掉原始备注
+            new_query = urlencode(d.get('query', {}), doseq=True)
+            # 简化版拼装，不带备注
+            url = f"{d['type']}://{unquote(d.get('cipher','') + ':' + d.get('password','') if d['type'] == 'ss' else d.get('uuid',''))}@{d['server']}:{d['port']}"
+            if new_query: url += f"?{new_query}"
+            return url
     except:
-        return []
+        return d['raw']
 
-    # 提取所有链接
-    pattern = r'(?:ss|ssr|vmess|vless|trojan|hysteria|hy2|tuic)://[^\s<"\'\`]+'
-    raw_found = re.findall(pattern, text, re.IGNORECASE)
+def get_content(url):
+    clean_url = url.strip().replace('https://', '').replace('http://', '')
+    for protocol in ['https://', 'http://']:
+        try:
+            res = requests.get(f"{protocol}{clean_url}", timeout=(8, 15), verify=False, headers=HEADERS)
+            if res.status_code == 200: return res.text, protocol
+        except: continue
+    return None, None
+
+def process_url(url):
+    log(f"Fetch: {url}")
+    text, protocol = get_content(url)
+    if not text: return {'url': url, 'nodes': set(), 'protocol': 'None', 'status': 'Fail'}
     
-    results = []
-    for raw in raw_found:
-        cleaned = parse_and_clean_node(raw)
-        if cleaned:
-            results.append(cleaned)
-    return results
+    # 提取并初步清洗
+    raw_list = re.findall(r'(?:ss|ssr|vmess|vless|trojan|hysteria|hy2)://[^\s<"\'\`]+', text, re.IGNORECASE)
+    
+    valid_results = []
+    seen_in_this_url = set()
+
+    for raw in raw_list:
+        d = parse_to_standard_dict(raw)
+        if not d: continue
+        
+        # 指纹生成：协议 + 地址 + 端口 + 核心认证(UUID/密码)
+        auth = d.get('uuid') or d.get('password') or d.get('cipher', '')
+        fingerprint = f"{d['type']}|{d['server']}|{d['port']}|{auth}"
+        
+        if fingerprint not in seen_in_this_url:
+            # 验证必要参数是否存在
+            reqs = REQUIRED_PARAMS.get(d['type'], ['server', 'port'])
+            if all(d.get(r) for r in reqs):
+                seen_in_this_url.add(fingerprint)
+                valid_results.append(rebuild_url(d))
+
+    return {'url': url, 'nodes': valid_results, 'protocol': protocol, 'status': 'Success'}
 
 def main():
-    if not os.path.exists(INPUT_FILE):
-        log(f"Error: {INPUT_FILE} not found.")
-        return
-        
+    if not os.path.exists(INPUT_FILE): return
     with open(INPUT_FILE, 'r') as f:
         urls = [line.strip() for line in f if line.strip() and not line.startswith('#')]
 
-    all_node_data = []
-    global_fps = set()
+    global_seen_fingerprints = set()
+    final_nodes = []
     stats = []
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         futures = {executor.submit(process_url, url): url for url in urls}
         for f in as_completed(futures):
-            source_url = futures[f]
-            nodes_from_url = f.result()
+            r = f.result()
+            unique_nodes_from_url = []
+            for node in r['nodes']:
+                # 二次全局去重
+                if node not in global_seen_fingerprints:
+                    global_seen_fingerprints.add(node)
+                    unique_nodes_from_url.append(node)
             
-            new_count = 0
-            for n in nodes_from_url:
-                if n['fp'] not in global_fps:
-                    global_fps.add(n['fp'])
-                    all_node_data.append(n)
-                    new_count += 1
-            
-            stats.append([source_url, new_count, "Success" if nodes_from_url else "Empty"])
-            log(f"Done: {source_url} | New Nodes: {new_count}")
+            final_nodes.extend(unique_nodes_from_url)
+            stats.append([r['url'], r['protocol'], len(unique_nodes_from_url), r['status']])
+            log(f"Done: {r['url']} | Unique: {len(unique_nodes_from_url)}")
 
-    # --- 重新命名并生成最终 URL ---
-    final_urls = []
-    # 按协议排序
-    all_node_data.sort(key=lambda x: x['proto'])
-    
-    for i, n in enumerate(all_node_data):
-        custom_name = f"{n['proto'].upper()}_{i+1:03d}"
-        
-        if n['proto'] == 'vmess':
-            data = n['content']
-            data['ps'] = custom_name
-            final_urls.append(f"vmess://{base64.b64encode(json.dumps(data).encode()).decode()}")
-        else:
-            # 直接拼接自定义名称
-            final_urls.append(f"{n['content']}#{quote(custom_name)}")
-
-    # --- 保存结果 ---
+    # 存储
     now = datetime.now()
     month_dir = os.path.join(OUTPUT_BASE_DIR, now.strftime('%Y-%m'))
     os.makedirs(month_dir, exist_ok=True)
     ts = now.strftime('%Y%m%d_%H%M%S')
     
-    # 历史记录
-    with open(os.path.join(month_dir, f"nodes_{ts}.txt"), 'w', encoding='utf-8') as f:
-        f.write('\n'.join(final_urls))
-        
-    # 根目录最新结果
-    with open(ROOT_LATEST_TXT, 'w', encoding='utf-8') as f:
-        f.write('\n'.join(final_urls))
-        
-    # 统计表
-    with open(ROOT_LATEST_CSV, 'w', encoding='utf-8-sig', newline='') as f:
-        writer = csv.writer(f)
-        writer.writerow(['Source', 'Unique_Count', 'Status'])
-        writer.writerows(stats)
+    def save(t_p, c_p):
+        with open(t_p, 'w', encoding='utf-8') as f: f.write('\n'.join(sorted(final_nodes)))
+        with open(c_p, 'w', encoding='utf-8-sig', newline='') as f:
+            writer = csv.writer(f)
+            writer.writerow(['Source', 'Proto', 'Count', 'Status'])
+            writer.writerows(stats)
 
-    log(f"--- Finished ---")
-    log(f"Total Unique Nodes Found: {len(final_urls)}")
+    save(os.path.join(month_dir, f"nodes_{ts}.txt"), os.path.join(month_dir, f"stats_{ts}.csv"))
+    save(ROOT_LATEST_TXT, ROOT_LATEST_CSV)
+    log(f"Finished. Total Unique Nodes: {len(final_nodes)}")
 
 if __name__ == "__main__":
     main()
