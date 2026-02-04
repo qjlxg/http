@@ -1,0 +1,47 @@
+name: fetch_sub
+
+on:
+  push:
+    paths:
+      - 'fetch_sub.py'
+      - '.github/workflows/fetch_sub.yml'
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0,8,16 * * *' # 每天北京时间 08:00, 16:00, 00:00 运行
+
+jobs:
+  run-harvester:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 安装基础依赖
+        run: pip install requests
+
+      - name: 配置上海时区
+        run: sudo timedatectl set-timezone Asia/Shanghai
+
+      - name: 执行收割脚本
+        run: python fetch_sub.py
+
+      - name: 自动提交更新
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add results/subscriptions.txt
+          # 检查是否有文件变动
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: 自动更新订阅列表 $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+          else
+            echo "没有新内容发现，跳过推送。"
+          fi
