@@ -1,0 +1,59 @@
+name: harvester
+
+on:
+  # 1. 当脚本或工作流文件变动时自动运行
+  push:
+    paths:
+      - 'one_step_harvester.py'
+      - '.github/workflows/harvester.yml'
+  
+  # 2. 支持在 Actions 页面点击按钮手动运行
+  workflow_dispatch:
+  
+  # 3. 定时自动运行（北京时间 08:00 和 20:00）
+  schedule:
+    - cron: '0 0,12 * * *'
+
+jobs:
+  one-step-run:
+    runs-on: ubuntu-latest
+    # 必须赋予写权限，否则无法提交结果回仓库
+    permissions:
+      contents: write
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 安装必要依赖
+        run: pip install requests
+
+      - name: 切换上海时区
+        run: sudo timedatectl set-timezone Asia/Shanghai
+
+      - name: 执行全自动收割脚本
+        env:
+          # 确保你在仓库的 Secrets 里配置了 MY_GITHUB_TOKEN
+          MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+        run: python one_step_harvester.py
+
+      - name: 自动提交清洗后的结果
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Combined-Harvester-Bot"
+          
+          # 将产出的 nodes.txt 和统计表加入暂存区
+          git add results/nodes.txt results/statistics.csv
+          
+          # 只有在文件确实有变化时才提交，防止产生无意义的 Commit
+          if ! git diff --cached --quiet; then
+            git commit -m "🚀 脚本/配置触发更新: $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+          else
+            echo "结果未发生变化，无需推送。"
+          fi
