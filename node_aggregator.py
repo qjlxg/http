@@ -2,20 +2,18 @@ import requests
 import re
 import os
 import time
-import socket
-import json
 import base64
+import json
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
 
 # --- 配置区 ---
 GITHUB_TOKEN = os.getenv("MY_GITHUB_TOKEN")
 OUTPUT_DIR = "results"
-# 更加宽松的正则，防止漏掉带参数的节点
+# 协议匹配正则
 NODE_PATTERN = r'(vmess|vless|ss|ssr|trojan|tuic|hysteria2|hysteria)://[^\s^"\'\(\)]+'
-BAD_KEYWORDS = ['过期', '流量', '耗尽', '维护', '重置']
 
-# 实时更新的节点聚合源 (这些源目前非常稳，每天更新上万节点)
+# 节点池（直接存放节点的文件地址）
 RAW_NODE_SOURCES = [
     "https://raw.githubusercontent.com/vless-free/free/main/v2ray",
     "https://raw.githubusercontent.com/freefq/free/master/v2ray",
@@ -23,39 +21,34 @@ RAW_NODE_SOURCES = [
     "https://raw.githubusercontent.com/LonUp/NodeList/main/latest/all_export.txt",
     "https://raw.githubusercontent.com/mueiba/free-nodes/main/nodes.txt",
     "https://raw.githubusercontent.com/v2ray-free/free/main/v2ray",
-    "https://raw.githubusercontent.com/StaySleepless/free-nodes/main/nodes.txt"
+    "https://raw.githubusercontent.com/StaySleepless/free-nodes/main/nodes.txt",
+    "https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/v2ray.txt"
 ]
 
 GITHUB_DORKS = [
     'extension:txt "vmess://"',
     'extension:txt "vless://"',
     'extension:txt "trojan://"',
-    'filename:nodes.txt "ss://"'
+    'filename:nodes.txt "ss://"',
+    'filename:README.md "更新时间" "vmess://"'
 ]
 
-# --- 功能函数 ---
-
-def check_tcp_alive(node_url):
-    """TCP 探测：2秒超时"""
+def auto_decode_base64(text):
+    """尝试各种姿势解码内容"""
+    text = text.strip()
+    # 1. 已经是明文节点列表
+    if "://" in text:
+        return text
+    # 2. 尝试 Base64 解码
     try:
-        host, port = None, None
-        if node_url.startswith(('ss://', 'trojan://', 'vless://', 'ssr://', 'hysteria2://', 'hysteria://', 'tuic://')):
-            if '@' in node_url:
-                part = node_url.split('@')[1].split('#')[0].split('?')[0]
-                if ':' in part:
-                    host, port = part.split(':')[0], int(part.split(':')[1])
-        elif node_url.startswith('vmess://'):
-            b64_data = node_url.replace('vmess://', '')
-            b64_data += '=' * (-len(b64_data) % 4)
-            data = json.loads(base64.b64decode(b64_data).decode('utf-8'))
-            host, port = data['add'], int(data['port'])
-        
-        if host and port:
-            with socket.create_connection((host, port), timeout=2.0):
-                return True
+        # 补齐填充
+        missing_padding = len(text) % 4
+        if missing_padding:
+            text += '=' * (4 - missing_padding)
+        decoded = base64.b64decode(text).decode('utf-8')
+        return decoded
     except:
-        pass
-    return False
+        return text
 
 def get_github_raw_nodes():
     if not GITHUB_TOKEN: return set()
@@ -71,58 +64,52 @@ def get_github_raw_nodes():
                 raw_url = item['html_url'].replace("github.com", "raw.githubusercontent.com").replace("/blob/", "/")
                 try:
                     c = requests.get(raw_url, timeout=5).text
-                    nodes = re.findall(NODE_PATTERN, c)
+                    decoded_c = auto_decode_base64(c)
+                    nodes = re.findall(NODE_PATTERN, decoded_c)
                     found_nodes.update(nodes)
                 except: continue
-            time.sleep(2)
+            time.sleep(2) # 避免 API 限制
         except: pass
     return found_nodes
 
+def fetch_source(src):
+    """下载并解析单个源"""
+    try:
+        print(f"📡 正在请求: {src}")
+        res = requests.get(src, timeout=10)
+        if res.status_code == 200:
+            content = auto_decode_base64(res.text)
+            nodes = re.findall(NODE_PATTERN, content)
+            print(f"   ✨ 从 {src[-15:]} 提取到 {len(nodes)} 个节点")
+            return nodes
+    except:
+        return []
+
 def main():
     start_time = datetime.now()
-    print(f"[{start_time}] 🛰️ 启动多维节点收割机...")
+    print(f"[{start_time}] 🚀 启动全量收割模式（跳过 TCP 验证）...")
     
     all_raw = set()
 
-    # 1. 抓取外部聚合源
-    for src in RAW_NODE_SOURCES:
-        try:
-            print(f"📡 正在请求聚合源: {src}")
-            res = requests.get(src, timeout=10)
-            if res.status_code == 200:
-                # 尝试对整个返回内容进行 Base64 探测解码
-                text = res.text
-                try:
-                    # 有些源是全 base64 编码的
-                    text = base64.b64decode(text).decode('utf-8')
-                except:
-                    pass
-                nodes = re.findall(NODE_PATTERN, text)
-                all_raw.update(nodes)
-                print(f"   ✨ 发现 {len(nodes)} 个候选")
-        except: pass
+    # 1. 并发抓取外部源
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        results = list(executor.map(fetch_source, RAW_NODE_SOURCES))
+        for nodes in results:
+            if nodes: all_raw.update(nodes)
 
-    # 2. 抓取 GitHub 搜索
+    # 2. 抓取 GitHub 搜索结果
     print("🔍 启动 GitHub 深度挖掘...")
     all_raw.update(get_github_raw_nodes())
 
-    # 3. 验证
-    print(f"⚙️ 开始对 {len(all_raw)} 个原始数据进行 TCP 验证...")
-    def verify(node):
-        if any(w in node for w in BAD_KEYWORDS): return None
-        if check_tcp_alive(node): return node
-        return None
-
-    with ThreadPoolExecutor(max_workers=50) as executor:
-        results = list(executor.map(verify, list(all_raw)))
-        final_nodes = [r for r in results if r]
-
-    # 4. 保存
+    # 3. 结果去重并保存（不再进行 check_tcp_alive）
+    unique_nodes = sorted(list(set(all_raw)))
+    
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     with open(f"{OUTPUT_DIR}/nodes.txt", "w", encoding="utf-8") as f:
-        f.write("\n".join(sorted(list(set(final_nodes)))))
+        f.write("\n".join(unique_nodes))
 
-    print(f"✅ 完成！真·活节点总数: {len(final_nodes)}")
+    print(f"✅ 完成！共收获节点: {len(unique_nodes)} 个")
+    print(f"📁 结果已保存至 {OUTPUT_DIR}/nodes.txt")
     print(f"⏱️ 耗时: {datetime.now() - start_time}")
 
 if __name__ == "__main__":
