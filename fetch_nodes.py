@@ -20,127 +20,103 @@ ROOT_LATEST_CSV = 'latest_nodes_stats.csv'
 MAX_WORKERS = 80
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
 
-# --- 官方协议必备参数与可选白名单 ---
-# 只有在白名单里的参数才会被保留，其它的全部删除
+# --- 官方协议参数白名单 (只保留官方定义的关键连接参数) ---
 PROTOCOL_CONFIG = {
-    'ss': {
-        'required': ['cipher', 'password'],
-        'whitelist': ['plugin']
-    },
-    'vmess': {
-        'required': ['add', 'port', 'id'],
-        'whitelist': ['net', 'type', 'host', 'path', 'tls', 'sni', 'alpn', 'fp', 'aid']
-    },
-    'vless': {
-        'required': ['uuid', 'server', 'port'],
-        'whitelist': ['type', 'security', 'sni', 'fp', 'path', 'host', 'pbk', 'sid', 'serviceName', 'headerType', 'flow']
-    },
-    'trojan': {
-        'required': ['password', 'server', 'port'],
-        'whitelist': ['type', 'security', 'sni', 'fp', 'path', 'host', 'alpn']
-    },
-    'hy2': {
-        'required': ['password', 'server', 'port'],
-        'whitelist': ['sni', 'obfs', 'obfs-password']
-    },
-    'hysteria2': {
-        'required': ['password', 'server', 'port'],
-        'whitelist': ['sni', 'obfs', 'obfs-password']
-    },
-    'hysteria': {
-        'required': ['auth', 'server', 'port'],
-        'whitelist': ['protocol', 'sni', 'peer', 'insecure', 'obfs']
-    },
-    'tuic': {
-        'required': ['uuid', 'password', 'server', 'port'],
-        'whitelist': ['sni', 'alpn', 'congestion_control', 'udp_relay_mode']
-    }
+    'ss': {'whitelist': ['plugin']},
+    'vmess': {'whitelist': ['net', 'type', 'host', 'path', 'tls', 'sni', 'alpn', 'fp', 'aid']},
+    'vless': {'whitelist': ['type', 'security', 'sni', 'fp', 'path', 'host', 'pbk', 'sid', 'serviceName', 'headerType', 'flow']},
+    'trojan': {'whitelist': ['type', 'security', 'sni', 'fp', 'path', 'host', 'alpn']},
+    'hy2': {'whitelist': ['sni', 'obfs', 'obfs-password']},
+    'hysteria2': {'whitelist': ['sni', 'obfs', 'obfs-password']},
+    'hysteria': {'whitelist': ['protocol', 'sni', 'peer', 'insecure', 'obfs']},
+    'tuic': {'whitelist': ['sni', 'alpn', 'congestion_control', 'udp_relay_mode']}
 }
 
 def log(msg):
     print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}", flush=True)
 
 def parse_node(raw_url):
-    """根据每种协议的官方标准提取参数"""
+    """解析并提取官方核心参数"""
     try:
         raw_url = re.split(r'[<"\s\'\`,]', raw_url)[0]
         if '://' not in raw_url: return None
         
         parsed = urlparse(raw_url)
         proto = parsed.scheme.lower()
-        if proto not in PROTOCOL_CONFIG: return None
+        if proto not in PROTOCOL_CONFIG and proto != 'hysteria2': 
+            # 兼容 hysteria2 的简写 hy2
+            if proto == 'hy2': proto = 'hy2'
+            else: return None
         
-        conf = PROTOCOL_CONFIG[proto]
         res = {'type': proto, 'query': {}}
+        conf = PROTOCOL_CONFIG.get(proto, PROTOCOL_CONFIG.get('hy2'))
 
-        # 1. 处理 VMess (JSON 格式)
+        # 1. 处理 VMess
         if proto == 'vmess':
             content = raw_url.split('://')[1]
-            padding = len(content) % 4
-            if padding: content += "=" * (4 - padding)
-            data = json.loads(base64.b64decode(content).decode('utf-8'))
-            
-            # 校验必备项
-            if not all(data.get(k) for k in ['add', 'port', 'id']): return None
-            
-            # 仅提取白名单参数
-            res['server'] = data.get('add')
-            res['port'] = str(data.get('port'))
-            res['uuid'] = data.get('id')
-            res['meta'] = {k: data[k] for k in conf['whitelist'] if k in data and data[k]}
-            return res
+            try:
+                padding = len(content) % 4
+                if padding: content += "=" * (4 - padding)
+                data = json.loads(base64.b64decode(content).decode('utf-8'))
+                if not data.get('add') or not data.get('id'): return None
+                res['server'], res['port'], res['uuid'] = data['add'], str(data['port']), data['id']
+                res['meta'] = {k: data[k] for k in conf['whitelist'] if k in data and data[k]}
+                return res
+            except: return None
 
-        # 2. 处理通用 URL 格式 (SS, VLESS, Trojan, Hy2, etc.)
+        # 2. 处理标准 URL 格式
         netloc = parsed.netloc.split('#')[0]
-        user_info = unquote(netloc.split('@')[0]) if '@' in netloc else ""
-        server_port = netloc.split('@')[-1]
-        
-        # 提取 Server 和 Port
-        if ']' in server_port: # IPv6
+        if '@' in netloc:
+            user_info = unquote(netloc.split('@')[0])
+            server_port = netloc.split('@')[-1]
+        else:
+            user_info = ""
+            server_port = netloc
+
+        # 提取 Server/Port (支持 IPv6)
+        if ']' in server_port:
             res['server'] = server_port.split(']')[0] + ']'
             p_part = server_port.split(']')[-1]
             res['port'] = p_part.split(':')[1] if ':' in p_part else "443"
-        else: # IPv4/Domain
+        else:
             res['server'] = server_port.split(':')[0]
             res['port'] = server_port.split(':')[1] if ':' in server_port else "443"
 
-        # 提取核心认证信息
+        if not res['server'] or res['server'] in ['server', 'host']: return None
+
+        # 提取账号信息
         if proto == 'ss':
             if ':' in user_info:
                 res['cipher'], res['password'] = user_info.split(':', 1)
-            else: # 处理 Base64 的用户信息
-                try:
+            else:
+                try: # 处理 ss://base64@host:port
                     dec = base64.b64decode(user_info).decode('utf-8')
                     if ':' in dec: res['cipher'], res['password'] = dec.split(':', 1)
+                    else: return None
                 except: return None
         else:
-            res['uuid'] = user_info # VLESS/Trojan/Hy2 的密码或 UUID 都在这里
+            res['uuid'] = user_info # 包含 vless/trojan/hy2 的 id 或 password
 
-        # 校验必备项
-        req_keys = ['server', 'port'] + [k for k in conf['required'] if k not in ['server', 'port']]
-        if not all(res.get(k) for k in req_keys): return None
-
-        # 提取 Query 白名单
-        query = parse_qs(parsed.query)
-        res['query'] = {k: query[k] for k in conf['whitelist'] if k in query}
-        
+        # 提取 Query 参数
+        qs = parse_qs(parsed.query)
+        res['query'] = {k: qs[k] for k in conf['whitelist'] if k in qs}
         return res
     except:
         return None
 
 def rebuild_node(d, name):
-    """重构成最纯净的官方格式链接"""
+    """重组为标准格式"""
     try:
         proto = d['type']
         if proto == 'vmess':
-            m = d['meta']
-            m.update({'add': d['server'], 'port': d['port'], 'id': d['uuid'], 'ps': name})
+            m = d.get('meta', {})
+            m.update({'add': d['server'], 'port': d['port'], 'id': d['uuid'], 'ps': name, 'v': "2"})
             return f"vmess://{base64.b64encode(json.dumps(m).encode()).decode()}"
         else:
             q_str = urlencode(d.get('query', {}), doseq=True)
-            auth = f"{d['cipher']}:{d['password']}" if proto == 'ss' else d['uuid']
+            auth = f"{d['cipher']}:{d['password']}" if proto == 'ss' else d.get('uuid', '')
             url = f"{proto}://{quote(auth)}@{d['server']}:{d['port']}"
-            if q_str: url += f"?{unquote(q_str)}" # unquote 为了让路径 / 更美观
+            if q_str: url += f"?{unquote(q_str)}"
             url += f"#{quote(name)}"
             return url
     except:
@@ -151,10 +127,16 @@ def process_url(url):
     try:
         res = requests.get(url, timeout=(10, 20), verify=False, headers=HEADERS)
         if res.status_code != 200: return []
-        text = res.text
+        content = res.text
+        
+        # 识别是否是全页 Base64 订阅
+        if "://" not in content and len(content) > 20:
+            try:
+                content = base64.b64decode(content.strip()).decode('utf-8')
+            except: pass
     except: return []
 
-    raw_urls = re.findall(r'(?:ss|ssr|vmess|vless|trojan|hysteria|hy2|tuic)://[^\s<"\'\`]+', text, re.IGNORECASE)
+    raw_urls = re.findall(r'(?:ss|ssr|vmess|vless|trojan|hysteria|hy2|tuic)://[^\s<"\'\`]+', content, re.IGNORECASE)
     results = []
     local_fp = set()
 
@@ -162,7 +144,7 @@ def process_url(url):
         d = parse_node(raw)
         if not d: continue
         
-        # 极致去重指纹：协议+地址+端口+核心认证
+        # 去重指纹
         auth = d.get('uuid') or d.get('password') or ""
         fp = f"{d['type']}|{d['server']}|{d['port']}|{auth}"
         
@@ -192,15 +174,11 @@ def main():
                     global_fp.add(fp)
                     global_node_dicts.append(d)
                     new_count += 1
-            stats.append([futures[f], new_count, "Success" if url_nodes else "Empty/Fail"])
+            stats.append([futures[f], new_count, "Success" if url_nodes else "Empty"])
 
-    # 排序并生成最终链接
     global_node_dicts.sort(key=lambda x: x['type'])
-    final_urls = []
-    for i, d in enumerate(global_node_dicts):
-        name = f"{d['type'].upper()}_{i+1:03d}"
-        link = rebuild_node(d, name)
-        if link: final_urls.append(link)
+    final_urls = [rebuild_node(d, f"{d['type'].upper()}_{i+1:03d}") for i, d in enumerate(global_node_dicts)]
+    final_urls = [l for l in final_urls if l]
 
     # 保存
     now = datetime.now()
@@ -208,16 +186,16 @@ def main():
     os.makedirs(month_dir, exist_ok=True)
     ts = now.strftime('%Y%m%d_%H%M%S')
     
-    def write_res(t_p, c_p):
-        with open(t_p, 'w', encoding='utf-8') as f: f.write('\n'.join(final_urls))
-        with open(c_p, 'w', encoding='utf-8-sig', newline='') as f:
-            csv.writer(f).writerow(['Source', 'Count', 'Status'])
-            csv.writer(f).writerows(stats)
-
-    write_res(os.path.join(month_dir, f"nodes_{ts}.txt"), os.path.join(month_dir, f"stats_{ts}.csv"))
-    write_res(ROOT_LATEST_TXT, ROOT_LATEST_CSV)
+    with open(os.path.join(month_dir, f"nodes_{ts}.txt"), 'w', encoding='utf-8') as f:
+        f.write('\n'.join(final_urls))
+    with open(ROOT_LATEST_TXT, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(final_urls))
+    with open(ROOT_LATEST_CSV, 'w', encoding='utf-8-sig', newline='') as f:
+        writer = csv.writer(f)
+        writer.writerow(['Source', 'Count', 'Status'])
+        writer.writerows(stats)
     
-    log(f"Completed. Found {len(final_urls)} clean unique nodes.")
+    log(f"Finished. Total Unique Clean Nodes: {len(final_urls)}")
 
 if __name__ == "__main__":
     main()
