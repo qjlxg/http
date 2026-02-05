@@ -20,7 +20,7 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-      - run: pip install requests
+      - run: pip install requests pyyaml
       - run: sudo timedatectl set-timezone Asia/Shanghai
 
       - name: 执行收割
@@ -32,7 +32,7 @@ jobs:
         run: |
           git config --local user.email "bot@github.com"
           git config --local user.name "Node-Aggregator-Bot"
-          git add results/nodes.txt
+          git add nodes.txt
           if ! git diff --cached --quiet; then
             git commit -m "💎 发现新活节点: $(date +'%Y-%m-%d %H:%M:%S')"
             git push
