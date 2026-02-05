@@ -10,7 +10,7 @@ from urllib.parse import urlparse
 
 # --- 配置区 ---
 GITHUB_TOKEN = os.getenv("MY_GITHUB_TOKEN")
-OUTPUT_DIR = "results"
+OUTPUT_DIR = "."
 
 # 排除关键词：包含这些内容的节点将被丢弃（如官网地址、本地回环地址）
 EXCLUDE_KEYWORDS = ["127.0.0.1", "localhost", "0.0.0.0", "google.com", "github.com"]
