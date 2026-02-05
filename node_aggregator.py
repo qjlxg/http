@@ -5,6 +5,7 @@ import time
 import base64
 import json
 import socket
+import geoip2.database
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from urllib.parse import urlparse
@@ -12,7 +13,8 @@ from urllib.parse import urlparse
 # --- 配置区 ---
 GITHUB_TOKEN = os.getenv("MY_GITHUB_TOKEN")
 OUTPUT_DIR = "."
-MAX_WORKERS = 50  # 增加并发数，提升检测速度
+GEOIP_DB_PATH = "GeoLite2-Country.mmdb"
+MAX_WORKERS = 60  # 提高并发，加速检测和DNS解析
 
 EXCLUDE_KEYWORDS = ["127.0.0.1", "localhost", "0.0.0.0", "google.com", "github.com"]
 NODE_PATTERN = r'(?:vmess|vless|ss|ssr|trojan|tuic|hysteria2|hysteria)://[a-zA-Z0-9%@\[\]\._\-\?&=\+#/:]+'
@@ -32,15 +34,14 @@ RAW_NODE_SOURCES = [
     "https://raw.githubusercontent.com/qjlxg/one/refs/heads/main/latest_nodes.txt"
 ]
 
-def check_node_alive(host, port):
-    """通过 TCP 握手判断节点端口是否开放"""
-    if not host or not port: return False
-    try:
-        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
-            s.settimeout(2.0) # 2秒超时
-            return s.connect_ex((host, int(port))) == 0
-    except:
-        return False
+# --- 全局 GeoIP Reader ---
+GEO_READER = None
+if os.path.exists(GEOIP_DB_PATH):
+    GEO_READER = geoip2.database.Reader(GEOIP_DB_PATH)
+else:
+    print(f"⚠️ 警告: 未在根目录找到 {GEOIP_DB_PATH}，将跳过归属地识别。")
+
+# --- 核心工具函数 ---
 
 def extract_host_port(node_url):
     """提取 Host 和 Port"""
@@ -49,11 +50,9 @@ def extract_host_port(node_url):
             v2_raw = base64.b64decode(node_url[8:]).decode('utf-8')
             v2_json = json.loads(v2_raw)
             return str(v2_json.get('add')).strip(), str(v2_json.get('port')).strip()
-        
         parsed = urlparse(node_url)
         netloc = parsed.netloc
         if "@" in netloc: netloc = netloc.split("@")[-1]
-        
         if ":" in netloc:
             host, port = netloc.split(":")
             return host.strip(), port.strip()
@@ -61,8 +60,34 @@ def extract_host_port(node_url):
     except:
         return None, None
 
+def get_country_code(host):
+    """识别国家代码 (L4 逻辑: 域名转IP后查询)"""
+    if not GEO_READER: return "UN"
+    try:
+        ip = host
+        # 如果是域名则尝试解析
+        if not re.match(r"^\d{1,3}(\.\d{1,3}){3}$", host):
+            ip = socket.gethostbyname(host)
+        return GEO_READER.country(ip).country.iso_code
+    except:
+        return "UN"
+
+def refine_node_url(node_url):
+    """L3 智能清洗：去除备注和干扰项"""
+    if "#" in node_url:
+        node_url = node_url.split("#")[0]
+    return node_url
+
+def check_alive(host, port):
+    """TCP 端口检测"""
+    try:
+        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+            s.settimeout(2.5)
+            return s.connect_ex((host, int(port))) == 0
+    except:
+        return False
+
 def auto_decode_base64(text):
-    """增强版 Base64 解码"""
     text = text.strip()
     if "://" in text and len(text) > 60: return text
     try:
@@ -73,10 +98,11 @@ def auto_decode_base64(text):
     except:
         return text
 
+# --- 抓取与处理 ---
+
 def fetch_url(url):
     try:
-        headers = {"User-Agent": "Mozilla/5.0"}
-        res = requests.get(url, headers=headers, timeout=10)
+        res = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=12)
         if res.status_code == 200:
             content = auto_decode_base64(res.text)
             return re.findall(NODE_PATTERN, content, re.IGNORECASE)
@@ -85,48 +111,71 @@ def fetch_url(url):
 
 def main():
     start_time = datetime.now()
-    print(f"[{start_time.strftime('%H:%M:%S')}] 🚀 开始收割节点...")
+    print(f"[{start_time.strftime('%H:%M:%S')}] 🚀 开始执行全功能节点收割...")
 
-    # 1. 抓取阶段
+    # 1. 全量抓取 (L1: 初始 set 自动去重字符串)
     raw_nodes = set()
     with ThreadPoolExecutor(max_workers=10) as executor:
-        futures = [executor.submit(fetch_url, url) for url in RAW_NODE_SOURCES]
+        sources = RAW_NODE_SOURCES
+        futures = [executor.submit(fetch_url, url) for url in sources]
         for f in as_completed(futures):
             raw_nodes.update(f.result())
     
-    print(f"📥 初始抓取数量: {len(raw_nodes)}")
+    print(f"📥 抓取完成，原始节点数: {len(raw_nodes)}")
 
-    # 2. 预处理与去重
-    temp_pool = {} # identity -> node_url
+    # 2. L2/L3 深度去重
+    unique_pool = {} # identity -> cleaned_url
     for node in raw_nodes:
         if len(node) < 15 or any(kw in node.lower() for kw in EXCLUDE_KEYWORDS):
             continue
+        
         host, port = extract_host_port(node)
         if host and port:
-            temp_pool[f"{host}:{port}"] = node
+            protocol = node.split("://")[0].lower()
+            # L2 特征: 协议+Host+Port
+            identity = f"{protocol}://{host}:{port}"
+            if identity not in unique_pool:
+                # L3 清洗: 移除原有备注
+                unique_pool[identity] = refine_node_url(node)
 
-    # 3. 并发存活检测
-    print(f"⚡ 正在检测节点可用性 (线程数: {MAX_WORKERS})...")
-    final_nodes = []
+    # 3. 多线程检测与 GeoIP 分类
+    print(f"⚡ 正在检测 {len(unique_pool)} 个独特节点的可用性并识别归属地...")
+    results_by_country = {} # {"HK": [url1, url2], "US": [...]}
     
-    def worker(item):
+    def process_node(item):
         identity, url = item
-        host, port = identity.split(":")
-        if check_node_alive(host, port):
-            return url
-        return None
+        protocol = identity.split("://")[0]
+        host, port = identity.split("://")[-1].split(":")
+        
+        if check_alive(host, port):
+            country = get_country_code(host)
+            # 格式化输出：给节点带上国家后缀
+            labeled_node = f"{url}#{country}_{protocol}_{host}"
+            return country, labeled_node
+        return None, None
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        results = list(executor.map(worker, temp_pool.items()))
-        final_nodes = [r for r in results if r]
+        future_to_node = [executor.submit(process_node, it) for it in unique_pool.items()]
+        for f in as_completed(future_to_node):
+            country, node_str = f.result()
+            if country:
+                if country not in results_by_country:
+                    results_by_country[country] = []
+                results_by_country[country].append(node_str)
 
-    # 4. 写入文件
-    final_nodes.sort()
+    # 4. 保存结果 (按国家分组排序)
+    final_count = 0
     with open(os.path.join(OUTPUT_DIR, "nodes.txt"), "w", encoding="utf-8") as f:
-        f.write("\n".join(final_nodes))
+        for country in sorted(results_by_country.keys()):
+            f.write(f"\n# --- {country} ---\n")
+            nodes = sorted(results_by_country[country])
+            f.write("\n".join(nodes) + "\n")
+            final_count += len(nodes)
 
     print(f"---")
-    print(f"✅ 完成！有效节点: {len(final_nodes)} / 独特地址: {len(temp_pool)}")
+    print(f"✅ 处理完成！")
+    print(f"📦 独特节点 (L2): {len(unique_pool)}")
+    print(f"🌍 存活节点 (GeoIP 分类): {final_count}")
     print(f"⏱️  总耗时: {datetime.now() - start_time}")
 
 if __name__ == "__main__":
