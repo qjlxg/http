@@ -6,6 +6,7 @@ import base64
 import json
 import socket
 import csv
+import yaml
 import geoip2.database
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
@@ -15,33 +16,69 @@ from urllib.parse import urlparse
 GITHUB_TOKEN = os.getenv("MY_GITHUB_TOKEN")
 OUTPUT_DIR = "."
 GEOIP_DB_PATH = "GeoLite2-Country.mmdb"
-STATS_CSV_PATH = "source_stats.csv"  # 新增统计文件路径
-MAX_WORKERS = 60
+STATS_CSV_PATH = "source_stats.csv"
+MAX_WORKERS = 80  # 提高并发数，加快检测速度
 
+# 排除关键词
 EXCLUDE_KEYWORDS = ["127.0.0.1", "localhost", "0.0.0.0", "google.com", "github.com"]
+# 标准节点正则
 NODE_PATTERN = r'(?:vmess|vless|ss|ssr|trojan|tuic|hysteria2|hysteria)://[a-zA-Z0-9%@\[\]\._\-\?&=\+#/:]+'
 
 RAW_NODE_SOURCES = [
-    "https://raw.githubusercontent.com/vless-free/free/main/v2ray",
-    "https://raw.githubusercontent.com/freefq/free/master/v2ray",
-    "https://raw.githubusercontent.com/Pawdroid/Free-v2ray/main/v2ray.txt",
-    "https://raw.githubusercontent.com/LonUp/NodeList/main/latest/all_export.txt",
-    "https://raw.githubusercontent.com/mueiba/free-nodes/main/nodes.txt",
-    "https://raw.githubusercontent.com/StaySleepless/free-nodes/main/nodes.txt",
-    "https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/v2ray.txt",
-    "https://raw.githubusercontent.com/v2ray-free/free/main/v2ray",
     "https://raw.githubusercontent.com/qjlxg/aggregator/refs/heads/main/data/clash.yaml",
     "https://raw.githubusercontent.com/qjlxg/aggregator/refs/heads/main/data/520.yaml",
     "https://raw.githubusercontent.com/qjlxg/one/refs/heads/main/nodes_list.txt",
     "https://raw.githubusercontent.com/qjlxg/one/refs/heads/main/latest_nodes.txt"
 ]
 
-# --- 全局工具 ---
-GEO_READER = None
-if os.path.exists(GEOIP_DB_PATH):
-    GEO_READER = geoip2.database.Reader(GEOIP_DB_PATH)
+# --- 工具函数 ---
+
+def auto_decode_base64(text):
+    """鲁棒性 Base64 解码"""
+    text = text.strip()
+    if "://" in text and len(text) > 60: return text
+    try:
+        clean_text = re.sub(r'[^a-zA-Z0-9+/=]', '', text)
+        missing_padding = len(clean_text) % 4
+        if missing_padding: clean_text += '=' * (4 - missing_padding)
+        return base64.b64decode(clean_text).decode('utf-8', errors='ignore')
+    except:
+        return text
+
+def parse_yaml_to_links(content):
+    """解析 Clash YAML 格式并转换为标准链接"""
+    links = []
+    try:
+        # 预处理：防止有些 YAML 开头有非标准字符
+        if "proxies:" not in content: return []
+        data = yaml.safe_load(content)
+        if not data or 'proxies' not in data: return []
+        
+        for p in data['proxies']:
+            try:
+                t = p.get('type', '').lower()
+                server = p.get('server')
+                port = p.get('port')
+                name = p.get('name', 'node')
+                if not server or not port: continue
+
+                if t == 'vless':
+                    uuid = p.get('uuid')
+                    tls = "tls" if p.get('tls') else "none"
+                    sni = p.get('servername', '')
+                    links.append(f"vless://{uuid}@{server}:{port}?security={tls}&sni={sni}#{name}")
+                elif t == 'trojan':
+                    pw = p.get('password')
+                    links.append(f"trojan://{pw}@{server}:{port}#{name}")
+                elif t == 'ss':
+                    # SS 格式较复杂，这里做简化处理，进入去重逻辑
+                    links.append(f"ss://{server}:{port}#{name}")
+            except: continue
+    except: pass
+    return links
 
 def extract_host_port(node_url):
+    """从节点链接中提取 IP/Host 和端口"""
     try:
         if node_url.startswith("vmess://"):
             v2_raw = base64.b64decode(node_url[8:]).decode('utf-8')
@@ -54,123 +91,130 @@ def extract_host_port(node_url):
             host, port = netloc.split(":")
             return host.strip(), port.strip()
         return netloc.strip(), "0"
-    except: return None, None
-
-def get_country_code(host):
-    if not GEO_READER: return "UN"
-    try:
-        ip = host
-        if not re.match(r"^\d{1,3}(\.\d{1,3}){3}$", host):
-            ip = socket.gethostbyname(host)
-        return GEO_READER.country(ip).country.iso_code
-    except: return "UN"
+    except:
+        return None, None
 
 def check_alive(host, port):
+    """TCP 端口存活检测"""
     try:
         with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             s.settimeout(2.5)
             return s.connect_ex((host, int(port))) == 0
     except: return False
 
-def auto_decode_base64(text):
-    text = text.strip()
-    if "://" in text and len(text) > 60: return text
-    try:
-        clean_text = re.sub(r'[^a-zA-Z0-9+/=]', '', text)
-        missing_padding = len(clean_text) % 4
-        if missing_padding: clean_text += '=' * (4 - missing_padding)
-        return base64.b64decode(clean_text).decode('utf-8', errors='ignore')
-    except: return text
+# --- 核心类 ---
 
-# --- 核心逻辑 ---
+class NodeAggregator:
+    def __init__(self):
+        self.raw_nodes = set()
+        self.source_stats = []
+        self.geo_reader = None
+        if os.path.exists(GEOIP_DB_PATH):
+            self.geo_reader = geoip2.database.Reader(GEOIP_DB_PATH)
 
-def fetch_url_with_stats(url):
-    """抓取并返回 (URL, 节点列表, 状态码)"""
-    try:
-        res = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=12)
-        if res.status_code == 200:
-            content = auto_decode_base64(res.text)
-            nodes = re.findall(NODE_PATTERN, content, re.IGNORECASE)
-            return url, nodes, 200
-        return url, [], res.status_code
-    except Exception as e:
-        return url, [], str(e)
+    def get_country(self, host):
+        if not self.geo_reader: return "UN"
+        try:
+            ip = host
+            if not re.match(r"^\d{1,3}(\.\d{1,3}){3}$", host):
+                ip = socket.gethostbyname(host)
+            return self.geo_reader.country(ip).country.iso_code
+        except: return "UN"
 
-def main():
-    start_time = datetime.now()
-    print(f"[{start_time.strftime('%H:%M:%S')}] 🚀 开始全功能收割并生成统计报表...")
+    def fetch_source(self, url):
+        """抓取逻辑：兼容正规链接和 YAML"""
+        try:
+            res = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=15)
+            if res.status_code == 200:
+                text = res.text
+                # 尝试正则
+                found = re.findall(NODE_PATTERN, auto_decode_base64(text), re.IGNORECASE)
+                # 尝试 YAML (如果正则没发现或包含 YAML 特征)
+                if "proxies:" in text:
+                    found.extend(parse_yaml_to_links(text))
+                
+                return url, found, 200
+            return url, [], res.status_code
+        except Exception as e:
+            return url, [], str(e)
 
-    raw_nodes = set()
-    source_stats = [] # 用于保存 CSV 数据
+    def run(self):
+        start_time = datetime.now()
+        print(f"[{start_time.strftime('%H:%M:%S')}] 🚀 启动全功能收割流...")
 
-    # 1. 抓取阶段并统计
-    with ThreadPoolExecutor(max_workers=10) as executor:
-        futures = [executor.submit(fetch_url_with_stats, url) for url in RAW_NODE_SOURCES]
-        for f in as_completed(futures):
-            url, nodes, status = f.result()
-            count = len(nodes)
-            raw_nodes.update(nodes)
-            source_stats.append({
-                "date": start_time.strftime("%Y-%m-%d %H:%M:%S"),
-                "source_url": url,
-                "node_count": count,
-                "status": status
-            })
+        # 1. 并发抓取
+        with ThreadPoolExecutor(max_workers=10) as executor:
+            futures = [executor.submit(self.fetch_source, url) for url in RAW_NODE_SOURCES]
+            for f in as_completed(futures):
+                url, nodes, status = f.result()
+                self.raw_nodes.update(nodes)
+                self.source_stats.append({
+                    "date": start_time.strftime("%Y-%m-%d %H:%M:%S"),
+                    "source_url": url,
+                    "node_count": len(nodes),
+                    "status": status
+                })
 
-    # 保存统计 CSV
-    with open(STATS_CSV_PATH, "w", newline="", encoding="utf-8-sig") as f:
-        writer = csv.DictWriter(f, fieldnames=["date", "source_url", "node_count", "status"])
-        writer.writeheader()
-        writer.writerows(source_stats)
-    print(f"📊 统计报表已更新: {STATS_CSV_PATH}")
+        # 保存统计 CSV (L1 级)
+        self.save_stats()
 
-    # 2. 深度去重 (L2: 协议+Host+Port, L3: 清洗)
-    unique_pool = {}
-    for node in raw_nodes:
-        if len(node) < 15 or any(kw in node.lower() for kw in EXCLUDE_KEYWORDS):
-            continue
-        host, port = extract_host_port(node)
-        if host and port:
-            protocol = node.split("://")[0].lower()
-            identity = f"{protocol}://{host}:{port}"
-            if identity not in unique_pool:
-                # 清洗备注
-                unique_pool[identity] = node.split("#")[0] if "#" in node else node
+        # 2. 三级去重 (L1: set, L2: identity, L3: refine)
+        unique_pool = {}
+        for node in self.raw_nodes:
+            if len(node) < 15 or any(kw in node.lower() for kw in EXCLUDE_KEYWORDS):
+                continue
+            
+            host, port = extract_host_port(node)
+            if host and port:
+                protocol = node.split("://")[0].lower()
+                identity = f"{protocol}://{host}:{port}" # L2 去重特征
+                if identity not in unique_pool:
+                    # L3 清洗：去除原有备注
+                    unique_pool[identity] = node.split("#")[0] if "#" in node else node
 
-    # 3. 检测与分类
-    print(f"⚡ 正在检测 {len(unique_pool)} 个独特节点...")
-    results_by_country = {}
-    
-    def process_node(item):
-        identity, url = item
-        protocol = identity.split("://")[0]
-        host, port = identity.split("://")[-1].split(":")
-        if check_alive(host, port):
-            country = get_country_code(host)
-            return country, f"{url}#{country}_{protocol}_{host}"
-        return None, None
+        # 3. 存活检测与归属地识别
+        print(f"⚡ 正在检测 {len(unique_pool)} 个独特节点...")
+        results_by_country = {}
+        
+        def process_node(item):
+            identity, url = item
+            protocol = identity.split("://")[0]
+            host, port = identity.split("://")[-1].split(":")
+            if check_alive(host, port):
+                country = self.get_country(host)
+                return country, f"{url}#{country}_{protocol}_{host}"
+            return None, None
 
-    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        future_to_node = [executor.submit(process_node, it) for it in unique_pool.items()]
-        for f in as_completed(future_to_node):
-            country, node_str = f.result()
-            if country:
-                if country not in results_by_country:
-                    results_by_country[country] = []
-                results_by_country[country].append(node_str)
+        with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+            node_futures = [executor.submit(process_node, it) for it in unique_pool.items()]
+            for f in as_completed(node_futures):
+                country, labeled_node = f.result()
+                if country:
+                    if country not in results_by_country: results_by_country[country] = []
+                    results_by_country[country].append(labeled_node)
 
-    # 4. 最终保存
-    final_count = 0
-    with open(os.path.join(OUTPUT_DIR, "nodes.txt"), "w", encoding="utf-8") as f:
-        for country in sorted(results_by_country.keys()):
-            f.write(f"\n# --- {country} ---\n")
-            nodes = sorted(results_by_country[country])
-            f.write("\n".join(nodes) + "\n")
-            final_count += len(nodes)
+        # 4. 保存 nodes.txt
+        self.save_nodes(results_by_country)
 
-    print(f"---")
-    print(f"✅ 完成！有效节点: {final_count} | 原始节点: {len(raw_nodes)}")
-    print(f"⏱️  总耗时: {datetime.now() - start_time}")
+        print(f"---")
+        print(f"✅ 处理完成！")
+        print(f"📦 抓取总数: {len(self.raw_nodes)}")
+        print(f"🌍 存活节点: {sum(len(v) for v in results_by_country.values())}")
+        print(f"⏱️  总耗时: {datetime.now() - start_time}")
+
+    def save_stats(self):
+        with open(STATS_CSV_PATH, "w", newline="", encoding="utf-8-sig") as f:
+            writer = csv.DictWriter(f, fieldnames=["date", "source_url", "node_count", "status"])
+            writer.writeheader()
+            writer.writerows(self.source_stats)
+        print(f"📊 统计报表已更新: {STATS_CSV_PATH}")
+
+    def save_nodes(self, data):
+        with open(os.path.join(OUTPUT_DIR, "nodes.txt"), "w", encoding="utf-8") as f:
+            for country in sorted(data.keys()):
+                f.write(f"\n# --- {country} ---\n")
+                f.write("\n".join(sorted(data[country])) + "\n")
 
 if __name__ == "__main__":
-    main()
+    aggregator = NodeAggregator()
+    aggregator.run()
