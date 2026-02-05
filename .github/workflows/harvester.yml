@@ -32,7 +32,7 @@ jobs:
         run: |
           git config --local user.email "bot@github.com"
           git config --local user.name "Node-Aggregator-Bot"
-         git add nodes.txt source_stats.csv
+          git add nodes.txt source_stats.csv
           if ! git diff --cached --quiet; then
             git commit -m "💎 发现新活节点: $(date +'%Y-%m-%d %H:%M:%S')"
             git push
