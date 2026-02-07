@@ -1,45 +1,53 @@
-name: scan_alist
+name: AList Scan Engine
 
 on:
-  workflow_dispatch:
-  push:
-    paths:
-      - 'scan_alist.py'
-      - 'duplicate.txt'
+  workflow_dispatch: # 手动触发
+  schedule:
+    - cron: '0 0 * * *' # 每天凌晨自动运行 (可选)
+
+permissions:
+  contents: write # 授予写入权限
 
 jobs:
   run-scan:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - name: Checkout
+      - name: Checkout Code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 获取完整提交历史以减少冲突
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: Install dependencies
-        run: pip install requests pytz
-
-      - name: Run Scan
-        run: python scan_alist.py
-
-      - name: Push Results
+      - name: Install Dependencies
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          export TZ='Asia/Shanghai'
+          pip install requests pytz
+
+      - name: Run AList Scanner
+        run: |
+          python scan_alist.py
+        env:
+          PYTHONUNBUFFERED: 1
+
+      - name: Commit and Push Results
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           
-          # 添加结果目录
-          git add scan_results/*.txt
+          # 检查是否有文件变更
+          git add scan_results/
           
+          # 如果没有变化就跳过 commit，防止报错
           if git diff --staged --quiet; then
-            echo "No changes"
-          else
-            git commit -m "Update results by extension - $(date +'%Y-%m-%d %H:%M')"
-            git push
+            echo "No changes to commit"
+            exit 0
           fi
+          
+          git commit -m "chore: 自动化更新扫描结果 [skip ci]"
+          
+          # 使用强制推送解决远程仓库进度领先导致的冲突
+          git push origin main --force
