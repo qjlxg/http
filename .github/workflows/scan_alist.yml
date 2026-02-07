@@ -1,48 +1,45 @@
 name: scan_alist
 
 on:
-  workflow_dispatch: # 支持手动运行
+  workflow_dispatch:
   push:
     paths:
       - 'scan_alist.py'
-      - '.github/workflows/scan_alist.yml'
       - 'duplicate.txt'
 
 jobs:
   run-scan:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # 赋予推送权限
+      contents: write
 
     steps:
-      - name: Checkout code
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: |
-          pip install requests pytz
+        run: pip install requests pytz
 
-      - name: Run script
+      - name: Run Scan
         run: python scan_alist.py
 
-      - name: Commit and Push results
+      - name: Push Results
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          # 设置上海时区并记录更新时间
           export TZ='Asia/Shanghai'
-          UPDATE_TIME=$(date +"%Y-%m-%d %H:%M:%S")
           
-          git add scan_alist.txt
-          # 检查是否有变动，避免空提交报错
+          # 添加结果目录
+          git add scan_results/*.txt
+          
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "No changes"
           else
-            git commit -m "Auto update scan results - $UPDATE_TIME (Shanghai)"
+            git commit -m "Update results by extension - $(date +'%Y-%m-%d %H:%M')"
             git push
           fi
