@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+user.rule | http://120.26.66.68:8008/d/其他/办公软件/ShadowsocksR-win-4.8.0 (2)/user.rule
+user.rule | https://120.26.66.68:8009/d/其他/办公软件/ShadowsocksR-win-4.8.0 (2)/user.rule

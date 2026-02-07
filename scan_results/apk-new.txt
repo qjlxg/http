@@ -1,0 +1,7 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+hosts.apk-new | http://120.26.127.201:6009/d/4k/etc/hosts.apk-new
+hosts.apk-new | https://124.71.4.178:6005/d/服务/etc/hosts.apk-new
+shadow.apk-new | http://120.26.127.201:6009/d/4k/etc/shadow.apk-new
+shadow.apk-new | https://124.71.4.178:6005/d/服务/etc/shadow.apk-new

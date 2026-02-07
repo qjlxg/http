@@ -1,0 +1,11 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+cmmb_vega_12mhz.inp | http://113.140.77.109:8881/d/服务器1/lib/firmware/cmmb_vega_12mhz.inp
+cmmb_venice_12mhz.inp | http://113.140.77.109:8881/d/服务器1/lib/firmware/cmmb_venice_12mhz.inp
+dvb_nova_12mhz.inp | http://113.140.77.109:8881/d/服务器1/lib/firmware/dvb_nova_12mhz.inp
+dvb_nova_12mhz_b0.inp | http://113.140.77.109:8881/d/服务器1/lib/firmware/dvb_nova_12mhz_b0.inp
+isdbt_nova_12mhz.inp | http://113.140.77.109:8881/d/服务器1/lib/firmware/isdbt_nova_12mhz.inp
+isdbt_nova_12mhz_b0.inp | http://113.140.77.109:8881/d/服务器1/lib/firmware/isdbt_nova_12mhz_b0.inp
+isdbt_rio.inp | http://113.140.77.109:8881/d/服务器1/lib/firmware/isdbt_rio.inp
+tdmb_nova_12mhz.inp | http://113.140.77.109:8881/d/服务器1/lib/firmware/tdmb_nova_12mhz.inp

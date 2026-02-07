@@ -1,0 +1,13 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+CUocx.ocx | http://218.28.112.170:5555/d/软件/大宗物料/CUocx.ocx
+FJG_CommFunc.ocx | http://218.28.112.170:5555/d/软件/大宗物料/FJG_CommFunc.ocx
+MSWINSCK.OCX | http://218.28.112.170:5555/d/软件/大宗物料/MSWINSCK.OCX
+MSWINSCK.OCX | http://218.28.112.170:5555/d/软件/大宗物料/wav/MSWINSCK.OCX
+One.ocx | http://218.28.112.170:5555/d/软件/大宗物料/One.ocx
+VZLPRClientCtrl.ocx | http://218.28.112.170:5555/d/软件/大宗物料/VZLPRClientCtrl.ocx
+dsoframer.ocx | http://120.26.66.68:8008/d/其他/分区工具/diskgenius.PartitionGuru/dsoframer.ocx
+dsoframer.ocx | http://120.26.66.68:8008/d/其他/数据恢复/diskgenius.PartitionGuru/dsoframer.ocx
+dsoframer.ocx | https://120.26.66.68:8009/d/其他/分区工具/diskgenius.PartitionGuru/dsoframer.ocx
+dsoframer.ocx | https://120.26.66.68:8009/d/其他/数据恢复/diskgenius.PartitionGuru/dsoframer.ocx

@@ -1,0 +1,6 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+KAOS-Data_00.KK | https://140.238.197.181/d/Uploads/The Jackbox Party Pack Collection [KaOs Repack]/KAOS-Data_00.KK
+KAOS-Data_01.KK | https://140.238.197.181/d/Uploads/The Jackbox Party Pack Collection [KaOs Repack]/KAOS-Data_01.KK
+KAOS-Data_02.KK | https://140.238.197.181/d/Uploads/The Jackbox Party Pack Collection [KaOs Repack]/KAOS-Data_02.KK

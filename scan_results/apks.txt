@@ -1,0 +1,7 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Clash for Android_2.5.12.premium.apks | https://122.152.235.95/d/临时储存/Android/Clash for Android_2.5.12.premium.apks
+Shaft_5.0.20.apks | https://122.152.235.95/d/临时储存/Android/Shaft_5.0.20.apks
+安卓手机游戏《阿尔祖崛起v0.55》(用mt管理器安装)[完整版]Steam移植.apks | http://42.193.46.147:88/d/android/steam游戏1/安卓手机游戏《阿尔祖崛起v0.55》(用mt管理器安装)[完整版]Steam移植.apks
+格式工厂 2.3.2 破解版v2（修复版、去更新）.apks | https://35.206.195.209/d/工具/PC/FormatFactory/格式工厂 2.3.2 破解版v2（修复版、去更新）.apks

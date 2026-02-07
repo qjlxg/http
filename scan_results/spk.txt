@@ -1,0 +1,8 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+8月9日更新-v3.11.2-DSM6-x86_64.spk | http://153.99.141.172:2223/d/test/文件/文件/8月9日更新-v3.11.2-DSM6-x86_64.spk
+DS3615xs-7.0_open-vm-tools_11.3.5-1.spk | http://47.83.157.204:36081/d/黑群晖/ds3617xs/DS3615xs-7.0_open-vm-tools_11.3.5-1.spk
+DS3615xs-7.0_open-vm-tools_11.3.5-1.spk | https://47.83.157.204/d/黑群晖/ds3617xs/DS3615xs-7.0_open-vm-tools_11.3.5-1.spk
+Phddns-evansport-5.3.1-701009.spk | http://153.99.141.172:2223/d/test/文件/文件/Phddns-evansport-5.3.1-701009.spk
+zerotier_apollolake-6.1_1.4.0-0.spk | http://171.95.23.159:88/d/工具/群晖及软路由/手机软件/zerotier_apollolake-6.1_1.4.0-0.spk

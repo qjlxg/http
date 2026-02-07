@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+qbittorrent.log.bak7 | http://79.99.78.10/d/115open/影视/动漫追番/qbittorrent.log.bak7
+qbittorrent.log.bak7 | https://79.99.78.10/d/115open/影视/动漫追番/qbittorrent.log.bak7

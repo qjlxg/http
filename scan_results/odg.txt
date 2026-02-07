@@ -1,0 +1,11 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Business model canvas.odg | http://pub.sa2.pw/d/bacloud/1/模板/Business model canvas.odg
+Business model canvas.odg | https://pub.sa2.pw/d/bacloud/1/模板/Business model canvas.odg
+Flowchart.odg | http://pub.sa2.pw/d/bacloud/1/模板/Flowchart.odg
+Flowchart.odg | https://pub.sa2.pw/d/bacloud/1/模板/Flowchart.odg
+Mindmap.odg | http://pub.sa2.pw/d/bacloud/1/模板/Mindmap.odg
+Mindmap.odg | https://pub.sa2.pw/d/bacloud/1/模板/Mindmap.odg
+Org chart.odg | http://pub.sa2.pw/d/bacloud/1/模板/Org chart.odg
+Org chart.odg | https://pub.sa2.pw/d/bacloud/1/模板/Org chart.odg

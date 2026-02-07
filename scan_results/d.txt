@@ -1,0 +1,9 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+invoke-rc.d | https://52.140.241.52/d/sftp/jp/sbin/invoke-rc.d
+invoke-rc.d | https://8.140.252.113/d/4k/sbin/invoke-rc.d
+invoke-rc.d | https://8.140.252.113/d/4k/usr/sbin/invoke-rc.d
+update-rc.d | https://52.140.241.52/d/sftp/jp/sbin/update-rc.d
+update-rc.d | https://8.140.252.113/d/4k/sbin/update-rc.d
+update-rc.d | https://8.140.252.113/d/4k/usr/sbin/update-rc.d

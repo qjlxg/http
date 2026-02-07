@@ -1,0 +1,82 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Adapt-1.17.0-1.20.2-1.21.8.jar | https://70.26.67.201/d/Other/Adapt-1.17.0-1.20.2-1.21.8.jar
+Iris-3.7.2-1.20.1-1.21.8.jar | https://70.26.67.201/d/Other/Iris-3.7.2-1.20.1-1.21.8.jar
+PlaceholderAPI-2.11.5.jar | http://1.189.56.86:8020/d/Resources/PlaceholderAPI-2.11.5.jar
+Txt2eBook.jar | http://45.33.45.143/d/Shenshei-Public-Files/Txt2eBook.jar
+Txt2eBook.jar | https://45.33.45.143:8443/d/Shenshei-Public-Files/Txt2eBook.jar
+XBPQ.jar | https://1.13.159.189/d/雨呢网盘 视频 动漫 写真/Box/lib/XBPQ.jar
+[1.12.2]高清修复.jar | http://118.25.145.11:88/d/群文件/[1.12.2]高清修复.jar
+acs_client.jar | https://155.248.165.2/d/应用系统/常用工具/acs_client.jar
+agnes-ac-1.16.13-SNAPSHOT.jar | http://139.226.10.210:8092/d/鑫元/20260128/agnes-ac-1.16.13-SNAPSHOT.jar
+agnes-ac-1.16.13-SNAPSHOT.jar | http://139.226.10.210:8092/d/鑫元佣金/20260127/agnes-ac-1.16.13-SNAPSHOT.jar
+agnes-app-1.16.13-SNAPSHOT.jar | http://139.226.10.210:8092/d/鑫元佣金/20251219/agnes-app-1.16.13-SNAPSHOT.jar
+agnes-app-1.16.13-SNAPSHOT.jar | http://139.226.10.210:8092/d/鑫元佣金/20251226/agnes-app-1.16.13-SNAPSHOT.jar
+agnes-base-1.16.13-SNAPSHOT.jar | http://139.226.10.210:8092/d/鑫元佣金/20251224/agnes-base-1.16.13-SNAPSHOT.jar
+agnes-base-server-nacos-1.16.8.jar | http://139.226.10.210:8092/d/王耀/agnes-base-server-nacos-1.16.8.jar
+agnes-base-server-nacos-1.16.9-SNAPSHOT.jar | http://139.226.10.210:8092/d/鑫元佣金/20260206/agnes-base-server-nacos-1.16.9-SNAPSHOT.jar
+agnes-base-server-nacos-1.16.9.jar | http://139.226.10.210:8092/d/鑫元佣金/20251222/agnes-base-server-nacos-1.16.9.jar
+agnes-cm-1.0.5-SNAPSHOT.jar | http://139.226.10.210:8092/d/鑫元/20260128/agnes-cm-1.0.5-SNAPSHOT.jar
+agnes-cm-1.0.5-SNAPSHOT.jar | http://139.226.10.210:8092/d/鑫元佣金/20251219/agnes-cm-1.0.5-SNAPSHOT.jar
+agnes-cm-1.0.5-SNAPSHOT.jar | http://139.226.10.210:8092/d/鑫元佣金/20251225/agnes-cm-1.0.5-SNAPSHOT.jar
+agnes-cm-1.0.5-SNAPSHOT.jar | http://139.226.10.210:8092/d/鑫元佣金/20251226/agnes-cm-1.0.5-SNAPSHOT.jar
+agnes-cm-1.0.5-SNAPSHOT.jar | http://139.226.10.210:8092/d/鑫元佣金/20260107/agnes-cm-1.0.5-SNAPSHOT.jar
+agnes-cm-1.0.5-SNAPSHOT.jar | http://139.226.10.210:8092/d/鑫元佣金/20260126/agnes-cm-1.0.5-SNAPSHOT.jar
+agnes-cm-1.0.5-SNAPSHOT.jar | http://139.226.10.210:8092/d/鑫元佣金/20260127/agnes-cm-1.0.5-SNAPSHOT.jar
+agnes-cm-1.0.5-SNAPSHOT.jar | http://139.226.10.210:8092/d/鑫元佣金/20260129/agnes-cm-1.0.5-SNAPSHOT.jar
+agnes-single-runtime-nacos-1.16.13.jar | http://139.226.10.210:8092/d/鑫元佣金/20251222/agnes-single-runtime-nacos-1.16.13.jar
+apktool_2.4.1.jar | http://117.50.199.26:15244/d/nas/windows 工具/apktool/apktool_2.4.1.jar
+apktool_2.4.1.jar | https://ipas.ic-market.top/d/nas/windows 工具/apktool/apktool_2.4.1.jar
+bcprov-jdk15on-1.68.jar | http://42.193.16.82/d/基础环境包/bcprov-jdk15on-1.68.jar
+channel-1.1.15-SNAPSHOT.jar | http://139.226.10.210:8092/d/鑫元佣金/20251219/channel-1.1.15-SNAPSHOT.jar
+commons-codec-1.9.jar | http://42.193.16.82/d/OA/全文检索/elasticsearch-analysis-ik-6.3.2/commons-codec-1.9.jar
+commons-codec-1.9.jar | http://42.193.16.82/d/OA/全文检索/ik/commons-codec-1.9.jar
+commons-logging-1.2.jar | http://42.193.16.82/d/OA/全文检索/elasticsearch-analysis-ik-6.3.2/commons-logging-1.2.jar
+commons-logging-1.2.jar | http://42.193.16.82/d/OA/全文检索/ik/commons-logging-1.2.jar
+dsfa-platform-syncdb-starter-20230808.jar | http://42.193.16.82/d/教务系统部署文档/迁移工具/dsfa-platform-syncdb-starter-20230808.jar
+elasticsearch-analysis-ik-6.3.2.jar | http://42.193.16.82/d/OA/全文检索/elasticsearch-analysis-ik-6.3.2/elasticsearch-analysis-ik-6.3.2.jar
+elasticsearch-analysis-ik-6.3.2.jar | http://42.193.16.82/d/OA/全文检索/ik/elasticsearch-analysis-ik-6.3.2.jar
+fenghuang.jar | https://1.13.159.189/d/雨呢网盘 视频 动漫 写真/Box/jar/fenghuang.jar
+file-agent-1.0.34.jar | http://139.226.10.210:8092/d/鑫元/20251125/file-agent-1.0.34.jar
+file-deal-single-1.5.0-SNAPSHOT.jar | http://139.226.10.210:8092/d/鑫元/20260203/file-deal-single-1.5.0-SNAPSHOT.jar
+file-deal-single-1.5.0-SNAPSHOT.jar | http://139.226.10.210:8092/d/鑫元/临时文件夹/file-deal-single-1.5.0-SNAPSHOT.jar
+file-deal-single-1.5.0-SNAPSHOT.jar | http://139.226.10.210:8092/d/鑫元佣金/临时文件夹/file-deal-single-1.5.0-SNAPSHOT.jar
+file-deal-single-nacos-1.5.0-SNAPSHOT.jar | http://139.226.10.210:8092/d/鑫元/20260121/file-deal-single-nacos-1.5.0-SNAPSHOT.jar
+file-deal-single-nacos-1.5.0.jar | http://139.226.10.210:8092/d/浙商银行/20251230/file-deal-single-nacos-1.5.0.jar
+file-deal-single-nacos-1.5.0.jar | http://139.226.10.210:8092/d/鑫元/20251125/file-deal-single-nacos-1.5.0.jar
+fm.jar | https://1.13.159.189/d/雨呢网盘 视频 动漫 写真/Box/jar/fm.jar
+fty.jar | https://1.13.159.189/d/雨呢网盘 视频 动漫 写真/Box/jar/fty.jar
+goframe-admin-nacos-5.22.32-SNAPSHOT.jar | http://139.226.10.210:8092/d/鑫元/20260203/goframe-admin-nacos-5.22.32-SNAPSHOT.jar
+goframe-admin-nacos-5.22.32.jar | http://139.226.10.210:8092/d/鑫元佣金/20251222/goframe-admin-nacos-5.22.32.jar
+goframe-gateway-nacos-5.22.32.jar | http://139.226.10.210:8092/d/鑫元佣金/20251222/goframe-gateway-nacos-5.22.32.jar
+httpclient-4.5.2.jar | http://42.193.16.82/d/OA/全文检索/elasticsearch-analysis-ik-6.3.2/httpclient-4.5.2.jar
+httpclient-4.5.2.jar | http://42.193.16.82/d/OA/全文检索/ik/httpclient-4.5.2.jar
+httpcore-4.4.4.jar | http://42.193.16.82/d/OA/全文检索/elasticsearch-analysis-ik-6.3.2/httpcore-4.4.4.jar
+httpcore-4.4.4.jar | http://42.193.16.82/d/OA/全文检索/ik/httpcore-4.4.4.jar
+httpsign.jar | https://93.93.116.119/d/TPV/Tongchuang/httpsign.jar
+huaan-agnes-single-runtime-tongweb-1.16.13.1-SNAPSHOT.jar | http://139.226.10.210:8092/d/华安/huaan-agnes-single-runtime-tongweb-1.16.13.1-SNAPSHOT.jar
+jetbrains-agent.jar | https://81.70.142.195/d/百度网盘/apps/temp/jetbrains-agent.jar
+leaves-1.21.1.jar | https://alist.asterx.top/d/Minecraft/Server/leaves-1.21.1.jar
+moyu.jar | https://1.13.159.189/d/雨呢网盘 视频 动漫 写真/Box/jar/moyu.jar
+netflav.jar | https://1.13.159.189/d/雨呢网盘 视频 动漫 写真/Box/jar/netflav.jar
+ok.jar | https://1.13.159.189/d/雨呢网盘 视频 动漫 写真/Box/jar/ok.jar
+oms-work-runtime-nacos-2.0.0-1125.jar | http://139.226.10.210:8092/d/jingshun20251118poc/oms-work-runtime-nacos-2.0.0-1125.jar
+oms-work-runtime-nacos-2.0.0-SNAPSHOT.jar | http://139.226.10.210:8092/d/jingshun20251118poc/oms-work-runtime-nacos-2.0.0-SNAPSHOT.jar
+perf-test-latest.jar | https://47.101.196.211/d/bao/rabbitmq/20240602/perf-test-latest.jar
+pg.jar | https://1.13.159.189/d/雨呢网盘 视频 动漫 写真/Box/pg.jar
+qf.jar | https://1.13.159.189/d/雨呢网盘 视频 动漫 写真/Box/jar/qf.jar
+search.jar | http://42.193.16.82/d/OA/全文检索/dist/search.jar
+spider-woof.jar | https://1.13.159.189/d/雨呢网盘 视频 动漫 写真/Box/jar/spider-woof.jar
+svip.jar | https://1.13.159.189/d/雨呢网盘 视频 动漫 写真/Box/jar/svip.jar
+tika-core-3.2.2.jar | http://139.226.10.210:8092/d/鑫元佣金/20260206/tika-core-3.2.2.jar
+wex.jar | https://1.13.159.189/d/雨呢网盘 视频 动漫 写真/Box/jar/wex.jar
+xbpq.jar | https://1.13.159.189/d/雨呢网盘 视频 动漫 写真/Box/jar/xbpq.jar
+xc.jar | https://1.13.159.189/d/雨呢网盘 视频 动漫 写真/Box/jar/xc.jar
+xom-1.2.11.jar | https://60.168.13.104:8443/d/baidu/(Java编程思想)Thinking in Java 4th/源码和jar包/xom-1.2.11.jar
+xs.jar | https://1.13.159.189/d/雨呢网盘 视频 动漫 写真/Box/jar/xs.jar
+xxl-job-admin-2.4.0.jar | http://168.138.161.186/d/share/xxl-job-admin-2.4.0.jar
+yt-aa.jar | https://1.13.159.189/d/雨呢网盘 视频 动漫 写真/Box/jar/yt-aa.jar
+yt.jar | https://1.13.159.189/d/雨呢网盘 视频 动漫 写真/Box/jar/yt.jar
+yt_xyz.jar | https://1.13.159.189/d/雨呢网盘 视频 动漫 写真/Box/jar/yt_xyz.jar
+zx.jar | https://1.13.159.189/d/雨呢网盘 视频 动漫 写真/Box/jar/zx.jar

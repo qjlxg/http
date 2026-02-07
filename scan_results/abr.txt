@@ -1,0 +1,6 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+CMDonovann-map-Brushes.abr | https://data.isekai.cn/d/素材/PS笔刷/CMDonovann-map-Brushes.abr
+SR_Sketchy-Cartography_v2.abr | https://data.isekai.cn/d/素材/PS笔刷/SR_Sketchy-Cartography_v2.abr
+地图素材、岛屿、大陆元素Photoshop地图笔刷.abr | https://data.isekai.cn/d/素材/PS笔刷/地图素材、岛屿、大陆元素Photoshop地图笔刷.abr

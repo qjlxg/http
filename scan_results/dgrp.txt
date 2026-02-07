@@ -1,0 +1,7 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Disk0Part2883031040-1023997952.dgrp | http://120.26.66.68:8008/d/其他/数据恢复/diskgenius.PartitionGuru/Disk0Part2883031040-1023997952.dgrp
+Disk0Part2883031040-1023997952.dgrp | https://120.26.66.68:8009/d/其他/数据恢复/diskgenius.PartitionGuru/Disk0Part2883031040-1023997952.dgrp
+Disk2Part2621440-117439999.dgrp | http://120.26.66.68:8008/d/其他/分区工具/diskgenius.PartitionGuru/Disk2Part2621440-117439999.dgrp
+Disk2Part2621440-117439999.dgrp | https://120.26.66.68:8009/d/其他/分区工具/diskgenius.PartitionGuru/Disk2Part2621440-117439999.dgrp

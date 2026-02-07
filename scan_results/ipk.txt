@@ -1,0 +1,38 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+frps_0.61.0-37_arm_cortex-a7.ipk | http://120.26.66.68:8008/d/frps_0.61.0-37_arm_cortex-a7.ipk
+frps_0.61.0-37_arm_cortex-a7.ipk | https://120.26.66.68:8009/d/frps_0.61.0-37_arm_cortex-a7.ipk
+luci-app-openclash_0.46.137_all.ipk | http://171.95.23.159:88/d/工具/群晖及软路由/openwrt/luci-app-openclash_0.46.137_all.ipk
+sing-box_1.12.4_openwrt_aarch64_cortex-a53.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_aarch64_cortex-a53.ipk
+sing-box_1.12.4_openwrt_aarch64_cortex-a72.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_aarch64_cortex-a72.ipk
+sing-box_1.12.4_openwrt_aarch64_cortex-a76.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_aarch64_cortex-a76.ipk
+sing-box_1.12.4_openwrt_aarch64_generic.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_aarch64_generic.ipk
+sing-box_1.12.4_openwrt_arm_arm1176jzf-s_vfp.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_arm_arm1176jzf-s_vfp.ipk
+sing-box_1.12.4_openwrt_arm_arm926ej-s.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_arm_arm926ej-s.ipk
+sing-box_1.12.4_openwrt_arm_cortex-a15_neon-vfpv4.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_arm_cortex-a15_neon-vfpv4.ipk
+sing-box_1.12.4_openwrt_arm_cortex-a5_vfpv4.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_arm_cortex-a5_vfpv4.ipk
+sing-box_1.12.4_openwrt_arm_cortex-a7.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_arm_cortex-a7.ipk
+sing-box_1.12.4_openwrt_arm_cortex-a7_neon-vfpv4.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_arm_cortex-a7_neon-vfpv4.ipk
+sing-box_1.12.4_openwrt_arm_cortex-a7_vfpv4.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_arm_cortex-a7_vfpv4.ipk
+sing-box_1.12.4_openwrt_arm_cortex-a8_vfpv3.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_arm_cortex-a8_vfpv3.ipk
+sing-box_1.12.4_openwrt_arm_cortex-a9.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_arm_cortex-a9.ipk
+sing-box_1.12.4_openwrt_arm_cortex-a9_neon.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_arm_cortex-a9_neon.ipk
+sing-box_1.12.4_openwrt_arm_cortex-a9_vfpv3-d16.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_arm_cortex-a9_vfpv3-d16.ipk
+sing-box_1.12.4_openwrt_arm_fa526.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_arm_fa526.ipk
+sing-box_1.12.4_openwrt_arm_xscale.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_arm_xscale.ipk
+sing-box_1.12.4_openwrt_i386_pentium-mmx.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_i386_pentium-mmx.ipk
+sing-box_1.12.4_openwrt_i386_pentium4.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_i386_pentium4.ipk
+sing-box_1.12.4_openwrt_loongarch64_generic.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_loongarch64_generic.ipk
+sing-box_1.12.4_openwrt_mips64_mips64r2.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_mips64_mips64r2.ipk
+sing-box_1.12.4_openwrt_mips64_octeonplus.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_mips64_octeonplus.ipk
+sing-box_1.12.4_openwrt_mips64el_mips64r2.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_mips64el_mips64r2.ipk
+sing-box_1.12.4_openwrt_mips_24kc.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_mips_24kc.ipk
+sing-box_1.12.4_openwrt_mips_4kec.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_mips_4kec.ipk
+sing-box_1.12.4_openwrt_mips_mips32.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_mips_mips32.ipk
+sing-box_1.12.4_openwrt_mipsel_24kc.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_mipsel_24kc.ipk
+sing-box_1.12.4_openwrt_mipsel_24kc_24kf.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_mipsel_24kc_24kf.ipk
+sing-box_1.12.4_openwrt_mipsel_74kc.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_mipsel_74kc.ipk
+sing-box_1.12.4_openwrt_mipsel_mips32.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_mipsel_mips32.ipk
+sing-box_1.12.4_openwrt_riscv64_generic.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_riscv64_generic.ipk
+sing-box_1.12.4_openwrt_x86_64.ipk | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_openwrt_x86_64.ipk

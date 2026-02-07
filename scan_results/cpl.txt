@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+aida_cpl.cpl | https://139.185.32.228/d/硬件/AIDA64 Extreme/aida_cpl.cpl
+aida_cpl.cpl | https://193.123.85.183/d/硬件/AIDA64 Extreme/aida_cpl.cpl

@@ -1,0 +1,11 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+AppUp.IntelTechnologyMDE_2.2.2315.0_neutral_~_8j3eq9eme6ctt.msixbundle | https://103.136.146.29/d/Googledrive459/Windows软件/AppUp.IntelTechnologyMDE_2.2.2315.0_neutral_~_8j3eq9eme6ctt.msixbundle
+CTM工具_25.07.21.Msixbundle | https://129.146.87.1/d/CTM/CTM/CTM工具_25.07.21.Msixbundle
+CTM工具_25.07.30.Msixbundle | https://129.146.87.1/d/CTM/CTM/CTM工具_25.07.30.Msixbundle
+Microsoft.WindowsStore_22502.1401.11.0_neutral_~_8wekyb3d8bbwe.Msixbundle | https://154.40.35.180/d/微软商店/Microsoft.WindowsStore_22502.1401.11.0_neutral_~_8wekyb3d8bbwe.Msixbundle
+Microsoft.WindowsTerminal_1.19.10573.0_8wekyb3d8bbwe.msixbundle | https://alistrn2.hwb0307.com/d/softwares/Terminal/Windows Terminal/Microsoft.WindowsTerminal_1.19.10573.0_8wekyb3d8bbwe.msixbundle
+MicrosoftCorporationII.WindowsSubsystemForAndroid_1.8.32822.0_neutral___8wekyb3d8bbwe.Msixbundle | http://47.83.157.204:36081/d/系统/win11安卓安装包+WSA工具箱+正版系统/MicrosoftCorporationII.WindowsSubsystemForAndroid_1.8.32822.0_neutral___8wekyb3d8bbwe.Msixbundle
+MicrosoftCorporationII.WindowsSubsystemForAndroid_1.8.32822.0_neutral___8wekyb3d8bbwe.Msixbundle | http://81.71.152.215/d/阿里云盘/Software/win11安卓安装包+WSA工具箱+正版系统/MicrosoftCorporationII.WindowsSubsystemForAndroid_1.8.32822.0_neutral___8wekyb3d8bbwe.Msixbundle
+MicrosoftCorporationII.WindowsSubsystemForAndroid_1.8.32822.0_neutral___8wekyb3d8bbwe.Msixbundle | https://47.83.157.204/d/系统/win11安卓安装包+WSA工具箱+正版系统/MicrosoftCorporationII.WindowsSubsystemForAndroid_1.8.32822.0_neutral___8wekyb3d8bbwe.Msixbundle

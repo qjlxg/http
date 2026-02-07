@@ -1,0 +1,6 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+11.sb2 | https://24.18.156.162/d/MyCloud/Book/scratch/11.sb2
+hhy-001.sb2 | https://24.18.156.162/d/MyCloud/Book/scratch/hhy-001.sb2
+打飞机(Star War).sb2 | https://24.18.156.162/d/MyCloud/Book/scratch/打飞机(Star War).sb2

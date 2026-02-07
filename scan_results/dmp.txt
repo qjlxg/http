@@ -1,0 +1,11 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+CDSYTHOA2.dmp | http://42.193.16.82/d/培训资料/测试环境资料/数据库/CDSYTHOA2.dmp
+DSFA_MSSWDX_EXAM.dmp | http://42.193.16.82/d/linshi/DSFA_MSSWDX_EXAM.dmp
+DSFA_MSSWDX_GX.dmp | http://42.193.16.82/d/linshi/DSFA_MSSWDX_GX.dmp
+DSFA_MSSWDX_KY.dmp | http://42.193.16.82/d/linshi/DSFA_MSSWDX_KY.dmp
+dsfa_msswdx.dmp | http://42.193.16.82/d/linshi/dsfa_msswdx.dmp
+dxoa.dmp | http://42.193.16.82/d/OA/程序包/0402/dxoa.dmp
+init.dmp | https://155.248.165.2/d/init.dmp
+init.dmp | https://155.248.165.2/d/应用系统/常用工具/init.dmp

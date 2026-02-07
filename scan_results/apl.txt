@@ -1,0 +1,21 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+AX_RAR.apl | http://171.95.23.159:88/d/工具/软件/ACDSee/AX_RAR.apl
+CX_Archive.apl | http://171.95.23.159:88/d/工具/软件/ACDSee/CX_Archive.apl
+CX_ContactSheet.apl | http://171.95.23.159:88/d/工具/软件/ACDSee/CX_ContactSheet.apl
+CX_DFinder.apl | http://171.95.23.159:88/d/工具/软件/ACDSee/CX_DFinder.apl
+CX_HTML.apl | http://171.95.23.159:88/d/工具/软件/ACDSee/CX_HTML.apl
+DC_Digita.apl | http://171.95.23.159:88/d/工具/软件/ACDSee/DC_Digita.apl
+DC_SII.apl | http://171.95.23.159:88/d/工具/软件/ACDSee/DC_SII.apl
+DC_WIA.apl | http://171.95.23.159:88/d/工具/软件/ACDSee/DC_WIA.apl
+IDE_ACDStd.apl | http://171.95.23.159:88/d/工具/软件/ACDSee/IDE_ACDStd.apl
+IDE_Adobe.apl | http://171.95.23.159:88/d/工具/软件/ACDSee/IDE_Adobe.apl
+IDE_PSD.apl | http://171.95.23.159:88/d/工具/软件/ACDSee/IDE_PSD.apl
+ID_ICN.apl | http://171.95.23.159:88/d/工具/软件/ACDSee/ID_ICN.apl
+ID_ICO.apl | http://171.95.23.159:88/d/工具/软件/ACDSee/ID_ICO.apl
+ID_PIC.apl | http://171.95.23.159:88/d/工具/软件/ACDSee/ID_PIC.apl
+ID_PNM.apl | http://171.95.23.159:88/d/工具/软件/ACDSee/ID_PNM.apl
+ID_PS.apl | http://171.95.23.159:88/d/工具/软件/ACDSee/ID_PS.apl
+ID_PSP.apl | http://171.95.23.159:88/d/工具/软件/ACDSee/ID_PSP.apl
+ID_Pict.apl | http://171.95.23.159:88/d/工具/软件/ACDSee/ID_Pict.apl

@@ -1,0 +1,21 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+CLEPTransFile.lib | http://218.28.112.170:5555/d/软件/大宗物料/CLEPTransFile.lib
+DSPIMG.LIB | http://218.28.112.170:5555/d/软件/大宗物料/DSPIMG.LIB
+GdiPlus.lib | http://218.28.112.170:5555/d/软件/大宗物料/GdiPlus.lib
+HCAlarm.lib | http://218.28.112.170:5555/d/软件/大宗物料/HCNetSDKCom/HCAlarm.lib
+HCCore.lib | http://218.28.112.170:5555/d/软件/大宗物料/HCCore.lib
+HCGeneralCfgMgr.lib | http://218.28.112.170:5555/d/软件/大宗物料/HCNetSDKCom/HCGeneralCfgMgr.lib
+HCNetSDK.lib | http://218.28.112.170:5555/d/软件/大宗物料/HCNetSDK.lib
+HCPreview.lib | http://218.28.112.170:5555/d/软件/大宗物料/HCNetSDKCom/HCPreview.lib
+LPKernelEx.lib | http://218.28.112.170:5555/d/软件/大宗物料/LPKernelEx.lib
+MWRF32.LIB | http://218.28.112.170:5555/d/软件/大宗物料/MWRF32.LIB
+PlayCtrl.lib | http://218.28.112.170:5555/d/软件/大宗物料/PlayCtrl.lib
+kpci800.lib | http://218.28.112.170:5555/d/软件/大宗物料/kpci800.lib
+pos_ad_dll.lib | http://120.26.66.68:8008/d/乐檬老机器工具/英泰测试工具20181207/DLL/pos_ad_dll.lib
+pos_ad_dll.lib | https://120.26.66.68:8009/d/乐檬老机器工具/英泰测试工具20181207/DLL/pos_ad_dll.lib
+uiaccess.lib | https://61.184.67.134:2083/d/ClassIsland.10/Plugins/grantUiAccess/uiaccess.lib
+uiaccess.lib | https://61.184.67.134:2083/d/ClassIsland.bak/Plugins/grantUiAccess/uiaccess.lib
+uiaccess.lib | https://61.184.67.134:2083/d/ClassIsland/Plugins/grantUiAccess/uiaccess.lib
+zlib.lib | http://218.28.112.170:5555/d/软件/大宗物料/zlib.lib

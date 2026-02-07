@@ -1,0 +1,24 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+5xnetx86.CAB | http://171.95.23.159:88/d/工具/工具/三卡驱动/5xnetx86.CAB
+DRIVERS_SOUND.CAB | http://171.95.23.159:88/d/工具/工具/三卡驱动/DRIVERS_SOUND.CAB
+Data1.CAB | http://120.26.66.68:8008/d/其他/办公软件/Adobe Acrobat DC 2022 x64 SP/Data1.CAB
+Data1.CAB | http://120.26.66.68:8008/d/其他/图形图像解压/Adobe Acrobat DC 2019 SP/Data1.CAB
+Data1.CAB | https://120.26.66.68:8009/d/其他/办公软件/Adobe Acrobat DC 2022 x64 SP/Data1.CAB
+Data1.CAB | https://120.26.66.68:8009/d/其他/图形图像解压/Adobe Acrobat DC 2019 SP/Data1.CAB
+Data2.CAB | http://120.26.66.68:8008/d/其他/办公软件/Adobe Acrobat DC 2022 x64 SP/Data2.CAB
+Data2.CAB | http://120.26.66.68:8008/d/其他/图形图像解压/Adobe Acrobat DC 2019 SP/Data2.CAB
+Data2.CAB | https://120.26.66.68:8009/d/其他/办公软件/Adobe Acrobat DC 2022 x64 SP/Data2.CAB
+Data2.CAB | https://120.26.66.68:8009/d/其他/图形图像解压/Adobe Acrobat DC 2019 SP/Data2.CAB
+UGPHOTO.cab | https://154.222.17.44/d/电信云盘/其他软件/UGPHOTO.cab
+Windows6.1-KB4048960-x64.cab | http://218.28.112.170:5555/d/软件/U8/外部数据库错误/Windows6.1-KB4048960-x64.cab
+data1.cab | http://218.28.112.170:5555/d/软件/U8/1.U890SETUP/data1.cab
+data1.cab | http://47.83.157.204:36081/d/手写笔/君彩djj-7驱动V7.2/data1.cab
+data1.cab | https://47.236.182.67/d/05-Driver File/09-Driver for N100 Dual Lan Dual COM/Realtek_Audio/data1.cab
+data1.cab | https://47.83.157.204/d/手写笔/君彩djj-7驱动V7.2/data1.cab
+data2.cab | http://218.28.112.170:5555/d/软件/U8/1.U890SETUP/data2.cab
+data2.cab | http://47.83.157.204:36081/d/手写笔/君彩djj-7驱动V7.2/data2.cab
+data2.cab | https://47.236.182.67/d/05-Driver File/09-Driver for N100 Dual Lan Dual COM/Realtek_Audio/data2.cab
+data2.cab | https://47.83.157.204/d/手写笔/君彩djj-7驱动V7.2/data2.cab
+vmd20.1.1.1016.cab | https://154.40.35.180/d/常用驱动/vmd/vmd20.1.1.1016.cab

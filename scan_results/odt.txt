@@ -1,0 +1,17 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Invoice.odt | http://pub.sa2.pw/d/bacloud/1/模板/Invoice.odt
+Invoice.odt | https://pub.sa2.pw/d/bacloud/1/模板/Invoice.odt
+Letter.odt | http://pub.sa2.pw/d/bacloud/1/模板/Letter.odt
+Letter.odt | https://pub.sa2.pw/d/bacloud/1/模板/Letter.odt
+Mother's day.odt | http://pub.sa2.pw/d/bacloud/1/模板/Mother's day.odt
+Mother's day.odt | https://pub.sa2.pw/d/bacloud/1/模板/Mother's day.odt
+Party invitation.odt | http://pub.sa2.pw/d/bacloud/1/模板/Party invitation.odt
+Party invitation.odt | https://pub.sa2.pw/d/bacloud/1/模板/Party invitation.odt
+Photo book.odt | http://pub.sa2.pw/d/bacloud/1/模板/Photo book.odt
+Photo book.odt | https://pub.sa2.pw/d/bacloud/1/模板/Photo book.odt
+Resume.odt | http://pub.sa2.pw/d/bacloud/1/模板/Resume.odt
+Resume.odt | https://pub.sa2.pw/d/bacloud/1/模板/Resume.odt
+Syllabus.odt | http://pub.sa2.pw/d/bacloud/1/模板/Syllabus.odt
+Syllabus.odt | https://pub.sa2.pw/d/bacloud/1/模板/Syllabus.odt

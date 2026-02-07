@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+NVIDIA-GRID-TrueNAS-SCALE-extensions-16.5.raw | https://file.homelabproject.cc/d/foxipan/vGPU/16.5/NVIDIA-GRID-TrueNAS-SCALE-extensions-16.5.raw
+debian-12-nocloud-amd64.raw | https://alist.homelabproject.cc/d/local/img/Linux/debian-12-nocloud-amd64.raw

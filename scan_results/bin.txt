@@ -1,0 +1,197 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+07.17.2024-openwrt-qualcommax-ipq60xx-jdcloud_re-ss-01-squashfs-factory.bin | https://60.205.14.56/d/百度网盘/07.17.2024-openwrt-qualcommax-ipq60xx-jdcloud_re-ss-01-squashfs-factory.bin
+10000mb.bin | https://150.109.22.175/d/quark/来自：云收藏/10000mb.bin
+1GB文件.bin | http://150.158.35.33:8080/d/4/1GB文件.bin
+7240+9283-150M-5.3.5 UBNT大功率修正.bin | https://150.230.215.98/d/百度网盘/分享/7240+9283-150M-5.3.5 UBNT大功率修正.bin
+7240+9283-300M-5.3.5 UBNT大功率修正.bin | https://150.230.215.98/d/百度网盘/分享/7240+9283-300M-5.3.5 UBNT大功率修正.bin
+Ascend_310P_check.bin | http://113.140.77.109:8881/d/服务器1/root/ascend_check/Ascend_310P_check.bin
+Audio CD.bin | http://118.25.145.11:88/d/音乐/HIFI/试音碟/Audio CD.bin
+Audio CD1.bin | https://103.119.1.14/d/无损音源库（点击打开）/A10.热门小编制&轻音乐/咖啡厅背景音乐（3CD）/Audio CD1.bin
+Audio CD2.bin | https://103.119.1.14/d/无损音源库（点击打开）/A10.热门小编制&轻音乐/咖啡厅背景音乐（3CD）/Audio CD2.bin
+Audio CD3.bin | https://103.119.1.14/d/无损音源库（点击打开）/A10.热门小编制&轻音乐/咖啡厅背景音乐（3CD）/Audio CD3.bin
+Factory.bin | https://150.230.215.98/d/百度网盘/我的资源/Factory.bin
+HWYP.BIN | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/HWYP.BIN
+HWYP.BIN | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/HWYP.BIN
+K3_V21.5.37.246.bin | https://150.230.215.98/d/百度网盘/K3/K3_V21.5.37.246.bin
+K3_V21.5.37.246.bin | https://150.230.215.98/d/百度网盘/K3固件大全/官方原版/K3_V21.5.37.246.bin
+K3_V21.5.37.246_tb.bin | https://150.230.215.98/d/百度网盘/K3固件大全/官方root版/K3_V21.5.37.246_tb.bin
+K3_V21.6.11.58.bin | https://150.230.215.98/d/百度网盘/K3固件大全/官方原版/K3_V21.6.11.58.bin
+K3_V21.6.11.58p.bin | https://150.230.215.98/d/百度网盘/K3/K3_V21.6.11.58p.bin
+K3_V21.6.11.58p.bin | https://150.230.215.98/d/百度网盘/K3固件大全/官方原版/K3_V21.6.11.58p.bin
+K3_V21.6.14.109.bin | https://150.230.215.98/d/百度网盘/K3固件大全/官方原版/K3_V21.6.14.109.bin
+K3_V21.6.14.122.bin | https://150.230.215.98/d/百度网盘/K3固件大全/官方原版/K3_V21.6.14.122.bin
+K3_V21.6.14.131.bin | https://150.230.215.98/d/百度网盘/K3固件大全/官方原版/K3_V21.6.14.131.bin
+K3_V21.6.14.131_tb_beta.bin | https://150.230.215.98/d/百度网盘/K3固件大全/K3救砖专用/K3_V21.6.14.131_tb_beta.bin
+K3_V21.6.14.131_tb_beta.bin | https://150.230.215.98/d/百度网盘/K3固件大全/官方root版/K3_V21.6.14.131_tb_beta.bin
+K3_V21.6.8.46_tb.bin | https://150.230.215.98/d/百度网盘/K3固件大全/官方root版/K3_V21.6.8.46_tb.bin
+N957TP6_超级战神6789秒亮机.bin | https://124.221.124.3/d/天翼网盘/bios以及vbios类/ZX7 CP5系列/N957TP6_超级战神6789秒亮机.bin
+N957TP6_超级战神6789秒亮机.bin | https://124.221.124.3/d/点我进网盘/bios以及vbios类/ZX7 CP5系列/N957TP6_超级战神6789秒亮机.bin
+P655HP战神.BIN | https://124.221.124.3/d/天翼网盘/bios以及vbios类/Z7-KP5D1/P655HP战神.BIN
+P655HP战神.BIN | https://124.221.124.3/d/点我进网盘/bios以及vbios类/Z7-KP5D1/P655HP战神.BIN
+Program.bin | http://120.26.66.68:8008/d/万店掌工具/Program.bin
+Program.bin | http://120.26.66.68:8008/d/万店掌工具/ds摄像头掉线，录像机升级包修复/Program.bin
+Program.bin | https://120.26.66.68:8009/d/万店掌工具/Program.bin
+Program.bin | https://120.26.66.68:8009/d/万店掌工具/ds摄像头掉线，录像机升级包修复/Program.bin
+RedmiAX3000-openwrt-v1.6.bin | https://64.181.190.142:2083/d/天翼133/小米路由器/CR880x刷机/RedmiAX3000-openwrt-v1.6.bin
+SW_K3_703004697_V21.4.33.217.bin | https://150.230.215.98/d/百度网盘/K3固件大全/官方原版/SW_K3_703004697_V21.4.33.217.bin
+SW_K3_703004697_V21.5.37.246.bin | https://150.230.215.98/d/百度网盘/K3固件大全/官方原版/SW_K3_703004697_V21.5.37.246.bin
+SW_K3_703004697_V21.6.8.46.bin | https://150.230.215.98/d/百度网盘/K3固件大全/官方原版/SW_K3_703004697_V21.6.8.46.bin
+TEST-1GB.bin | https://85.93.9.82/d/TEST-1GB.bin
+US_AC18V1.0BR_V15.03.3.6_multi_TD01（AC18原厂备份）.bin | http://81.71.152.215/d/百度网盘/我的文档/-== 正确的教程 ==-/US_AC18V1.0BR_V15.03.3.6_multi_TD01（AC18原厂备份）.bin
+W650KJ kk  789代.bin | https://124.221.124.3/d/天翼网盘/bios以及vbios类/W650KJ kk  789代.bin
+W650KJ kk  789代.bin | https://124.221.124.3/d/点我进网盘/bios以及vbios类/W650KJ kk  789代.bin
+W650SJ_K650DI5D2编程器刷战神.BIN | https://124.221.124.3/d/天翼网盘/bios以及vbios类/W650SJ_K650DI5D2编程器刷战神.BIN
+W650SJ_K650DI5D2编程器刷战神.BIN | https://124.221.124.3/d/点我进网盘/bios以及vbios类/W650SJ_K650DI5D2编程器刷战神.BIN
+agere_ap_fw.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/agere_ap_fw.bin
+agere_sta_fw.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/agere_sta_fw.bin
+ar5523.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/ar5523.bin
+assets_navmeshdata_dummy.bin | https://112.126.78.233/d/zhounian365A/patch_main/bundles/assets_navmeshdata_dummy.bin
+assets_navmeshdata_dummy.bin | https://112.126.78.233/d/zhounian365P/patch_main/bundles/assets_navmeshdata_dummy.bin
+assets_navmeshdata_guildagit.bin | https://112.126.78.233/d/zhounian365A/patch_main/bundles/assets_navmeshdata_guildagit.bin
+assets_navmeshdata_guildagit.bin | https://112.126.78.233/d/zhounian365P/patch_main/bundles/assets_navmeshdata_guildagit.bin
+assets_navmeshdata_myhome.bin | https://112.126.78.233/d/zhounian365A/patch_main/bundles/assets_navmeshdata_myhome.bin
+assets_navmeshdata_myhome.bin | https://112.126.78.233/d/zhounian365P/patch_main/bundles/assets_navmeshdata_myhome.bin
+bios.bin | https://150.230.215.98/d/百度网盘/编程器/bios.bin
+bleach-mini-20230227-openwrt-ramips-mt7621-xiaomi_mi-router-ac2100-initramfs-kernel.bin | http://107.174.246.131:8082/d/web/刷机/Xiaomi AC2100/bleach-mini-20230227-openwrt-ramips-mt7621-xiaomi_mi-router-ac2100-initramfs-kernel.bin
+bleach-mini-20230227-openwrt-ramips-mt7621-xiaomi_mi-router-ac2100-squashfs-kernel1.bin | http://107.174.246.131:8082/d/web/刷机/Xiaomi AC2100/bleach-mini-20230227-openwrt-ramips-mt7621-xiaomi_mi-router-ac2100-squashfs-kernel1.bin
+bleach-mini-20230227-openwrt-ramips-mt7621-xiaomi_mi-router-ac2100-squashfs-rootfs0.bin | http://107.174.246.131:8082/d/web/刷机/Xiaomi AC2100/bleach-mini-20230227-openwrt-ramips-mt7621-xiaomi_mi-router-ac2100-squashfs-rootfs0.bin
+bleach-mini-20230227-openwrt-ramips-mt7621-xiaomi_mi-router-ac2100-squashfs-sysupgrade.bin | http://107.174.246.131:8082/d/web/刷机/Xiaomi AC2100/bleach-mini-20230227-openwrt-ramips-mt7621-xiaomi_mi-router-ac2100-squashfs-sysupgrade.bin
+bmdata.bin | http://171.95.23.159:88/d/工具/软件/公安软件/bmdata.bin
+cbfw-3.2.1.1.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/cbfw-3.2.1.1.bin
+cbfw-3.2.3.0.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/cbfw-3.2.3.0.bin
+cbfw-3.2.5.1.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/cbfw-3.2.5.1.bin
+collect.bin | https://d.017.me/d/win11/collect.bin
+config-2023-10-13-10_43_06.bin | http://120.26.66.68:8008/d/Tools/1013上网异常/1013/config-2023-10-13-10_43_06.bin
+config-2023-10-13-10_43_06.bin | https://120.26.66.68:8009/d/Tools/1013上网异常/1013/config-2023-10-13-10_43_06.bin
+ct2fw-3.2.1.1.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/ct2fw-3.2.1.1.bin
+ct2fw-3.2.3.0.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/ct2fw-3.2.3.0.bin
+ct2fw-3.2.5.1.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/ct2fw-3.2.5.1.bin
+ctefx.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/ctefx.bin
+ctfw-3.2.1.1.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/ctfw-3.2.1.1.bin
+ctfw-3.2.3.0.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/ctfw-3.2.3.0.bin
+ctfw-3.2.5.1.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/ctfw-3.2.5.1.bin
+ctspeq.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/ctspeq.bin
+def001.bin | http://171.95.23.159:88/d/工具/软件/USBKiller/def001.bin
+eeprom.bin | http://101.94.99.246:85/d/zzx/电影/eeprom.bin
+f2255usb.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/f2255usb.bin
+fg-01.bin | https://113.207.49.5/d/游戏/Clair Obscur - Expedition 33 [FitGirl Repack]/fg-01.bin
+fg-02.bin | https://113.207.49.5/d/游戏/Clair Obscur - Expedition 33 [FitGirl Repack]/fg-02.bin
+fg-03.bin | https://113.207.49.5/d/游戏/Clair Obscur - Expedition 33 [FitGirl Repack]/fg-03.bin
+fg-optional-bonus-soundtracks.bin | https://113.207.49.5/d/游戏/Clair Obscur - Expedition 33 [FitGirl Repack]/fg-optional-bonus-soundtracks.bin
+ggml-alpaca-13b-q4.bin | https://107.189.7.215/d/模型/ggml-alpaca-13b-q4.bin
+ggml-alpaca-7b-q4.bin | https://107.189.7.215/d/模型/ggml-alpaca-7b-q4.bin
+hwdb.bin | http://113.140.77.109:8881/d/服务器1/etc/udev/hwdb.bin
+hwdb.bin | https://154.12.23.79/d/mnt/etc/udev/hwdb.bin
+hwdb.bin | https://8.140.252.113/d/4k/lib/udev/hwdb.bin
+hwfphras.bin | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/hwfphras.bin
+hwfphras.bin | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/hwfphras.bin
+hwphrase.bin | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/hwphrase.bin
+hwphrase.bin | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/hwphrase.bin
+hwrt-jdc_ax1800-pro-6.1.100-wifi-nss-factory.bin | https://60.205.14.56/d/百度网盘/jdc_ax1800-pro-nss/8.1更新/hwrt-jdc_ax1800-pro-6.1.100-wifi-nss-factory.bin
+hwrt-jdc_ax1800-pro-6.1.100-wifi-nss-sysupgrade.bin | https://60.205.14.56/d/百度网盘/jdc_ax1800-pro-nss/8.1更新/hwrt-jdc_ax1800-pro-6.1.100-wifi-nss-sysupgrade.bin
+id.bin | https://139.185.32.228/d/硬件/U盘说明书以及测试软件/id.bin
+id.bin | https://193.123.85.183/d/硬件/U盘说明书以及测试软件/id.bin
+immortalwrt-mediatek-mt7981-cmcc_rax3000m-squashfs-sysupgrade.bin | https://27.109.210.69/d/rax3000m/v1_basic_with_wireguard/immortalwrt-mediatek-mt7981-cmcc_rax3000m-squashfs-sysupgrade.bin
+immortalwrt-mediatek-mt7981-cmcc_rax3000m-squashfs-sysupgrade.bin | https://27.109.210.69/d/rax3000m_qmi_cm/rax3000_hd2313_qmi/immortalwrt-mediatek-mt7981-cmcc_rax3000m-squashfs-sysupgrade.bin
+immortalwrt.git-main_qualcommax-ipq60xx-jdcloud_re-ss-01-squashfs-factory_25.04.04_06.26.53.bin | https://60.205.14.56/d/百度网盘/immortalwrt.git-main_qualcommax-ipq60xx-jdcloud_re-ss-01-squashfs-factory_25.04.04_06.26.53.bin
+immortalwrt.git-main_qualcommax-ipq60xx-jdcloud_re-ss-01-squashfs-sysupgrade_25.04.04_06.26.53.bin | https://60.205.14.56/d/百度网盘/immortalwrt.git-main_qualcommax-ipq60xx-jdcloud_re-ss-01-squashfs-sysupgrade_25.04.04_06.26.53.bin
+intelliport2.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/intelliport2.bin
+jdc_ax1800-pro-nss-6.1.100-factory.bin | https://60.205.14.56/d/百度网盘/jdc_ax1800-pro-nss/jdc_ax1800-pro-nss-6.1.100-factory.bin
+jdc_ax1800pro-wifi-nss-istor-squashfs-factory.bin | https://60.205.14.56/d/百度网盘/jdc_ax1800-pro-nss/8.10更新/jdc_ax1800pro-wifi-nss-istor-squashfs-factory.bin
+jdc_ax1800pro-wifi-nss-istor-squashfs-sysupgrade.bin | https://60.205.14.56/d/百度网盘/jdc_ax1800-pro-nss/8.10更新/jdc_ax1800pro-wifi-nss-istor-squashfs-sysupgrade.bin
+k2p-4171.bin | https://193.123.237.119/d/Local/Router/K2P/k2p-4171.bin
+k3_v21d.bin | https://150.230.215.98/d/百度网盘/K3固件大全/官方改/k3_v21d.bin
+kwrt-04.12.2025-mediatek-filogic-xiaomi_redmi-router-ax6000-squashfs-factory.bin | https://193.123.237.119/d/Local/kwrt-04.12.2025-mediatek-filogic-xiaomi_redmi-router-ax6000-squashfs-factory.bin
+kwrt-04.12.2025-mediatek-filogic-xiaomi_redmi-router-ax6000-squashfs-sysupgrade.bin | https://193.123.237.119/d/Local/kwrt-04.12.2025-mediatek-filogic-xiaomi_redmi-router-ax6000-squashfs-sysupgrade.bin
+layout.bin | http://218.28.112.170:5555/d/软件/U8/1.U890SETUP/layout.bin
+layout.bin | http://47.83.157.204:36081/d/手写笔/君彩djj-7驱动V7.2/layout.bin
+layout.bin | https://47.236.182.67/d/05-Driver File/09-Driver for N100 Dual Lan Dual COM/Realtek_Audio/layout.bin
+layout.bin | https://47.83.157.204/d/手写笔/君彩djj-7驱动V7.2/layout.bin
+lbtf_usb.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/lbtf_usb.bin
+log-2023-10-13-10_42_40.bin | http://120.26.66.68:8008/d/Tools/1013上网异常/1013/log-2023-10-13-10_42_40.bin
+log-2023-10-13-10_42_40.bin | https://120.26.66.68:8009/d/Tools/1013上网异常/1013/log-2023-10-13-10_42_40.bin
+lt9611uxc_fw.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/lt9611uxc_fw.bin
+lucky+mosdns+nikki+passwall2-openwrt-mediatek-filogic-xiaomi_redmi-router-ax6000-initramfs-kernel.bin | https://193.123.237.119/d/Local/lede/lucky+mosdns+nikki+passwall2-openwrt-mediatek-filogic-xiaomi_redmi-router-ax6000-initramfs-kernel.bin
+lucky+mosdns+nikki+passwall2-openwrt-mediatek-filogic-xiaomi_redmi-router-ax6000-squashfs-sysupgrade.bin | https://193.123.237.119/d/Local/lede/lucky+mosdns+nikki+passwall2-openwrt-mediatek-filogic-xiaomi_redmi-router-ax6000-squashfs-sysupgrade.bin
+lucky+mosdns+nikki-openwrt-mediatek-filogic-xiaomi_redmi-router-ax6000-initramfs-kernel.bin | https://193.123.237.119/d/Local/lede/lucky+mosdns+nikki-openwrt-mediatek-filogic-xiaomi_redmi-router-ax6000-initramfs-kernel.bin
+lucky+mosdns+nikki-openwrt-mediatek-filogic-xiaomi_redmi-router-ax6000-squashfs-sysupgrade.bin | https://193.123.237.119/d/Local/lede/lucky+mosdns+nikki-openwrt-mediatek-filogic-xiaomi_redmi-router-ax6000-squashfs-sysupgrade.bin
+miwifi_cr8806_firmware_4622b_6.2.33.bin | http://107.174.246.131:8082/d/web/刷机/CR880x刷入AX3000固件/miwifi_cr8806_firmware_4622b_6.2.33.bin
+miwifi_r2100_firmware_4b519_2.0.722.bin | http://107.174.246.131:8082/d/web/刷机/Xiaomi AC2100/miwifi_r2100_firmware_4b519_2.0.722.bin
+miwifi_r2100_firmware_aa69e_2.0.745.bin | http://107.174.246.131:8082/d/web/刷机/Xiaomi AC2100/miwifi_r2100_firmware_aa69e_2.0.745.bin
+miwifi_ra81_all_03430_1.0.33.bin | http://107.174.246.131:8082/d/web/刷机/CR880x刷入AX3000固件/miwifi_ra81_all_03430_1.0.33.bin
+miwifi_rb06_firmware_7ddeb_1.0.60.bin | https://193.123.237.119/d/Local/Router/RedMI_AX6000/miwifi_rb06_firmware_7ddeb_1.0.60.bin
+mt7601u.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/mt7601u.bin
+mt7650.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/mt7650.bin
+mt7662.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/mt7662.bin
+mt7662_rom_patch.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/mt7662_rom_patch.bin
+mtd0.bin | https://150.230.215.98/d/百度网盘/K3固件大全/K3救砖专用/mtd0.bin
+mtdblock1.bin | https://150.230.215.98/d/百度网盘/K3固件大全/K3救砖专用/mtdblock1.bin
+mtdblock2.bin | https://150.230.215.98/d/百度网盘/K3固件大全/K3救砖专用/mtdblock2.bin
+mtdblock3.bin | https://150.230.215.98/d/百度网盘/K3固件大全/K3救砖专用/mtdblock3.bin
+mtdblock4.bin | https://150.230.215.98/d/百度网盘/K3固件大全/K3救砖专用/mtdblock4.bin
+mtdblock5.bin | https://150.230.215.98/d/百度网盘/K3固件大全/K3救砖专用/mtdblock5.bin
+mtdblock6.bin | https://150.230.215.98/d/百度网盘/K3固件大全/K3救砖专用/mtdblock6.bin
+n300v6-full-rtl8196e+rtl8192er-20161214.bin | https://150.230.215.98/d/百度网盘/我的资源/n300v6-full-rtl8196e+rtl8192er-20161214.bin
+newphchs.bin | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/newphchs.bin
+newphchs.bin | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/newphchs.bin
+openwrt-ipq807x-generic-redmi_ax6-squashfs-nand-sysupgrade.bin | https://193.123.237.119/d/Local/Router/RedMI_AX6/openwrt-ipq807x-generic-redmi_ax6-squashfs-nand-sysupgrade.bin
+openwrt-mediatek-filogic-cmcc_rax3000m-nand-squashfs-sysupgrade.bin | https://27.109.210.69/d/openwrt-mediatek-filogic-cmcc_rax3000m-nand-squashfs-sysupgrade.bin
+openwrt-mediatek-filogic-cmcc_rax3000m-nand-squashfs-sysupgrade.bin | https://27.109.210.69/d/rax3000m_qmi_cm/20250606_hd2312_qmi/openwrt-mediatek-filogic-cmcc_rax3000m-nand-squashfs-sysupgrade.bin
+openwrt-mediatek-filogic-cmcc_rax3000m-nand-squashfs-sysupgrade.bin | https://27.109.210.69/d/rax3000m_qmi_cm/openwrt-mediatek-filogic-cmcc_rax3000m-nand-squashfs-sysupgrade.bin
+openwrt-mediatek-filogic-cudy_tr3000-mod-squashfs-sysupgrade.bin | https://27.109.210.69/d/ec20/openwrt_qmodem/openwrt-mediatek-filogic-cudy_tr3000-mod-squashfs-sysupgrade.bin
+openwrt-mediatek-filogic-cudy_tr3000-mod-squashfs-sysupgrade.bin | https://27.109.210.69/d/tr3000/openwrt/openwrt-mediatek-filogic-cudy_tr3000-mod-squashfs-sysupgrade.bin
+openwrt-qualcommax-ipq807x-redmi_ax6-stock-squashfs-sysupgrade.bin | https://193.123.237.119/d/Local/openwrt-qualcommax-ipq807x-redmi_ax6-stock-squashfs-sysupgrade.bin
+phanfw.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/phanfw.bin
+qat_895xcc.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/qat_895xcc.bin
+qat_895xcc_mmp.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/qat_895xcc_mmp.bin
+qat_c3xxx.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/qat_c3xxx.bin
+qat_c3xxx_mmp.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/qat_c3xxx_mmp.bin
+qat_c62x.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/qat_c62x.bin
+qat_c62x_mmp.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/qat_c62x_mmp.bin
+ql2100_fw.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/ql2100_fw.bin
+ql2200_fw.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/ql2200_fw.bin
+ql2300_fw.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/ql2300_fw.bin
+ql2322_fw.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/ql2322_fw.bin
+ql2400_fw.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/ql2400_fw.bin
+ql2500_fw.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/ql2500_fw.bin
+rt2561.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/rt2561.bin
+rt2561s.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/rt2561s.bin
+rt2661.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/rt2661.bin
+rt2860.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/rt2860.bin
+rt2870.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/rt2870.bin
+rt3071.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/rt3071.bin
+rt3290.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/rt3290.bin
+rt73.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/rt73.bin
+sdd_sagrad_1091_1098.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/sdd_sagrad_1091_1098.bin
+smart.bin | https://139.185.32.228/d/硬件/U盘说明书以及测试软件/smart.bin
+smart.bin | https://193.123.85.183/d/硬件/U盘说明书以及测试软件/smart.bin
+smi_fid.bin | https://139.185.32.228/d/硬件/U盘说明书以及测试软件/smi_fid.bin
+smi_fid.bin | https://193.123.85.183/d/硬件/U盘说明书以及测试软件/smi_fid.bin
+snapshot_blob.bin | https://alist.990668.xyz/d/代理工具/clash/Clash.for.Windows-0.20.21-win/snapshot_blob.bin
+snapshot_blob.bin | https://alist.990668.xyz/d/代理工具/clash/Clash.for.Windows中文版64位-0.20.14/snapshot_blob.bin
+snapshot_blob.bin | https://alist.990668.xyz/d/其他/[简易]原神抽卡查询/Genshin-Wish-Export/snapshot_blob.bin
+tlg2300_firmware.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/tlg2300_firmware.bin
+tol001.bin | http://171.95.23.159:88/d/工具/软件/USBKiller/tol001.bin
+tol002.bin | http://171.95.23.159:88/d/工具/软件/USBKiller/tol002.bin
+tol003.bin | http://171.95.23.159:88/d/工具/软件/USBKiller/tol003.bin
+tol009.bin | http://171.95.23.159:88/d/工具/软件/USBKiller/tol009.bin
+tr_smctr.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/tr_smctr.bin
+uboot_mt7986_redmi_ax6000-fip-fixed-parts-multi-layout.bin | https://193.123.237.119/d/Local/Router/RedMI_AX6000/uboot_mt7986_redmi_ax6000-fip-fixed-parts-multi-layout.bin
+usbdux_firmware.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/usbdux_firmware.bin
+usbduxfast_firmware.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/usbduxfast_firmware.bin
+usbduxsigma_firmware.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/usbduxsigma_firmware.bin
+v8_context_snapshot.bin | https://alist.990668.xyz/d/代理工具/clash/Clash.for.Windows-0.20.21-win/v8_context_snapshot.bin
+v8_context_snapshot.bin | https://alist.990668.xyz/d/代理工具/clash/Clash.for.Windows中文版64位-0.20.14/v8_context_snapshot.bin
+v8_context_snapshot.bin | https://alist.990668.xyz/d/其他/[简易]原神抽卡查询/Genshin-Wish-Export/v8_context_snapshot.bin
+vidcfg.bin | https://47.116.119.109/d/GSM/L4D2/bin/vidcfg.bin
+vidcfg.bin | https://47.116.14.121:8443/d/GSM/L4D2/bin/vidcfg.bin
+wipob.bin | http://171.95.23.159:88/d/工具/软件/USBKiller/wipob.bin
+wsm_22.bin | http://113.140.77.109:8881/d/服务器1/lib/firmware/wsm_22.bin
+xiaomi_CR8808-openwrt-v1.7.bin | https://64.181.190.142:2083/d/天翼133/小米路由器/CR880x刷机/xiaomi_CR8808-openwrt-v1.7.bin
+手持机发货.bin | http://218.28.112.170:5555/d/软件/大宗物料/手持机发货.bin
+手持机程序.bin | http://218.28.112.170:5555/d/软件/大宗物料/手持机程序.bin
+斐讯K1-1208原装固件.bin | https://150.230.215.98/d/百度网盘/我的资源/最全的斐讯K1 1208固件（201601）/斐讯K1-1208原装固件.bin
+艾泰-7620-k1-web认证-备份.bin | https://150.230.215.98/d/百度网盘/我的资源/最全的斐讯K1 1208固件（201601）/艾泰-7620-k1-web认证-备份.bin
+艾泰nv512Wv3v7620.bin | https://150.230.215.98/d/百度网盘/我的资源/最全的斐讯K1 1208固件（201601）/艾泰nv512Wv3v7620.bin

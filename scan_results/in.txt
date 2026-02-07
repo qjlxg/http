@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+MANIFEST.in | https://113.207.49.5/d/GitHub/repos/huashengdun_webssh/MANIFEST.in
+MANIFEST.in | https://113.207.49.5/d/GitHub/repos/synodriver_cycurl/MANIFEST.in

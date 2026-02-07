@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+官网下载(1).txt.lohafey9.partial | http://81.71.152.215/d/阿里云盘/来自分享/软件分享/官网下载(1).txt.lohafey9.partial
+官网下载(2).txt.fosasir8.partial | http://81.71.152.215/d/阿里云盘/来自分享/软件分享/官网下载(2).txt.fosasir8.partial

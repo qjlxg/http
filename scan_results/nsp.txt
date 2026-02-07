@@ -1,0 +1,7 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Animal Crossing New Horizons [01006F8002326000][v0].nsp | http://dnbllgtm.x3322.net:5244/d/小叮当/IOS/集合动物/Animal Crossing New Horizons [01006F8002326000][v0].nsp
+[UPD][v2.0.6]Animal Crossing New Horizons [01006F8002326800][v1835008][US].nsp | http://dnbllgtm.x3322.net:5244/d/小叮当/IOS/集合动物/[UPD][v2.0.6]Animal Crossing New Horizons [01006F8002326800][v1835008][US].nsp
+世界游戏大全51.nsp | http://dnbllgtm.x3322.net:5244/d/小叮当/IOS/世界游戏大全51.nsp
+世界游戏大全51.nsp | http://dnbllgtm.x3322.net:5244/d/小叮当/模拟器/世界游戏大全51.nsp

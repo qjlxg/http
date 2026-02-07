@@ -1,0 +1,21 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+RAX50_386.5_2_ubi_5bc44b7_koolcenter.chk | https://47.76.189.197/d/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/路由器梅林固件/RAX50_386.5_2_ubi_5bc44b7_koolcenter.chk
+RAX80_386.5_2_ubi_bc4d950_koolcenter.chk | https://47.76.189.197/d/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/路由器梅林固件/RAX80_386.5_2_ubi_bc4d950_koolcenter.chk
+libfreebl3.chk | https://154.12.23.79/d/mnt/lib/libfreebl3.chk
+libfreebl3.chk | https://154.12.23.79/d/mnt/lib64/libfreebl3.chk
+libfreebl3.chk | https://154.12.23.79/d/mnt/usr/lib/libfreebl3.chk
+libfreebl3.chk | https://154.12.23.79/d/mnt/usr/lib64/libfreebl3.chk
+libfreebl3.chk | https://8.140.252.113/d/4k/lib/x86_64-linux-gnu/libfreebl3.chk
+libfreeblpriv3.chk | https://154.12.23.79/d/mnt/lib/libfreeblpriv3.chk
+libfreeblpriv3.chk | https://154.12.23.79/d/mnt/lib64/libfreeblpriv3.chk
+libfreeblpriv3.chk | https://154.12.23.79/d/mnt/usr/lib/libfreeblpriv3.chk
+libfreeblpriv3.chk | https://154.12.23.79/d/mnt/usr/lib64/libfreeblpriv3.chk
+libfreeblpriv3.chk | https://8.140.252.113/d/4k/lib/x86_64-linux-gnu/libfreeblpriv3.chk
+libnssdbm3.chk | https://154.12.23.79/d/mnt/lib64/libnssdbm3.chk
+libnssdbm3.chk | https://154.12.23.79/d/mnt/usr/lib64/libnssdbm3.chk
+libnssdbm3.chk | https://8.140.252.113/d/4k/lib/x86_64-linux-gnu/libnssdbm3.chk
+libsoftokn3.chk | https://154.12.23.79/d/mnt/lib64/libsoftokn3.chk
+libsoftokn3.chk | https://154.12.23.79/d/mnt/usr/lib64/libsoftokn3.chk
+libsoftokn3.chk | https://8.140.252.113/d/4k/lib/x86_64-linux-gnu/libsoftokn3.chk

@@ -1,0 +1,11 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Windows6.1-KB2592687-x64.msu | http://101.94.99.246:85/d/share/Windows6.1-KB2592687-x64.msu
+Windows8.1-KB3042553-x64.msu | http://42.193.16.82/d/linshi/Windows8.1-KB3042553-x64.msu
+nvme Windows6.1-KB2990941-v3-x64.msu | https://154.40.35.180/d/win7kb/nvme Windows6.1-KB2990941-v3-x64.msu
+nvme Windows6.1-KB3087873-v2-x64.msu | https://154.40.35.180/d/win7kb/nvme Windows6.1-KB3087873-v2-x64.msu
+whql补丁windows6.1-kb4474419-v3-x64.msu | https://154.40.35.180/d/win7kb/whql补丁windows6.1-kb4474419-v3-x64.msu
+windows6.1-kb3033929-x64_5c56222b0caf43030addc9ad262633fcbddfcd41.msu | https://154.40.35.180/d/win7kb/windows6.1-kb3033929-x64_5c56222b0caf43030addc9ad262633fcbddfcd41.msu
+windows6.1-kb4490628-x64_d3de52d6987f7c8bdc2c015dca69eac96047c76e.msu | https://154.40.35.180/d/win7kb/windows6.1-kb4490628-x64_d3de52d6987f7c8bdc2c015dca69eac96047c76e.msu
+根ca Windows6.1-KB2813430-x64.msu | https://154.40.35.180/d/win7kb/根ca Windows6.1-KB2813430-x64.msu

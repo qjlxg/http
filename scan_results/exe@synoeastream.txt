@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+st-setup-1.8.30.exe@SynoEAStream | http://dnbllgtm.x3322.net:5244/d/小叮当/@eaDir/st-setup-1.8.30.exe@SynoEAStream
+迅雷Thunder_12.2.1.2932.exe@SynoEAStream | http://dnbllgtm.x3322.net:5244/d/小叮当/软件/@eaDir/迅雷Thunder_12.2.1.2932.exe@SynoEAStream

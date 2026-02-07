@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+USetup.iss | https://47.236.182.67/d/05-Driver File/09-Driver for N100 Dual Lan Dual COM/Realtek_Audio/USetup.iss
+setup.iss | https://47.236.182.67/d/05-Driver File/09-Driver for N100 Dual Lan Dual COM/Realtek_Audio/setup.iss

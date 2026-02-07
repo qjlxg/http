@@ -1,0 +1,10 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+350-action-efi-application.pcrlock | https://8.140.252.113/d/4k/lib/pcrlock.d/350-action-efi-application.pcrlock
+750-enter-initrd.pcrlock | https://8.140.252.113/d/4k/lib/pcrlock.d/750-enter-initrd.pcrlock
+800-leave-initrd.pcrlock | https://8.140.252.113/d/4k/lib/pcrlock.d/800-leave-initrd.pcrlock
+850-sysinit.pcrlock | https://8.140.252.113/d/4k/lib/pcrlock.d/850-sysinit.pcrlock
+900-ready.pcrlock | https://8.140.252.113/d/4k/lib/pcrlock.d/900-ready.pcrlock
+950-shutdown.pcrlock | https://8.140.252.113/d/4k/lib/pcrlock.d/950-shutdown.pcrlock
+990-final.pcrlock | https://8.140.252.113/d/4k/lib/pcrlock.d/990-final.pcrlock

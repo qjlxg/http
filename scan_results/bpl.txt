@@ -1,0 +1,9 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+madbasic_.bpl | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/madbasic_.bpl
+maddisAsm_.bpl | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/maddisAsm_.bpl
+madexcept_.bpl | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/madexcept_.bpl
+rtl120.bpl | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/rtl120.bpl
+vcl120.bpl | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/vcl120.bpl
+vclx120.bpl | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/vclx120.bpl

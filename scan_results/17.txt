@@ -1,0 +1,6 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+cephadm-15.2.17 | https://47.101.196.211/d/bao/ceph/cephadm-15.2.17
+libexslt.so.0.8.17 | https://154.12.23.79/d/mnt/lib64/libexslt.so.0.8.17
+libexslt.so.0.8.17 | https://154.12.23.79/d/mnt/usr/lib64/libexslt.so.0.8.17

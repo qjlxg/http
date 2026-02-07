@@ -1,0 +1,14 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+903DB504.46618D74B1ECA_9.5.4.0_x86__a99ra4d2cbcxa.BlockMap | https://154.17.230.25/d/Software/QQ/903DB504.46618D74B1ECA_9.5.4.0_x86__a99ra4d2cbcxa.BlockMap
+Microsoft.VCLibs.140.00.UWPDesktop_14.0.30704.0_arm64__8wekyb3d8bbwe.BlockMap | https://154.17.230.25/d/Software/QQ/Microsoft.VCLibs.140.00.UWPDesktop_14.0.30704.0_arm64__8wekyb3d8bbwe.BlockMap
+Microsoft.VCLibs.140.00.UWPDesktop_14.0.30704.0_arm__8wekyb3d8bbwe.BlockMap | https://154.17.230.25/d/Software/QQ/Microsoft.VCLibs.140.00.UWPDesktop_14.0.30704.0_arm__8wekyb3d8bbwe.BlockMap
+Microsoft.VCLibs.140.00.UWPDesktop_14.0.30704.0_x64__8wekyb3d8bbwe.BlockMap | https://154.17.230.25/d/Software/QQ/Microsoft.VCLibs.140.00.UWPDesktop_14.0.30704.0_x64__8wekyb3d8bbwe.BlockMap
+Microsoft.VCLibs.140.00.UWPDesktop_14.0.30704.0_x86__8wekyb3d8bbwe.BlockMap | https://154.17.230.25/d/Software/QQ/Microsoft.VCLibs.140.00.UWPDesktop_14.0.30704.0_x86__8wekyb3d8bbwe.BlockMap
+Microsoft.VCLibs.140.00.UWPDesktop_14.0.32530.0_arm64__8wekyb3d8bbwe.BlockMap | https://154.17.230.25/d/Software/QQ/Microsoft.VCLibs.140.00.UWPDesktop_14.0.32530.0_arm64__8wekyb3d8bbwe.BlockMap
+Microsoft.VCLibs.140.00.UWPDesktop_14.0.32530.0_arm__8wekyb3d8bbwe.BlockMap | https://154.17.230.25/d/Software/QQ/Microsoft.VCLibs.140.00.UWPDesktop_14.0.32530.0_arm__8wekyb3d8bbwe.BlockMap
+Microsoft.VCLibs.140.00.UWPDesktop_14.0.32530.0_x64__8wekyb3d8bbwe.BlockMap | https://154.17.230.25/d/Software/QQ/Microsoft.VCLibs.140.00.UWPDesktop_14.0.32530.0_x64__8wekyb3d8bbwe.BlockMap
+Microsoft.VCLibs.140.00.UWPDesktop_14.0.32530.0_x86__8wekyb3d8bbwe.BlockMap | https://154.17.230.25/d/Software/QQ/Microsoft.VCLibs.140.00.UWPDesktop_14.0.32530.0_x86__8wekyb3d8bbwe.BlockMap
+shiran Setup 0.1.0.exe.blockmap | https://113.207.49.5/d/软件/ranPak/shiran Setup 0.1.0.exe.blockmap
+zephyr-0.0.1-beta.2-setup.exe.blockmap | https://47.244.111.211/d/zephyr/zephyr-0.0.1-beta.2-setup.exe.blockmap

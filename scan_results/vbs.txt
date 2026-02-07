@@ -1,0 +1,27 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Office2003卸载工具V1.80.1.vbs | https://124.221.124.3/d/天翼网盘/系统类工具/联想售后服务工具集/Office2003卸载工具V1.80.1.vbs
+Office2003卸载工具V1.80.1.vbs | https://124.221.124.3/d/点我进网盘/系统类工具/联想售后服务工具集/Office2003卸载工具V1.80.1.vbs
+Office2003卸载工具V1.80.1.vbs | https://8.217.236.10/d/Cloud189_Family/联想售后服务工具集/Office2003卸载工具V1.80.1.vbs
+Office2003卸载工具V1.80.1.vbs | https://8.217.236.10/d/访客文件夹_可上传/安装包/联想售后服务工具集/Office2003卸载工具V1.80.1.vbs
+Office2007卸载工具(XP)V1.82.1.vbs | https://124.221.124.3/d/天翼网盘/系统类工具/联想售后服务工具集/Office2007卸载工具(XP)V1.82.1.vbs
+Office2007卸载工具(XP)V1.82.1.vbs | https://124.221.124.3/d/点我进网盘/系统类工具/联想售后服务工具集/Office2007卸载工具(XP)V1.82.1.vbs
+Office2007卸载工具(XP)V1.82.1.vbs | https://8.217.236.10/d/Cloud189_Family/联想售后服务工具集/Office2007卸载工具(XP)V1.82.1.vbs
+Office2007卸载工具(XP)V1.82.1.vbs | https://8.217.236.10/d/访客文件夹_可上传/安装包/联想售后服务工具集/Office2007卸载工具(XP)V1.82.1.vbs
+Office2007卸载工具V4.05.1.vbs | https://124.221.124.3/d/天翼网盘/系统类工具/联想售后服务工具集/Office2007卸载工具V4.05.1.vbs
+Office2007卸载工具V4.05.1.vbs | https://124.221.124.3/d/点我进网盘/系统类工具/联想售后服务工具集/Office2007卸载工具V4.05.1.vbs
+Office2007卸载工具V4.05.1.vbs | https://8.217.236.10/d/Cloud189_Family/联想售后服务工具集/Office2007卸载工具V4.05.1.vbs
+Office2007卸载工具V4.05.1.vbs | https://8.217.236.10/d/访客文件夹_可上传/安装包/联想售后服务工具集/Office2007卸载工具V4.05.1.vbs
+Office2010 卸载工具(XP)V1.43.1.vbs | https://124.221.124.3/d/天翼网盘/系统类工具/联想售后服务工具集/Office2010 卸载工具(XP)V1.43.1.vbs
+Office2010 卸载工具(XP)V1.43.1.vbs | https://124.221.124.3/d/点我进网盘/系统类工具/联想售后服务工具集/Office2010 卸载工具(XP)V1.43.1.vbs
+Office2010 卸载工具(XP)V1.43.1.vbs | https://8.217.236.10/d/Cloud189_Family/联想售后服务工具集/Office2010 卸载工具(XP)V1.43.1.vbs
+Office2010 卸载工具(XP)V1.43.1.vbs | https://8.217.236.10/d/访客文件夹_可上传/安装包/联想售后服务工具集/Office2010 卸载工具(XP)V1.43.1.vbs
+Windows 信息收集.vbs | https://alist.990668.xyz/d/批处理/Windows 信息收集.vbs
+adminalist.vbs | https://138.2.4.204/d/阿里云盘/工具/Alist/adminalist.vbs
+alist.vbs | https://138.2.4.204/d/阿里云盘/工具/Alist/alist.vbs
+exec.vbs | https://61.184.67.134:2083/d/frp/exec.vbs
+scrcpy-noconsole.vbs | https://alist.990668.xyz/d/系统安装/安卓/scrcpy-win64-v1.24/scrcpy-noconsole.vbs
+禁止IE浏览器跳转.vbs | http://175.27.249.209/d/禁止IE浏览器跳转.vbs
+管理Win10自动更新v3.vbs | http://47.83.157.204:36081/d/系统/工具/win10禁止更新/管理Win10自动更新v3.vbs
+管理Win10自动更新v3.vbs | https://47.83.157.204/d/系统/工具/win10禁止更新/管理Win10自动更新v3.vbs

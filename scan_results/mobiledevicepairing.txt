@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+00008120-000E5D002198C01E.mobiledevicepairing | http://dnbllgtm.x3322.net:5244/d/小叮当/IOS/00008120-000E5D002198C01E.mobiledevicepairing
+00008150-001908463C00401C.mobiledevicepairing | https://164.152.19.201/d/苹果禁音/WIN禁音/jitterbugpair-win64/00008150-001908463C00401C.mobiledevicepairing

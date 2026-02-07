@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+libcap.so.2.66 | https://8.140.252.113/d/4k/lib/x86_64-linux-gnu/libcap.so.2.66
+libpsx.so.2.66 | https://8.140.252.113/d/4k/lib/x86_64-linux-gnu/libpsx.so.2.66

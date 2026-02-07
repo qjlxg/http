@@ -1,0 +1,11 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+C语言.one | https://alist.asterx.top/d/OneDrive/文档/兆阳 的笔记本/C语言.one
+作业.one | https://alist.asterx.top/d/OneDrive/文档/兆阳 的笔记本/作业.one
+新分区 1.one | https://alist.asterx.top/d/OneDrive/文档/兆阳 的笔记本/新分区 1.one
+日常.one | https://alist.asterx.top/d/OneDrive/文档/兆阳 的笔记本/日常.one
+歌词.one | https://alist.asterx.top/d/OneDrive/文档/兆阳 的笔记本/歌词.one
+英语.one | https://alist.asterx.top/d/OneDrive/文档/兆阳 的笔记本/英语.one
+计算机导论.one | https://alist.asterx.top/d/OneDrive/文档/兆阳 的笔记本/计算机导论.one
+高等数学.one | https://alist.asterx.top/d/OneDrive/文档/兆阳 的笔记本/高等数学.one

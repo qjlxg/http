@@ -1,0 +1,35 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+FlClash-0.8.87-linux-amd64.AppImage | https://47.76.189.197/d/科学软体/稳定版/FlClash_Android/FlClash-0.8.87-linux-amd64.AppImage
+Hiddify-Linux-x64.AppImage | https://47.76.189.197/d/科学软体/稳定版/hiddify-app/Hiddify-Linux-x64.AppImage
+Moonlight-6.1.0-x86_64.AppImage | http://101.94.99.246:85/d/share/Moonlight-6.1.0-x86_64.AppImage
+Qv2ray-v2.7.0-linux-x64.AppImage | http://vultr.a-1s.com:5244/d/share/Qv2ray-v2.7.0-linux-x64.AppImage
+Qv2ray-v2.7.0-linux-x64.AppImage | https://47.76.189.197/d/科学软体/稳定版/Qv2ray/Qv2ray-v2.7.0-linux-x64.AppImage
+bit.AppImage | https://185.242.232.173/d/app/bit/bit.AppImage
+clash-nyanpasu_1.6.1_amd64.AppImage | https://154.40.35.180/d/科学上网/Linux/clash-nyanpasu/clash-nyanpasu_1.6.1_amd64.AppImage
+clash-nyanpasu_1.6.1_amd64.AppImage | https://47.76.189.197/d/科学软体/稳定版/clash-nyanpasu/clash-nyanpasu_1.6.1_amd64.AppImage
+elasticvue_1.10.0_amd64.AppImage | https://81.70.142.195/d/云主机本地/elasticvue_1.10.0_amd64.AppImage
+nekoray-4.0.1-2024-12-12-linux-x64.AppImage | https://47.76.189.197/d/科学软体/稳定版/Nekoray/nekoray-4.0.1-2024-12-12-linux-x64.AppImage
+pxvdi_2.1.0_amd64.AppImage | https://file.homelabproject.cc/d/foxipan/pxvdi/pxvdi-linux/pxvdi_2.1.0_amd64.AppImage
+pxvdi_2.1.1_amd64.AppImage | https://file.homelabproject.cc/d/foxipan/pxvdi/pxvdi-linux/pxvdi_2.1.1_amd64.AppImage
+pxvdi_2.1.2_amd64.AppImage | https://file.homelabproject.cc/d/foxipan/pxvdi/pxvdi-linux/pxvdi_2.1.2_amd64.AppImage
+pxvdi_2.2.0_amd64.AppImage | https://file.homelabproject.cc/d/foxipan/pxvdi/pxvdi-linux/pxvdi_2.2.0_amd64.AppImage
+pxvdi_2.2.1_aarch64.AppImage | https://file.homelabproject.cc/d/foxipan/pxvdi/pxvdi-linux/pxvdi_2.2.1_aarch64.AppImage
+pxvdi_2.2.1_amd64.AppImage | https://file.homelabproject.cc/d/foxipan/pxvdi/pxvdi-linux/pxvdi_2.2.1_amd64.AppImage
+pxvdi_2.2.2_aarch64.AppImage | https://file.homelabproject.cc/d/foxipan/pxvdi/pxvdi-linux/pxvdi_2.2.2_aarch64.AppImage
+pxvdi_2.2.2_amd64.AppImage | https://file.homelabproject.cc/d/foxipan/pxvdi/pxvdi-linux/pxvdi_2.2.2_amd64.AppImage
+pxvdi_2.2.3_aarch64.AppImage | https://file.homelabproject.cc/d/foxipan/pxvdi/pxvdi-linux/pxvdi_2.2.3_aarch64.AppImage
+pxvdi_2.2.3_amd64.AppImage | https://file.homelabproject.cc/d/foxipan/pxvdi/pxvdi-linux/pxvdi_2.2.3_amd64.AppImage
+pxvdi_2.2.4_aarch64.AppImage | https://file.homelabproject.cc/d/foxipan/pxvdi/pxvdi-linux/pxvdi_2.2.4_aarch64.AppImage
+pxvdi_2.2.4_amd64.AppImage | https://alist.homelabproject.cc/d/foxipan/pxvdi_2.2.4_amd64.AppImage
+pxvdi_2.2.4_amd64.AppImage | https://file.homelabproject.cc/d/foxipan/pxvdi/pxvdi-linux/pxvdi_2.2.4_amd64.AppImage
+pxvdi_2.2.4_amd64.AppImage | https://file.homelabproject.cc/d/foxipan/pxvdi_2.2.4_amd64.AppImage
+pxvdi_2.2.5_aarch64.AppImage | https://file.homelabproject.cc/d/foxipan/pxvdi/pxvdi-linux/pxvdi_2.2.5_aarch64.AppImage
+pxvdi_2.2.5_amd64.AppImage | https://file.homelabproject.cc/d/foxipan/pxvdi/pxvdi-linux/pxvdi_2.2.5_amd64.AppImage
+pxvdi_2.2.6_aarch64.AppImage | https://file.homelabproject.cc/d/foxipan/pxvdi/pxvdi-linux/pxvdi_2.2.6_aarch64.AppImage
+pxvdi_2.2.6_amd64.AppImage | https://file.homelabproject.cc/d/foxipan/pxvdi/pxvdi-linux/pxvdi_2.2.6_amd64.AppImage
+pxvdi_2.2.7_aarch64.AppImage | https://file.homelabproject.cc/d/foxipan/pxvdi/pxvdi-linux/pxvdi_2.2.7_aarch64.AppImage
+pxvdi_2.2.7_amd64.AppImage | https://file.homelabproject.cc/d/foxipan/pxvdi/pxvdi-linux/pxvdi_2.2.7_amd64.AppImage
+v2rayN-linux-64.AppImage | https://47.76.189.197/d/科学软体/稳定版/v2rayN/v2rayN-linux-64.AppImage
+v2rayN-linux-arm64.AppImage | https://47.76.189.197/d/科学软体/稳定版/v2rayN/v2rayN-linux-arm64.AppImage

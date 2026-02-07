@@ -1,0 +1,4 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+LINUX.X64_193000_grid_home.zip.baiduyun.p.downloading | https://155.248.165.2/d/Oracle 安装包/19C GI - 19.23/LINUX.X64_193000_grid_home.zip.baiduyun.p.downloading

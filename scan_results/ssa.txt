@@ -1,0 +1,63 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+01.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/01.ja.ssa
+01.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/01.zh.ssa
+02.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/02.ja.ssa
+02.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/02.zh.ssa
+03.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/03.ja.ssa
+03.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/03.zh.ssa
+04.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/04.ja.ssa
+04.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/04.zh.ssa
+05.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/05.ja.ssa
+05.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/05.zh.ssa
+06.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/06.ja.ssa
+06.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/06.zh.ssa
+07.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/07.ja.ssa
+07.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/07.zh.ssa
+08.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/08.ja.ssa
+08.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/08.zh.ssa
+09.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/09.ja.ssa
+09.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/09.zh.ssa
+10.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/10.ja.ssa
+10.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/10.zh.ssa
+11.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/11.ja.ssa
+11.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/11.zh.ssa
+12.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/12.ja.ssa
+12.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/12.zh.ssa
+13.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/13.ja.ssa
+13.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/13.zh.ssa
+14.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/14.ja.ssa
+14.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/14.zh.ssa
+15.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/15.ja.ssa
+15.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/15.zh.ssa
+16.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/16.ja.ssa
+16.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/16.zh.ssa
+17.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/17.ja.ssa
+17.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/17.zh.ssa
+18.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/18.ja.ssa
+18.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/18.zh.ssa
+19.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/19.ja.ssa
+19.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/19.zh.ssa
+20.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/20.ja.ssa
+20.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/20.zh.ssa
+21.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/21.ja.ssa
+21.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/21.zh.ssa
+22.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/22.ja.ssa
+22.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/22.zh.ssa
+23.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/23.ja.ssa
+23.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/23.zh.ssa
+24.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/24.ja.ssa
+24.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/24.zh.ssa
+25.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/25.ja.ssa
+25.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/25.zh.ssa
+26.ja.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/26.ja.ssa
+26.zh.ssa | https://47.251.7.109/d/multimedia/Anime/次元舰队_en/26.zh.ssa
+Miss.Peregrines.Home.for.Peculiar.Children.2016.1080p.BluRay.x264-SPARKS.雙語.ssa | http://130.162.129.70/d/Movie/2016/[6.7]怪奇孤兒院 Miss Peregrine's Home for Peculiar Children.2016/Miss.Peregrines.Home.for.Peculiar.Children.2016.1080p.BluRay.x264-SPARKS.雙語.ssa
+Miss.Peregrines.Home.for.Peculiar.Children.2016.1080p.BluRay.x264-SPARKS.雙語.ssa | https://130.162.129.70/d/Movie/2016/[6.7]怪奇孤兒院 Miss Peregrine's Home for Peculiar Children.2016/Miss.Peregrines.Home.for.Peculiar.Children.2016.1080p.BluRay.x264-SPARKS.雙語.ssa
+The.Big.Bang.Theory.S07E01.The.Hofstadter.Insufficiency.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.ssa | http://112.13.121.252:8090/d/百度网盘/测试字幕选择资源/The.Big.Bang.Theory.S07.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP[rartv]/The.Big.Bang.Theory.S07E01.The.Hofstadter.Insufficiency.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.ssa
+The.Magnificent.Seven.2016.1080p.BluRay.x264-SPARKS.雙語.ssa | http://130.162.129.70/d/Movie/2016/[6.9]絕地7騎士 The Magnificent Seven.2016/The.Magnificent.Seven.2016.1080p.BluRay.x264-SPARKS.雙語.ssa
+The.Magnificent.Seven.2016.1080p.BluRay.x264-SPARKS.雙語.ssa | https://130.162.129.70/d/Movie/2016/[6.9]絕地7騎士 The Magnificent Seven.2016/The.Magnificent.Seven.2016.1080p.BluRay.x264-SPARKS.雙語.ssa
+蕭十一郎 S01E01.ssa | http://112.13.121.252:8090/d/百度网盘/QA测试0314/外挂字幕-电视剧/蕭十一郎 S01E01.ssa
+闪电侠.ssa | http://112.13.121.252:8090/d/百度网盘/外挂字幕-回归/闪电侠/闪电侠.ssa
+闪电侠.ssa | http://112.13.121.252:8090/d/百度网盘/测试字幕/闪电侠.ssa

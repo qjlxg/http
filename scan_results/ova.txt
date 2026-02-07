@@ -1,0 +1,15 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+EVE-NG Community Edition v2.0.3-67.ova | http://81.71.152.215/d/百度网盘/我的软件/Cisco & Juniper/EVE-NG Community Edition v2.0.3-67.ova
+EVE-NG Community Edition v2.0.3-68.ova | http://81.71.152.215/d/百度网盘/我的软件/Cisco & Juniper/EVE-NG Community Edition v2.0.3-68.ova
+EVE-NG Community Edition v2.0.3-71.ova | http://81.71.152.215/d/百度网盘/EVE-NG Community Edition v2.0.3-71.ova
+EVE-NG Community Edition v2.0.3-71.ova | http://81.71.152.215/d/百度网盘/我的软件/Cisco & Juniper/EVE-NG Community Edition v2.0.3-71.ova
+MYSQL数据库.ova | http://47.108.211.189/d/tianyi/系统镜像/ova/MYSQL数据库.ova
+MikroTik RouterOS-v6.19.ova | http://81.71.152.215/d/百度网盘/我的软件/Cisco & Juniper/MikroTik RouterOS-v6.19.ova
+VMware-NSX-Manager-6.3.5-7119875.ova | http://81.71.152.215/d/百度网盘/我的资源/VMware-NSX-Manager-6.3.5-7119875.ova
+Windows 7.ova | http://47.108.211.189/d/tianyi/系统镜像/ova/Windows 7.ova
+iosxrv-k9-demo-5.2.0.ova | http://81.71.152.215/d/百度网盘/我的软件/Cisco & Juniper/iosxrv-k9-demo-5.2.0.ova
+junos-vsrx-12.1X44-D10.4-domestic.ova | http://81.71.152.215/d/百度网盘/我的软件/Cisco & Juniper/junos-vsrx-12.1X44-D10.4-domestic.ova
+win11-64.ova | http://47.83.157.204:36081/d/EQ12/EQ12 ESXI/win11-64.ova
+win11-64.ova | https://47.83.157.204/d/EQ12/EQ12 ESXI/win11-64.ova

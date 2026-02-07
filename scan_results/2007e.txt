@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+libc-client.so.2007e | https://8.140.252.113/d/4k/lib/libc-client.so.2007e
+libc-client.so.2007e | https://8.140.252.113/d/4k/usr/lib/libc-client.so.2007e

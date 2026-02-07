@@ -1,0 +1,18 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Advanced Archive Password Recovery.lnk | https://220.190.14.253:6010/d/PC软件/ARCHPR暴力破解压缩工具/Advanced Archive Password Recovery.lnk
+Advanced Archive Password Recovery.lnk | https://www.bx02.icu:6010/d/PC软件/ARCHPR暴力破解压缩工具/Advanced Archive Password Recovery.lnk
+Clash for Windows.lnk | https://154.64.252.93/d/百度网盘/电脑软件/Clash for Windows.lnk
+Memory Diagnostics Tool.lnk | http://118.25.145.11:88/d/群文件/Memory Diagnostics Tool.lnk
+PDF电子签章.lnk | https://64.181.190.142:2083/d/天翼133/我的备份/张新亚桌面整理/PDF电子签章.lnk
+Pad32 - 快捷方式.lnk | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/Pad32 - 快捷方式.lnk
+Pad32 - 快捷方式.lnk | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/Pad32 - 快捷方式.lnk
+TexturePackerGUI.exe.lnk | http://117.50.199.26:15244/d/nas/windows 工具/texturepacker/TexturePackerGUI.exe.lnk
+TexturePackerGUI.exe.lnk | https://ipas.ic-market.top/d/nas/windows 工具/texturepacker/TexturePackerGUI.exe.lnk
+frpc_0.21.0_simple.apk.lnk | http://120.26.66.68:8008/d/111/platform-tools/frpc_0.21.0_simple.apk.lnk
+frpc_0.21.0_simple.apk.lnk | https://120.26.66.68:8009/d/111/platform-tools/frpc_0.21.0_simple.apk.lnk
+一键重启进入BIOS.lnk | https://159.138.98.12/d/其他/Win激活及优化/一键重启进入BIOS.lnk
+下载.lnk | https://47.239.213.64/d/通用客户端/clash/Clcash for windows/下载.lnk
+天翼云盘.lnk | https://24.233.2.250/d/天翼云盘.lnk
+新增捷徑.lnk | https://123.202.162.158:2083/d/2/我愛學語文小三（一版）/備課手冊/新增捷徑.lnk

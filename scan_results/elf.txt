@@ -1,0 +1,7 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+prog_emmc_firehose_Sdm660_ddr (1).elf | http://118.25.145.11:88/d/群文件/prog_emmc_firehose_Sdm660_ddr (1).elf
+prog_emmc_firehose_Sdm660_ddr.elf | http://118.25.145.11:88/d/群文件/prog_emmc_firehose_Sdm660_ddr.elf
+prog_ufs_firehose_Sdm845_lge.elf | http://107.174.246.131:8082/d/web/刷机/LG G7/prog_ufs_firehose_Sdm845_lge.elf
+q3s.elf | http://107.174.246.131:8082/d/web/刷机/Realme Q3s/q3s.elf

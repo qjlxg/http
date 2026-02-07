@@ -1,0 +1,7 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+System.map-6.8.0-57-generic | https://8.140.252.113/d/4k/boot/System.map-6.8.0-57-generic
+config-6.8.0-57-generic | https://8.140.252.113/d/4k/boot/config-6.8.0-57-generic
+initrd.img-6.8.0-57-generic | https://8.140.252.113/d/4k/boot/initrd.img-6.8.0-57-generic
+vmlinuz-6.8.0-57-generic | https://8.140.252.113/d/4k/boot/vmlinuz-6.8.0-57-generic

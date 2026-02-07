@@ -1,0 +1,36 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+01 - BEYOND - Amani.dff | https://152.70.107.36/d/微软云盘/音乐专辑/BEYOND/01 - BEYOND - Amani.dff
+01. 捨不得你.dff | https://152.70.107.36/d/微软云盘/音乐专辑/鄭秀文Ultimate Sound Vol. II (SACD)/01. 捨不得你.dff
+02 - BEYOND - 光辉岁月.dff | https://152.70.107.36/d/微软云盘/音乐专辑/BEYOND/02 - BEYOND - 光辉岁月.dff
+02. 愛的輓歌.dff | https://152.70.107.36/d/微软云盘/音乐专辑/鄭秀文Ultimate Sound Vol. II (SACD)/02. 愛的輓歌.dff
+03 - BEYOND - 再见理想.dff | https://152.70.107.36/d/微软云盘/音乐专辑/BEYOND/03 - BEYOND - 再见理想.dff
+03. 放不低.dff | https://152.70.107.36/d/微软云盘/音乐专辑/鄭秀文Ultimate Sound Vol. II (SACD)/03. 放不低.dff
+04 - BEYOND - 不再犹豫.dff | https://152.70.107.36/d/微软云盘/音乐专辑/BEYOND/04 - BEYOND - 不再犹豫.dff
+04. 不拖不欠.dff | https://152.70.107.36/d/微软云盘/音乐专辑/鄭秀文Ultimate Sound Vol. II (SACD)/04. 不拖不欠.dff
+05 - BEYOND - 俾面派对.dff | https://152.70.107.36/d/微软云盘/音乐专辑/BEYOND/05 - BEYOND - 俾面派对.dff
+05. 问我.dff | https://152.70.107.36/d/微软云盘/音乐专辑/鄭秀文Ultimate Sound Vol. II (SACD)/05. 问我.dff
+06 - BEYOND - 灰色轨迹.dff | https://152.70.107.36/d/微软云盘/音乐专辑/BEYOND/06 - BEYOND - 灰色轨迹.dff
+06. 默契.dff | https://152.70.107.36/d/微软云盘/音乐专辑/鄭秀文Ultimate Sound Vol. II (SACD)/06. 默契.dff
+07 - BEYOND - 大地.dff | https://152.70.107.36/d/微软云盘/音乐专辑/BEYOND/07 - BEYOND - 大地.dff
+07. 加尔各答的天使-德兰修女.dff | https://152.70.107.36/d/微软云盘/音乐专辑/鄭秀文Ultimate Sound Vol. II (SACD)/07. 加尔各答的天使-德兰修女.dff
+08 - BEYOND - 旧日的足迹.dff | https://152.70.107.36/d/微软云盘/音乐专辑/BEYOND/08 - BEYOND - 旧日的足迹.dff
+08. 唉声叹气.dff | https://152.70.107.36/d/微软云盘/音乐专辑/鄭秀文Ultimate Sound Vol. II (SACD)/08. 唉声叹气.dff
+09 - BEYOND - 岁月无声.dff | https://152.70.107.36/d/微软云盘/音乐专辑/BEYOND/09 - BEYOND - 岁月无声.dff
+09. 理想对象.dff | https://152.70.107.36/d/微软云盘/音乐专辑/鄭秀文Ultimate Sound Vol. II (SACD)/09. 理想对象.dff
+10 - BEYOND - 秘密警察.dff | https://152.70.107.36/d/微软云盘/音乐专辑/BEYOND/10 - BEYOND - 秘密警察.dff
+10. 插曲.dff | https://152.70.107.36/d/微软云盘/音乐专辑/鄭秀文Ultimate Sound Vol. II (SACD)/10. 插曲.dff
+11 - BEYOND - 真的爱你.dff | https://152.70.107.36/d/微软云盘/音乐专辑/BEYOND/11 - BEYOND - 真的爱你.dff
+11. 宿命主义.dff | https://152.70.107.36/d/微软云盘/音乐专辑/鄭秀文Ultimate Sound Vol. II (SACD)/11. 宿命主义.dff
+12 - BEYOND - 喜欢你.dff | https://152.70.107.36/d/微软云盘/音乐专辑/BEYOND/12 - BEYOND - 喜欢你.dff
+12. 很爱很爱你.dff | https://152.70.107.36/d/微软云盘/音乐专辑/鄭秀文Ultimate Sound Vol. II (SACD)/12. 很爱很爱你.dff
+13 - BEYOND - 冷雨夜.dff | https://152.70.107.36/d/微软云盘/音乐专辑/BEYOND/13 - BEYOND - 冷雨夜.dff
+13. 你爱我爱不起.dff | https://152.70.107.36/d/微软云盘/音乐专辑/鄭秀文Ultimate Sound Vol. II (SACD)/13. 你爱我爱不起.dff
+14 - BEYOND - 原谅我今天.dff | https://152.70.107.36/d/微软云盘/音乐专辑/BEYOND/14 - BEYOND - 原谅我今天.dff
+14. 爱上一个人.dff | https://152.70.107.36/d/微软云盘/音乐专辑/鄭秀文Ultimate Sound Vol. II (SACD)/14. 爱上一个人.dff
+15. 交换温柔.dff | https://152.70.107.36/d/微软云盘/音乐专辑/鄭秀文Ultimate Sound Vol. II (SACD)/15. 交换温柔.dff
+16. 上一次流泪.dff | https://152.70.107.36/d/微软云盘/音乐专辑/鄭秀文Ultimate Sound Vol. II (SACD)/16. 上一次流泪.dff
+17. 回来我身边.dff | https://152.70.107.36/d/微软云盘/音乐专辑/鄭秀文Ultimate Sound Vol. II (SACD)/17. 回来我身边.dff
+恋愛サーキュレーション (恋爱循环).dff | https://152.70.107.36/d/微软云盘/音乐专辑/杂杂/恋愛サーキュレーション (恋爱循环).dff
+灌篮高手 - 直到世界的尽头.dff | http://118.25.145.11:88/d/音乐/杂七杂八/灌篮高手 - 直到世界的尽头.dff

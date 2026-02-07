@@ -1,0 +1,22 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Realta Nua BGM.xp3 | https://60.205.14.56/d/百度网盘/1视觉小说/fate/Realta Nua BGM.xp3
+Realta Nua IMAGE.xp3 | https://60.205.14.56/d/百度网盘/1视觉小说/fate/Realta Nua IMAGE.xp3
+Realta Nua MOIVE.xp3 | https://60.205.14.56/d/百度网盘/1视觉小说/fate/Realta Nua MOIVE.xp3
+Realta Nua VOICE.xp3 | https://60.205.14.56/d/百度网盘/1视觉小说/fate/Realta Nua VOICE.xp3
+bgimage.xp3 | https://60.205.14.56/d/百度网盘/1视觉小说/fate/bgimage.xp3
+bgm.xp3 | https://60.205.14.56/d/百度网盘/1视觉小说/fate/bgm.xp3
+data.xp3 | https://60.205.14.56/d/百度网盘/1视觉小说/fate/data.xp3
+fgimage.xp3 | https://60.205.14.56/d/百度网盘/1视觉小说/fate/fgimage.xp3
+image.xp3 | https://60.205.14.56/d/百度网盘/1视觉小说/fate/image.xp3
+patch.xp3 | https://60.205.14.56/d/百度网盘/1视觉小说/fate/patch.xp3
+patch2.xp3 | https://60.205.14.56/d/百度网盘/1视觉小说/fate/patch2.xp3
+patch3.xp3 | https://60.205.14.56/d/百度网盘/1视觉小说/fate/patch3.xp3
+patch4.xp3 | https://60.205.14.56/d/百度网盘/1视觉小说/fate/patch4.xp3
+patchjp.xp3 | https://60.205.14.56/d/百度网盘/1视觉小说/fate/patchjp.xp3
+patchsc.xp3 | https://60.205.14.56/d/百度网盘/1视觉小说/fate/patchsc.xp3
+patchtc.xp3 | https://60.205.14.56/d/百度网盘/1视觉小说/fate/patchtc.xp3
+patchtw.xp3 | https://60.205.14.56/d/百度网盘/1视觉小说/fate/patchtw.xp3
+sound.xp3 | https://60.205.14.56/d/百度网盘/1视觉小说/fate/sound.xp3
+video.xp3 | https://60.205.14.56/d/百度网盘/1视觉小说/fate/video.xp3

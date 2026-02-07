@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Hide.rep | http://171.95.23.159:88/d/工具/软件/USBKiller/Hide.rep
+Safe.rep | http://171.95.23.159:88/d/工具/软件/USBKiller/Safe.rep

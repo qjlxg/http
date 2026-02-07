@@ -1,0 +1,50 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+ESXi-6.0U3-15517548-standard-depot.zip.sha256 | https://216.73.157.44/d/VMware/VMware-ESXI/VMware vSphere Hypervisor (ESXi) 6.0U3 Final sysin/ESXi-6.0U3-15517548-standard-depot.zip.sha256
+ESXi-6.0U3-15517548-standard.iso.sha256 | https://216.73.157.44/d/VMware/VMware-ESXI/VMware vSphere Hypervisor (ESXi) 6.0U3 Final sysin/ESXi-6.0U3-15517548-standard.iso.sha256
+ESXi-6.5U3-20502893-standard.iso.sha256 | https://216.73.157.44/d/VMware/VMware-ESXI/VMware vSphere Hypervisor (ESXi) 6.5U3 Final sysin/ESXi-6.5U3-20502893-standard.iso.sha256
+ESXi-6.5U3-20502893-standard.zip.sha256 | https://216.73.157.44/d/VMware/VMware-ESXI/VMware vSphere Hypervisor (ESXi) 6.5U3 Final sysin/ESXi-6.5U3-20502893-standard.zip.sha256
+ESXi-6.7U3-20497097-standard.iso.sha256 | https://216.73.157.44/d/VMware/VMware-ESXI/VMware vSphere Hypervisor (ESXi) 6.7U3 Final sysin/ESXi-6.7U3-20497097-standard.iso.sha256
+ESXi-6.7U3-20497097-standard.zip.sha256 | https://216.73.157.44/d/VMware/VMware-ESXI/VMware vSphere Hypervisor (ESXi) 6.7U3 Final sysin/ESXi-6.7U3-20497097-standard.zip.sha256
+ESXi-7.0U3p-23307199-standard.iso.sha256 | https://216.73.157.44/d/VMware/VMware-ESXI/VMware vSphere Hypervisor (ESXi) 7.0U3p sysin/ESXi-7.0U3p-23307199-standard.iso.sha256
+ESXi-8.0U2-22380479-standard-depot.zip.sha256 | https://216.73.157.44/d/VMware/VMware-ESXI/VMware vSphere Hypervisor (ESXi) 8.0U2 sysin/ESXi-8.0U2-22380479-standard-depot.zip.sha256
+ESXi-8.0U2-22380479-standard.iso.sha256 | https://216.73.157.44/d/VMware/VMware-ESXI/VMware vSphere Hypervisor (ESXi) 8.0U2 sysin/ESXi-8.0U2-22380479-standard.iso.sha256
+FlClash-0.8.87-android-arm64-v8a.apk.sha256 | https://47.76.189.197/d/科学软体/稳定版/FlClash_Android/FlClash-0.8.87-android-arm64-v8a.apk.sha256
+FlClash-0.8.87-android-armeabi-v7a.apk.sha256 | https://47.76.189.197/d/科学软体/稳定版/FlClash_Android/FlClash-0.8.87-android-armeabi-v7a.apk.sha256
+FlClash-0.8.87-android-x86_64.apk.sha256 | https://47.76.189.197/d/科学软体/稳定版/FlClash_Android/FlClash-0.8.87-android-x86_64.apk.sha256
+FlClash-0.8.87-linux-amd64.AppImage.sha256 | https://47.76.189.197/d/科学软体/稳定版/FlClash_Android/FlClash-0.8.87-linux-amd64.AppImage.sha256
+FlClash-0.8.87-linux-amd64.deb.sha256 | https://47.76.189.197/d/科学软体/稳定版/FlClash_Android/FlClash-0.8.87-linux-amd64.deb.sha256
+FlClash-0.8.87-linux-amd64.rpm.sha256 | https://47.76.189.197/d/科学软体/稳定版/FlClash_Android/FlClash-0.8.87-linux-amd64.rpm.sha256
+FlClash-0.8.87-linux-arm64.deb.sha256 | https://47.76.189.197/d/科学软体/稳定版/FlClash_Android/FlClash-0.8.87-linux-arm64.deb.sha256
+FlClash-0.8.87-macos-amd64.dmg.sha256 | https://47.76.189.197/d/科学软体/稳定版/FlClash_Android/FlClash-0.8.87-macos-amd64.dmg.sha256
+FlClash-0.8.87-macos-arm64.dmg.sha256 | https://47.76.189.197/d/科学软体/稳定版/FlClash_Android/FlClash-0.8.87-macos-arm64.dmg.sha256
+FlClash-0.8.87-windows-amd64-setup.exe.sha256 | https://47.76.189.197/d/科学软体/稳定版/FlClash_Android/FlClash-0.8.87-windows-amd64-setup.exe.sha256
+FlClash-0.8.87-windows-amd64.zip.sha256 | https://47.76.189.197/d/科学软体/稳定版/FlClash_Android/FlClash-0.8.87-windows-amd64.zip.sha256
+FlClash-0.8.87-windows-arm64-setup.exe.sha256 | https://47.76.189.197/d/科学软体/稳定版/FlClash_Android/FlClash-0.8.87-windows-arm64-setup.exe.sha256
+FlClash-0.8.87-windows-arm64.zip.sha256 | https://47.76.189.197/d/科学软体/稳定版/FlClash_Android/FlClash-0.8.87-windows-arm64.zip.sha256
+VMware-ESXi-7.0U3p-23307199-depot.zip.sha256 | https://216.73.157.44/d/VMware/VMware-ESXI/VMware vSphere Hypervisor (ESXi) 7.0U3p sysin/VMware-ESXi-7.0U3p-23307199-depot.zip.sha256
+VMware-ESXi-9.0.0.0.24755229-depot.zip.sha256 | https://216.73.157.44/d/VMware/VMware-ESXI/VMware vSphere ESXi 9.0 GA/VMware-ESXi-9.0.0.0.24755229-depot.zip.sha256
+VMware-ESXi-9.0.0.0100-24813472-depot.zip.sha256 | https://216.73.157.44/d/VMware/VMware-ESXI/VMware vSphere ESXi 9.0.0.0100 sysin/VMware-ESXi-9.0.0.0100-24813472-depot.zip.sha256
+VMware-ESXi-9.0.0.0100-24813472-x86_64.iso.sha256 | https://216.73.157.44/d/VMware/VMware-ESXI/VMware vSphere ESXi 9.0.0.0100 sysin/VMware-ESXi-9.0.0.0100-24813472-x86_64.iso.sha256
+VMware-VMvisor-Installer-9.0.0.0.24755229.x86_64.iso.sha256 | https://216.73.157.44/d/VMware/VMware-ESXI/VMware vSphere ESXi 9.0 GA/VMware-VMvisor-Installer-9.0.0.0.24755229.x86_64.iso.sha256
+clash-nyanpasu-1.6.1-1.x86_64.rpm.sha256 | https://47.76.189.197/d/科学软体/稳定版/clash-nyanpasu/clash-nyanpasu-1.6.1-1.x86_64.rpm.sha256
+clash-nyanpasu_1.6.1_amd64.deb.sha256 | https://47.76.189.197/d/科学软体/稳定版/clash-nyanpasu/clash-nyanpasu_1.6.1_amd64.deb.sha256
+mihomo-party-catalina-1.8.4-arm64.pkg.sha256 | https://47.76.189.197/d/科学软体/稳定版/Mihomo-Party/mihomo-party-catalina-1.8.4-arm64.pkg.sha256
+mihomo-party-catalina-1.8.4-x64.pkg.sha256 | https://47.76.189.197/d/科学软体/稳定版/Mihomo-Party/mihomo-party-catalina-1.8.4-x64.pkg.sha256
+mihomo-party-linux-1.8.4-aarch64.rpm.sha256 | https://47.76.189.197/d/科学软体/稳定版/Mihomo-Party/mihomo-party-linux-1.8.4-aarch64.rpm.sha256
+mihomo-party-linux-1.8.4-amd64.deb.sha256 | https://47.76.189.197/d/科学软体/稳定版/Mihomo-Party/mihomo-party-linux-1.8.4-amd64.deb.sha256
+mihomo-party-linux-1.8.4-arm64.deb.sha256 | https://47.76.189.197/d/科学软体/稳定版/Mihomo-Party/mihomo-party-linux-1.8.4-arm64.deb.sha256
+mihomo-party-linux-1.8.4-x86_64.rpm.sha256 | https://47.76.189.197/d/科学软体/稳定版/Mihomo-Party/mihomo-party-linux-1.8.4-x86_64.rpm.sha256
+mihomo-party-macos-1.8.4-arm64.pkg.sha256 | https://47.76.189.197/d/科学软体/稳定版/Mihomo-Party/mihomo-party-macos-1.8.4-arm64.pkg.sha256
+mihomo-party-macos-1.8.4-x64.pkg.sha256 | https://47.76.189.197/d/科学软体/稳定版/Mihomo-Party/mihomo-party-macos-1.8.4-x64.pkg.sha256
+mihomo-party-win7-1.8.4-ia32-portable.7z.sha256 | https://47.76.189.197/d/科学软体/稳定版/Mihomo-Party/mihomo-party-win7-1.8.4-ia32-portable.7z.sha256
+mihomo-party-win7-1.8.4-ia32-setup.exe.sha256 | https://47.76.189.197/d/科学软体/稳定版/Mihomo-Party/mihomo-party-win7-1.8.4-ia32-setup.exe.sha256
+mihomo-party-win7-1.8.4-x64-portable.7z.sha256 | https://47.76.189.197/d/科学软体/稳定版/Mihomo-Party/mihomo-party-win7-1.8.4-x64-portable.7z.sha256
+mihomo-party-win7-1.8.4-x64-setup.exe.sha256 | https://47.76.189.197/d/科学软体/稳定版/Mihomo-Party/mihomo-party-win7-1.8.4-x64-setup.exe.sha256
+mihomo-party-windows-1.8.4-arm64-portable.7z.sha256 | https://47.76.189.197/d/科学软体/稳定版/Mihomo-Party/mihomo-party-windows-1.8.4-arm64-portable.7z.sha256
+mihomo-party-windows-1.8.4-arm64-setup.exe.sha256 | https://47.76.189.197/d/科学软体/稳定版/Mihomo-Party/mihomo-party-windows-1.8.4-arm64-setup.exe.sha256
+mihomo-party-windows-1.8.4-ia32-portable.7z.sha256 | https://47.76.189.197/d/科学软体/稳定版/Mihomo-Party/mihomo-party-windows-1.8.4-ia32-portable.7z.sha256
+mihomo-party-windows-1.8.4-ia32-setup.exe.sha256 | https://47.76.189.197/d/科学软体/稳定版/Mihomo-Party/mihomo-party-windows-1.8.4-ia32-setup.exe.sha256
+mihomo-party-windows-1.8.4-x64-portable.7z.sha256 | https://47.76.189.197/d/科学软体/稳定版/Mihomo-Party/mihomo-party-windows-1.8.4-x64-portable.7z.sha256
+mihomo-party-windows-1.8.4-x64-setup.exe.sha256 | https://47.76.189.197/d/科学软体/稳定版/Mihomo-Party/mihomo-party-windows-1.8.4-x64-setup.exe.sha256

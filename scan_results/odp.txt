@@ -1,0 +1,13 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Elegant.odp | http://pub.sa2.pw/d/bacloud/1/模板/Elegant.odp
+Elegant.odp | https://pub.sa2.pw/d/bacloud/1/模板/Elegant.odp
+Gotong royong.odp | http://pub.sa2.pw/d/bacloud/1/模板/Gotong royong.odp
+Gotong royong.odp | https://pub.sa2.pw/d/bacloud/1/模板/Gotong royong.odp
+Modern company.odp | http://pub.sa2.pw/d/bacloud/1/模板/Modern company.odp
+Modern company.odp | https://pub.sa2.pw/d/bacloud/1/模板/Modern company.odp
+Simple.odp | http://pub.sa2.pw/d/bacloud/1/模板/Simple.odp
+Simple.odp | https://pub.sa2.pw/d/bacloud/1/模板/Simple.odp
+Yellow idea.odp | http://pub.sa2.pw/d/bacloud/1/模板/Yellow idea.odp
+Yellow idea.odp | https://pub.sa2.pw/d/bacloud/1/模板/Yellow idea.odp

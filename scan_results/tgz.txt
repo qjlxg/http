@@ -1,0 +1,37 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Python-3.10.4.tgz | http://172.93.221.47:30001/d/软件/Python/Python-3.10.4.tgz
+Python-3.10.9.tgz | http://172.93.221.47:30001/d/软件/Python/Python-3.10.9.tgz
+agnes-ui-1.16.6.tgz | http://139.226.10.210:8092/d/鑫元/20251125/agnes-ui-1.16.6.tgz
+agnes-ui-1.16.6.tgz | http://139.226.10.210:8092/d/鑫元/20260121/agnes-ui-1.16.6.tgz
+agnes-ui-1.16.6.tgz | http://139.226.10.210:8092/d/鑫元/20260203/agnes-ui-1.16.6.tgz
+agnes-ui-1.16.6.tgz | http://139.226.10.210:8092/d/鑫元佣金/20251219/agnes-ui-1.16.6.tgz
+agnes-ui-1.16.6.tgz | http://139.226.10.210:8092/d/鑫元佣金/20251224/agnes-ui-1.16.6.tgz
+agnes-ui-1.16.6.tgz | http://139.226.10.210:8092/d/鑫元佣金/20260126/agnes-ui-1.16.6.tgz
+agnes-ui-1.16.6.tgz | http://139.226.10.210:8092/d/鑫元佣金/临时文件夹/agnes-ui-1.16.6.tgz
+ares_images_V12.5.12.0.RKJCNXM_20211129.0000.00_11.0_cn_e8cc69b884_4.tgz | http://107.174.246.131:8082/d/web/刷机/Redmi K40 Gaming/ares_images_V12.5.12.0.RKJCNXM_20211129.0000.00_11.0_cn_e8cc69b884_4.tgz
+build-10.5-50.10_nc.tgz | http://81.71.152.215/d/百度网盘/我的软件/Citrix软件镜像/build-10.5-50.10_nc.tgz
+cni-plugins-linux-amd64-v1.5.1.tgz | https://47.101.196.211/d/bao/k8s/v1.28.4/cni-plugins-linux-amd64-v1.5.1.tgz
+compressed-dist.tgz | https://47.76.189.197/d/科学软体/稳定版/Metacubexd/compressed-dist.tgz
+data.tgz | https://alist.990668.xyz/d/Backup/qinglong/data.tgz
+docker-24.0.5.tgz | http://42.193.16.82/d/基础环境包/docker包/docker-24.0.5.tgz
+frp.tgz | http://43.142.43.120:8000/d/software/frp.tgz
+harbor-offline-installer-v2.10.2.tgz | https://47.101.196.211/d/bao/harbor/harbor-offline-installer-v2.10.2.tgz
+harbor-offline-installer-v2.11.0-rc1.tgz | https://47.101.196.211/d/bao/harbor/harbor-offline-installer-v2.11.0-rc1.tgz
+harbor-offline-installer-v2.9.4.tgz | http://172.93.221.47:30001/d/软件/Harbor/harbor-offline-installer-v2.9.4.tgz
+harbor-offline-installer-v2.9.4.tgz | https://47.101.196.211/d/bao/harbor/harbor-offline-installer-v2.9.4.tgz
+harbor-online-installer-v2.10.2.tgz | https://47.101.196.211/d/bao/harbor/harbor-online-installer-v2.10.2.tgz
+harbor-online-installer-v2.9.4.tgz | https://47.101.196.211/d/bao/harbor/harbor-online-installer-v2.9.4.tgz
+junos-srxsme-11.4R7.5-domestic.tgz | http://81.71.152.215/d/百度网盘/我的软件/Cisco & Juniper/junos-srxsme-11.4R7.5-domestic.tgz
+local.tgz | http://139.226.10.210:8092/d/鑫元/20251210/python/local.tgz
+matisse_images_V13.0.26.0.SLKCNXM_20221007.0000.00_12.0_cn_7fa02dd035.tgz | https://47.98.114.46/d/iso/matisse_images_V13.0.26.0.SLKCNXM_20221007.0000.00_12.0_cn_7fa02dd035.tgz
+python313.tgz | http://139.226.10.210:8092/d/鑫元/20251210/python/python313.tgz
+sms.tgz | https://d.017.me/d/tmp/sms.tgz
+umi_images_V12.5.10.0.RJBCNXM_20211026.0000.00_11.0_cn_23c5788648.tgz | https://1.13.159.189/d/123云盘8584/刷机/线刷救砖/umi_images_V12.5.10.0.RJBCNXM_20211026.0000.00_11.0_cn_23c5788648.tgz
+umi_images_V12.5.10.0.RJBCNXM_20211026.0000.00_11.0_cn_23c5788648.tgz | https://1.13.159.189/d/百度网盘/刷机盘/线刷救砖/umi_images_V12.5.10.0.RJBCNXM_20211026.0000.00_11.0_cn_23c5788648.tgz
+umi_images_V12.5.5.0.RJBCNXM_20210607.0000.00_11.0_cn_7bca563ca8.tgz | https://1.13.159.189/d/123云盘8584/刷机/线刷救砖/umi_images_V12.5.5.0.RJBCNXM_20210607.0000.00_11.0_cn_7bca563ca8.tgz
+umi_images_V12.5.5.0.RJBCNXM_20210607.0000.00_11.0_cn_7bca563ca8.tgz | https://1.13.159.189/d/百度网盘/刷机盘/线刷救砖/umi_images_V12.5.5.0.RJBCNXM_20210607.0000.00_11.0_cn_7bca563ca8.tgz
+umi_images_V13.0.6.0.SJBCNXM_20220517.0000.00_12.0_cn_7ff3f3a662.tgz | https://1.13.159.189/d/123云盘8584/刷机/线刷救砖/umi_images_V13.0.6.0.SJBCNXM_20220517.0000.00_12.0_cn_7ff3f3a662.tgz
+umi_images_V13.0.6.0.SJBCNXM_20220517.0000.00_12.0_cn_7ff3f3a662.tgz | https://1.13.159.189/d/百度网盘/刷机盘/线刷救砖/umi_images_V13.0.6.0.SJBCNXM_20220517.0000.00_12.0_cn_7ff3f3a662.tgz
+venus_images_V14.0.11.0.TKBCNXM_20231226.0000.00_13.0_cn_381734d624.tgz | https://110.42.41.64/d/多多/小米11/venus_images_V14.0.11.0.TKBCNXM_20231226.0000.00_13.0_cn_381734d624.tgz

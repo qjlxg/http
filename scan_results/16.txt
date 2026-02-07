@@ -1,0 +1,13 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+aclocal-1.16 | https://8.140.252.113/d/4k/bin/X11/aclocal-1.16
+aclocal-1.16 | https://8.140.252.113/d/4k/bin/aclocal-1.16
+aclocal-1.16 | https://8.140.252.113/d/4k/usr/bin/aclocal-1.16
+automake-1.16 | https://8.140.252.113/d/4k/bin/X11/automake-1.16
+automake-1.16 | https://8.140.252.113/d/4k/bin/automake-1.16
+automake-1.16 | https://8.140.252.113/d/4k/usr/bin/automake-1.16
+libpng16.so.16 | http://113.140.77.109:8881/d/服务器1/lib64/libpng16.so.16
+libpng16.so.16 | http://113.140.77.109:8881/d/服务器1/usr/lib64/libpng16.so.16
+libpng16.so.16 | https://8.140.252.113/d/4k/lib/x86_64-linux-gnu/libpng16.so.16
+libpq.so.5.16 | https://8.140.252.113/d/4k/lib/x86_64-linux-gnu/libpq.so.5.16

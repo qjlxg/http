@@ -1,0 +1,39 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+iwlwifi-7265-10.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-7265-10.ucode
+iwlwifi-7265-12.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-7265-12.ucode
+iwlwifi-7265-13.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-7265-13.ucode
+iwlwifi-7265-16.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-7265-16.ucode
+iwlwifi-7265-17.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-7265-17.ucode
+iwlwifi-7265-8.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-7265-8.ucode
+iwlwifi-7265-9.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-7265-9.ucode
+iwlwifi-7265D-10.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-7265D-10.ucode
+iwlwifi-7265D-12.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-7265D-12.ucode
+iwlwifi-7265D-13.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-7265D-13.ucode
+iwlwifi-7265D-16.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-7265D-16.ucode
+iwlwifi-7265D-17.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-7265D-17.ucode
+iwlwifi-7265D-21.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-7265D-21.ucode
+iwlwifi-7265D-22.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-7265D-22.ucode
+iwlwifi-7265D-27.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-7265D-27.ucode
+iwlwifi-7265D-29.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-7265D-29.ucode
+iwlwifi-8000C-13.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-8000C-13.ucode
+iwlwifi-8000C-16.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-8000C-16.ucode
+iwlwifi-8000C-21.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-8000C-21.ucode
+iwlwifi-8000C-22.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-8000C-22.ucode
+iwlwifi-8000C-27.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-8000C-27.ucode
+iwlwifi-8000C-31.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-8000C-31.ucode
+iwlwifi-8000C-34.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-8000C-34.ucode
+iwlwifi-8000C-36.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-8000C-36.ucode
+iwlwifi-8265-21.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-8265-21.ucode
+iwlwifi-8265-22.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-8265-22.ucode
+iwlwifi-8265-27.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-8265-27.ucode
+iwlwifi-8265-31.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-8265-31.ucode
+iwlwifi-8265-34.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-8265-34.ucode
+iwlwifi-8265-36.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-8265-36.ucode
+iwlwifi-9000-pu-b0-jf-b0-33.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-9000-pu-b0-jf-b0-33.ucode
+iwlwifi-9000-pu-b0-jf-b0-34.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-9000-pu-b0-jf-b0-34.ucode
+iwlwifi-9000-pu-b0-jf-b0-38.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-9000-pu-b0-jf-b0-38.ucode
+iwlwifi-9260-th-b0-jf-b0-33.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-9260-th-b0-jf-b0-33.ucode
+iwlwifi-9260-th-b0-jf-b0-34.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-9260-th-b0-jf-b0-34.ucode
+iwlwifi-9260-th-b0-jf-b0-38.ucode | https://154.12.23.79/d/mnt/lib/firmware/iwlwifi-9260-th-b0-jf-b0-38.ucode

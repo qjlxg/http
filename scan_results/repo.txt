@@ -1,0 +1,24 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+CentOS-Base.repo | https://154.12.23.79/d/mnt/etc/yumBak/CentOS-Base.repo
+CentOS-CR.repo | https://154.12.23.79/d/mnt/etc/yum.repos.d/CentOS-CR.repo
+CentOS-CR.repo | https://154.12.23.79/d/mnt/etc/yumBak/CentOS-CR.repo
+CentOS-Debuginfo.repo | https://154.12.23.79/d/mnt/etc/yum.repos.d/CentOS-Debuginfo.repo
+CentOS-Debuginfo.repo | https://154.12.23.79/d/mnt/etc/yumBak/CentOS-Debuginfo.repo
+CentOS-Media.repo | https://154.12.23.79/d/mnt/etc/yum.repos.d/CentOS-Media.repo
+CentOS-Media.repo | https://154.12.23.79/d/mnt/etc/yumBak/CentOS-Media.repo
+CentOS-SCLo-scl-rh.repo | https://154.12.23.79/d/mnt/etc/yum.repos.d/CentOS-SCLo-scl-rh.repo
+CentOS-Sources.repo | https://154.12.23.79/d/mnt/etc/yum.repos.d/CentOS-Sources.repo
+CentOS-Sources.repo | https://154.12.23.79/d/mnt/etc/yumBak/CentOS-Sources.repo
+CentOS-Vault.repo | https://154.12.23.79/d/mnt/etc/yum.repos.d/CentOS-Vault.repo
+CentOS-Vault.repo | https://154.12.23.79/d/mnt/etc/yumBak/CentOS-Vault.repo
+CentOS-fasttrack.repo | https://154.12.23.79/d/mnt/etc/yum.repos.d/CentOS-fasttrack.repo
+CentOS-fasttrack.repo | https://154.12.23.79/d/mnt/etc/yumBak/CentOS-fasttrack.repo
+aliyun-base-centos7.repo | https://47.101.196.211/d/bao/repos/aliyun-base-centos7.repo
+aliyun-epel-centos7.repo | https://47.101.196.211/d/bao/repos/aliyun-epel-centos7.repo
+epel-testing.repo | https://154.12.23.79/d/mnt/etc/yum.repos.d/epel-testing.repo
+epel.repo | https://154.12.23.79/d/mnt/etc/yum.repos.d/epel.repo
+openEuler.repo | http://113.140.77.109:8881/d/服务器1/etc/yum.repos.d/openEuler.repo
+redhat.repo | https://154.12.23.79/d/mnt/etc/yum.repos.d/redhat.repo
+sources.repo | http://113.140.77.109:8881/d/服务器1/root/nexus/sources.repo

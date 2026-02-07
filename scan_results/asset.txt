@@ -1,0 +1,32 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+AudioManager.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/ProjectSettings/AudioManager.asset
+BuildSettings.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/Library/BuildSettings.asset
+ClusterInputManager.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/ProjectSettings/ClusterInputManager.asset
+DynamicsManager.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/ProjectSettings/DynamicsManager.asset
+EditorBuildSettings.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/ProjectSettings/EditorBuildSettings.asset
+EditorSettings.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/ProjectSettings/EditorSettings.asset
+EditorSnapSettings.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/Library/EditorSnapSettings.asset
+EditorUserBuildSettings.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/Library/EditorUserBuildSettings.asset
+EditorUserSettings.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/UserSettings/EditorUserSettings.asset
+GraphicsSettings.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/ProjectSettings/GraphicsSettings.asset
+InputManager.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/ProjectSettings/InputManager.asset
+InspectorExpandedItems.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/Library/InspectorExpandedItems.asset
+MemorySettings.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/ProjectSettings/MemorySettings.asset
+MonoManager.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/Library/MonoManager.asset
+NavMeshAreas.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/ProjectSettings/NavMeshAreas.asset
+PackageManagerSettings.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/ProjectSettings/PackageManagerSettings.asset
+Physics2DSettings.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/ProjectSettings/Physics2DSettings.asset
+PresetManager.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/ProjectSettings/PresetManager.asset
+ProjectSettings.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/ProjectSettings/ProjectSettings.asset
+QualitySettings.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/ProjectSettings/QualitySettings.asset
+SceneVisibilityState.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/Library/SceneVisibilityState.asset
+SpriteAtlasDatabase.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/Library/SpriteAtlasDatabase.asset
+TagManager.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/ProjectSettings/TagManager.asset
+TimeManager.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/ProjectSettings/TimeManager.asset
+UnityConnectSettings.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/ProjectSettings/UnityConnectSettings.asset
+VFXManager.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/ProjectSettings/VFXManager.asset
+VersionControlSettings.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/ProjectSettings/VersionControlSettings.asset
+XRPackageSettings.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/ProjectSettings/XRPackageSettings.asset
+XRSettings.asset | https://47.251.7.109/d/temp/蛋博士q版rusk/ProjectSettings/XRSettings.asset

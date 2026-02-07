@@ -1,0 +1,10 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Install macOS BigSur 11.12.6.rdr | https://138.2.125.16:2053/d/综合文档/同步盘/MacOS/Install macOS BigSur 11.12.6.rdr
+Install macOS Catalina 10.15.7.rdr | https://138.2.125.16:2053/d/综合文档/同步盘/MacOS/Install macOS Catalina 10.15.7.rdr
+Install macOS Monterey 12.7.5.rdr | https://138.2.125.16:2053/d/综合文档/同步盘/MacOS/Install macOS Monterey 12.7.5.rdr
+Install macOS Ventura13.0Beta11(22A5373b)OC 0.8.4 Clover5149 winPE恢复版.rdr | http://152.67.108.178/d/天翼云盘/我的应用/Install macOS Ventura13.0Beta11(22A5373b)OC 0.8.4 Clover5149 winPE恢复版.rdr
+hpglw_mac13.7.7.rdr | https://138.2.125.16:2053/d/综合文档/同步盘/MacOS/hpglw_mac13.7.7.rdr
+hpglw_mac14.7.7.rdr | https://138.2.125.16:2053/d/综合文档/同步盘/MacOS/hpglw_mac14.7.7.rdr
+hpglw_mac15.6.rdr | https://138.2.125.16:2053/d/综合文档/同步盘/MacOS/hpglw_mac15.6.rdr

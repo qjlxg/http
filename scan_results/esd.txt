@@ -1,0 +1,80 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+AtlasOS_0.5.2_汉化_补全字库_By.溯汐潮.ESD | https://103.136.146.29/d/BaiduTOG/AtlasOS_0.5.2_汉化_补全字库_By.溯汐潮.ESD
+CN_Azure_Stack_HCI_22H2_x64_20349_4648_260114_fe0c9bd8.esd | https://47.240.35.33/d/Azure_Stack_HCI/CN_Azure_Stack_HCI_22H2_x64_20349_4648_260114_fe0c9bd8.esd
+CN_Azure_Stack_HCI_23H2_x64_25398_2092_260114_3912e83b.esd | https://47.240.35.33/d/Azure_Stack_HCI/CN_Azure_Stack_HCI_23H2_x64_25398_2092_260114_3912e83b.esd
+CN_Azure_Stack_HCI_24H2_x64_26100_32230_260114_14b138f4.esd | https://47.240.35.33/d/Azure_Stack_HCI/CN_Azure_Stack_HCI_24H2_x64_26100_32230_260114_14b138f4.esd
+CN_Win7_WES7_8in1_241009_26489545.esd | https://47.240.35.33/d/ESD/终止服务版本/CN_Win7_WES7_8in1_241009_26489545.esd
+CN_Windows_10_1709_Pro_x64_16299_2166_201026_ee3cf04a.esd | https://47.240.35.33/d/ESD/终止服务版本/CN_Windows_10_1709_Pro_x64_16299_2166_201026_ee3cf04a.esd
+CN_Windows_10_1909_Pro_x64_18363_2274_220511_59ec6ab4.esd | https://47.240.35.33/d/ESD/终止服务版本/CN_Windows_10_1909_Pro_x64_18363_2274_220511_59ec6ab4.esd
+CN_Windows_10_22H2_Pro_x64_19045_6809_260114_b2f9b8f4.esd | https://47.240.35.33/d/ESD/CN_Windows_10_22H2_Pro_x64_19045_6809_260114_b2f9b8f4.esd
+CN_Windows_11_21H2_Pro_x64_22000_3260_241009_4bbc0918.esd | https://47.240.35.33/d/ESD/终止服务版本/CN_Windows_11_21H2_Pro_x64_22000_3260_241009_4bbc0918.esd
+CN_Windows_11_23H2_Pro_x64_22631_6491_260114_363b6425.esd | https://47.240.35.33/d/ESD/CN_Windows_11_23H2_Pro_x64_22631_6491_260114_363b6425.esd
+CN_Windows_11_25H2_Pro_x64_26200_7623_260114_60477af3.esd | https://47.240.35.33/d/ESD/CN_Windows_11_25H2_Pro_x64_26200_7623_260114_60477af3.esd
+CN_Windows_7_SP1_Pro_x64_241009_bc1b5704.esd | https://47.240.35.33/d/ESD/终止服务版本/CN_Windows_7_SP1_Pro_x64_241009_bc1b5704.esd
+CN_Windows_7_SP1_Pro_x86_241009_eb7da49e.esd | https://47.240.35.33/d/ESD/终止服务版本/CN_Windows_7_SP1_Pro_x86_241009_eb7da49e.esd
+CN_Windows_Embedded_Standard_7_SP1_x64_241009_4ce3e02d.esd | https://47.240.35.33/d/ESD/终止服务版本/CN_Windows_Embedded_Standard_7_SP1_x64_241009_4ce3e02d.esd
+CN_Windows_Embedded_Standard_7_SP1_x86_241009_2acbbaa6.esd | https://47.240.35.33/d/ESD/终止服务版本/CN_Windows_Embedded_Standard_7_SP1_x86_241009_2acbbaa6.esd
+ITSK-WIN10-PRO-X64-ES5-W21.708.1-V21H1.06.ESD | https://139.185.32.228/d/ISO/10/ITSK-WIN10-PRO-X64-ES5-W21.708.1-V21H1.06.ESD
+ITSK-WIN10-PRO-X64-ES5-W21.708.1-V21H1.06.ESD | https://193.123.85.183/d/ISO/10/ITSK-WIN10-PRO-X64-ES5-W21.708.1-V21H1.06.ESD
+ITSK-WIN10-PRO-X64-ES5-W21.808.2-V21H1.07.ESD | https://139.185.32.228/d/ISO/10/ITSK-WIN10-PRO-X64-ES5-W21.808.2-V21H1.07.ESD
+ITSK-WIN10-PRO-X64-ES5-W21.808.2-V21H1.07.ESD | https://193.123.85.183/d/ISO/10/ITSK-WIN10-PRO-X64-ES5-W21.808.2-V21H1.07.ESD
+ITSK-WIN7-X86-ES4-W20.107.2-V2020.36.ESD | https://139.185.32.228/d/ISO/7/ITSK-WIN7-X86-ES4-W20.107.2-V2020.36.ESD
+ITSK-WIN7-X86-ES4-W20.107.2-V2020.36.ESD | https://193.123.85.183/d/ISO/7/ITSK-WIN7-X86-ES4-W20.107.2-V2020.36.ESD
+Intel3X0+4X0+AMDRyzen-WIN7-X64-ES5-D2.6.0.0-V2021.17.ESD | https://139.185.32.228/d/ISO/7/Intel3X0+4X0+AMDRyzen-WIN7-X64-ES5-D2.6.0.0-V2021.17.ESD
+Intel3X0+4X0+AMDRyzen-WIN7-X64-ES5-D2.6.0.0-V2021.17.ESD | https://193.123.85.183/d/ISO/7/Intel3X0+4X0+AMDRyzen-WIN7-X64-ES5-D2.6.0.0-V2021.17.ESD
+Intel3X0+AMDRyzen-WIN7-X64-ES5-W20.1009.1-V2020.14.ESD | https://64.181.190.142:2083/d/天翼133/电脑系统/Intel3X0+AMDRyzen-WIN7-X64-ES5-W20.1009.1-V2020.14.ESD
+Pure_WindowsThinPC_2020.7.esd | http://47.83.157.204:36081/d/系统/thinpc/Pure_WindowsThinPC_2020.7.esd
+Pure_WindowsThinPC_2020.7.esd | https://47.83.157.204/d/系统/thinpc/Pure_WindowsThinPC_2020.7.esd
+Pure_WindowsThinPC_NoDrv_2020.7.esd | http://47.83.157.204:36081/d/系统/thinpc/Pure_WindowsThinPC_NoDrv_2020.7.esd
+Pure_WindowsThinPC_NoDrv_2020.7.esd | https://47.83.157.204/d/系统/thinpc/Pure_WindowsThinPC_NoDrv_2020.7.esd
+WIN10-LTSC-20211029-03.esd | https://139.185.32.228/d/ISO/10/WIN10-LTSC-20211029-03.esd
+WIN10-LTSC-20211029-03.esd | https://193.123.85.183/d/ISO/10/WIN10-LTSC-20211029-03.esd
+WIN10-LTSC2019-20211022-02.esd | https://139.185.32.228/d/ISO/10/WIN10-LTSC2019-20211022-02.esd
+WIN10-LTSC2019-20211022-02.esd | https://193.123.85.183/d/ISO/10/WIN10-LTSC2019-20211022-02.esd
+WIN7-X64-Intel3X0-AMDRyzen-ES5S-D2.9.0.0-V2022.19.ESD | https://139.185.32.228/d/ISO/7/WIN7-X64-Intel3X0-AMDRyzen-ES5S-D2.9.0.0-V2022.19.ESD
+WIN7-X64-Intel3X0-AMDRyzen-ES5S-D2.9.0.0-V2022.19.ESD | https://193.123.85.183/d/ISO/7/WIN7-X64-Intel3X0-AMDRyzen-ES5S-D2.9.0.0-V2022.19.ESD
+Win10_21H1_X64_LITE.esd | https://139.185.32.228/d/ISO/10/LEAN/Win10_21H1_X64_LITE.esd
+Win10_21H1_X64_LITE.esd | https://193.123.85.183/d/ISO/10/LEAN/Win10_21H1_X64_LITE.esd
+Win2012R2Dat+T1+SQL2012SP4.ESD | https://138.2.125.16:2053/d/综合文档/同步盘/Windows/Win2012R2Dat+T1+SQL2012SP4.ESD
+Win7_Ultimate_X64&X86_Mini.esd | https://103.136.146.29/d/BaiduTOG/Windows 7 Ultimate Mini V4 Final by iCura 2021.06.07/Win7_Ultimate_X64&X86_Mini.esd
+Win7_Ultimate_X64_Mini.esd | https://103.136.146.29/d/BaiduTOG/Windows 7 Ultimate Mini V4 Final by iCura 2021.06.07/Win7_Ultimate_X64_Mini.esd
+Win7_Ultimate_X86_Mini.esd | https://103.136.146.29/d/BaiduTOG/Windows 7 Ultimate Mini V4 Final by iCura 2021.06.07/Win7_Ultimate_X86_Mini.esd
+Windows 10 LTSC 17763.2213 2in1 小修.esd | https://103.136.146.29/d/BaiduTOG/Windows - 小修/Win10 LTSC - 小修/Windows 10 LTSC 17763.2213 2in1 小修.esd
+Windows 10 Pro 19044 1263 2in1 V2 小修.esd | https://103.136.146.29/d/BaiduTOG/Windows - 小修/Windows 10 - 小修/Windows 10 Pro 19044 1263 2in1 V2 小修.esd
+Windows 11 Pro 22000.132 4in1 小修.esd | https://103.136.146.29/d/BaiduTOG/小修/Windows 11 Pro 22000.132 4in1 小修.esd
+Windows 11 Pro 22000.160 4in1 小修.esd | https://103.136.146.29/d/BaiduTOG/小修/Windows 11 Pro 22000.160 4in1 小修.esd
+Windows 11 Pro 22000.194 2in1 小修.esd | https://103.136.146.29/d/BaiduTOG/小修/Windows 11 Pro 22000.194 2in1 小修.esd
+Windows 11 Pro 22000.258 4in1 V2 小修.esd | https://103.136.146.29/d/BaiduTOG/Windows - 小修/Windows 11 - 小修/Windows 11 Pro 22000.258 4in1 V2 小修.esd
+Windows 11 Pro 22000.258 4in1 V2 小修.esd | https://103.136.146.29/d/BaiduTOG/小修/Windows 11 Pro 22000.258 4in1 V2 小修.esd
+Windows 11 Pro 22000.258 4in1 小修.esd | https://103.136.146.29/d/BaiduTOG/小修/Windows 11 Pro 22000.258 4in1 小修.esd
+Windows 11 Pro 22471 1000 2in1 小修.esd | https://103.136.146.29/d/BaiduTOG/小修/Windows 11 Pro 22471 1000 2in1 小修.esd
+Windows7_MultipleEditions_6in1_X64_Mini_(Build210817).esd | https://64.181.190.142:2083/d/天翼133/电脑系统/Windows7_MultipleEditions_6in1_X64_Mini_(Build210817).esd
+Windows_Server_2022_x64_数据中心版（20250415更新）.esd | http://114.246.207.186:9000/d/st-bak/系统&镜像/不帅系统/Windows_Server_2022_x64_数据中心版（20250415更新）.esd
+YOS_W10_20H1X86_X64_20204_4in1.esd | https://139.185.32.228/d/ISO/10/YOS/YOS_W10_20H1X86_X64_20204_4in1.esd
+YOS_W10_20H1X86_X64_20204_4in1.esd | https://193.123.85.183/d/ISO/10/YOS/YOS_W10_20H1X86_X64_20204_4in1.esd
+YOS_W10_21H1X64_20216_2in1.esd | https://139.185.32.228/d/ISO/10/YOS/YOS_W10_21H1X64_20216_2in1.esd
+YOS_W10_21H1X64_20216_2in1.esd | https://193.123.85.183/d/ISO/10/YOS/YOS_W10_21H1X64_20216_2in1.esd
+YOS_W7X86_X64_202101.esd | https://139.185.32.228/d/ISO/7/YOS_W7X86_X64_202101.esd
+YOS_W7X86_X64_202101.esd | https://193.123.85.183/d/ISO/7/YOS_W7X86_X64_202101.esd
+win10Final-x64_22000_20250325.esd | http://42.193.46.147:88/d/windows/PE加系统镜像/win系统/win10Final-x64_22000_20250325.esd
+win10Final-x86_21390_20250325.esd | http://42.193.46.147:88/d/windows/PE加系统镜像/win系统/win10Final-x86_21390_20250325.esd
+x64Win10LTSC.ESD | https://138.2.125.16:2053/d/综合文档/同步盘/Windows/x64Win10LTSC.ESD
+【不忘初心】Win10_21H1_19043.1237_X64_[深度精简版][1.22G](2021.9.18) .esd | https://139.185.32.228/d/转存/Windows 10 不忘初心精简版/【不忘初心】Win10_21H1_19043.1237_X64_[深度精简版][1.23G](2021.9.18)/【不忘初心】Win10_21H1_19043.1237_X64_[深度精简版][1.22G](2021.9.18) .esd
+【不忘初心】Win10_21H1_19043.1237_X64_[深度精简版][1.22G](2021.9.18) .esd | https://193.123.85.183/d/转存/Windows 10 不忘初心精简版/【不忘初心】Win10_21H1_19043.1237_X64_[深度精简版][1.23G](2021.9.18)/【不忘初心】Win10_21H1_19043.1237_X64_[深度精简版][1.22G](2021.9.18) .esd
+【不忘初心】Windows10_22H2_19045.4598_X64_纯净[深度精简版][1.26G](2024.6.28).esd | https://27.42.165.121:1688/d/【不忘初心】Windows10_22H2_19045.4598_X64_纯净[深度精简版][1.26G](2024.6.28).esd
+【不忘初心】Windows7专业版_旗舰版_SP1_7601.27117_IE8_IE11[精简版][2.01G](2024.6.5).esd | https://27.42.165.121:1688/d/【不忘初心】Windows7专业版_旗舰版_SP1_7601.27117_IE8_IE11[精简版][2.01G](2024.6.5).esd
+【果核】Windows 10 Pro 21H2(19044.1682).esd | https://1.13.159.189/d/123云盘183/win10/果核/【果核】Windows 10 Pro 21H2(19044.1682).esd
+【果核】Windows 10 Pro 21H2(19044.1706).esd | https://1.13.159.189/d/123云盘183/win10/果核/【果核】Windows 10 Pro 21H2(19044.1706).esd
+【果核】Windows 10 Pro 21H2(19044.1766).esd | https://1.13.159.189/d/123云盘183/win10/果核/【果核】Windows 10 Pro 21H2(19044.1766).esd
+【果核】Windows 10(19045.2075) 专业优化版-admin.esd | https://1.13.159.189/d/123云盘183/win10/果核/【果核】Windows 10(19045.2075) 专业优化版-admin.esd
+【果核】Windows 10(19045.2075) 专业优化版-无账户.esd | https://1.13.159.189/d/123云盘183/win10/果核/【果核】Windows 10(19045.2075) 专业优化版-无账户.esd
+【果核】Windows10 x64(19044.1826)-admin.esd | https://1.13.159.189/d/123云盘183/win10/果核/【果核】Windows10 x64(19044.1826)-admin.esd
+【果核】Windows10 x64(19044.1865)-admin.esd | https://1.13.159.189/d/123云盘183/win10/果核/【果核】Windows10 x64(19044.1865)-admin.esd
+【果核】Windows10(19045.2075)极限精简-admin.esd | https://1.13.159.189/d/123云盘183/win10/果核/【果核】Windows10(19045.2075)极限精简-admin.esd
+【果核】Windows10(19045.2075)极限精简-无账户.esd | https://1.13.159.189/d/123云盘183/win10/果核/【果核】Windows10(19045.2075)极限精简-无账户.esd
+万能驱动Intel3X0+AMDRyzen-WIN7-X64-ES5-W20.1009.1-V2020.14.ESD | https://139.185.32.228/d/ISO/7/万能驱动Intel3X0+AMDRyzen-WIN7-X64-ES5-W20.1009.1-V2020.14.ESD
+万能驱动Intel3X0+AMDRyzen-WIN7-X64-ES5-W20.1009.1-V2020.14.ESD | https://193.123.85.183/d/ISO/7/万能驱动Intel3X0+AMDRyzen-WIN7-X64-ES5-W20.1009.1-V2020.14.ESD
+极限版_Windows10 2016_LTSB_14393_7969.esd | http://42.193.46.147:88/d/windows/PE加系统镜像/win系统/极限版_Windows10 2016_LTSB_14393_7969.esd
+极限版_Windows10 2019_LTSC_17763_7558.esd | http://42.193.46.147:88/d/windows/PE加系统镜像/win系统/极限版_Windows10 2019_LTSC_17763_7558.esd

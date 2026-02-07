@@ -1,0 +1,27 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+qt_ar.qm | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/translations/qt_ar.qm
+qt_bg.qm | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/translations/qt_bg.qm
+qt_ca.qm | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/translations/qt_ca.qm
+qt_cs.qm | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/translations/qt_cs.qm
+qt_da.qm | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/translations/qt_da.qm
+qt_de.qm | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/translations/qt_de.qm
+qt_en.qm | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/translations/qt_en.qm
+qt_es.qm | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/translations/qt_es.qm
+qt_fi.qm | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/translations/qt_fi.qm
+qt_fr.qm | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/translations/qt_fr.qm
+qt_gd.qm | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/translations/qt_gd.qm
+qt_he.qm | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/translations/qt_he.qm
+qt_hu.qm | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/translations/qt_hu.qm
+qt_it.qm | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/translations/qt_it.qm
+qt_ja.qm | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/translations/qt_ja.qm
+qt_ko.qm | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/translations/qt_ko.qm
+qt_lv.qm | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/translations/qt_lv.qm
+qt_pl.qm | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/translations/qt_pl.qm
+qt_ru.qm | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/translations/qt_ru.qm
+qt_sk.qm | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/translations/qt_sk.qm
+qt_tr.qm | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/translations/qt_tr.qm
+qt_uk.qm | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/translations/qt_uk.qm
+qt_zh_TW.qm | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/translations/qt_zh_TW.qm
+qtbase_zh_CN.qm | https://alist.990668.xyz/d/代理工具/nekoray-3.26-2023-12-09-windows64/nekoray/qtbase_zh_CN.qm

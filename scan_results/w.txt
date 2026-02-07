@@ -1,0 +1,12 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+RAX50_386.5_2_pureubi_5bc44b7_koolcenter.w | https://47.76.189.197/d/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/路由器梅林固件/RAX50_386.5_2_pureubi_5bc44b7_koolcenter.w
+RAX80_386.5_2_ubi_bc4d950_koolcenter.w | https://47.76.189.197/d/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/路由器梅林固件/RAX80_386.5_2_ubi_bc4d950_koolcenter.w
+RT-AC86U_386.9_0_cferom_ubi_koolcenter.w | https://47.76.189.197/d/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/路由器梅林固件/RT-AC86U_386.9_0_cferom_ubi_koolcenter.w
+RT-AX58U_3004_388.8_2_puresqubi-14850c7.w | https://47.76.189.197/d/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/路由器梅林固件/RT-AX58U_3004_388.8_2_puresqubi-14850c7.w
+RT-AX82U_3004_388.7_0_584f0a82_puresqubi.w | https://47.76.189.197/d/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/路由器梅林固件/RT-AX82U_3004_388.7_0_584f0a82_puresqubi.w
+RT-AX86U_3004_388.8_2_pureubi-380dc41.w | https://47.76.189.197/d/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/路由器梅林固件/RT-AX86U_3004_388.8_2_pureubi-380dc41.w
+RT-AX86U_3004_388.8_4_pureubi-d779fea.w | https://47.76.189.197/d/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/路由器梅林固件/RT-AX86U_3004_388.8_4_pureubi-d779fea.w
+RT-AX86U_388_24231_koolcenter_pureubi_3e69d0e.w | https://47.76.189.197/d/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/路由器梅林固件/RT-AX86U_388_24231_koolcenter_pureubi_3e69d0e.w
+RT-AX88U_3004_388.9_2_cferom_ubi-d68986d.w | https://47.76.189.197/d/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/路由器梅林固件/RT-AX88U_3004_388.9_2_cferom_ubi-d68986d.w

@@ -1,0 +1,7 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+TEMP1.LST | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/data/TEMP1.LST
+TEMP1.LST | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/data/TEMP1.LST
+dms_events_conf.lst | http://113.140.77.109:8881/d/服务器1/etc/dms_events_conf.lst
+menu.lst | https://154.12.23.79/d/mnt/boot/grub/menu.lst

@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+hud_survival.dem | https://47.116.119.109/d/百度网盘/求生专栏（2021-12-4）/生还者模式DEMO（性能测试用）/hud_survival.dem
+hud_survival.dem | https://47.116.14.121:8443/d/百度网盘/求生专栏（2021-12-4）/生还者模式DEMO（性能测试用）/hud_survival.dem

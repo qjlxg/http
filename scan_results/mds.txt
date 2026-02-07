@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+TEGOME_MOTION.MDS | http://pub.sa2.pw/d/GoogleDrive/游戏/[170428][Guilty][手籠めにされる九人の堕女 The Motion]/TEGOME_MOTION.MDS
+TEGOME_MOTION.MDS | https://pub.sa2.pw/d/GoogleDrive/游戏/[170428][Guilty][手籠めにされる九人の堕女 The Motion]/TEGOME_MOTION.MDS

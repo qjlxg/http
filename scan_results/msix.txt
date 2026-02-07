@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Hiddify-Windows-Setup-x64.Msix | https://47.243.96.46/d/TianSuan Fly/Windows客户端/Hiddify-Windows-Setup-x64.Msix
+Hiddify-Windows-Setup-x64.Msix | https://47.76.189.197/d/科学软体/稳定版/hiddify-app/Hiddify-Windows-Setup-x64.Msix

@@ -1,0 +1,15 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+fsck.xfs | http://113.140.77.109:8881/d/服务器1/sbin/fsck.xfs
+fsck.xfs | http://113.140.77.109:8881/d/服务器1/usr/sbin/fsck.xfs
+fsck.xfs | https://154.12.23.79/d/mnt/sbin/fsck.xfs
+fsck.xfs | https://154.12.23.79/d/mnt/usr/sbin/fsck.xfs
+fsck.xfs | https://8.140.252.113/d/4k/sbin/fsck.xfs
+fsck.xfs | https://8.140.252.113/d/4k/usr/sbin/fsck.xfs
+mkfs.xfs | http://113.140.77.109:8881/d/服务器1/sbin/mkfs.xfs
+mkfs.xfs | http://113.140.77.109:8881/d/服务器1/usr/sbin/mkfs.xfs
+mkfs.xfs | https://154.12.23.79/d/mnt/sbin/mkfs.xfs
+mkfs.xfs | https://154.12.23.79/d/mnt/usr/sbin/mkfs.xfs
+mkfs.xfs | https://8.140.252.113/d/4k/sbin/mkfs.xfs
+mkfs.xfs | https://8.140.252.113/d/4k/usr/sbin/mkfs.xfs

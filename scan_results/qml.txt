@@ -1,0 +1,28 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Blend.qml | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/Blend.qml
+BrightnessContrast.qml | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/BrightnessContrast.qml
+ColorOverlay.qml | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/ColorOverlay.qml
+Colorize.qml | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/Colorize.qml
+ConicalGradient.qml | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/ConicalGradient.qml
+Desaturate.qml | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/Desaturate.qml
+DirectionalBlur.qml | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/DirectionalBlur.qml
+Displace.qml | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/Displace.qml
+DropShadow.qml | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/DropShadow.qml
+FastBlur.qml | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/FastBlur.qml
+GammaAdjust.qml | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/GammaAdjust.qml
+GaussianBlur.qml | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/GaussianBlur.qml
+Glow.qml | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/Glow.qml
+HueSaturation.qml | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/HueSaturation.qml
+InnerShadow.qml | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/InnerShadow.qml
+LevelAdjust.qml | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/LevelAdjust.qml
+LinearGradient.qml | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/LinearGradient.qml
+MaskedBlur.qml | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/MaskedBlur.qml
+OpacityMask.qml | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/OpacityMask.qml
+RadialBlur.qml | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/RadialBlur.qml
+RadialGradient.qml | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/RadialGradient.qml
+RectangularGlow.qml | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/RectangularGlow.qml
+RecursiveBlur.qml | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/RecursiveBlur.qml
+ThresholdMask.qml | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/ThresholdMask.qml
+ZoomBlur.qml | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/ZoomBlur.qml

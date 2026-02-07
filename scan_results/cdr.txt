@@ -1,0 +1,4 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+macOS High Sierra 10.13 Lazy Installer.cdr | http://81.71.152.215/d/百度网盘/我的软件/MacOS/macOS High Sierra 10.13 Lazy Installer.cdr

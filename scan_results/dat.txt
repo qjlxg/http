@@ -1,0 +1,118 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Backup_ALL_ALLDBFILE_20250215220833.dat | http://153.99.141.172:2223/d/test/文件/文件/Backup_ALL_ALLDBFILE_20250215220833.dat
+CatalogDefault.dat | https://139.185.32.228/d/工具/XYplorer/CatalogDefault.dat
+CatalogDefault.dat | https://193.123.85.183/d/工具/XYplorer/CatalogDefault.dat
+CiZu.dat | http://47.83.157.204:36081/d/手写笔/君彩djj-7驱动V7.2/handwritingft/CiZu.dat
+CiZu.dat | http://47.83.157.204:36081/d/手写笔/君彩djj-7驱动V7.2/handwritingjt/CiZu.dat
+CiZu.dat | https://47.83.157.204/d/手写笔/君彩djj-7驱动V7.2/handwritingft/CiZu.dat
+CiZu.dat | https://47.83.157.204/d/手写笔/君彩djj-7驱动V7.2/handwritingjt/CiZu.dat
+DYC.DAT | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/data/DYC.DAT
+DYC.DAT | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/data/DYC.DAT
+DemoLocalCfg.dat | http://218.28.112.170:5555/d/软件/大宗物料/DemoLocalCfg.dat
+DeviceCfg.dat | http://218.28.112.170:5555/d/软件/大宗物料/DeviceCfg.dat
+DrvBackup_6.1_x64.dat | http://171.95.23.159:88/d/工具/软件/新建文件夹/DrvBackup_6.1_x64.dat
+HZ03.DAT | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/data/HZ03.DAT
+HZ03.DAT | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/data/HZ03.DAT
+IDMFType.dat | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/IDMFType.dat
+Lang.dat | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/Lang.dat
+LocalSensorAdd.dat | http://218.28.112.170:5555/d/软件/大宗物料/LocalSensorAdd.dat
+MSZR.DAT | http://47.83.157.204:36081/d/手写笔/君彩djj-7驱动V7.2/instalk/MSZR.DAT
+MSZR.DAT | https://47.83.157.204/d/手写笔/君彩djj-7驱动V7.2/instalk/MSZR.DAT
+NTUSER.DAT | https://139.185.32.228/d/工具/小鱼儿yr系统封装优化设置辅助工具/Config/NTUSER.DAT
+NTUSER.DAT | https://193.123.85.183/d/工具/小鱼儿yr系统封装优化设置辅助工具/Config/NTUSER.DAT
+PY22.DAT | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/data/PY22.DAT
+PY22.DAT | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/data/PY22.DAT
+PrinterSettings1.dat | http://120.26.66.68:8008/d/打印价格标签文件/打印机快速切换模版脚本/PrinterSettings1.dat
+PrinterSettings1.dat | http://120.26.66.68:8008/d/打印机驱动/TSC TTP-244 Pro脚本/PrinterSettings1.dat
+PrinterSettings1.dat | http://120.26.66.68:8008/d/打印机驱动/Zenpert 4T520脚本/PrinterSettings1.dat
+PrinterSettings1.dat | https://120.26.66.68:8009/d/打印价格标签文件/打印机快速切换模版脚本/PrinterSettings1.dat
+PrinterSettings1.dat | https://120.26.66.68:8009/d/打印机驱动/TSC TTP-244 Pro脚本/PrinterSettings1.dat
+PrinterSettings1.dat | https://120.26.66.68:8009/d/打印机驱动/Zenpert 4T520脚本/PrinterSettings1.dat
+PrinterSettings2.dat | http://120.26.66.68:8008/d/打印价格标签文件/打印机快速切换模版脚本/PrinterSettings2.dat
+PrinterSettings2.dat | http://120.26.66.68:8008/d/打印机驱动/TSC TTP-244 Pro脚本/PrinterSettings2.dat
+PrinterSettings2.dat | http://120.26.66.68:8008/d/打印机驱动/Zenpert 4T520脚本/PrinterSettings2.dat
+PrinterSettings2.dat | https://120.26.66.68:8009/d/打印价格标签文件/打印机快速切换模版脚本/PrinterSettings2.dat
+PrinterSettings2.dat | https://120.26.66.68:8009/d/打印机驱动/TSC TTP-244 Pro脚本/PrinterSettings2.dat
+PrinterSettings2.dat | https://120.26.66.68:8009/d/打印机驱动/Zenpert 4T520脚本/PrinterSettings2.dat
+Process.dat | http://171.95.23.159:88/d/工具/软件/USBKiller/Process.dat
+Rinside.dat | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/Rinside.dat
+Roboto_Light.dat | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/Roboto_Light.dat
+action.dat | https://139.185.32.228/d/工具/XYplorer/Data/action.dat
+action.dat | https://193.123.85.183/d/工具/XYplorer/Data/action.dat
+aida64.dat | https://139.185.32.228/d/硬件/AIDA64 Extreme/aida64.dat
+aida64.dat | https://193.123.85.183/d/硬件/AIDA64 Extreme/aida64.dat
+cn.dat | https://47.76.189.197/d/科学软体/稳定版/Geoip/cn.dat
+ews.dat | http://114.246.207.186:9000/d/st-bak/胡俊/ews.dat
+filexfer.dat | http://117.50.199.26:15244/d/nas/windows 工具/Xshell+Xftp/filexfer.dat
+filexfer.dat | https://ipas.ic-market.top/d/nas/windows 工具/Xshell+Xftp/filexfer.dat
+ftag.dat | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/splib/ftag.dat
+ftag.dat | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/splib/ftag.dat
+fvoice.dat | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/splib/fvoice.dat
+fvoice.dat | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/splib/fvoice.dat
+fvs.dat | https://139.185.32.228/d/工具/XYplorer/Data/fvs.dat
+fvs.dat | https://193.123.85.183/d/工具/XYplorer/Data/fvs.dat
+geoip-asn.dat | https://47.76.189.197/d/科学软体/稳定版/Geoip/geoip-asn.dat
+geoip-only-cn-private.dat | https://47.76.189.197/d/科学软体/稳定版/Geoip/geoip-only-cn-private.dat
+geoip.dat | https://47.76.189.197/d/科学软体/稳定版/Geoip/geoip.dat
+geoip.dat | https://47.76.189.197/d/科学软体/稳定版/v2ray-rules-dat/geoip.dat
+geoip.dat | https://alist.990668.xyz/d/代理工具/nekoray-3.26-2023-12-09-windows64/nekoray/geoip.dat
+geosite 2.dat | http://129.153.49.43:7443/d/geosite 2.dat
+geosite 3.dat | http://129.153.49.43:7443/d/geosite 3.dat
+geosite.dat | http://129.153.49.43:7443/d/geosite.dat
+geosite.dat | https://47.76.189.197/d/科学软体/稳定版/v2ray-rules-dat/geosite.dat
+geosite.dat | https://52.140.241.52/d/webdav/w2/geosite.dat
+geosite.dat | https://alist.990668.xyz/d/代理工具/nekoray-3.26-2023-12-09-windows64/nekoray/geosite.dat
+guid.dat | https://142.171.66.197/d/onedrive/文件夹/youdaodict/guid.dat
+icudtl.dat | http://27.30.64.27:121/d/0.常驻/0.压缩包/CloudMusic v2.9.4 绿色版/icudtl.dat
+icudtl.dat | https://alist.990668.xyz/d/代理工具/clash/Clash.for.Windows-0.20.21-win/icudtl.dat
+icudtl.dat | https://alist.990668.xyz/d/代理工具/clash/Clash.for.Windows中文版64位-0.20.14/icudtl.dat
+icudtl.dat | https://alist.990668.xyz/d/其他/[简易]原神抽卡查询/Genshin-Wish-Export/icudtl.dat
+idmfc.dat | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/idmfc.dat
+index.dat | http://118.25.145.11:88/d/音乐/网易云/Cache/index.dat
+ks.dat | https://139.185.32.228/d/工具/XYplorer/Data/ks.dat
+ks.dat | https://193.123.85.183/d/工具/XYplorer/Data/ks.dat
+lastini.dat | https://139.185.32.228/d/工具/XYplorer/Data/lastini.dat
+lastini.dat | https://193.123.85.183/d/工具/XYplorer/Data/lastini.dat
+left4dead2.dat | https://47.116.119.109/d/GSM/L4D2/left4dead2.dat
+left4dead2.dat | https://47.116.14.121:8443/d/GSM/L4D2/left4dead2.dat
+lic_041217_3BE716D1773A5D5F5EF6F4DD515EE524_wangshen-scan-S9000-W030M-FHYML-0PVR8-ZS9YH.dat | https://8.217.236.10/d/访客文件夹_可上传/tmp/lic_041217_3BE716D1773A5D5F5EF6F4DD515EE524_wangshen-scan-S9000-W030M-FHYML-0PVR8-ZS9YH.dat
+license.dat | http://218.28.112.170:5555/d/软件/MRK_银狐专杀_37_59230_231204150344/bin/license.dat
+license.dat | http://218.28.112.170:5555/d/软件/MRK_银狐专杀_37_59230_231204150344/license.dat
+license_4_V009R001C.dat | http://113.140.77.109:8881/d/服务器1/home/kingbase/license_4_V009R001C.dat
+log.dat | http://120.26.66.68:8008/d/其他/DirectX_Repair(Enhanced_Edition)/log.dat
+log.dat | https://120.26.66.68:8009/d/其他/DirectX_Repair(Enhanced_Edition)/log.dat
+msitoexe.dat | https://alist.990668.xyz/d/其他/msi转exe软件_v1205/MSI to EXE Compiler Pro 1.2.0.5/msitoexe.dat
+myri10ge_eth_big_z8e.dat | http://113.140.77.109:8881/d/服务器1/lib/firmware/myri10ge_eth_big_z8e.dat
+myri10ge_eth_z8e.dat | http://113.140.77.109:8881/d/服务器1/lib/firmware/myri10ge_eth_z8e.dat
+myri10ge_ethp_big_z8e.dat | http://113.140.77.109:8881/d/服务器1/lib/firmware/myri10ge_ethp_big_z8e.dat
+myri10ge_ethp_z8e.dat | http://113.140.77.109:8881/d/服务器1/lib/firmware/myri10ge_ethp_z8e.dat
+myri10ge_rss_eth_big_z8e.dat | http://113.140.77.109:8881/d/服务器1/lib/firmware/myri10ge_rss_eth_big_z8e.dat
+myri10ge_rss_eth_z8e.dat | http://113.140.77.109:8881/d/服务器1/lib/firmware/myri10ge_rss_eth_z8e.dat
+myri10ge_rss_ethp_big_z8e.dat | http://113.140.77.109:8881/d/服务器1/lib/firmware/myri10ge_rss_ethp_big_z8e.dat
+myri10ge_rss_ethp_z8e.dat | http://113.140.77.109:8881/d/服务器1/lib/firmware/myri10ge_rss_ethp_z8e.dat
+portable.dat | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/portable.dat
+private.dat | https://47.76.189.197/d/科学软体/稳定版/Geoip/private.dat
+rubbishrecord.dat | https://alist.990668.xyz/d/windows优化工具/6.魔方清理/Config/rubbishrecord.dat
+s+25.000FPS.DAT | http://112.13.121.252:8090/d/百度网盘/测试1016/s+25.000FPS.DAT
+s+29.970FPS.DAT | http://112.13.121.252:8090/d/百度网盘/测试1016/s+29.970FPS.DAT
+sh.dat | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/sh.dat
+tag.dat | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/splib/tag.dat
+tag.dat | https://139.185.32.228/d/工具/XYplorer/Data/tag.dat
+tag.dat | https://193.123.85.183/d/工具/XYplorer/Data/tag.dat
+tag.dat | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/splib/tag.dat
+udc.dat | https://139.185.32.228/d/工具/XYplorer/Data/udc.dat
+udc.dat | https://193.123.85.183/d/工具/XYplorer/Data/udc.dat
+unins000.dat | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/unins000.dat
+unins000.dat | https://220.190.14.253:6010/d/PC软件/ARCHPR暴力破解压缩工具/Elcomsoft Password Recovery/unins000.dat
+unins000.dat | https://60.205.14.56/d/百度网盘/1视觉小说/fate/unins000.dat
+unins000.dat | https://www.bx02.icu:6010/d/PC软件/ARCHPR暴力破解压缩工具/Elcomsoft Password Recovery/unins000.dat
+user1.dat | https://113.207.49.5/d/游戏/空洞骑士存档/user1.dat
+users.dat | http://171.95.23.159:88/d/工具/工具/网络工具/users.dat
+vendor.dat | https://142.171.66.197/d/onedrive/文件夹/youdaodict/vendor.dat
+versionInfo.dat | https://112.126.78.233/d/zhounian365A/patch_main/versionInfo.dat
+versionInfo.dat | https://112.126.78.233/d/zhounian365P/patch_main/versionInfo.dat
+voice.dat | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/splib/voice.dat
+voice.dat | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/splib/voice.dat
+winid.dat | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/winid.dat

@@ -1,0 +1,10 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+fastestmirror.pyc | https://154.12.23.79/d/mnt/lib/yum-plugins/fastestmirror.pyc
+m.cpython-310.pyc | https://45.77.200.196/d/代码片段/模块和包/__pycache__/m.cpython-310.pyc
+product-id.pyc | https://154.12.23.79/d/mnt/lib/yum-plugins/product-id.pyc
+run_alphafold.cpython-311.pyc | http://43.142.43.120:8000/d/xuaoyu/alphafold3/__pycache__/run_alphafold.cpython-311.pyc
+search-disabled-repos.pyc | https://154.12.23.79/d/mnt/lib/yum-plugins/search-disabled-repos.pyc
+subscription-manager.pyc | https://154.12.23.79/d/mnt/lib/yum-plugins/subscription-manager.pyc
+utils.cpython-310.pyc | https://45.77.200.196/d/代码片段/模块和包/__pycache__/utils.cpython-310.pyc

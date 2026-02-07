@@ -1,0 +1,34 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+aliyun_assist_service.sock | https://8.140.252.113/d/4k/tmp/aliyun_assist_service.sock
+chronyd.sock | http://113.140.77.109:8881/d/服务器1/run/chrony/chronyd.sock
+chronyd.sock | https://154.12.23.79/d/mnt/run/chrony/chronyd.sock
+chronyd.sock | https://8.140.252.113/d/4k/run/chrony/chronyd.sock
+containerd.sock | https://154.12.23.79/d/mnt/run/containerd/containerd.sock
+docker.sock | http://113.140.77.109:8881/d/服务器1/run/docker.sock
+docker.sock | http://113.140.77.109:8881/d/服务器1/var/run/docker.sock
+docker.sock | https://154.12.23.79/d/mnt/run/docker.sock
+docker.sock | https://154.12.23.79/d/mnt/var/run/docker.sock
+docker.sock | https://52.140.241.52/d/sftp/jp/run/docker.sock
+dockershim.sock | http://113.140.77.109:8881/d/服务器1/run/dockershim.sock
+dockershim.sock | http://113.140.77.109:8881/d/服务器1/var/run/dockershim.sock
+gssproxy.sock | http://113.140.77.109:8881/d/服务器1/run/gssproxy.sock
+gssproxy.sock | http://113.140.77.109:8881/d/服务器1/var/run/gssproxy.sock
+gssproxy.sock | https://154.12.23.79/d/mnt/run/gssproxy.sock
+gssproxy.sock | https://154.12.23.79/d/mnt/var/run/gssproxy.sock
+irqbalance1814.sock | http://113.140.77.109:8881/d/服务器1/run/irqbalance/irqbalance1814.sock
+metrics.sock | http://113.140.77.109:8881/d/服务器1/run/docker/metrics.sock
+metrics.sock | https://154.12.23.79/d/mnt/run/docker/metrics.sock
+mysql.sock | https://154.12.23.79/d/mnt/tmp/mysql.sock
+php-cgi-56.sock | https://154.12.23.79/d/mnt/tmp/php-cgi-56.sock
+php-cgi-70.sock | https://154.12.23.79/d/mnt/tmp/php-cgi-70.sock
+php-cgi-72.sock | https://154.12.23.79/d/mnt/tmp/php-cgi-72.sock
+php-cgi-73.sock | https://154.12.23.79/d/mnt/tmp/php-cgi-73.sock
+php-cgi-74.sock | https://154.12.23.79/d/mnt/tmp/php-cgi-74.sock
+php-cgi-81.sock | https://154.12.23.79/d/mnt/tmp/php-cgi-81.sock
+rpcbind.sock | http://113.140.77.109:8881/d/服务器1/run/rpcbind.sock
+rpcbind.sock | http://113.140.77.109:8881/d/服务器1/var/run/rpcbind.sock
+rpcbind.sock | https://154.12.23.79/d/mnt/run/rpcbind.sock
+rpcbind.sock | https://154.12.23.79/d/mnt/var/run/rpcbind.sock
+site_total.sock | https://154.12.23.79/d/mnt/tmp/site_total.sock

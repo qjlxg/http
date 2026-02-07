@@ -1,0 +1,10 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+00207to00208.patch | http://153.99.141.172:2223/d/test/文件/文件/00207to00208.patch
+NVIDIA_550.144.02_vGPU.patch | https://file.homelabproject.cc/d/foxipan/vGPU/17.5/NVIDIA_550.144.02_vGPU.patch
+NVIDIA_550.144.02_vGPU_kernel_6.12_also_6.14.patch | https://file.homelabproject.cc/d/foxipan/vGPU/17.5/NVIDIA_550.144.02_vGPU_kernel_6.12_also_6.14.patch
+libiconv-glibc-2.16.patch | https://154.12.23.79/d/mnt/patch/libiconv-glibc-2.16.patch
+libiconv-glibc-2.16.patch | https://8.140.252.113/d/4k/patch/libiconv-glibc-2.16.patch
+vGPU-Grid-16.5-535.161.05-Linux-6.8.patch | https://file.homelabproject.cc/d/foxipan/vGPU/16.5/vGPU-Grid-16.5-535.161.05-Linux-6.8.patch
+vGPU-Grid-17.1-550.54.16-linux-6.8.patch | https://file.homelabproject.cc/d/foxipan/vGPU/17.1/vGPU-Grid-17.1-550.54.16-linux-6.8.patch

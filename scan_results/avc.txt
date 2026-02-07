@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Brush.Up.Life.S01E08.avc | http://130.162.129.70/d/Drama/[日劇]/[重啟人生 BRUSH UP LIFE]/Brush.Up.Life.S01E08.avc
+Brush.Up.Life.S01E08.avc | https://130.162.129.70/d/Drama/[日劇]/[重啟人生 BRUSH UP LIFE]/Brush.Up.Life.S01E08.avc

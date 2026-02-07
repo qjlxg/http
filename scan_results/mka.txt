@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+[Airota&VCB-Studio] Gekijouban Hibike! Euphonium Chikai no Finale [Ma10p_1080p][x265_flac].mka | https://193.123.237.119/d/OD-E5/Movie/[Airota&VCB-Studio] Gekijouban Hibike! Euphonium Chikai no Finale [Ma10p_1080p]/[Airota&VCB-Studio] Gekijouban Hibike! Euphonium Chikai no Finale [Ma10p_1080p][x265_flac].mka
+[VCB-Studio] Koe no Katachi [Ma10p_1080p][x265_flac].mka | https://193.123.237.119/d/OD-E5/Movie/[VCB-Studio] Koe no Katachi [Ma10p_1080p]/[VCB-Studio] Koe no Katachi [Ma10p_1080p][x265_flac].mka

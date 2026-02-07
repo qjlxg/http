@@ -1,0 +1,251 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+ACC_5.1.0.407_Full_20200402.sha | https://139.185.32.228/d/转存/奥多凉/ACCD/ACC_5.1.0.407_Full_20200402.sha
+ACC_5.1.0.407_Full_20200402.sha | https://193.123.85.183/d/转存/奥多凉/ACCD/ACC_5.1.0.407_Full_20200402.sha
+ACC_5.1.0.407_Full_SP_20200322.sha | https://139.185.32.228/d/转存/奥多凉/ACCD/ACC_5.1.0.407_Full_SP_20200322.sha
+ACC_5.1.0.407_Full_SP_20200322.sha | https://193.123.85.183/d/转存/奥多凉/ACCD/ACC_5.1.0.407_Full_SP_20200322.sha
+Acrobat_DC_C_2020.009.20067_SP_20200603(20200603115549).sha | https://139.185.32.228/d/转存/奥多凉/Acrobat/Acrobat_DC_C_2020.009.20067_SP_20200603(20200603115549).sha
+Acrobat_DC_C_2020.009.20067_SP_20200603(20200603115549).sha | https://193.123.85.183/d/转存/奥多凉/Acrobat/Acrobat_DC_C_2020.009.20067_SP_20200603(20200603115549).sha
+Acrobat_DC_C_2020.009.20067_SP_20200603(20200603115552).sha | https://139.185.32.228/d/转存/奥多凉/Acrobat/Acrobat_DC_C_2020.009.20067_SP_20200603(20200603115552).sha
+Acrobat_DC_C_2020.009.20067_SP_20200603(20200603115552).sha | https://193.123.85.183/d/转存/奥多凉/Acrobat/Acrobat_DC_C_2020.009.20067_SP_20200603(20200603115552).sha
+Acrobat_DC_C_2020.009.20067_SP_20200603.sha | https://139.185.32.228/d/转存/奥多凉/Acrobat/Acrobat_DC_C_2020.009.20067_SP_20200603.sha
+Acrobat_DC_C_2020.009.20067_SP_20200603.sha | https://193.123.85.183/d/转存/奥多凉/Acrobat/Acrobat_DC_C_2020.009.20067_SP_20200603.sha
+Acrobat_DC_C_MacOS_2020.006.20042_SP_20200514.sha | https://139.185.32.228/d/转存/奥多凉/Acrobat/Acrobat_DC_C_MacOS_2020.006.20042_SP_20200514.sha
+Acrobat_DC_C_MacOS_2020.006.20042_SP_20200514.sha | https://193.123.85.183/d/转存/奥多凉/Acrobat/Acrobat_DC_C_MacOS_2020.006.20042_SP_20200514.sha
+Acrobat_XI_11.0.23_Final_SP_20191219_R.sha | https://139.185.32.228/d/转存/奥多凉/Acrobat/Acrobat_XI_11.0.23_Final_SP_20191219_R.sha
+Acrobat_XI_11.0.23_Final_SP_20191219_R.sha | https://193.123.85.183/d/转存/奥多凉/Acrobat/Acrobat_XI_11.0.23_Final_SP_20191219_R.sha
+Adobe.Acrobat.Pro.2024.u7.x64.Multilingual.sha | https://119.28.8.103/d/baidu/软件/Acrobat.Pro.2024.x64/Adobe.Acrobat.Pro.2024.u7.x64.Multilingual.sha
+Adobe_2019_2020_Home_Screen_FIX_v3.4.0.sha | https://139.185.32.228/d/转存/奥多凉/2020 WIN HD SP/Adobe_2019_2020_Home_Screen_FIX_v3.4.0.sha
+Adobe_2019_2020_Home_Screen_FIX_v3.4.0.sha | https://193.123.85.183/d/转存/奥多凉/2020 WIN HD SP/Adobe_2019_2020_Home_Screen_FIX_v3.4.0.sha
+Adobe_2019_2020_Home_Screen_Fix_v3.3.3.sha | https://139.185.32.228/d/转存/奥多凉/2020 MAC HD SP/Adobe_2019_2020_Home_Screen_Fix_v3.3.3.sha
+Adobe_2019_2020_Home_Screen_Fix_v3.3.3.sha | https://193.123.85.183/d/转存/奥多凉/2020 MAC HD SP/Adobe_2019_2020_Home_Screen_Fix_v3.3.3.sha
+Adobe_2019_MasterCol_macOS_v9.10#10_20190921.rar.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 OSX 大师版/Adobe_2019_MasterCol_macOS_v9.10#10_20190921.rar.sha
+Adobe_2019_MasterCol_macOS_v9.10#10_20190921.rar.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 OSX 大师版/Adobe_2019_MasterCol_macOS_v9.10#10_20190921.rar.sha
+Adobe_2019_MasterCol_win_v10.3Evolution_20191220.rar.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 WIN 大师版/Adobe_2019_MasterCol_win_v10.3Evolution_20191220.rar.sha
+Adobe_2019_MasterCol_win_v10.3Evolution_20191220.rar.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 WIN 大师版/Adobe_2019_MasterCol_win_v10.3Evolution_20191220.rar.sha
+Adobe_2020_MasterCol_macOS_v10.7#1_20200610.sha | https://139.185.32.228/d/转存/奥多凉/2020 OSX 大师版/Adobe_2020_MasterCol_macOS_v10.7#1_20200610.sha
+Adobe_2020_MasterCol_macOS_v10.7#1_20200610.sha | https://193.123.85.183/d/转存/奥多凉/2020 OSX 大师版/Adobe_2020_MasterCol_macOS_v10.7#1_20200610.sha
+Adobe_2020_MasterCol_win_v10.7#3_20200524.rar.sha | https://139.185.32.228/d/转存/奥多凉/2020 WIN 大师版/Adobe_2020_MasterCol_win_v10.7#3_20200524.rar.sha
+Adobe_2020_MasterCol_win_v10.7#3_20200524.rar.sha | https://193.123.85.183/d/转存/奥多凉/2020 WIN 大师版/Adobe_2020_MasterCol_win_v10.7#3_20200524.rar.sha
+Adobe_After_Effects_2019_16.1.3.5_ACR12.0_SP_20191015.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_After_Effects_2019_16.1.3.5_ACR12.0_SP_20191015.sha
+Adobe_After_Effects_2019_16.1.3.5_ACR12.0_SP_20191015.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_After_Effects_2019_16.1.3.5_ACR12.0_SP_20191015.sha
+Adobe_After_Effects_2019_16.1.3.5_ACR12.1_SP_20191219_R.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_After_Effects_2019_16.1.3.5_ACR12.1_SP_20191219_R.sha
+Adobe_After_Effects_2019_16.1.3.5_ACR12.1_SP_20191219_R.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_After_Effects_2019_16.1.3.5_ACR12.1_SP_20191219_R.sha
+Adobe_After_Effects_2020_17.1.0.72_ACR12.2.1_SP_20200610.sha | https://139.185.32.228/d/转存/奥多凉/2020 MAC HD SP/Adobe_After_Effects_2020_17.1.0.72_ACR12.2.1_SP_20200610.sha
+Adobe_After_Effects_2020_17.1.0.72_ACR12.2.1_SP_20200610.sha | https://193.123.85.183/d/转存/奥多凉/2020 MAC HD SP/Adobe_After_Effects_2020_17.1.0.72_ACR12.2.1_SP_20200610.sha
+Adobe_After_Effects_2020_17.1.0.72_ACR12.3_SP_20200610.sha | https://139.185.32.228/d/转存/奥多凉/2020 WIN HD SP/Adobe_After_Effects_2020_17.1.0.72_ACR12.3_SP_20200610.sha
+Adobe_After_Effects_2020_17.1.0.72_ACR12.3_SP_20200610.sha | https://193.123.85.183/d/转存/奥多凉/2020 WIN HD SP/Adobe_After_Effects_2020_17.1.0.72_ACR12.3_SP_20200610.sha
+Adobe_After_Effects_CC_2017.2.2_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2017 WIN HD SP/Adobe_After_Effects_CC_2017.2.2_SP_20191219.sha
+Adobe_After_Effects_CC_2017.2.2_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2017 WIN HD SP/Adobe_After_Effects_CC_2017.2.2_SP_20191219.sha
+Adobe_After_Effects_CC_2018.1.2_SP_20190914.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_After_Effects_CC_2018.1.2_SP_20190914.sha
+Adobe_After_Effects_CC_2018.1.2_SP_20190914.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_After_Effects_CC_2018.1.2_SP_20190914.sha
+Adobe_After_Effects_CC_2018.1.2_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_After_Effects_CC_2018.1.2_SP_20191219.sha
+Adobe_After_Effects_CC_2018.1.2_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_After_Effects_CC_2018.1.2_SP_20191219.sha
+Adobe_Animate_2019_19.2.1.408_ACR12.0_SP_20191015.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_Animate_2019_19.2.1.408_ACR12.0_SP_20191015.sha
+Adobe_Animate_2019_19.2.1.408_ACR12.0_SP_20191015.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_Animate_2019_19.2.1.408_ACR12.0_SP_20191015.sha
+Adobe_Animate_2019_19.2.1.408_ACR12.1_SP_20191219_R.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_Animate_2019_19.2.1.408_ACR12.1_SP_20191219_R.sha
+Adobe_Animate_2019_19.2.1.408_ACR12.1_SP_20191219_R.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_Animate_2019_19.2.1.408_ACR12.1_SP_20191219_R.sha
+Adobe_Animate_2020_20.0.3.25487_ACR12.2.1_SP_20200420.sha | https://139.185.32.228/d/转存/奥多凉/2020 MAC HD SP/Adobe_Animate_2020_20.0.3.25487_ACR12.2.1_SP_20200420.sha
+Adobe_Animate_2020_20.0.3.25487_ACR12.2.1_SP_20200420.sha | https://193.123.85.183/d/转存/奥多凉/2020 MAC HD SP/Adobe_Animate_2020_20.0.3.25487_ACR12.2.1_SP_20200420.sha
+Adobe_Animate_2020_20.0.3.25487_ACR12.3_SP_20200610.sha | https://139.185.32.228/d/转存/奥多凉/2020 WIN HD SP/Adobe_Animate_2020_20.0.3.25487_ACR12.3_SP_20200610.sha
+Adobe_Animate_2020_20.0.3.25487_ACR12.3_SP_20200610.sha | https://193.123.85.183/d/转存/奥多凉/2020 WIN HD SP/Adobe_Animate_2020_20.0.3.25487_ACR12.3_SP_20200610.sha
+Adobe_Animate_CC_2017.5.1_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2017 WIN HD SP/Adobe_Animate_CC_2017.5.1_SP_20191219.sha
+Adobe_Animate_CC_2017.5.1_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2017 WIN HD SP/Adobe_Animate_CC_2017.5.1_SP_20191219.sha
+Adobe_Animate_CC_2018.0.2_SP_20190914.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_Animate_CC_2018.0.2_SP_20190914.sha
+Adobe_Animate_CC_2018.0.2_SP_20190914.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_Animate_CC_2018.0.2_SP_20190914.sha
+Adobe_Animate_CC_2018.0.2_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_Animate_CC_2018.0.2_SP_20191219.sha
+Adobe_Animate_CC_2018.0.2_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_Animate_CC_2018.0.2_SP_20191219.sha
+Adobe_Audition_2019_12.1.5.3_SP_20191015.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_Audition_2019_12.1.5.3_SP_20191015.sha
+Adobe_Audition_2019_12.1.5.3_SP_20191015.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_Audition_2019_12.1.5.3_SP_20191015.sha
+Adobe_Audition_2019_12.1.5.3_SP_20191219_R.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_Audition_2019_12.1.5.3_SP_20191219_R.sha
+Adobe_Audition_2019_12.1.5.3_SP_20191219_R.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_Audition_2019_12.1.5.3_SP_20191219_R.sha
+Adobe_Audition_2020_13.0.6.38_SP_20200518.sha | https://139.185.32.228/d/转存/奥多凉/2020 WIN HD SP/Adobe_Audition_2020_13.0.6.38_SP_20200518.sha
+Adobe_Audition_2020_13.0.6.38_SP_20200518.sha | https://193.123.85.183/d/转存/奥多凉/2020 WIN HD SP/Adobe_Audition_2020_13.0.6.38_SP_20200518.sha
+Adobe_Audition_2020_13.0.6.38_SP_20200610.sha | https://139.185.32.228/d/转存/奥多凉/2020 MAC HD SP/Adobe_Audition_2020_13.0.6.38_SP_20200610.sha
+Adobe_Audition_2020_13.0.6.38_SP_20200610.sha | https://193.123.85.183/d/转存/奥多凉/2020 MAC HD SP/Adobe_Audition_2020_13.0.6.38_SP_20200610.sha
+Adobe_Audition_CC_2017.1.2_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2017 WIN HD SP/Adobe_Audition_CC_2017.1.2_SP_20191219.sha
+Adobe_Audition_CC_2017.1.2_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2017 WIN HD SP/Adobe_Audition_CC_2017.1.2_SP_20191219.sha
+Adobe_Audition_CC_2018.1.1_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_Audition_CC_2018.1.1_SP_20191219.sha
+Adobe_Audition_CC_2018.1.1_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_Audition_CC_2018.1.1_SP_20191219.sha
+Adobe_Audition_CC_2018.1_SP_20190914.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_Audition_CC_2018.1_SP_20190914.sha
+Adobe_Audition_CC_2018.1_SP_20190914.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_Audition_CC_2018.1_SP_20190914.sha
+Adobe_Bridge_2019_9.1.0.338_ACR12.0_SP_20191015.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_Bridge_2019_9.1.0.338_ACR12.0_SP_20191015.sha
+Adobe_Bridge_2019_9.1.0.338_ACR12.0_SP_20191015.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_Bridge_2019_9.1.0.338_ACR12.0_SP_20191015.sha
+Adobe_Bridge_2019_9.1.0.338_ACR12.1_SP_20191219_R.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_Bridge_2019_9.1.0.338_ACR12.1_SP_20191219_R.sha
+Adobe_Bridge_2019_9.1.0.338_ACR12.1_SP_20191219_R.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_Bridge_2019_9.1.0.338_ACR12.1_SP_20191219_R.sha
+Adobe_Bridge_2020_10.0.2.131_ACR12.2_SP_20200402.sha | https://139.185.32.228/d/转存/奥多凉/2020 MAC HD SP/Adobe_Bridge_2020_10.0.2.131_ACR12.2_SP_20200402.sha
+Adobe_Bridge_2020_10.0.2.131_ACR12.2_SP_20200402.sha | https://193.123.85.183/d/转存/奥多凉/2020 MAC HD SP/Adobe_Bridge_2020_10.0.2.131_ACR12.2_SP_20200402.sha
+Adobe_Bridge_2020_10.1.0.163_ACR12.3_SP_20200611.sha | https://139.185.32.228/d/转存/奥多凉/2020 WIN HD SP/Adobe_Bridge_2020_10.1.0.163_ACR12.3_SP_20200611.sha
+Adobe_Bridge_2020_10.1.0.163_ACR12.3_SP_20200611.sha | https://193.123.85.183/d/转存/奥多凉/2020 WIN HD SP/Adobe_Bridge_2020_10.1.0.163_ACR12.3_SP_20200611.sha
+Adobe_Bridge_CC_2017_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2017 WIN HD SP/Adobe_Bridge_CC_2017_SP_20191219.sha
+Adobe_Bridge_CC_2017_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2017 WIN HD SP/Adobe_Bridge_CC_2017_SP_20191219.sha
+Adobe_Bridge_CC_2018.1_SP_20190914.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_Bridge_CC_2018.1_SP_20190914.sha
+Adobe_Bridge_CC_2018.1_SP_20190914.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_Bridge_CC_2018.1_SP_20190914.sha
+Adobe_Bridge_CC_2018.1_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_Bridge_CC_2018.1_SP_20191219.sha
+Adobe_Bridge_CC_2018.1_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_Bridge_CC_2018.1_SP_20191219.sha
+Adobe_Captivate_2019_11.5.1.499_SP_20200208.sha | https://139.185.32.228/d/转存/奥多凉/Adobe Captivate 2019 Win SP/Adobe_Captivate_2019_11.5.1.499_SP_20200208.sha
+Adobe_Captivate_2019_11.5.1.499_SP_20200208.sha | https://193.123.85.183/d/转存/奥多凉/Adobe Captivate 2019 Win SP/Adobe_Captivate_2019_11.5.1.499_SP_20200208.sha
+Adobe_Character_Animator_2019_2.1.1.7_SP_20191015.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_Character_Animator_2019_2.1.1.7_SP_20191015.sha
+Adobe_Character_Animator_2019_2.1.1.7_SP_20191015.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_Character_Animator_2019_2.1.1.7_SP_20191015.sha
+Adobe_Character_Animator_2019_2.1.1.7_SP_20191219_R.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_Character_Animator_2019_2.1.1.7_SP_20191219_R.sha
+Adobe_Character_Animator_2019_2.1.1.7_SP_20191219_R.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_Character_Animator_2019_2.1.1.7_SP_20191219_R.sha
+Adobe_Character_Animator_2020_3.3.0.109_SP_20200518.sha | https://139.185.32.228/d/转存/奥多凉/2020 WIN HD SP/Adobe_Character_Animator_2020_3.3.0.109_SP_20200518.sha
+Adobe_Character_Animator_2020_3.3.0.109_SP_20200518.sha | https://193.123.85.183/d/转存/奥多凉/2020 WIN HD SP/Adobe_Character_Animator_2020_3.3.0.109_SP_20200518.sha
+Adobe_Character_Animator_2020_3.3.0.109_SP_20200610.sha | https://139.185.32.228/d/转存/奥多凉/2020 MAC HD SP/Adobe_Character_Animator_2020_3.3.0.109_SP_20200610.sha
+Adobe_Character_Animator_2020_3.3.0.109_SP_20200610.sha | https://193.123.85.183/d/转存/奥多凉/2020 MAC HD SP/Adobe_Character_Animator_2020_3.3.0.109_SP_20200610.sha
+Adobe_Character_Animator_CC_2018_SP_20190914.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_Character_Animator_CC_2018_SP_20190914.sha
+Adobe_Character_Animator_CC_2018_SP_20190914.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_Character_Animator_CC_2018_SP_20190914.sha
+Adobe_Character_Animator_CC_2018_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_Character_Animator_CC_2018_SP_20191219.sha
+Adobe_Character_Animator_CC_2018_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_Character_Animator_CC_2018_SP_20191219.sha
+Adobe_Dimension_2.3.1.1060_SP_20191015.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_Dimension_2.3.1.1060_SP_20191015.sha
+Adobe_Dimension_2.3.1.1060_SP_20191015.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_Dimension_2.3.1.1060_SP_20191015.sha
+Adobe_Dimension_2.3.1.1060_SP_20191219_R.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_Dimension_2.3.1.1060_SP_20191219_R.sha
+Adobe_Dimension_2.3.1.1060_SP_20191219_R.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_Dimension_2.3.1.1060_SP_20191219_R.sha
+Adobe_Dimension_3.2.0.1438_SP_20200420.sha | https://139.185.32.228/d/转存/奥多凉/2020 MAC HD SP/Adobe_Dimension_3.2.0.1438_SP_20200420.sha
+Adobe_Dimension_3.2.0.1438_SP_20200420.sha | https://193.123.85.183/d/转存/奥多凉/2020 MAC HD SP/Adobe_Dimension_3.2.0.1438_SP_20200420.sha
+Adobe_Dimension_3.2.1.1583_SP_20200429.sha | https://139.185.32.228/d/转存/奥多凉/2020 WIN HD SP/Adobe_Dimension_3.2.1.1583_SP_20200429.sha
+Adobe_Dimension_3.2.1.1583_SP_20200429.sha | https://193.123.85.183/d/转存/奥多凉/2020 WIN HD SP/Adobe_Dimension_3.2.1.1583_SP_20200429.sha
+Adobe_Dreamweaver_2019_19.2.1.11281_SP_20191015.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_Dreamweaver_2019_19.2.1.11281_SP_20191015.sha
+Adobe_Dreamweaver_2019_19.2.1.11281_SP_20191015.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_Dreamweaver_2019_19.2.1.11281_SP_20191015.sha
+Adobe_Dreamweaver_2019_19.2.1.11281_SP_20191219_R.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_Dreamweaver_2019_19.2.1.11281_SP_20191219_R.sha
+Adobe_Dreamweaver_2019_19.2.1.11281_SP_20191219_R.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_Dreamweaver_2019_19.2.1.11281_SP_20191219_R.sha
+Adobe_Dreamweaver_2020_20.1.0.15211_SP_20200212.sha | https://139.185.32.228/d/转存/奥多凉/2020 WIN HD SP/Adobe_Dreamweaver_2020_20.1.0.15211_SP_20200212.sha
+Adobe_Dreamweaver_2020_20.1.0.15211_SP_20200212.sha | https://193.123.85.183/d/转存/奥多凉/2020 WIN HD SP/Adobe_Dreamweaver_2020_20.1.0.15211_SP_20200212.sha
+Adobe_Dreamweaver_2020_20.1.0.15211_SP_20200402.sha | https://139.185.32.228/d/转存/奥多凉/2020 MAC HD SP/Adobe_Dreamweaver_2020_20.1.0.15211_SP_20200402.sha
+Adobe_Dreamweaver_2020_20.1.0.15211_SP_20200402.sha | https://193.123.85.183/d/转存/奥多凉/2020 MAC HD SP/Adobe_Dreamweaver_2020_20.1.0.15211_SP_20200402.sha
+Adobe_Dreamweaver_CC_2017.5_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2017 WIN HD SP/Adobe_Dreamweaver_CC_2017.5_SP_20191219.sha
+Adobe_Dreamweaver_CC_2017.5_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2017 WIN HD SP/Adobe_Dreamweaver_CC_2017.5_SP_20191219.sha
+Adobe_Dreamweaver_CC_2018.2.1_SP_20190914.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_Dreamweaver_CC_2018.2.1_SP_20190914.sha
+Adobe_Dreamweaver_CC_2018.2.1_SP_20190914.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_Dreamweaver_CC_2018.2.1_SP_20190914.sha
+Adobe_Dreamweaver_CC_2018.2.1_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_Dreamweaver_CC_2018.2.1_SP_20191219.sha
+Adobe_Dreamweaver_CC_2018.2.1_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_Dreamweaver_CC_2018.2.1_SP_20191219.sha
+Adobe_Fresco_1.6.1.113_20200611.sha | https://139.185.32.228/d/转存/奥多凉/Fresco/Adobe_Fresco_1.6.1.113_20200611.sha
+Adobe_Fresco_1.6.1.113_20200611.sha | https://193.123.85.183/d/转存/奥多凉/Fresco/Adobe_Fresco_1.6.1.113_20200611.sha
+Adobe_Illustrator_2019_23.1.0.670_SP_20191219_R.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_Illustrator_2019_23.1.0.670_SP_20191219_R.sha
+Adobe_Illustrator_2019_23.1.0.670_SP_20191219_R.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_Illustrator_2019_23.1.0.670_SP_20191219_R.sha
+Adobe_Illustrator_2019_23.1.1.673_SP_20191015.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_Illustrator_2019_23.1.1.673_SP_20191015.sha
+Adobe_Illustrator_2019_23.1.1.673_SP_20191015.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_Illustrator_2019_23.1.1.673_SP_20191015.sha
+Adobe_Illustrator_2020_24.1.3.428_SP_20200527.sha | https://139.185.32.228/d/转存/奥多凉/2020 WIN HD SP/Adobe_Illustrator_2020_24.1.3.428_SP_20200527.sha
+Adobe_Illustrator_2020_24.1.3.428_SP_20200527.sha | https://193.123.85.183/d/转存/奥多凉/2020 WIN HD SP/Adobe_Illustrator_2020_24.1.3.428_SP_20200527.sha
+Adobe_Illustrator_2020_24.1.3.429_SP_20200610.sha | https://139.185.32.228/d/转存/奥多凉/2020 MAC HD SP/Adobe_Illustrator_2020_24.1.3.429_SP_20200610.sha
+Adobe_Illustrator_2020_24.1.3.429_SP_20200610.sha | https://193.123.85.183/d/转存/奥多凉/2020 MAC HD SP/Adobe_Illustrator_2020_24.1.3.429_SP_20200610.sha
+Adobe_Illustrator_CC_2017.1_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2017 WIN HD SP/Adobe_Illustrator_CC_2017.1_SP_20191219.sha
+Adobe_Illustrator_CC_2017.1_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2017 WIN HD SP/Adobe_Illustrator_CC_2017.1_SP_20191219.sha
+Adobe_Illustrator_CC_2018.1_SP_20190914.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_Illustrator_CC_2018.1_SP_20190914.sha
+Adobe_Illustrator_CC_2018.1_SP_20190914.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_Illustrator_CC_2018.1_SP_20190914.sha
+Adobe_Illustrator_CC_2018.1_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_Illustrator_CC_2018.1_SP_20191219.sha
+Adobe_Illustrator_CC_2018.1_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_Illustrator_CC_2018.1_SP_20191219.sha
+Adobe_InCopy_2019_14.0.2.324_SP_20191015.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_InCopy_2019_14.0.2.324_SP_20191015.sha
+Adobe_InCopy_2019_14.0.2.324_SP_20191015.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_InCopy_2019_14.0.2.324_SP_20191015.sha
+Adobe_InCopy_2019_14.0.2.324_SP_20191219_R.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_InCopy_2019_14.0.2.324_SP_20191219_R.sha
+Adobe_InCopy_2019_14.0.2.324_SP_20191219_R.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_InCopy_2019_14.0.2.324_SP_20191219_R.sha
+Adobe_InCopy_2020_15.0.3.425_SP_20200509.sha | https://139.185.32.228/d/转存/奥多凉/2020 WIN HD SP/Adobe_InCopy_2020_15.0.3.425_SP_20200509.sha
+Adobe_InCopy_2020_15.0.3.425_SP_20200509.sha | https://193.123.85.183/d/转存/奥多凉/2020 WIN HD SP/Adobe_InCopy_2020_15.0.3.425_SP_20200509.sha
+Adobe_InCopy_2020_15.0.3.425_SP_20200610.sha | https://139.185.32.228/d/转存/奥多凉/2020 MAC HD SP/Adobe_InCopy_2020_15.0.3.425_SP_20200610.sha
+Adobe_InCopy_2020_15.0.3.425_SP_20200610.sha | https://193.123.85.183/d/转存/奥多凉/2020 MAC HD SP/Adobe_InCopy_2020_15.0.3.425_SP_20200610.sha
+Adobe_InCopy_CC_2017_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2017 WIN HD SP/Adobe_InCopy_CC_2017_SP_20191219.sha
+Adobe_InCopy_CC_2017_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2017 WIN HD SP/Adobe_InCopy_CC_2017_SP_20191219.sha
+Adobe_InCopy_CC_2018.1.1_SP_20190914.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_InCopy_CC_2018.1.1_SP_20190914.sha
+Adobe_InCopy_CC_2018.1.1_SP_20190914.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_InCopy_CC_2018.1.1_SP_20190914.sha
+Adobe_InCopy_CC_2018.1.1_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_InCopy_CC_2018.1.1_SP_20191219.sha
+Adobe_InCopy_CC_2018.1.1_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_InCopy_CC_2018.1.1_SP_20191219.sha
+Adobe_InDesign_2019_14.0.3.433_SP_20191015.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_InDesign_2019_14.0.3.433_SP_20191015.sha
+Adobe_InDesign_2019_14.0.3.433_SP_20191015.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_InDesign_2019_14.0.3.433_SP_20191015.sha
+Adobe_InDesign_2019_14.0.3.433_SP_20191219_R.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_InDesign_2019_14.0.3.433_SP_20191219_R.sha
+Adobe_InDesign_2019_14.0.3.433_SP_20191219_R.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_InDesign_2019_14.0.3.433_SP_20191219_R.sha
+Adobe_InDesign_2020_15.0.3.425_SP_20200509.sha | https://139.185.32.228/d/转存/奥多凉/2020 WIN HD SP/Adobe_InDesign_2020_15.0.3.425_SP_20200509.sha
+Adobe_InDesign_2020_15.0.3.425_SP_20200509.sha | https://193.123.85.183/d/转存/奥多凉/2020 WIN HD SP/Adobe_InDesign_2020_15.0.3.425_SP_20200509.sha
+Adobe_InDesign_2020_15.0.3.425_SP_20200610.sha | https://139.185.32.228/d/转存/奥多凉/2020 MAC HD SP/Adobe_InDesign_2020_15.0.3.425_SP_20200610.sha
+Adobe_InDesign_2020_15.0.3.425_SP_20200610.sha | https://193.123.85.183/d/转存/奥多凉/2020 MAC HD SP/Adobe_InDesign_2020_15.0.3.425_SP_20200610.sha
+Adobe_InDesign_CC_2017.1_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2017 WIN HD SP/Adobe_InDesign_CC_2017.1_SP_20191219.sha
+Adobe_InDesign_CC_2017.1_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2017 WIN HD SP/Adobe_InDesign_CC_2017.1_SP_20191219.sha
+Adobe_InDesign_CC_2018.1.1_SP_20190914.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_InDesign_CC_2018.1.1_SP_20190914.sha
+Adobe_InDesign_CC_2018.1.1_SP_20190914.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_InDesign_CC_2018.1.1_SP_20190914.sha
+Adobe_InDesign_CC_2018.1.1_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_InDesign_CC_2018.1.1_SP_20191219.sha
+Adobe_InDesign_CC_2018.1.1_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_InDesign_CC_2018.1.1_SP_20191219.sha
+Adobe_Lightroom_Classic_8.4.1.201909111355_SP_20191015.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_Lightroom_Classic_8.4.1.201909111355_SP_20191015.sha
+Adobe_Lightroom_Classic_8.4.1.201909111355_SP_20191015.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_Lightroom_Classic_8.4.1.201909111355_SP_20191015.sha
+Adobe_Lightroom_Classic_8.4.1.201909111355_SP_20191219_R.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_Lightroom_Classic_8.4.1.201909111355_SP_20191219_R.sha
+Adobe_Lightroom_Classic_8.4.1.201909111355_SP_20191219_R.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_Lightroom_Classic_8.4.1.201909111355_SP_20191219_R.sha
+Adobe_Lightroom_Classic_9.2.1.202004070813_SP_20200414.sha | https://139.185.32.228/d/转存/奥多凉/2020 WIN HD SP/Adobe_Lightroom_Classic_9.2.1.202004070813_SP_20200414.sha
+Adobe_Lightroom_Classic_9.2.1.202004070813_SP_20200414.sha | https://193.123.85.183/d/转存/奥多凉/2020 WIN HD SP/Adobe_Lightroom_Classic_9.2.1.202004070813_SP_20200414.sha
+Adobe_Lightroom_Classic_9.2.1.202004070813_SP_20200420.sha | https://139.185.32.228/d/转存/奥多凉/2020 MAC HD SP/Adobe_Lightroom_Classic_9.2.1.202004070813_SP_20200420.sha
+Adobe_Lightroom_Classic_9.2.1.202004070813_SP_20200420.sha | https://193.123.85.183/d/转存/奥多凉/2020 MAC HD SP/Adobe_Lightroom_Classic_9.2.1.202004070813_SP_20200420.sha
+Adobe_Lightroom_Classic_CC_7.5_SP_20190914.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_Lightroom_Classic_CC_7.5_SP_20190914.sha
+Adobe_Lightroom_Classic_CC_7.5_SP_20190914.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_Lightroom_Classic_CC_7.5_SP_20190914.sha
+Adobe_Lightroom_Classic_CC_7.5_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_Lightroom_Classic_CC_7.5_SP_20191219.sha
+Adobe_Lightroom_Classic_CC_7.5_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_Lightroom_Classic_CC_7.5_SP_20191219.sha
+Adobe_Media_Encoder_2019_13.1.5.35_SP_20191015.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_Media_Encoder_2019_13.1.5.35_SP_20191015.sha
+Adobe_Media_Encoder_2019_13.1.5.35_SP_20191015.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_Media_Encoder_2019_13.1.5.35_SP_20191015.sha
+Adobe_Media_Encoder_2019_13.1.5.35_SP_20191219_R.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_Media_Encoder_2019_13.1.5.35_SP_20191219_R.sha
+Adobe_Media_Encoder_2019_13.1.5.35_SP_20191219_R.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_Media_Encoder_2019_13.1.5.35_SP_20191219_R.sha
+Adobe_Media_Encoder_2020_14.2.0.45_SP_20200518.sha | https://139.185.32.228/d/转存/奥多凉/2020 WIN HD SP/Adobe_Media_Encoder_2020_14.2.0.45_SP_20200518.sha
+Adobe_Media_Encoder_2020_14.2.0.45_SP_20200518.sha | https://193.123.85.183/d/转存/奥多凉/2020 WIN HD SP/Adobe_Media_Encoder_2020_14.2.0.45_SP_20200518.sha
+Adobe_Media_Encoder_2020_14.2.0.45_SP_20200610.sha | https://139.185.32.228/d/转存/奥多凉/2020 MAC HD SP/Adobe_Media_Encoder_2020_14.2.0.45_SP_20200610.sha
+Adobe_Media_Encoder_2020_14.2.0.45_SP_20200610.sha | https://193.123.85.183/d/转存/奥多凉/2020 MAC HD SP/Adobe_Media_Encoder_2020_14.2.0.45_SP_20200610.sha
+Adobe_Media_Encoder_CC_2017.1.4_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2017 WIN HD SP/Adobe_Media_Encoder_CC_2017.1.4_SP_20191219.sha
+Adobe_Media_Encoder_CC_2017.1.4_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2017 WIN HD SP/Adobe_Media_Encoder_CC_2017.1.4_SP_20191219.sha
+Adobe_Media_Encoder_CC_2018.1.2_SP_20190914.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_Media_Encoder_CC_2018.1.2_SP_20190914.sha
+Adobe_Media_Encoder_CC_2018.1.2_SP_20190914.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_Media_Encoder_CC_2018.1.2_SP_20190914.sha
+Adobe_Media_Encoder_CC_2018.1.2_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_Media_Encoder_CC_2018.1.2_SP_20191219.sha
+Adobe_Media_Encoder_CC_2018.1.2_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_Media_Encoder_CC_2018.1.2_SP_20191219.sha
+Adobe_PhotoshopElements_2020_18.1_SP_20200209.sha | https://139.185.32.228/d/转存/奥多凉/Adobe Elements 2020 Win SP/Adobe_PhotoshopElements_2020_18.1_SP_20200209.sha
+Adobe_PhotoshopElements_2020_18.1_SP_20200209.sha | https://193.123.85.183/d/转存/奥多凉/Adobe Elements 2020 Win SP/Adobe_PhotoshopElements_2020_18.1_SP_20200209.sha
+Adobe_Photoshop_2020_21.1.3.190_ACR12.2.1_SP_20200610.sha | https://139.185.32.228/d/转存/奥多凉/2020 MAC HD SP/Adobe_Photoshop_2020_21.1.3.190_ACR12.2.1_SP_20200610.sha
+Adobe_Photoshop_2020_21.1.3.190_ACR12.2.1_SP_20200610.sha | https://193.123.85.183/d/转存/奥多凉/2020 MAC HD SP/Adobe_Photoshop_2020_21.1.3.190_ACR12.2.1_SP_20200610.sha
+Adobe_Photoshop_2020_21.1.3.190_ACR12.3_SP_20200610.sha | https://139.185.32.228/d/转存/奥多凉/2020 WIN HD SP/Adobe_Photoshop_2020_21.1.3.190_ACR12.3_SP_20200610.sha
+Adobe_Photoshop_2020_21.1.3.190_ACR12.3_SP_20200610.sha | https://193.123.85.183/d/转存/奥多凉/2020 WIN HD SP/Adobe_Photoshop_2020_21.1.3.190_ACR12.3_SP_20200610.sha
+Adobe_Photoshop_CC_2017.1.6_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2017 WIN HD SP/Adobe_Photoshop_CC_2017.1.6_SP_20191219.sha
+Adobe_Photoshop_CC_2017.1.6_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2017 WIN HD SP/Adobe_Photoshop_CC_2017.1.6_SP_20191219.sha
+Adobe_Photoshop_CC_2018.1.9_SP_20190914.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_Photoshop_CC_2018.1.9_SP_20190914.sha
+Adobe_Photoshop_CC_2018.1.9_SP_20190914.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_Photoshop_CC_2018.1.9_SP_20190914.sha
+Adobe_Photoshop_CC_2018.1.9_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_Photoshop_CC_2018.1.9_SP_20191219.sha
+Adobe_Photoshop_CC_2018.1.9_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_Photoshop_CC_2018.1.9_SP_20191219.sha
+Adobe_Photoshop_CC_2019_20.0.7.87_ACR12.0_SP_20191024.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_Photoshop_CC_2019_20.0.7.87_ACR12.0_SP_20191024.sha
+Adobe_Photoshop_CC_2019_20.0.7.87_ACR12.0_SP_20191024.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_Photoshop_CC_2019_20.0.7.87_ACR12.0_SP_20191024.sha
+Adobe_Photoshop_CC_2019_20.0.9.113_ACR12.1_SP_20200329.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_Photoshop_CC_2019_20.0.9.113_ACR12.1_SP_20200329.sha
+Adobe_Photoshop_CC_2019_20.0.9.113_ACR12.1_SP_20200329.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_Photoshop_CC_2019_20.0.9.113_ACR12.1_SP_20200329.sha
+Adobe_Prelude_2019_8.1.1.39_SP_20191015.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_Prelude_2019_8.1.1.39_SP_20191015.sha
+Adobe_Prelude_2019_8.1.1.39_SP_20191015.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_Prelude_2019_8.1.1.39_SP_20191015.sha
+Adobe_Prelude_2019_8.1.1.39_SP_20191219_R.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_Prelude_2019_8.1.1.39_SP_20191219_R.sha
+Adobe_Prelude_2019_8.1.1.39_SP_20191219_R.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_Prelude_2019_8.1.1.39_SP_20191219_R.sha
+Adobe_Prelude_2020_9.0.0.415_SP_20191219_R.sha | https://139.185.32.228/d/转存/奥多凉/2020 WIN HD SP/Adobe_Prelude_2020_9.0.0.415_SP_20191219_R.sha
+Adobe_Prelude_2020_9.0.0.415_SP_20191219_R.sha | https://193.123.85.183/d/转存/奥多凉/2020 WIN HD SP/Adobe_Prelude_2020_9.0.0.415_SP_20191219_R.sha
+Adobe_Prelude_2020_9.0.0.415_SP_20200402.sha | https://139.185.32.228/d/转存/奥多凉/2020 MAC HD SP/Adobe_Prelude_2020_9.0.0.415_SP_20200402.sha
+Adobe_Prelude_2020_9.0.0.415_SP_20200402.sha | https://193.123.85.183/d/转存/奥多凉/2020 MAC HD SP/Adobe_Prelude_2020_9.0.0.415_SP_20200402.sha
+Adobe_Prelude_CC_2017.1.3_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2017 WIN HD SP/Adobe_Prelude_CC_2017.1.3_SP_20191219.sha
+Adobe_Prelude_CC_2017.1.3_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2017 WIN HD SP/Adobe_Prelude_CC_2017.1.3_SP_20191219.sha
+Adobe_Prelude_CC_2018.1.1_SP_20190914.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_Prelude_CC_2018.1.1_SP_20190914.sha
+Adobe_Prelude_CC_2018.1.1_SP_20190914.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_Prelude_CC_2018.1.1_SP_20190914.sha
+Adobe_Prelude_CC_2018.1.1_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_Prelude_CC_2018.1.1_SP_20191219.sha
+Adobe_Prelude_CC_2018.1.1_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_Prelude_CC_2018.1.1_SP_20191219.sha
+Adobe_PremiereElements_2020_18.1_SP_20200209.sha | https://139.185.32.228/d/转存/奥多凉/Adobe Elements 2020 Win SP/Adobe_PremiereElements_2020_18.1_SP_20200209.sha
+Adobe_PremiereElements_2020_18.1_SP_20200209.sha | https://193.123.85.183/d/转存/奥多凉/Adobe Elements 2020 Win SP/Adobe_PremiereElements_2020_18.1_SP_20200209.sha
+Adobe_Premiere_Pro_2019_13.1.5.47_SP_20191015.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_Premiere_Pro_2019_13.1.5.47_SP_20191015.sha
+Adobe_Premiere_Pro_2019_13.1.5.47_SP_20191015.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_Premiere_Pro_2019_13.1.5.47_SP_20191015.sha
+Adobe_Premiere_Pro_2019_13.1.5.47_SP_20191219_R.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_Premiere_Pro_2019_13.1.5.47_SP_20191219_R.sha
+Adobe_Premiere_Pro_2019_13.1.5.47_SP_20191219_R.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 WIN HD SP/Adobe_Premiere_Pro_2019_13.1.5.47_SP_20191219_R.sha
+Adobe_Premiere_Pro_2020_14.2.0.47_SP_20200518.sha | https://139.185.32.228/d/转存/奥多凉/2020 WIN HD SP/Adobe_Premiere_Pro_2020_14.2.0.47_SP_20200518.sha
+Adobe_Premiere_Pro_2020_14.2.0.47_SP_20200518.sha | https://193.123.85.183/d/转存/奥多凉/2020 WIN HD SP/Adobe_Premiere_Pro_2020_14.2.0.47_SP_20200518.sha
+Adobe_Premiere_Pro_2020_14.2.0.47_SP_20200610.sha | https://139.185.32.228/d/转存/奥多凉/2020 MAC HD SP/Adobe_Premiere_Pro_2020_14.2.0.47_SP_20200610.sha
+Adobe_Premiere_Pro_2020_14.2.0.47_SP_20200610.sha | https://193.123.85.183/d/转存/奥多凉/2020 MAC HD SP/Adobe_Premiere_Pro_2020_14.2.0.47_SP_20200610.sha
+Adobe_Premiere_Pro_CC_2017.1.4_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2017 WIN HD SP/Adobe_Premiere_Pro_CC_2017.1.4_SP_20191219.sha
+Adobe_Premiere_Pro_CC_2017.1.4_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2017 WIN HD SP/Adobe_Premiere_Pro_CC_2017.1.4_SP_20191219.sha
+Adobe_Premiere_Pro_CC_2018.1.2_SP_20190914.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_Premiere_Pro_CC_2018.1.2_SP_20190914.sha
+Adobe_Premiere_Pro_CC_2018.1.2_SP_20190914.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 MAC HD SP/Adobe_Premiere_Pro_CC_2018.1.2_SP_20190914.sha
+Adobe_Premiere_Pro_CC_2018.1.2_SP_20191219.sha | https://139.185.32.228/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_Premiere_Pro_CC_2018.1.2_SP_20191219.sha
+Adobe_Premiere_Pro_CC_2018.1.2_SP_20191219.sha | https://193.123.85.183/d/转存/奥多凉/CC 2018 WIN HD SP/Adobe_Premiere_Pro_CC_2018.1.2_SP_20191219.sha
+Adobe_XD_23.1.32_20191015.sha | https://139.185.32.228/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_XD_23.1.32_20191015.sha
+Adobe_XD_23.1.32_20191015.sha | https://193.123.85.183/d/转存/奥多凉/CC 2019 OSX HD SP/Adobe_XD_23.1.32_20191015.sha
+Adobe_XD_29.2.32_SP_20200610.sha | https://139.185.32.228/d/转存/奥多凉/2020 MAC HD SP/Adobe_XD_29.2.32_SP_20200610.sha
+Adobe_XD_29.2.32_SP_20200610.sha | https://193.123.85.183/d/转存/奥多凉/2020 MAC HD SP/Adobe_XD_29.2.32_SP_20200610.sha
+Adobe_XD_29.3.32_SP_20200608.sha | https://139.185.32.228/d/转存/奥多凉/2020 WIN HD SP/Adobe_XD_29.3.32_SP_20200608.sha
+Adobe_XD_29.3.32_SP_20200608.sha | https://193.123.85.183/d/转存/奥多凉/2020 WIN HD SP/Adobe_XD_29.3.32_SP_20200608.sha
+CS6_MasterCol_v7.0Final.rar.sha | https://139.185.32.228/d/转存/奥多凉/Adobe CS6 Win Master Col Final/CS6_MasterCol_v7.0Final.rar.sha
+CS6_MasterCol_v7.0Final.rar.sha | https://193.123.85.183/d/转存/奥多凉/Adobe CS6 Win Master Col Final/CS6_MasterCol_v7.0Final.rar.sha
+De-Quarantine.sha | https://139.185.32.228/d/转存/奥多凉/2020 MAC HD SP/De-Quarantine.sha
+De-Quarantine.sha | https://193.123.85.183/d/转存/奥多凉/2020 MAC HD SP/De-Quarantine.sha
+Windows 11 Pro 22000.258 4in1 V2 小修.sha | https://103.136.146.29/d/BaiduTOG/Windows - 小修/Windows 11 - 小修/Windows 11 Pro 22000.258 4in1 V2 小修.sha
+【不忘初心】Windows10_LTSC2019_17763.2145_X64[美化特别-精简版][1.83G](2021.9.1).sha | https://139.185.32.228/d/转存/Windows 10 不忘初心精简版/【不忘初心】Windows10_LTSC2019_17763.2145_X64[美化特别-精简版][1.83G](2021.9.1)/【不忘初心】Windows10_LTSC2019_17763.2145_X64[美化特别-精简版][1.83G](2021.9.1).sha
+【不忘初心】Windows10_LTSC2019_17763.2145_X64[美化特别-精简版][1.83G](2021.9.1).sha | https://193.123.85.183/d/转存/Windows 10 不忘初心精简版/【不忘初心】Windows10_LTSC2019_17763.2145_X64[美化特别-精简版][1.83G](2021.9.1)/【不忘初心】Windows10_LTSC2019_17763.2145_X64[美化特别-精简版][1.83G](2021.9.1).sha

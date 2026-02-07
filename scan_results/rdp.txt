@@ -1,0 +1,10 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Default.rdp | https://8.217.236.10/d/mCloud/Default.rdp
+HIK_3T.rdp | http://222.140.20.107:8085/d/工具应用/网络/RDP_server/HIK_3T.rdp
+I'kuai server.rdp | http://222.140.20.107:8085/d/工具应用/网络/RDP_server/I'kuai server.rdp
+Oray.rdp | http://222.140.20.107:8085/d/工具应用/网络/RDP_server/Oray.rdp
+fnos server.rdp | http://222.140.20.107:8085/d/工具应用/网络/RDP_server/fnos server.rdp
+x86a-s2022.rdp | http://222.140.20.107:8085/d/工具应用/网络/RDP_server/x86a-s2022.rdp
+x86b-s2022.rdp | http://222.140.20.107:8085/d/工具应用/网络/RDP_server/x86b-s2022.rdp

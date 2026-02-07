@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+openwrt-ipq807x-generic-redmi_ax6-squashfs-nand-factory.ubi | https://193.123.237.119/d/Local/Router/RedMI_AX6/openwrt-ipq807x-generic-redmi_ax6-squashfs-nand-factory.ubi
+openwrt-qualcommax-ipq807x-redmi_ax6-stock-squashfs-factory.ubi | https://193.123.237.119/d/Local/openwrt-qualcommax-ipq807x-redmi_ax6-stock-squashfs-factory.ubi

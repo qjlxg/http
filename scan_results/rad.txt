@@ -1,0 +1,9 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+coldstream.rad | https://47.116.119.109/d/GSM/L4D2/left4dead2_dlc3/coldstream.rad
+coldstream.rad | https://47.116.14.121:8443/d/GSM/L4D2/left4dead2_dlc3/coldstream.rad
+lights.rad | https://47.116.119.109/d/GSM/L4D2/left4dead2/lights.rad
+lights.rad | https://47.116.14.121:8443/d/GSM/L4D2/left4dead2/lights.rad
+texture_shadow_fix.rad | https://47.116.119.109/d/GSM/L4D2/update/texture_shadow_fix.rad
+texture_shadow_fix.rad | https://47.116.14.121:8443/d/GSM/L4D2/update/texture_shadow_fix.rad

@@ -1,0 +1,7 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+md5sum.textutils | https://52.140.241.52/d/sftp/jp/bin/md5sum.textutils
+md5sum.textutils | https://8.140.252.113/d/4k/bin/X11/md5sum.textutils
+md5sum.textutils | https://8.140.252.113/d/4k/bin/md5sum.textutils
+md5sum.textutils | https://8.140.252.113/d/4k/usr/bin/md5sum.textutils

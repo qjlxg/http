@@ -1,0 +1,6 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Lambda.z07 | https://59.110.14.40/d/bgm_art_temp/FANBOX收集/Lambda/Lambda.z07
+Lambda.z07 | https://59.110.14.40/d/other_temp/FANBOX收集/Lambda/Lambda.z07
+[fanbox] BAE.C.z07 | https://59.110.14.40/d/bgm_art_temp/FANBOX收集/Bae.C/[fanbox] BAE.C.z07

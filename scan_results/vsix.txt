@@ -1,0 +1,4 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+GitHub.copilot-1.249.0.vsix | https://156.254.114.150/d/GitHub.copilot-1.249.0.vsix

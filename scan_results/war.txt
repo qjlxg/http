@@ -1,0 +1,7 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+gf-admin.war | http://139.226.10.210:8092/d/gf-admin.war
+jenkins-v2.346.3.war | http://172.93.221.47:30001/d/软件/Jenkins/jenkins-v2.346.3.war
+jenkins-v2.401.2.war | http://172.93.221.47:30001/d/软件/Jenkins/jenkins-v2.401.2.war
+jenkins.war | http://139.226.10.210:8092/d/华安/jenkins+nexus3/jenkins.war

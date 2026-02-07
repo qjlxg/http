@@ -1,0 +1,8 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Phntm_ARRI_IceBlue_G11_Slog3.cube | https://pan.pkq7.cn/d/资源/百度键盘皮肤/SLog3 阿莱风格lut/Phntm_ARRI_IceBlue_G11_Slog3.cube
+Phntm_ARRI_Jamaica_G11_Slog3.cube | https://pan.pkq7.cn/d/资源/百度键盘皮肤/SLog3 阿莱风格lut/Phntm_ARRI_Jamaica_G11_Slog3.cube
+Phntm_ARRI_Neutral_G11_Slog3.cube | https://pan.pkq7.cn/d/资源/百度键盘皮肤/SLog3 阿莱风格lut/Phntm_ARRI_Neutral_G11_Slog3.cube
+Phntm_ARRI_Tungsten_G11_Slog3.cube | https://pan.pkq7.cn/d/资源/百度键盘皮肤/SLog3 阿莱风格lut/Phntm_ARRI_Tungsten_G11_Slog3.cube
+Phntm_ARRI_Utopia_G11_Slog3.cube | https://pan.pkq7.cn/d/资源/百度键盘皮肤/SLog3 阿莱风格lut/Phntm_ARRI_Utopia_G11_Slog3.cube

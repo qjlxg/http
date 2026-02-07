@@ -1,0 +1,29 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+libgcrypt.so.11 | https://154.12.23.79/d/mnt/lib64/libgcrypt.so.11
+libgcrypt.so.11 | https://154.12.23.79/d/mnt/usr/lib64/libgcrypt.so.11
+libgd.so.3.0.11 | https://8.140.252.113/d/4k/lib/x86_64-linux-gnu/libgd.so.3.0.11
+libgpgme-pthread.so.11 | https://154.12.23.79/d/mnt/lib64/libgpgme-pthread.so.11
+libgpgme-pthread.so.11 | https://154.12.23.79/d/mnt/usr/lib64/libgpgme-pthread.so.11
+libgpgme-pthread.so.11 | https://8.140.252.113/d/4k/lib/x86_64-linux-gnu/libgpgme-pthread.so.11
+libgpgme.so.11 | http://113.140.77.109:8881/d/服务器1/lib64/libgpgme.so.11
+libgpgme.so.11 | http://113.140.77.109:8881/d/服务器1/usr/lib64/libgpgme.so.11
+libgpgme.so.11 | https://154.12.23.79/d/mnt/lib64/libgpgme.so.11
+libgpgme.so.11 | https://154.12.23.79/d/mnt/usr/lib64/libgpgme.so.11
+libgpgme.so.11 | https://8.140.252.113/d/4k/lib/x86_64-linux-gnu/libgpgme.so.11
+libhdf5_hl_cpp.so.11 | http://113.140.77.109:8881/d/服务器1/lib64/libhdf5_hl_cpp.so.11
+libhdf5_hl_cpp.so.11 | http://113.140.77.109:8881/d/服务器1/usr/lib64/libhdf5_hl_cpp.so.11
+libidn.so.11 | https://154.12.23.79/d/mnt/lib64/libidn.so.11
+libidn.so.11 | https://154.12.23.79/d/mnt/usr/lib64/libidn.so.11
+libidn.so.11.6.11 | https://154.12.23.79/d/mnt/lib64/libidn.so.11.6.11
+libidn.so.11.6.11 | https://154.12.23.79/d/mnt/usr/lib64/libidn.so.11.6.11
+libkadm5clnt_mit.so.11 | https://154.12.23.79/d/mnt/lib64/libkadm5clnt_mit.so.11
+libkadm5clnt_mit.so.11 | https://154.12.23.79/d/mnt/usr/lib64/libkadm5clnt_mit.so.11
+libkadm5srv_mit.so.11 | https://154.12.23.79/d/mnt/lib64/libkadm5srv_mit.so.11
+libkadm5srv_mit.so.11 | https://154.12.23.79/d/mnt/usr/lib64/libkadm5srv_mit.so.11
+libnftnl.so.11 | http://113.140.77.109:8881/d/服务器1/lib64/libnftnl.so.11
+libnftnl.so.11 | http://113.140.77.109:8881/d/服务器1/usr/lib64/libnftnl.so.11
+libnftnl.so.11 | https://8.140.252.113/d/4k/lib/x86_64-linux-gnu/libnftnl.so.11
+libz.so.1.2.11 | http://113.140.77.109:8881/d/服务器1/lib64/libz.so.1.2.11
+libz.so.1.2.11 | http://113.140.77.109:8881/d/服务器1/usr/lib64/libz.so.1.2.11

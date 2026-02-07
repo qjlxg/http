@@ -1,0 +1,6 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+FID_3b12d497_140b8e42add_1d6c-xs.lic | http://81.71.152.215/d/百度网盘/我的视频/《XenServer6.0管理视频教程》/FID_3b12d497_140b8e42add_1d6c-xs.lic
+FID__590bf1a9_14a20d1b6ac__3349.lic | http://81.71.152.215/d/百度网盘/我的视频/《思杰桌面虚拟化与应用虚拟化技术简易教程》/FID__590bf1a9_14a20d1b6ac__3349.lic
+license.lic | https://24.18.156.162/d/Mathworks Matlab R2023a (当前最新版本)/license.lic

@@ -1,0 +1,4 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Apple_Support_Appt.ics | https://110.42.34.107/d/我的应用/189邮箱/Apple_Support_Appt.ics

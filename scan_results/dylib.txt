@@ -1,0 +1,97 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+A S 7.dylib | https://82.158.231.55/d/天翼云盘/游戏/A S 7.dylib
+AmpLify.dylib | https://154.201.86.230/d/天翼云盘/同步盘/AmpLify.dylib
+CreakStarry.dylib | https://82.158.231.55/d/移动网盘/游戏ios/CreakStarry.dylib
+GDwebgames.dylib | https://82.158.231.55/d/天翼云盘/游戏/GDwebgames.dylib
+GDweb全功能(1).dylib | https://82.158.231.55/d/天翼云盘/游戏/GDweb全功能(1).dylib
+H5GG.dylib | https://pan.ios222.com/d/牛蛙助手官方源/H5GG.dylib
+HBLoadCrack.dylib | https://45.192.98.171/d/资源盘/黄白闪退注入插件/HBLoadCrack.dylib
+JKC外挂插件.dylib | https://nb.snbj123.cn/d/移动云/插件/JKC外挂插件.dylib
+MBPiOSHook.dylib | https://pan.pkq7.cn/d/微信插件/3MBPioshook/MBPiOSHook.dylib
+MisakaHelper_END.dylib | https://45.192.98.171/d/资源盘/插件合集/MisakaHelper_END.dylib
+Mk2.0.dylib | https://82.158.231.55/d/天翼云盘/游戏/Mk2.0.dylib
+Music (10).dylib | https://154.201.65.79/d/插件/Music (10).dylib
+PUBG XO AULL VERGN FIX .dylib | https://82.158.231.55/d/天翼云盘/游戏/PUBG XO AULL VERGN FIX .dylib
+PUBGM.V2xo.3.5.0.nojb.dylib | https://82.158.231.55/d/天翼云盘/游戏/PUBGM.V2xo.3.5.0.nojb.dylib
+PatAllUser.dylib | https://pan.pkq7.cn/d/微信插件/拍所有人/PatAllUser.dylib
+SanHua.dylib | https://154.201.65.79/d/插件/SanHua.dylib
+TW 3.3.dylib | https://82.158.231.55/d/天翼云盘/游戏/TW 3.3.dylib
+ThemeBox.dylib | https://45.192.98.171/d/资源盘/插件合集/主题盒子/ThemeBox.dylib
+ThemeBox.dylib | https://47.93.245.149/d/UCTV/来自：分享/主题盒子/ThemeBox.dylib
+ThemeManager.dylib | https://154.201.86.230/d/天翼云盘/同步盘/ThemeManager.dylib
+URL扩展 0.2-0.dylib | http://47.83.157.204:36081/d/ios/微信插件/URL扩展 0.2-0.dylib
+URL扩展 0.2-0.dylib | https://47.83.157.204/d/ios/微信插件/URL扩展 0.2-0.dylib
+VkPro 平替免费版.dylib | https://82.158.231.55/d/天翼云盘/游戏/VkPro 平替免费版.dylib
+WCPureExtension.dylib | http://47.83.157.204:36081/d/ios/微信插件/WCPureExtension.dylib
+WCPureExtension.dylib | https://106.14.89.202/d/tlch/ios/ipa/WCPureExtension.dylib
+WCPureExtension.dylib | https://47.83.157.204/d/ios/微信插件/WCPureExtension.dylib
+WeChat 1.1.5.dylib | http://47.83.157.204:36081/d/ios/微信插件/WeChat 1.1.5.dylib
+WeChat 1.1.5.dylib | https://47.83.157.204/d/ios/微信插件/WeChat 1.1.5.dylib
+WeChatAdBlocker（去广告-屏蔽签名检测）.dylib | https://101.35.82.72/d/定制文件/WeChatAdBlocker（去广告-屏蔽签名检测）.dylib
+WebChatThemDeb.dylib | https://pan.pkq7.cn/d/微信插件/丢丢 Max 美化/WebChatThemDeb.dylib
+WebChatThemDeb.dylib | https://pan.pkq7.cn/d/微信插件/丢丢 Max 美化/历史版本/WebChatThemDeb.dylib
+XO PUBGM 4.1.0 FREE.dylib | https://82.158.231.55/d/移动网盘/游戏ios/XO PUBGM 4.1.0 FREE.dylib
+hldy.dylib | https://82.158.231.55/d/天翼云盘/游戏/hldy.dylib
+hpjy.dylib | https://82.158.231.55/d/天翼云盘/游戏/hpjy.dylib
+libJailedShim.dylib | https://101.35.82.72/d/定制文件/libJailedShim.dylib
+libPineappleDylib.dylib | https://pan.pkq7.cn/d/微信插件/菠萝美化/libPineappleDylib.dylib
+libPineappleDylib.dylib | https://pan.pkq7.cn/d/微信插件/菠萝美化/历史版本/libPineappleDylib.dylib
+libsubstrate.dylib | https://pan.pkq7.cn/d/微信插件/防闪退依赖/libsubstrate.dylib
+libswiftCode.dylib | https://101.35.82.72/d/定制文件/libswiftCode.dylib
+libswift_Concurrency.dylib | https://101.35.82.72/d/定制文件/libswift_Concurrency.dylib
+xiaoaiwenhua.dylib | https://82.156.149.195/d/软件/我的插件/xiaoaiwenhua.dylib
+xiaoaiwenhua.dylib | https://82.156.149.195/d/软件/我的文档/xiaoaiwenhua.dylib
+xxxDylib.dylib | https://101.35.82.72/d/定制文件/xxxDylib.dylib
+串串香弹琴.dylib | https://82.158.231.55/d/天翼云盘/游戏/串串香弹琴.dylib
+体验服免越狱.dylib | https://82.158.231.55/d/天翼云盘/游戏/体验服免越狱.dylib
+保留聊天记录.dylib | http://47.83.157.204:36081/d/ios/微信插件/保留聊天记录.dylib
+保留聊天记录.dylib | https://47.83.157.204/d/ios/微信插件/保留聊天记录.dylib
+修复低版本5.2.0.dylib | https://82.156.149.195/d/软件/我的插件/修复低版本5.2.0.dylib
+光遇(1).dylib | https://82.158.231.55/d/天翼云盘/游戏/光遇(1).dylib
+冒险者日记.dylib | https://82.158.231.55/d/天翼云盘/游戏/冒险者日记.dylib
+动态背景 0.1-4.dylib | http://47.83.157.204:36081/d/ios/微信插件/动态背景 0.1-4.dylib
+动态背景 0.1-4.dylib | https://47.83.157.204/d/ios/微信插件/动态背景 0.1-4.dylib
+原相机拍摄.dylib | http://47.83.157.204:36081/d/ios/微信插件/原相机拍摄.dylib
+原相机拍摄.dylib | https://47.83.157.204/d/ios/微信插件/原相机拍摄.dylib
+地下城.dylib | https://82.158.231.55/d/天翼云盘/游戏/地下城.dylib
+宇-PUBG3.3免越狱引擎插件.dylib | https://82.158.231.55/d/天翼云盘/游戏/宇-PUBG3.3免越狱引擎插件.dylib
+小程序助手 0.1-8.dylib | http://47.83.157.204:36081/d/ios/微信插件/小程序助手 0.1-8.dylib
+小程序助手 0.1-8.dylib | https://47.83.157.204/d/ios/微信插件/小程序助手 0.1-8.dylib
+小雪糕 xiaoai.dylib | https://82.156.149.195/d/软件/我的插件/小雪糕 xiaoai.dylib
+微信callkit.dylib | https://pan.pkq7.cn/d/微信插件/微信callkit.dylib
+微信iPad登录.dylib | https://pan.pkq7.cn/d/微信插件/微信iPad登录.dylib
+微信助手 3.5-4.dylib | http://47.83.157.204:36081/d/ios/微信插件/微信助手 3.5-4.dylib
+微信助手 3.5-4.dylib | https://47.83.157.204/d/ios/微信插件/微信助手 3.5-4.dylib
+微信头像旋转1.3-1.dylib | https://45.192.98.171/d/资源盘/插件合集/微信头像旋转/微信头像旋转1.3-1.dylib
+微信语音新按钮.dylib | https://45.192.98.171/d/资源盘/插件合集/自动发卡/微信语音新按钮.dylib
+微信长头像.dylib | https://pan.pkq7.cn/d/微信插件/微信长头像.dylib
+心动小镇G-DX源.dylib | https://82.158.231.55/d/天翼云盘/游戏/心动小镇G-DX源.dylib
+拍所有人0.1-5.dylib | https://pan.pkq7.cn/d/微信插件/拍所有人/拍所有人0.1-5.dylib
+拍所有人强行关注.dylib | https://pan.pkq7.cn/d/微信插件/拍所有人强行关注.dylib
+挂神新春特别版.dylib | https://45.192.98.171/d/资源盘/插件合集/挂神新春特别版.dylib
+插件管理 0.1-2.dylib | http://47.83.157.204:36081/d/ios/微信插件/插件管理 0.1-2.dylib
+插件管理 0.1-2.dylib | https://47.83.157.204/d/ios/微信插件/插件管理 0.1-2.dylib
+斗图助手 3.0-8.dylib | http://47.83.157.204:36081/d/ios/微信插件/斗图助手 3.0-8.dylib
+斗图助手 3.0-8.dylib | https://47.83.157.204/d/ios/微信插件/斗图助手 3.0-8.dylib
+旧款五万弹琴插件.dylib | https://154.201.65.79/d/插件/旧款五万弹琴插件.dylib
+星空最新版三角洲破解.dylib | https://82.158.231.55/d/天翼云盘/游戏/星空最新版三角洲破解.dylib
+消息屏蔽 1.0-3.dylib | http://47.83.157.204:36081/d/ios/微信插件/消息屏蔽 1.0-3.dylib
+消息屏蔽 1.0-3.dylib | https://47.83.157.204/d/ios/微信插件/消息屏蔽 1.0-3.dylib
+消息屏蔽助手.dylib | https://pan.pkq7.cn/d/微信插件/消息屏蔽助手/消息屏蔽助手.dylib
+积赞助手 0.0.3.dylib | http://47.83.157.204:36081/d/ios/微信插件/积赞助手 0.0.3.dylib
+积赞助手 0.0.3.dylib | https://47.83.157.204/d/ios/微信插件/积赞助手 0.0.3.dylib
+红包达人 2.3.0.dylib | http://47.83.157.204:36081/d/ios/微信插件/红包达人 2.3.0.dylib
+红包达人 2.3.0.dylib | https://47.83.157.204/d/ios/微信插件/红包达人 2.3.0.dylib
+腾讯游戏扫码登录.dylib | http://47.83.157.204:36081/d/ios/微信插件/腾讯游戏扫码登录.dylib
+腾讯游戏扫码登录.dylib | https://47.83.157.204/d/ios/微信插件/腾讯游戏扫码登录.dylib
+自动点赞别人朋友圈（无设置默认开启）.dylib | https://pan.pkq7.cn/d/微信插件/自动点赞别人朋友圈（无设置默认开启）.dylib
+荧社旧款弹奏助手五万.dylib | https://154.201.65.79/d/插件/荧社旧款弹奏助手五万.dylib
+荧社通用防闪插件 .dylib | https://154.201.65.79/d/插件/荧社通用防闪插件 .dylib
+虚拟视频 2.0-8.dylib | http://47.83.157.204:36081/d/ios/微信插件/虚拟视频 2.0-8.dylib
+虚拟视频 2.0-8.dylib | https://47.83.157.204/d/ios/微信插件/虚拟视频 2.0-8.dylib
+虚拟视频_1.0-7.dylib | https://pan.pkq7.cn/d/微信插件/虚拟视频/虚拟视频_1.0-7.dylib
+连点器.dylib | https://101.35.82.72/d/都可签资源/连点器.dylib
+锤子微信助手1.0.1-1.dylib | https://pan.pkq7.cn/d/微信插件/锤子微信助手1.0.1-1.dylib
+雪夜.dylib | https://82.158.231.55/d/天翼云盘/游戏/雪夜.dylib

@@ -1,0 +1,235 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+117945-128-7b5fb9edef15eacbd4df3d7431d38d48.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/117945-128-7b5fb9edef15eacbd4df3d7431d38d48.idx
+1242601-128-b3d3f6e5ffc80273e7a35ce121cfd078.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/1242601-128-b3d3f6e5ffc80273e7a35ce121cfd078.idx
+1325896181-320-2e7040d6c6f9ed0f9fe7d2b3b3c481b2.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/1325896181-320-2e7040d6c6f9ed0f9fe7d2b3b3c481b2.idx
+132975-128-61a825e5e7652b20f1250a175ff562e2.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/132975-128-61a825e5e7652b20f1250a175ff562e2.idx
+1474821-192-8c611f9a795f715da1ec67a4b310b1c6.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/1474821-192-8c611f9a795f715da1ec67a4b310b1c6.idx
+1620506-128-86b1aeb13b466afd52a86c1a9a65e3a0.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/1620506-128-86b1aeb13b466afd52a86c1a9a65e3a0.idx
+16629199-128-8f6ff3aa273fca8e38971e3c32a1602f.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/16629199-128-8f6ff3aa273fca8e38971e3c32a1602f.idx
+16963125-128-5d987cabc717df0f7868452121b77c1d.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/16963125-128-5d987cabc717df0f7868452121b77c1d.idx
+17227545-128-bdabd524dc22b5ce5bec76a14be7cc92.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/17227545-128-bdabd524dc22b5ce5bec76a14be7cc92.idx
+17939827-128-007a90cee153d866e2ec76f32ea6318a.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/17939827-128-007a90cee153d866e2ec76f32ea6318a.idx
+18161816-128-f475cd0415cb65c6fb6b5b18ad5273b8.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/18161816-128-f475cd0415cb65c6fb6b5b18ad5273b8.idx
+184244-320-f6f09c79f65dfe8a8120646a5ff19fe5.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/184244-320-f6f09c79f65dfe8a8120646a5ff19fe5.idx
+18929050-128-3a9ea4b83cf441382281708803e5c0c9.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/18929050-128-3a9ea4b83cf441382281708803e5c0c9.idx
+19438337-128-c67015c33b88bbfbc98b59404ce37403.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/19438337-128-c67015c33b88bbfbc98b59404ce37403.idx
+2001320-128-1fb35f8094ffbfd3dbc5813f72060a89.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/2001320-128-1fb35f8094ffbfd3dbc5813f72060a89.idx
+21702048-128-bd8c1c860d58450b4bb04525915e2d41.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/21702048-128-bd8c1c860d58450b4bb04525915e2d41.idx
+2285212-128-3a70a5c8a673eb90a72381c5fb2aa010.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/2285212-128-3a70a5c8a673eb90a72381c5fb2aa010.idx
+25646389-128-3d5f033977c2f7c79c4d6684e4eff277.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/25646389-128-3d5f033977c2f7c79c4d6684e4eff277.idx
+25657229-128-70c5db84ea78dcc8eb727124acec52a0.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/25657229-128-70c5db84ea78dcc8eb727124acec52a0.idx
+25657282-128-3959904c439fe3254497aa207336cfd3.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/25657282-128-3959904c439fe3254497aa207336cfd3.idx
+25677802-128-dcd8ac25942693ee25ce08bd193f841c.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/25677802-128-dcd8ac25942693ee25ce08bd193f841c.idx
+25677992-128-4d00de131cd5b6700dcdfa8ecf64d526.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/25677992-128-4d00de131cd5b6700dcdfa8ecf64d526.idx
+25726002-128-eebcb6df268aaeec448ca9288b847716.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/25726002-128-eebcb6df268aaeec448ca9288b847716.idx
+26075548-128-4e754a614cc42148c2e41f0a13c005fb.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/26075548-128-4e754a614cc42148c2e41f0a13c005fb.idx
+26217117-128-f5f488e66823a6c325af6324fac526f7.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/26217117-128-f5f488e66823a6c325af6324fac526f7.idx
+26605072-128-693be80434f462a6301843b1374f9235.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/26605072-128-693be80434f462a6301843b1374f9235.idx
+27130297-128-5a0d4d2509ad89b6e7402548c6ef0687.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/27130297-128-5a0d4d2509ad89b6e7402548c6ef0687.idx
+27403811-128-d5657b02004533a8ccf58f0c282cffdc.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/27403811-128-d5657b02004533a8ccf58f0c282cffdc.idx
+27514868-128-9d794d67d8349620435cebacec49db46.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/27514868-128-9d794d67d8349620435cebacec49db46.idx
+27598328-192-a0ff90b1d00723ba9fa150ccc6ef8943.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/27598328-192-a0ff90b1d00723ba9fa150ccc6ef8943.idx
+27713920-128-da6ff7fbee395e7b86e65c9f1c29f98f.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/27713920-128-da6ff7fbee395e7b86e65c9f1c29f98f.idx
+2779326-320-330b27435688f48fe9ea4691c8eda536.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/2779326-320-330b27435688f48fe9ea4691c8eda536.idx
+28384788-128-f751c02fe67dedea64cc5f590eb98927.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/28384788-128-f751c02fe67dedea64cc5f590eb98927.idx
+28427754-128-832d95084191a53317f6bcbcf55fd828.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/28427754-128-832d95084191a53317f6bcbcf55fd828.idx
+2864697-128-5d44df04d49e510bf3ff9c2f3bc53e3e.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/2864697-128-5d44df04d49e510bf3ff9c2f3bc53e3e.idx
+28796621-128-bc458ef4e2d7000e9fc0264c055e61cd.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/28796621-128-bc458ef4e2d7000e9fc0264c055e61cd.idx
+28852581-320-e810ff6e8e3dc07422dbf27d1b2b7f88.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/28852581-320-e810ff6e8e3dc07422dbf27d1b2b7f88.idx
+28864234-128-15e2322f8a9f1b1ea3c622e829a69afb.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/28864234-128-15e2322f8a9f1b1ea3c622e829a69afb.idx
+288820-320-6143d9d0c1122049e28aa26f13ebce80.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/288820-320-6143d9d0c1122049e28aa26f13ebce80.idx
+29011128-320-5d93e437ac08ad080060692c8942bfe7.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/29011128-320-5d93e437ac08ad080060692c8942bfe7.idx
+29460369-128-bacbaeb8c76fe934a71353ca8e2429d6.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/29460369-128-bacbaeb8c76fe934a71353ca8e2429d6.idx
+29460377-128-15d65cf96448ce30d7fb13dfff6a243b.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/29460377-128-15d65cf96448ce30d7fb13dfff6a243b.idx
+29534449-320-6468cc1d6b78f401066280f0edc2cc7c.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/29534449-320-6468cc1d6b78f401066280f0edc2cc7c.idx
+29592100-128-0ed8475c6df10611c2543a841965b3dd.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/29592100-128-0ed8475c6df10611c2543a841965b3dd.idx
+29984255-192-e1e09ef8333c51f912163e08542f3ecc.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/29984255-192-e1e09ef8333c51f912163e08542f3ecc.idx
+30070918-128-461d006158e634f0f564612b59434bae.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/30070918-128-461d006158e634f0f564612b59434bae.idx
+301155-96-0ef70bca574f3ae90b5cae445f6f8eb5.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/301155-96-0ef70bca574f3ae90b5cae445f6f8eb5.idx
+30394891-128-ef07b60a843eeed6a18a915c3d164178.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/30394891-128-ef07b60a843eeed6a18a915c3d164178.idx
+30987703-320-3a601498676fe7b3b228e2a1a1e72dfa.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/30987703-320-3a601498676fe7b3b228e2a1a1e72dfa.idx
+31010921-320-ea7f8975fe61e060f79b4a65bd39b4b0.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/31010921-320-ea7f8975fe61e060f79b4a65bd39b4b0.idx
+32526330-320-0d2285ee957f25f5b4924b5ca2bfc58c.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/32526330-320-0d2285ee957f25f5b4924b5ca2bfc58c.idx
+32526332-320-3682c69e1fa9bb031c8cc7957fee0181.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/32526332-320-3682c69e1fa9bb031c8cc7957fee0181.idx
+33035611-320-3cee9c3affd4fd9ac5fc147303af6f0c.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/33035611-320-3cee9c3affd4fd9ac5fc147303af6f0c.idx
+3313491-320-b6edc40a76ee250783a2a20220203d2b.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/3313491-320-b6edc40a76ee250783a2a20220203d2b.idx
+33291435-128-f8869bc37996b100b6a1600be50f0810.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/33291435-128-f8869bc37996b100b6a1600be50f0810.idx
+33761576-320-d3b701ac811fb4f7883b1b9d0209a988.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/33761576-320-d3b701ac811fb4f7883b1b9d0209a988.idx
+34229976-128-d36276f6a59ae18b4098fbe75f90afbe.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/34229976-128-d36276f6a59ae18b4098fbe75f90afbe.idx
+359127-128-00a1eb20a5497711a036efbd386bc959.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/359127-128-00a1eb20a5497711a036efbd386bc959.idx
+36924093-320-697bf209df109c9c8982ea222a5c157b.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/36924093-320-697bf209df109c9c8982ea222a5c157b.idx
+36990266-128-e37e93fe58eac7ae44df445d2f8874f0.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/36990266-128-e37e93fe58eac7ae44df445d2f8874f0.idx
+37653063-192-b64ccbbf038820a81ce49296f6125c10.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/37653063-192-b64ccbbf038820a81ce49296f6125c10.idx
+383069-320-9ff4c6869aceebab188ecd990998accc.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/383069-320-9ff4c6869aceebab188ecd990998accc.idx
+38358820-320-eb6779fc43a108b6e95042d6f65f6041.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/38358820-320-eb6779fc43a108b6e95042d6f65f6041.idx
+38846493-128-c2b296fa602545e1886e3f3134e874d7.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/38846493-128-c2b296fa602545e1886e3f3134e874d7.idx
+38846832-128-e25176716fe612ec1008828938b7644f.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/38846832-128-e25176716fe612ec1008828938b7644f.idx
+399406152-320-0e28c0958f7c6f9d1d77649d401c1c98.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/399406152-320-0e28c0958f7c6f9d1d77649d401c1c98.idx
+405089420-128-23b4b26544094ef7e1bc094edcace555.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/405089420-128-23b4b26544094ef7e1bc094edcace555.idx
+409647737-128-b9177bd268b9d4d2f0ec83282b716b17.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/409647737-128-b9177bd268b9d4d2f0ec83282b716b17.idx
+411315504-128-b71ef836915208ffbdc783de454e6f57.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/411315504-128-b71ef836915208ffbdc783de454e6f57.idx
+413812448-320-93d8505d1fd24410ef0f46dbc2e2cc89.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/413812448-320-93d8505d1fd24410ef0f46dbc2e2cc89.idx
+41653419-320-473bc10678c3f837155034b29aa24320.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/41653419-320-473bc10678c3f837155034b29aa24320.idx
+421423806-128-6679396a63ff496ecef0453b25612dfa.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/421423806-128-6679396a63ff496ecef0453b25612dfa.idx
+423227267-128-bce70b5572c6e2f66ba1f0a6bcce2b6f.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/423227267-128-bce70b5572c6e2f66ba1f0a6bcce2b6f.idx
+427142481-320-0f43d3b056cef77dacfeded47fce35c8.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/427142481-320-0f43d3b056cef77dacfeded47fce35c8.idx
+427542109-128-2a75898c5d75f0dc288cc15836edfb37.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/427542109-128-2a75898c5d75f0dc288cc15836edfb37.idx
+431855270-128-39083c113938e3d00d1c60521c84f77b.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/431855270-128-39083c113938e3d00d1c60521c84f77b.idx
+442314991-128-1aeebbb1d0c29ae23d0b401d381d7f0d.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/442314991-128-1aeebbb1d0c29ae23d0b401d381d7f0d.idx
+445665094-128-7b724ce566d9f2a26880ee0d90a8cd63.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/445665094-128-7b724ce566d9f2a26880ee0d90a8cd63.idx
+445665094-320-ec86dfa790715eb5b1fc9ccec1cd127f.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/445665094-320-ec86dfa790715eb5b1fc9ccec1cd127f.idx
+446154202-320-5a3e6d4ed1d876a39143e96b0c52e963.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/446154202-320-5a3e6d4ed1d876a39143e96b0c52e963.idx
+451169473-320-914873f624898ca7566e3a88ebfa4ca1.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/451169473-320-914873f624898ca7566e3a88ebfa4ca1.idx
+451703096-128-0d8255acc1634702e1a184d446f91b88.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/451703096-128-0d8255acc1634702e1a184d446f91b88.idx
+452986458-128-e12da94e22a825f422ddebdfc50e8520.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/452986458-128-e12da94e22a825f422ddebdfc50e8520.idx
+457552211-128-9c4197d9dff716887307900924991554.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/457552211-128-9c4197d9dff716887307900924991554.idx
+462523501-128-a17a45f8775c6512fe18effa4683ade5.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/462523501-128-a17a45f8775c6512fe18effa4683ade5.idx
+464388303-320-7e930125e9d8e88f079a768aa642009e.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/464388303-320-7e930125e9d8e88f079a768aa642009e.idx
+465920905-320-145979eca8c5acdc43013d25a66e4586.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/465920905-320-145979eca8c5acdc43013d25a66e4586.idx
+466122460-320-49fde0ea21248a0c1e8646332fcf553c.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/466122460-320-49fde0ea21248a0c1e8646332fcf553c.idx
+470759015-320-06025d3a64403a17c57770386562207f.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/470759015-320-06025d3a64403a17c57770386562207f.idx
+474567580-128-3a7fe466f11c872349eb792e454f77c6.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/474567580-128-3a7fe466f11c872349eb792e454f77c6.idx
+474581010-128-1dca0b230638a9b0e96630bfcf671434.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/474581010-128-1dca0b230638a9b0e96630bfcf671434.idx
+479717618-320-dafd38ae1e91f6c18ed625d584cc4a5d.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/479717618-320-dafd38ae1e91f6c18ed625d584cc4a5d.idx
+480580003-320-0b7124c2ea70dce8676504cbbf8a0061.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/480580003-320-0b7124c2ea70dce8676504cbbf8a0061.idx
+485314467-128-ca1544d3dba2488d48418a6f9a97c043.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/485314467-128-ca1544d3dba2488d48418a6f9a97c043.idx
+485325022-128-ca1544d3dba2488d48418a6f9a97c043.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/485325022-128-ca1544d3dba2488d48418a6f9a97c043.idx
+489506275-128-dd523cfd2540a559fb38c43b3761ce44.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/489506275-128-dd523cfd2540a559fb38c43b3761ce44.idx
+492145159-128-9cf21fce8bea3dff4c25a18e7333cc9b.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/492145159-128-9cf21fce8bea3dff4c25a18e7333cc9b.idx
+496790353-128-9f036f0e965c91e13d544134a4840297.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/496790353-128-9f036f0e965c91e13d544134a4840297.idx
+500870893-320-baf73228e2b1c1fa69c78435cc0e8de1.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/500870893-320-baf73228e2b1c1fa69c78435cc0e8de1.idx
+501467888-320-e92a62b9a3500b0a1f9d1a8e7ea8f925.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/501467888-320-e92a62b9a3500b0a1f9d1a8e7ea8f925.idx
+513357140-128-1ab8b3d81a6c6d6d5bcc45d0df9ae901.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/513357140-128-1ab8b3d81a6c6d6d5bcc45d0df9ae901.idx
+518094151-128-a2f72f96ed9cbb4ff1290148dfd0118c.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/518094151-128-a2f72f96ed9cbb4ff1290148dfd0118c.idx
+519671929-320-2df6fe0e1f7abd4ab8bb1e738b3962c7.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/519671929-320-2df6fe0e1f7abd4ab8bb1e738b3962c7.idx
+5239305-320-ed06da74d02c96390054350374a4c57b.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/5239305-320-ed06da74d02c96390054350374a4c57b.idx
+524044202-320-ebb6c343455a43431171103fd9125055.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/524044202-320-ebb6c343455a43431171103fd9125055.idx
+5241583-320-a5731a0c51bad049f8ebf8ecc764c746.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/5241583-320-a5731a0c51bad049f8ebf8ecc764c746.idx
+526307800-128-aafdcba89bce13fc25b3521f4487d8f3.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/526307800-128-aafdcba89bce13fc25b3521f4487d8f3.idx
+526317440-320-7eefd74eccca57671a5e4c3c3f136d3e.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/526317440-320-7eefd74eccca57671a5e4c3c3f136d3e.idx
+526464293-128-cef6263c9a09bfc03fafbb15f6a99533.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/526464293-128-cef6263c9a09bfc03fafbb15f6a99533.idx
+5270599-320-ab4c9e6c1561bf9bdc8a645c663fc49f.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/5270599-320-ab4c9e6c1561bf9bdc8a645c663fc49f.idx
+536502758-320-f0e0f3eb90346eb57a5128eb46dfc1bb.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/536502758-320-f0e0f3eb90346eb57a5128eb46dfc1bb.idx
+536827841-320-fadee949f282c59cd6173ddd809689d8.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/536827841-320-fadee949f282c59cd6173ddd809689d8.idx
+536830553-320-aad715c36aba96a39464e3d6ffd29d7f.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/536830553-320-aad715c36aba96a39464e3d6ffd29d7f.idx
+538021544-320-d9f8dd17ba463bdd7c62ee68d939f061.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/538021544-320-d9f8dd17ba463bdd7c62ee68d939f061.idx
+62372-320-9905348bb0509ec13cde4726cb964918.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/62372-320-9905348bb0509ec13cde4726cb964918.idx
+96142-320-bb0fb19f7d1023021a89badede2b15c1.idx | http://118.25.145.11:88/d/音乐/网易云/Cache/96142-320-bb0fb19f7d1023021a89badede2b15c1.idx
+A.Raisin.in.the.Sun.1961.1080p.BluRay.x264-SiNNERS.idx | http://130.162.129.70/d/Movie/1989以前/[8.0]烈日當頭 A Raisin in the Sun.1961/A.Raisin.in.the.Sun.1961.1080p.BluRay.x264-SiNNERS.idx
+A.Raisin.in.the.Sun.1961.1080p.BluRay.x264-SiNNERS.idx | https://130.162.129.70/d/Movie/1989以前/[8.0]烈日當頭 A Raisin in the Sun.1961/A.Raisin.in.the.Sun.1961.1080p.BluRay.x264-SiNNERS.idx
+Born.Yesterday.1950.1080p.BluRay.X264-AMIABLE.idx | http://130.162.129.70/d/Movie/1989以前/[7.6]絳帳海堂春 Born Yesterday.1950/Born.Yesterday.1950.1080p.BluRay.X264-AMIABLE.idx
+Born.Yesterday.1950.1080p.BluRay.X264-AMIABLE.idx | https://130.162.129.70/d/Movie/1989以前/[7.6]絳帳海堂春 Born Yesterday.1950/Born.Yesterday.1950.1080p.BluRay.X264-AMIABLE.idx
+Clockers.1995.1080p.BluRay.X264-AMIABLE.idx | http://130.162.129.70/d/Movie/1990~1999/[6.9]黑街追緝令 Clockers.1995/Clockers.1995.1080p.BluRay.X264-AMIABLE.idx
+Clockers.1995.1080p.BluRay.X264-AMIABLE.idx | https://130.162.129.70/d/Movie/1990~1999/[6.9]黑街追緝令 Clockers.1995/Clockers.1995.1080p.BluRay.X264-AMIABLE.idx
+Closing.the.Ring.2007.1080p.WEB-DL.DD5.1.H.264-SbR.idx | http://130.162.129.70/d/Movie/2007/[6.5]戒，情人 Closing the Ring.2007/Closing.the.Ring.2007.1080p.WEB-DL.DD5.1.H.264-SbR.idx
+Closing.the.Ring.2007.1080p.WEB-DL.DD5.1.H.264-SbR.idx | https://130.162.129.70/d/Movie/2007/[6.5]戒，情人 Closing the Ring.2007/Closing.the.Ring.2007.1080p.WEB-DL.DD5.1.H.264-SbR.idx
+Corner.Office.2022.1080p.WEBRip.x264.AAC5.1.idx | http://130.162.129.70/d/Movie/2022/[6.0]角落辦公室 Corner Office.2022/Corner.Office.2022.1080p.WEBRip.x264.AAC5.1.idx
+Corner.Office.2022.1080p.WEBRip.x264.AAC5.1.idx | https://130.162.129.70/d/Movie/2022/[6.0]角落辦公室 Corner Office.2022/Corner.Office.2022.1080p.WEBRip.x264.AAC5.1.idx
+Daddy.Day.Care.2003.1080p.AMZN.WEB-DL.DD5.1.x264-ABM.idx | http://130.162.129.70/d/Movie/2003/[5.6]奶爸安親班 Daddy Day Care.2003/Daddy.Day.Care.2003.1080p.AMZN.WEB-DL.DD5.1.x264-ABM.idx
+Daddy.Day.Care.2003.1080p.AMZN.WEB-DL.DD5.1.x264-ABM.idx | https://130.162.129.70/d/Movie/2003/[5.6]奶爸安親班 Daddy Day Care.2003/Daddy.Day.Care.2003.1080p.AMZN.WEB-DL.DD5.1.x264-ABM.idx
+Damnation.1988.HUNGARIAN.1080p.BluRay.x264.DTS-FGT.idx | http://130.162.129.70/d/Movie/1989以前/[7.8](匈牙利)媽的毀滅吧 Damnation.1988/Damnation.1988.HUNGARIAN.1080p.BluRay.x264.DTS-FGT.idx
+Damnation.1988.HUNGARIAN.1080p.BluRay.x264.DTS-FGT.idx | https://130.162.129.70/d/Movie/1989以前/[7.8](匈牙利)媽的毀滅吧 Damnation.1988/Damnation.1988.HUNGARIAN.1080p.BluRay.x264.DTS-FGT.idx
+Day.of.Wrath.1943.(Vredens.Dag).1080p.BRRip.x264-Classics.idx | http://130.162.129.70/d/Movie/1989以前/[8.0](丹麥)憤怒之日 Day of Wrath.1943/Day.of.Wrath.1943.(Vredens.Dag).1080p.BRRip.x264-Classics.idx
+Day.of.Wrath.1943.(Vredens.Dag).1080p.BRRip.x264-Classics.idx | https://130.162.129.70/d/Movie/1989以前/[8.0](丹麥)憤怒之日 Day of Wrath.1943/Day.of.Wrath.1943.(Vredens.Dag).1080p.BRRip.x264-Classics.idx
+Happy.Ending.2022.1080p.NF.WEB-DL.DDP5.1.x264-SEIKEL.idx | http://130.162.129.70/d/Movie/2022/[6.5](泰國)愛情需要編劇 Happy Ending.2022/Happy.Ending.2022.1080p.NF.WEB-DL.DDP5.1.x264-SEIKEL.idx
+Happy.Ending.2022.1080p.NF.WEB-DL.DDP5.1.x264-SEIKEL.idx | https://130.162.129.70/d/Movie/2022/[6.5](泰國)愛情需要編劇 Happy Ending.2022/Happy.Ending.2022.1080p.NF.WEB-DL.DDP5.1.x264-SEIKEL.idx
+Head.Above.Water.1996.1080p.WEBRip.DD2.0.x264-NTb.idx | http://130.162.129.70/d/Movie/1990~1999/[6.0]浮出水面 Head Above Water.1996/Head.Above.Water.1996.1080p.WEBRip.DD2.0.x264-NTb.idx
+Head.Above.Water.1996.1080p.WEBRip.DD2.0.x264-NTb.idx | https://130.162.129.70/d/Movie/1990~1999/[6.0]浮出水面 Head Above Water.1996/Head.Above.Water.1996.1080p.WEBRip.DD2.0.x264-NTb.idx
+Heist.2001.1080p.BluRay.X264-AMIABLE.idx | http://130.162.129.70/d/Movie/2001/[6.5]各懷鬼胎 Heist.2001/Heist.2001.1080p.BluRay.X264-AMIABLE.idx
+Heist.2001.1080p.BluRay.X264-AMIABLE.idx | https://130.162.129.70/d/Movie/2001/[6.5]各懷鬼胎 Heist.2001/Heist.2001.1080p.BluRay.X264-AMIABLE.idx
+Howl.2010.LIMITED.1080p.BluRay.X264-AMIABLE.idx | http://130.162.129.70/d/Movie/2010/[6.8]詩吼 Howl.2010/Howl.2010.LIMITED.1080p.BluRay.X264-AMIABLE.idx
+Howl.2010.LIMITED.1080p.BluRay.X264-AMIABLE.idx | https://130.162.129.70/d/Movie/2010/[6.8]詩吼 Howl.2010/Howl.2010.LIMITED.1080p.BluRay.X264-AMIABLE.idx
+Just.Sex.and.Nothing.Else.2005.HUNGARIAN.1080p.BluRay.x264.DTS-FGT.idx | http://130.162.129.70/d/Movie/2005/[6.3](匈牙利)反戀愛主義 Just Sex And Nothing Else.2005/Just.Sex.and.Nothing.Else.2005.HUNGARIAN.1080p.BluRay.x264.DTS-FGT.idx
+Just.Sex.and.Nothing.Else.2005.HUNGARIAN.1080p.BluRay.x264.DTS-FGT.idx | https://130.162.129.70/d/Movie/2005/[6.3](匈牙利)反戀愛主義 Just Sex And Nothing Else.2005/Just.Sex.and.Nothing.Else.2005.HUNGARIAN.1080p.BluRay.x264.DTS-FGT.idx
+Keshin.1986.DVDRip.XviD-3Mhome.idx | http://130.162.129.70/d/Movie/1989以前/[6.5](日本)化身 Keshin.1986/Keshin.1986.DVDRip.XviD-3Mhome.idx
+Keshin.1986.DVDRip.XviD-3Mhome.idx | https://130.162.129.70/d/Movie/1989以前/[6.5](日本)化身 Keshin.1986/Keshin.1986.DVDRip.XviD-3Mhome.idx
+Killshot.2008.1080p.BluRay.x264.DTS-FGT.idx | http://130.162.129.70/d/Movie/2008/[6.0]生死一擊 Killshot.2008/Killshot.2008.1080p.BluRay.x264.DTS-FGT.idx
+Killshot.2008.1080p.BluRay.x264.DTS-FGT.idx | https://130.162.129.70/d/Movie/2008/[6.0]生死一擊 Killshot.2008/Killshot.2008.1080p.BluRay.x264.DTS-FGT.idx
+LOL.(Laughing.Out.Loud).2008.1080p.BluRay.DTS.x264-SbR.idx | http://130.162.129.70/d/Movie/2008/[6.3](法國)巴黎LOL：我的青春我的媽 LOL.2008/LOL.(Laughing.Out.Loud).2008.1080p.BluRay.DTS.x264-SbR.idx
+LOL.(Laughing.Out.Loud).2008.1080p.BluRay.DTS.x264-SbR.idx | https://130.162.129.70/d/Movie/2008/[6.3](法國)巴黎LOL：我的青春我的媽 LOL.2008/LOL.(Laughing.Out.Loud).2008.1080p.BluRay.DTS.x264-SbR.idx
+Les.cinq.diables.AKA.The.Five.Devils.2022.1080p.BluRay.DD5.1.x264-iK.idx | http://130.162.129.70/d/Movie/2022/[6.7](法國)五個惡魔 The Five Devils.2022/Les.cinq.diables.AKA.The.Five.Devils.2022.1080p.BluRay.DD5.1.x264-iK.idx
+Les.cinq.diables.AKA.The.Five.Devils.2022.1080p.BluRay.DD5.1.x264-iK.idx | https://130.162.129.70/d/Movie/2022/[6.7](法國)五個惡魔 The Five Devils.2022/Les.cinq.diables.AKA.The.Five.Devils.2022.1080p.BluRay.DD5.1.x264-iK.idx
+Lesquive.Abdellatif.Kechiche.2003.DVDRip.XviD.idx | http://130.162.129.70/d/Movie/2003/[6.9](法國)愛情躲貓貓 Games of Love and Chance.2003/Lesquive.Abdellatif.Kechiche.2003.DVDRip.XviD.idx
+Lesquive.Abdellatif.Kechiche.2003.DVDRip.XviD.idx | https://130.162.129.70/d/Movie/2003/[6.9](法國)愛情躲貓貓 Games of Love and Chance.2003/Lesquive.Abdellatif.Kechiche.2003.DVDRip.XviD.idx
+Like.Grains.of.Sand.1995.1080p.WEB-DL.DD+2.0.H.264-SbR.idx | http://130.162.129.70/d/Movie/1990~1999/[7.4](日本)流砂歲月 Like Grains of Sand.1995/Like.Grains.of.Sand.1995.1080p.WEB-DL.DD+2.0.H.264-SbR.idx
+Like.Grains.of.Sand.1995.1080p.WEB-DL.DD+2.0.H.264-SbR.idx | https://130.162.129.70/d/Movie/1990~1999/[7.4](日本)流砂歲月 Like Grains of Sand.1995/Like.Grains.of.Sand.1995.1080p.WEB-DL.DD+2.0.H.264-SbR.idx
+Love.is.the.Devil.Study.for.a.Portrait.of.Francis.Bacon.1998.1080p.BluRay.x264-HD4U.idx | http://130.162.129.70/d/Movie/1990~1999/[6.5]情迷畫色 Love Is the Devil：Study for a Portrait of Francis Bacon.1998/Love.is.the.Devil.Study.for.a.Portrait.of.Francis.Bacon.1998.1080p.BluRay.x264-HD4U.idx
+Love.is.the.Devil.Study.for.a.Portrait.of.Francis.Bacon.1998.1080p.BluRay.x264-HD4U.idx | https://130.162.129.70/d/Movie/1990~1999/[6.5]情迷畫色 Love Is the Devil：Study for a Portrait of Francis Bacon.1998/Love.is.the.Devil.Study.for.a.Portrait.of.Francis.Bacon.1998.1080p.BluRay.x264-HD4U.idx
+Lucid.Dreams.2018.1080p.BluRay.x264-HANDJOB.idx | http://130.162.129.70/d/Movie/2018/[5.7](香港)喜怒哀樂 Lucid Dreams.2018/Lucid.Dreams.2018.1080p.BluRay.x264-HANDJOB.idx
+Lucid.Dreams.2018.1080p.BluRay.x264-HANDJOB.idx | https://130.162.129.70/d/Movie/2018/[5.7](香港)喜怒哀樂 Lucid Dreams.2018/Lucid.Dreams.2018.1080p.BluRay.x264-HANDJOB.idx
+Middle.School.The.Worst.Years.of.My.Life.2016.1080p.BluRay.x264-GECKOS.idx | http://130.162.129.70/d/Movie/2016/[6.1]我地獄般的高中生活 Middle School：The Worst Years of My Life.2016/Middle.School.The.Worst.Years.of.My.Life.2016.1080p.BluRay.x264-GECKOS.idx
+Middle.School.The.Worst.Years.of.My.Life.2016.1080p.BluRay.x264-GECKOS.idx | https://130.162.129.70/d/Movie/2016/[6.1]我地獄般的高中生活 Middle School：The Worst Years of My Life.2016/Middle.School.The.Worst.Years.of.My.Life.2016.1080p.BluRay.x264-GECKOS.idx
+Mobile.Suit.Gundam.00.A.Wakening.Of.The.Trailblazer.2010.1080p.BluRay.x264-PFa.idx | http://130.162.129.70/d/Movie/2010/[6.8](動畫)機動戰士鋼彈00劇場版 Mobile Suit Gundam 00：A Wakening of the Trailblazer.2010/Mobile.Suit.Gundam.00.A.Wakening.Of.The.Trailblazer.2010.1080p.BluRay.x264-PFa.idx
+Mobile.Suit.Gundam.00.A.Wakening.Of.The.Trailblazer.2010.1080p.BluRay.x264-PFa.idx | https://130.162.129.70/d/Movie/2010/[6.8](動畫)機動戰士鋼彈00劇場版 Mobile Suit Gundam 00：A Wakening of the Trailblazer.2010/Mobile.Suit.Gundam.00.A.Wakening.Of.The.Trailblazer.2010.1080p.BluRay.x264-PFa.idx
+Mysterious.Island.1961.REMASTERED.1080p.BluRay.x264.DTS-FGT.idx | http://130.162.129.70/d/Movie/1989以前/[6.7]神秘島 Mysterious Island.1961/Mysterious.Island.1961.REMASTERED.1080p.BluRay.x264.DTS-FGT.idx
+Mysterious.Island.1961.REMASTERED.1080p.BluRay.x264.DTS-FGT.idx | https://130.162.129.70/d/Movie/1989以前/[6.7]神秘島 Mysterious Island.1961/Mysterious.Island.1961.REMASTERED.1080p.BluRay.x264.DTS-FGT.idx
+PY21.IDX | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/data/PY21.IDX
+PY21.IDX | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/data/PY21.IDX
+Pecker.1998.1080p.AMZN.WEB-DL.DD2.0.X264-AJP69 .idx | http://130.162.129.70/d/Movie/1990~1999/[6.3]貝克 Pecker.1998/Pecker.1998.1080p.AMZN.WEB-DL.DD2.0.X264-AJP69 .idx
+Pecker.1998.1080p.AMZN.WEB-DL.DD2.0.X264-AJP69 .idx | https://130.162.129.70/d/Movie/1990~1999/[6.3]貝克 Pecker.1998/Pecker.1998.1080p.AMZN.WEB-DL.DD2.0.X264-AJP69 .idx
+RKO.281.1999.1080p.HMAX.WEB-DL.DD2.0.H.264.ENG-tijuco.idx | http://130.162.129.70/d/Movie/1990~1999/[7.0]大國民傳奇 RKO 281.1999/RKO.281.1999.1080p.HMAX.WEB-DL.DD2.0.H.264.ENG-tijuco.idx
+RKO.281.1999.1080p.HMAX.WEB-DL.DD2.0.H.264.ENG-tijuco.idx | https://130.162.129.70/d/Movie/1990~1999/[7.0]大國民傳奇 RKO 281.1999/RKO.281.1999.1080p.HMAX.WEB-DL.DD2.0.H.264.ENG-tijuco.idx
+Roger.And.Me.1989.1080p.BluRay.x264.DD2.0-FGT.idx | http://130.162.129.70/d/Movie/1989以前/[7.5](紀錄片)羅傑與我 Roger & Me.1989/Roger.And.Me.1989.1080p.BluRay.x264.DD2.0-FGT.idx
+Roger.And.Me.1989.1080p.BluRay.x264.DD2.0-FGT.idx | https://130.162.129.70/d/Movie/1989以前/[7.5](紀錄片)羅傑與我 Roger & Me.1989/Roger.And.Me.1989.1080p.BluRay.x264.DD2.0-FGT.idx
+Roman.Polanski.A.Film.Memoir.2011.1080p.BluRay.x264-PFa.idx | http://130.162.129.70/d/Movie/2011/[7.1](紀錄片)羅曼波蘭斯基：戲如人生 Roman Polanski：A Film Memoir.2011/Roman.Polanski.A.Film.Memoir.2011.1080p.BluRay.x264-PFa.idx
+Roman.Polanski.A.Film.Memoir.2011.1080p.BluRay.x264-PFa.idx | https://130.162.129.70/d/Movie/2011/[7.1](紀錄片)羅曼波蘭斯基：戲如人生 Roman Polanski：A Film Memoir.2011/Roman.Polanski.A.Film.Memoir.2011.1080p.BluRay.x264-PFa.idx
+Say.Yes.2001.1080p.BluRay.x264-LCHD.idx | http://130.162.129.70/d/Movie/2001/[5.7](韓國)凶劫 Say Yes.2001/Say.Yes.2001.1080p.BluRay.x264-LCHD.idx
+Say.Yes.2001.1080p.BluRay.x264-LCHD.idx | https://130.162.129.70/d/Movie/2001/[5.7](韓國)凶劫 Say Yes.2001/Say.Yes.2001.1080p.BluRay.x264-LCHD.idx
+Slap.Shot.1978.1080p.BluRay.X264-AMIABLE.idx | http://130.162.129.70/d/Movie/1989以前/[7.3]火爆群龍 Slap Shot.1977/Slap.Shot.1978.1080p.BluRay.X264-AMIABLE.idx
+Slap.Shot.1978.1080p.BluRay.X264-AMIABLE.idx | https://130.162.129.70/d/Movie/1989以前/[7.3]火爆群龍 Slap Shot.1977/Slap.Shot.1978.1080p.BluRay.X264-AMIABLE.idx
+Something.New.2006.1080p.BluRay.x264.DTS.5.1.Hun-HomeAlone666.idx | http://130.162.129.70/d/Movie/2006/[6.6]心花漾 Something New.2006/Something.New.2006.1080p.BluRay.x264.DTS.5.1.Hun-HomeAlone666.idx
+Something.New.2006.1080p.BluRay.x264.DTS.5.1.Hun-HomeAlone666.idx | https://130.162.129.70/d/Movie/2006/[6.6]心花漾 Something New.2006/Something.New.2006.1080p.BluRay.x264.DTS.5.1.Hun-HomeAlone666.idx
+Supereroi.2021.ITALIAN.1080p.AMZN.WEB-DL.DDP5.1.H.264-THR.idx | http://130.162.129.70/d/Movie/2021/[6.7](義大利)真愛超能力 Superheroes.2021/Supereroi.2021.ITALIAN.1080p.AMZN.WEB-DL.DDP5.1.H.264-THR.idx
+Supereroi.2021.ITALIAN.1080p.AMZN.WEB-DL.DDP5.1.H.264-THR.idx | https://130.162.129.70/d/Movie/2021/[6.7](義大利)真愛超能力 Superheroes.2021/Supereroi.2021.ITALIAN.1080p.AMZN.WEB-DL.DDP5.1.H.264-THR.idx
+The.Agony.and.the.Ecstasy.1965.1080p.BluRay.DTS.x264-CtrlHD.idx | http://130.162.129.70/d/Movie/1989以前/[7.1]萬世千秋 The Agony and the Ecstasy.1965/The.Agony.and.the.Ecstasy.1965.1080p.BluRay.DTS.x264-CtrlHD.idx
+The.Agony.and.the.Ecstasy.1965.1080p.BluRay.DTS.x264-CtrlHD.idx | https://130.162.129.70/d/Movie/1989以前/[7.1]萬世千秋 The Agony and the Ecstasy.1965/The.Agony.and.the.Ecstasy.1965.1080p.BluRay.DTS.x264-CtrlHD.idx
+The.Amazing.Maurice.2022.1080p.BluRay.DD.5.1.x264-MegaPeer.idx | http://130.162.129.70/d/Movie/2022/[6.2](動畫)喵的詐騙集團 The Amazing Maurice.2022/The.Amazing.Maurice.2022.1080p.BluRay.DD.5.1.x264-MegaPeer.idx
+The.Amazing.Maurice.2022.1080p.BluRay.DD.5.1.x264-MegaPeer.idx | https://130.162.129.70/d/Movie/2022/[6.2](動畫)喵的詐騙集團 The Amazing Maurice.2022/The.Amazing.Maurice.2022.1080p.BluRay.DD.5.1.x264-MegaPeer.idx
+The.Brothers.Rico.1957.1080p.BluRay.FLAC.x264-HANDJOB.idx | http://130.162.129.70/d/Movie/1989以前/[6.8]龍虎鬥 The Brothers Rico.1957/The.Brothers.Rico.1957.1080p.BluRay.FLAC.x264-HANDJOB.idx
+The.Brothers.Rico.1957.1080p.BluRay.FLAC.x264-HANDJOB.idx | https://130.162.129.70/d/Movie/1989以前/[6.8]龍虎鬥 The Brothers Rico.1957/The.Brothers.Rico.1957.1080p.BluRay.FLAC.x264-HANDJOB.idx
+The.Crying.Game.1992.REMASTERED.1080p.BluRay.X264-AMIABLE.idx | http://130.162.129.70/d/Movie/1990~1999/[7.3]亂世浮生 The Crying Game.1992/The.Crying.Game.1992.REMASTERED.1080p.BluRay.X264-AMIABLE.idx
+The.Crying.Game.1992.REMASTERED.1080p.BluRay.X264-AMIABLE.idx | https://130.162.129.70/d/Movie/1990~1999/[7.3]亂世浮生 The Crying Game.1992/The.Crying.Game.1992.REMASTERED.1080p.BluRay.X264-AMIABLE.idx
+The.Golden.Cane.Warrior.2015.1080p.BluRay.x264-ROVERS.idx | http://130.162.129.70/d/Movie/2014/[6.3](印尼)黃金戰士 The Golden Cane Warrior.2014/The.Golden.Cane.Warrior.2015.1080p.BluRay.x264-ROVERS.idx
+The.Golden.Cane.Warrior.2015.1080p.BluRay.x264-ROVERS.idx | https://130.162.129.70/d/Movie/2014/[6.3](印尼)黃金戰士 The Golden Cane Warrior.2014/The.Golden.Cane.Warrior.2015.1080p.BluRay.x264-ROVERS.idx
+The.Great.Passage.2013.1080p.BluRay.x264.DTS-WiKi.idx | http://130.162.129.70/d/Movie/2013/[7.3](日本)宅男的戀愛辭典 The Great Passage.2013/The.Great.Passage.2013.1080p.BluRay.x264.DTS-WiKi.idx
+The.Great.Passage.2013.1080p.BluRay.x264.DTS-WiKi.idx | https://130.162.129.70/d/Movie/2013/[7.3](日本)宅男的戀愛辭典 The Great Passage.2013/The.Great.Passage.2013.1080p.BluRay.x264.DTS-WiKi.idx
+The.Two.of.Us.1967.1080p.BluRay.x264-DEPTH.idx | http://130.162.129.70/d/Movie/1989以前/[7.7](法國)老人與小孩 The Two of Us.1967/The.Two.of.Us.1967.1080p.BluRay.x264-DEPTH.idx
+The.Two.of.Us.1967.1080p.BluRay.x264-DEPTH.idx | https://130.162.129.70/d/Movie/1989以前/[7.7](法國)老人與小孩 The Two of Us.1967/The.Two.of.Us.1967.1080p.BluRay.x264-DEPTH.idx
+To.Sir.with.Love.1967.REMASTERED.1080p.BluRay.x264-OLDTiME.idx | http://130.162.129.70/d/Movie/1989以前/[7.6]吾愛吾師 To Sir, with Love.1967/To.Sir.with.Love.1967.REMASTERED.1080p.BluRay.x264-OLDTiME.idx
+To.Sir.with.Love.1967.REMASTERED.1080p.BluRay.x264-OLDTiME.idx | https://130.162.129.70/d/Movie/1989以前/[7.6]吾愛吾師 To Sir, with Love.1967/To.Sir.with.Love.1967.REMASTERED.1080p.BluRay.x264-OLDTiME.idx
+Trucker.2008.1080p.BluRay.x264.DD5.1-FGT.idx | http://130.162.129.70/d/Movie/2008/[6.6]卡車司機 Trucker.2008/Trucker.2008.1080p.BluRay.x264.DD5.1-FGT.idx
+Trucker.2008.1080p.BluRay.x264.DD5.1-FGT.idx | https://130.162.129.70/d/Movie/2008/[6.6]卡車司機 Trucker.2008/Trucker.2008.1080p.BluRay.x264.DD5.1-FGT.idx
+Ulysses'.Gaze.1995.dvdrip_[2.18].idx | http://130.162.129.70/d/Movie/1990~1999/[7.6](希臘)尤里西斯生命之旅 Ulysses' Gaze.1995/Ulysses'.Gaze.1995.dvdrip_[2.18].idx
+Ulysses'.Gaze.1995.dvdrip_[2.18].idx | https://130.162.129.70/d/Movie/1990~1999/[7.6](希臘)尤里西斯生命之旅 Ulysses' Gaze.1995/Ulysses'.Gaze.1995.dvdrip_[2.18].idx
+Waterloo.Bridge.1940.1080p.BluRay.x264.DTS-LHD.idx | http://130.162.129.70/d/Movie/1989以前/[7.8]魂斷藍橋 Waterloo Bridge.1940/Waterloo.Bridge.1940.1080p.BluRay.x264.DTS-LHD.idx
+Waterloo.Bridge.1940.1080p.BluRay.x264.DTS-LHD.idx | https://130.162.129.70/d/Movie/1989以前/[7.8]魂斷藍橋 Waterloo Bridge.1940/Waterloo.Bridge.1940.1080p.BluRay.x264.DTS-LHD.idx
+We.Are.Little.Zombies.2019.1080p.BluRay.DTS.x264-Kkhoaf.idx | http://130.162.129.70/d/Movie/2019/[6.9](日本)爸媽死了，我卻不想哭 We Are Little Zombies.2019/We.Are.Little.Zombies.2019.1080p.BluRay.DTS.x264-Kkhoaf.idx
+We.Are.Little.Zombies.2019.1080p.BluRay.DTS.x264-Kkhoaf.idx | https://130.162.129.70/d/Movie/2019/[6.9](日本)爸媽死了，我卻不想哭 We Are Little Zombies.2019/We.Are.Little.Zombies.2019.1080p.BluRay.DTS.x264-Kkhoaf.idx
+What.a.Girl.Wants.2003.Open.Matte.1080p.AMZN.WEB-DL.DDP2.0.x264-ABM.idx | http://130.162.129.70/d/Movie/2003/[5.8]水瓶座女孩 What a Girl Wants.2003/What.a.Girl.Wants.2003.Open.Matte.1080p.AMZN.WEB-DL.DDP2.0.x264-ABM.idx
+What.a.Girl.Wants.2003.Open.Matte.1080p.AMZN.WEB-DL.DDP2.0.x264-ABM.idx | https://130.162.129.70/d/Movie/2003/[5.8]水瓶座女孩 What a Girl Wants.2003/What.a.Girl.Wants.2003.Open.Matte.1080p.AMZN.WEB-DL.DDP2.0.x264-ABM.idx
+Yesterday.Today.and.Tomorrow.1963.ITALIAN.1080p.BluRay.x264.DD2.0-TRQ.idx | http://130.162.129.70/d/Movie/1989以前/[7.2](義大利)昨日今日明日 Yesterday, Today and Tomorrow.1963/Yesterday.Today.and.Tomorrow.1963.ITALIAN.1080p.BluRay.x264.DD2.0-TRQ.idx
+Yesterday.Today.and.Tomorrow.1963.ITALIAN.1080p.BluRay.x264.DD2.0-TRQ.idx | https://130.162.129.70/d/Movie/1989以前/[7.2](義大利)昨日今日明日 Yesterday, Today and Tomorrow.1963/Yesterday.Today.and.Tomorrow.1963.ITALIAN.1080p.BluRay.x264.DD2.0-TRQ.idx
+crying.freeman.1995.1080p.bluray.x264-usury.idx | http://130.162.129.70/d/Movie/1990~1999/[6.4]哭泣殺神 Crying Freeman.1995/crying.freeman.1995.1080p.bluray.x264-usury.idx
+crying.freeman.1995.1080p.bluray.x264-usury.idx | https://130.162.129.70/d/Movie/1990~1999/[6.4]哭泣殺神 Crying Freeman.1995/crying.freeman.1995.1080p.bluray.x264-usury.idx
+eight.taels.of.gold.1989.1080p.bluray.x264-bipolar.idx | http://130.162.129.70/d/Movie/1989以前/[7.1](香港)八兩金 Eight Taels of Gold.1989/eight.taels.of.gold.1989.1080p.bluray.x264-bipolar.idx
+eight.taels.of.gold.1989.1080p.bluray.x264-bipolar.idx | https://130.162.129.70/d/Movie/1989以前/[7.1](香港)八兩金 Eight Taels of Gold.1989/eight.taels.of.gold.1989.1080p.bluray.x264-bipolar.idx
+ftag.idx | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/splib/ftag.idx
+ftag.idx | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/splib/ftag.idx
+fvoice.idx | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/splib/fvoice.idx
+fvoice.idx | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/splib/fvoice.idx
+home.for.christmas.1080p-hd4u.idx | http://130.162.129.70/d/Movie/2010/[6.2](挪威)愛在聖誕夜 Home for Christmas.2010/home.for.christmas.1080p-hd4u.idx
+home.for.christmas.1080p-hd4u.idx | https://130.162.129.70/d/Movie/2010/[6.2](挪威)愛在聖誕夜 Home for Christmas.2010/home.for.christmas.1080p-hd4u.idx
+merci.pour.le.chocolat.2000.1080p.bluray.x264-orbs.idx | http://130.162.129.70/d/Movie/2000/[6.6](法國)謝謝你的巧克力 Nightcap.2000/merci.pour.le.chocolat.2000.1080p.bluray.x264-orbs.idx
+merci.pour.le.chocolat.2000.1080p.bluray.x264-orbs.idx | https://130.162.129.70/d/Movie/2000/[6.6](法國)謝謝你的巧克力 Nightcap.2000/merci.pour.le.chocolat.2000.1080p.bluray.x264-orbs.idx
+on.trial.1981.1080p.bluray.x264-regret.idx | http://130.162.129.70/d/Movie/1989以前/[6.9](香港)失業生 Job Hunter.1981/on.trial.1981.1080p.bluray.x264-regret.idx
+on.trial.1981.1080p.bluray.x264-regret.idx | https://130.162.129.70/d/Movie/1989以前/[6.9](香港)失業生 Job Hunter.1981/on.trial.1981.1080p.bluray.x264-regret.idx
+tag.idx | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/splib/tag.idx
+tag.idx | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/splib/tag.idx
+the.bouncer.2018.limited.1080p.bluray.x264-cadaver.idx | http://130.162.129.70/d/Movie/2018/[5.9]保鏢 The Bouncer.2018/the.bouncer.2018.limited.1080p.bluray.x264-cadaver.idx
+the.bouncer.2018.limited.1080p.bluray.x264-cadaver.idx | https://130.162.129.70/d/Movie/2018/[5.9]保鏢 The Bouncer.2018/the.bouncer.2018.limited.1080p.bluray.x264-cadaver.idx
+the.mob.1951.1080p.bluray.x264-usury.idx | http://130.162.129.70/d/Movie/1989以前/[7.1]殺出重圍 The Mob.1951/the.mob.1951.1080p.bluray.x264-usury.idx
+the.mob.1951.1080p.bluray.x264-usury.idx | https://130.162.129.70/d/Movie/1989以前/[7.1]殺出重圍 The Mob.1951/the.mob.1951.1080p.bluray.x264-usury.idx
+voice.idx | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/splib/voice.idx
+voice.idx | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/splib/voice.idx

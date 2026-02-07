@@ -1,0 +1,7 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+fastestmirror.pyo | https://154.12.23.79/d/mnt/lib/yum-plugins/fastestmirror.pyo
+product-id.pyo | https://154.12.23.79/d/mnt/lib/yum-plugins/product-id.pyo
+search-disabled-repos.pyo | https://154.12.23.79/d/mnt/lib/yum-plugins/search-disabled-repos.pyo
+subscription-manager.pyo | https://154.12.23.79/d/mnt/lib/yum-plugins/subscription-manager.pyo

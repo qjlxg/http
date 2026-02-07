@@ -1,0 +1,11 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+go.mod | https://113.207.49.5/d/GitHub/repos/Mrs4s_go-cqhttp/go.mod
+go.mod | https://113.207.49.5/d/GitHub/repos/certimate-go_certimate/go.mod
+go.mod | https://113.207.49.5/d/GitHub/repos/go-pay_gopay/go.mod
+go.mod | https://113.207.49.5/d/GitHub/repos/shadow1ng_fscan/go.mod
+go.mod | https://113.207.49.5/d/GitHub/repos/songquanpeng_one-api/go.mod
+go.mod | https://188.255.170.62/d/xkatld/cloudflare-tools/Server/go.mod
+go.mod | https://188.255.170.62/d/xkatld/zjmf-lxd-server-main-stable/lxdweb/go.mod
+go.mod | https://188.255.170.62/d/xkatld/zjmf-lxd-server/lxdweb/go.mod

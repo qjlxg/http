@@ -1,0 +1,90 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+10000.km.2014.1080p.bluray.x264-usury.sup | http://130.162.129.70/d/Movie/2014/[6.7](西班牙)愛隔萬里 10.000 Km.2014/10000.km.2014.1080p.bluray.x264-usury.sup
+10000.km.2014.1080p.bluray.x264-usury.sup | https://130.162.129.70/d/Movie/2014/[6.7](西班牙)愛隔萬里 10.000 Km.2014/10000.km.2014.1080p.bluray.x264-usury.sup
+6th.Floor.Rear.Flat.2003.HKG.BluRay.1080p.x264.DDP.5.1.2Audios-CMCT.sup | http://130.162.129.70/d/Movie/2003/[6.0](香港)六樓后座 Truth or Dare：6th Floor Rear Flat.2003/6th.Floor.Rear.Flat.2003.HKG.BluRay.1080p.x264.DDP.5.1.2Audios-CMCT.sup
+6th.Floor.Rear.Flat.2003.HKG.BluRay.1080p.x264.DDP.5.1.2Audios-CMCT.sup | https://130.162.129.70/d/Movie/2003/[6.0](香港)六樓后座 Truth or Dare：6th Floor Rear Flat.2003/6th.Floor.Rear.Flat.2003.HKG.BluRay.1080p.x264.DDP.5.1.2Audios-CMCT.sup
+9413.1998.CHINESE.1080p.BluRay.x264-HANDJOB.sup | http://130.162.129.70/d/Movie/1990~1999/[5.7](香港)9413.1998/9413.1998.CHINESE.1080p.BluRay.x264-HANDJOB.sup
+9413.1998.CHINESE.1080p.BluRay.x264-HANDJOB.sup | https://130.162.129.70/d/Movie/1990~1999/[5.7](香港)9413.1998/9413.1998.CHINESE.1080p.BluRay.x264-HANDJOB.sup
+A.Moment.of.Romance.1990.BluRay.1080p.x264.DTS-HDChina.sup | http://130.162.129.70/d/Movie/1990~1999/[7.5](香港)天若有情 A Moment of Romance.1990/A.Moment.of.Romance.1990.BluRay.1080p.x264.DTS-HDChina.sup
+A.Moment.of.Romance.1990.BluRay.1080p.x264.DTS-HDChina.sup | https://130.162.129.70/d/Movie/1990~1999/[7.5](香港)天若有情 A Moment of Romance.1990/A.Moment.of.Romance.1990.BluRay.1080p.x264.DTS-HDChina.sup
+Avengers.Endgame.2019.UHD.BluRay.2160p.TrueHD(Atmos).7.1.HDR.10bit.x265-beAst.chs.sup | http://182.34.168.98:8088/d/Quark/078.复仇者联盟4：终局之战.Avengers.Endgame.2019.UHD.BluRay.2160p.TrueHD(Atmos).7.1.HDR.10bit.x265-beAst/Avengers.Endgame.2019.UHD.BluRay.2160p.TrueHD(Atmos).7.1.HDR.10bit.x265-beAst.chs.sup
+Avengers.Endgame.2019.UHD.BluRay.2160p.TrueHD(Atmos).7.1.HDR.10bit.x265-beAst.chs.sup | http://182.34.168.98:8088/d/QuarkTV/来自：分享/078.复仇者联盟4：终局之战.Avengers.Endgame.2019.UHD.BluRay.2160p.TrueHD(Atmos).7.1.HDR.10bit.x265-beAst/Avengers.Endgame.2019.UHD.BluRay.2160p.TrueHD(Atmos).7.1.HDR.10bit.x265-beAst.chs.sup
+Avengers.Endgame.2019.UHD.BluRay.2160p.TrueHD(Atmos).7.1.HDR.10bit.x265-beAst.sup | http://182.34.168.98:8088/d/Quark/078.复仇者联盟4：终局之战.Avengers.Endgame.2019.UHD.BluRay.2160p.TrueHD(Atmos).7.1.HDR.10bit.x265-beAst/Avengers.Endgame.2019.UHD.BluRay.2160p.TrueHD(Atmos).7.1.HDR.10bit.x265-beAst.sup
+Avengers.Endgame.2019.UHD.BluRay.2160p.TrueHD(Atmos).7.1.HDR.10bit.x265-beAst.sup | http://182.34.168.98:8088/d/QuarkTV/来自：分享/078.复仇者联盟4：终局之战.Avengers.Endgame.2019.UHD.BluRay.2160p.TrueHD(Atmos).7.1.HDR.10bit.x265-beAst/Avengers.Endgame.2019.UHD.BluRay.2160p.TrueHD(Atmos).7.1.HDR.10bit.x265-beAst.sup
+Avengers.Infinity.War.2018.Repack.UHD.BluRay.2160p.2Audio.TrueHD(Atmos).7.1.HDR.10bit.x265-beAst.sup | http://182.34.168.98:8088/d/Quark/063.复仇者联盟3：无限战争.Avengers.Infinity.War.2018.Repack.UHD.BluRay.2160p.2Audio.TrueHD(Atmos).7.1.HDR.10bit.x265-beAst/Avengers.Infinity.War.2018.Repack.UHD.BluRay.2160p.2Audio.TrueHD(Atmos).7.1.HDR.10bit.x265-beAst.sup
+Avengers.Infinity.War.2018.Repack.UHD.BluRay.2160p.2Audio.TrueHD(Atmos).7.1.HDR.10bit.x265-beAst.sup | http://182.34.168.98:8088/d/QuarkTV/来自：分享/063.复仇者联盟3：无限战争.Avengers.Infinity.War.2018.Repack.UHD.BluRay.2160p.2Audio.TrueHD(Atmos).7.1.HDR.10bit.x265-beAst/Avengers.Infinity.War.2018.Repack.UHD.BluRay.2160p.2Audio.TrueHD(Atmos).7.1.HDR.10bit.x265-beAst.sup
+Brotherhood.1986.CHINESE.1080p.BluRay.x264.FLAC.2.0-LHD.sup | http://130.162.129.70/d/Movie/1989以前/[6.3](香港)兄弟 Brotherhood.1986/Brotherhood.1986.CHINESE.1080p.BluRay.x264.FLAC.2.0-LHD.sup
+Brotherhood.1986.CHINESE.1080p.BluRay.x264.FLAC.2.0-LHD.sup | https://130.162.129.70/d/Movie/1989以前/[6.3](香港)兄弟 Brotherhood.1986/Brotherhood.1986.CHINESE.1080p.BluRay.x264.FLAC.2.0-LHD.sup
+Devoted.To.You.1986.1080p.BluRay.FLAC.2.0.x264-WMD.sup | http://130.162.129.70/d/Movie/1989以前/[6.1](香港)我已成年 Then Nice Two Coutles.1986/Devoted.To.You.1986.1080p.BluRay.FLAC.2.0.x264-WMD.sup
+Devoted.To.You.1986.1080p.BluRay.FLAC.2.0.x264-WMD.sup | https://130.162.129.70/d/Movie/1989以前/[6.1](香港)我已成年 Then Nice Two Coutles.1986/Devoted.To.You.1986.1080p.BluRay.FLAC.2.0.x264-WMD.sup
+Esprit.D'amour.1983.1080p.BluRay.DDP.5.1.x264-ODiUM.sup | http://130.162.129.70/d/Movie/1989以前/[6.7](香港)陰陽錯 Esprit D'amour.1983/Esprit.D'amour.1983.1080p.BluRay.DDP.5.1.x264-ODiUM.sup
+Esprit.D'amour.1983.1080p.BluRay.DDP.5.1.x264-ODiUM.sup | https://130.162.129.70/d/Movie/1989以前/[6.7](香港)陰陽錯 Esprit D'amour.1983/Esprit.D'amour.1983.1080p.BluRay.DDP.5.1.x264-ODiUM.sup
+First.Love.The.Litter.on.the.Breeze.1997.CHINESE.1080p.BluRay.x264.DD5.1-PTer.sup | http://130.162.129.70/d/Movie/1990~1999/[6.9](香港)初纏戀後的2人世界 First Love：Litter on the Breeze.1997/First.Love.The.Litter.on.the.Breeze.1997.CHINESE.1080p.BluRay.x264.DD5.1-PTer.sup
+First.Love.The.Litter.on.the.Breeze.1997.CHINESE.1080p.BluRay.x264.DD5.1-PTer.sup | https://130.162.129.70/d/Movie/1990~1999/[6.9](香港)初纏戀後的2人世界 First Love：Litter on the Breeze.1997/First.Love.The.Litter.on.the.Breeze.1997.CHINESE.1080p.BluRay.x264.DD5.1-PTer.sup
+Full.Metal.Jacket.1987.1080p.BluRay.x264.DTS-HD.MA.5.1-SWTYBLZ.sup | http://130.162.129.70/d/Movie/1989以前/[8.3]金甲部隊 Full Metal Jacket.1987/Full.Metal.Jacket.1987.1080p.BluRay.x264.DTS-HD.MA.5.1-SWTYBLZ.sup
+Full.Metal.Jacket.1987.1080p.BluRay.x264.DTS-HD.MA.5.1-SWTYBLZ.sup | https://130.162.129.70/d/Movie/1989以前/[8.3]金甲部隊 Full Metal Jacket.1987/Full.Metal.Jacket.1987.1080p.BluRay.x264.DTS-HD.MA.5.1-SWTYBLZ.sup
+Gift.From.Heaven.1989.CHINESE.1080p.BluRay.x264.DTS-FGT.sup | http://130.162.129.70/d/Movie/1989以前/[5.8](香港)蝸牛上班族 Gift from Heaven.1989/Gift.From.Heaven.1989.CHINESE.1080p.BluRay.x264.DTS-FGT.sup
+Gift.From.Heaven.1989.CHINESE.1080p.BluRay.x264.DTS-FGT.sup | https://130.162.129.70/d/Movie/1989以前/[5.8](香港)蝸牛上班族 Gift from Heaven.1989/Gift.From.Heaven.1989.CHINESE.1080p.BluRay.x264.DTS-FGT.sup
+Goodbye.Mr.Cool.2001.1080p.BluRay.DD-EX.5.1.x264-WMD.sup | http://130.162.129.70/d/Movie/2001/[6.5](香港)酷！英雄 Goodbye, Mr. Cool.2001/Goodbye.Mr.Cool.2001.1080p.BluRay.DD-EX.5.1.x264-WMD.sup
+Goodbye.Mr.Cool.2001.1080p.BluRay.DD-EX.5.1.x264-WMD.sup | https://130.162.129.70/d/Movie/2001/[6.5](香港)酷！英雄 Goodbye, Mr. Cool.2001/Goodbye.Mr.Cool.2001.1080p.BluRay.DD-EX.5.1.x264-WMD.sup
+Guests.in.the.House.1988.1080p.BluRay.DD5.1.x264-PTer.sup | http://130.162.129.70/d/Movie/1989以前/[5.6](香港)吉屋藏嬌 Guests In The House.1988/Guests.in.the.House.1988.1080p.BluRay.DD5.1.x264-PTer.sup
+Guests.in.the.House.1988.1080p.BluRay.DD5.1.x264-PTer.sup | https://130.162.129.70/d/Movie/1989以前/[5.6](香港)吉屋藏嬌 Guests In The House.1988/Guests.in.the.House.1988.1080p.BluRay.DD5.1.x264-PTer.sup
+Heart.Against.Hearts.1992.1080p.BluRay.FLAC 2.0.x264-PTer.sup | http://130.162.129.70/d/Movie/1990~1999/[6.2](香港)三人做世界 Heart Against Hearts.1992/Heart.Against.Hearts.1992.1080p.BluRay.FLAC 2.0.x264-PTer.sup
+Heart.Against.Hearts.1992.1080p.BluRay.FLAC 2.0.x264-PTer.sup | https://130.162.129.70/d/Movie/1990~1999/[6.2](香港)三人做世界 Heart Against Hearts.1992/Heart.Against.Hearts.1992.1080p.BluRay.FLAC 2.0.x264-PTer.sup
+Home.at.Hong.Kong.1983.1080p.BluRay.FLAC.x264-HANDJOB.sup | http://130.162.129.70/d/Movie/1989以前/[6.3](香港)家在香港 Home At Hong Kong.1983/Home.at.Hong.Kong.1983.1080p.BluRay.FLAC.x264-HANDJOB.sup
+Home.at.Hong.Kong.1983.1080p.BluRay.FLAC.x264-HANDJOB.sup | https://130.162.129.70/d/Movie/1989以前/[6.3](香港)家在香港 Home At Hong Kong.1983/Home.at.Hong.Kong.1983.1080p.BluRay.FLAC.x264-HANDJOB.sup
+Knock.Out.2020.CHINESE.1080p.BluRay.x264.DTS-FGT.sup | http://130.162.129.70/d/Movie/2020/[7.5](中國)我們永不言棄 Knock Out.2020/Knock.Out.2020.CHINESE.1080p.BluRay.x264.DTS-FGT.sup
+Knock.Out.2020.CHINESE.1080p.BluRay.x264.DTS-FGT.sup | https://130.162.129.70/d/Movie/2020/[7.5](中國)我們永不言棄 Knock Out.2020/Knock.Out.2020.CHINESE.1080p.BluRay.x264.DTS-FGT.sup
+Kung.Fu.Panda.4.2024.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-FLUX.sup | http://192.9.134.188:8081/d/天翼云盘/影视/功夫熊猫4/Kung.Fu.Panda.4.2024.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-FLUX.sup
+Love.Unto.Waste.1986.CHINESE.1080p.BluRay.x264.DD5.1-SHE.sup | http://130.162.129.70/d/Movie/1989以前/[6.7](香港)地下情 Love Unto Waste.1986/Love.Unto.Waste.1986.CHINESE.1080p.BluRay.x264.DD5.1-SHE.sup
+Love.Unto.Waste.1986.CHINESE.1080p.BluRay.x264.DD5.1-SHE.sup | https://130.162.129.70/d/Movie/1989以前/[6.7](香港)地下情 Love Unto Waste.1986/Love.Unto.Waste.1986.CHINESE.1080p.BluRay.x264.DD5.1-SHE.sup
+Once.Upon.a.Rainbow.1982.CHINESE.1080p.BluRay.x264.DTS-FGT.sup | http://130.162.129.70/d/Movie/1989以前/[5.6](香港)彩雲曲 Once Upon a Rainbow.1982/Once.Upon.a.Rainbow.1982.CHINESE.1080p.BluRay.x264.DTS-FGT.sup
+Once.Upon.a.Rainbow.1982.CHINESE.1080p.BluRay.x264.DTS-FGT.sup | https://130.162.129.70/d/Movie/1989以前/[5.6](香港)彩雲曲 Once Upon a Rainbow.1982/Once.Upon.a.Rainbow.1982.CHINESE.1080p.BluRay.x264.DTS-FGT.sup
+Part-Time.Girlfriend.2021.CHINESE.1080p.BluRay.x264.DD5.1-iKiW.sup | http://130.162.129.70/d/Movie/2021/[4.5](香港)出租女友 Part-Time Girlfriend.2021/Part-Time.Girlfriend.2021.CHINESE.1080p.BluRay.x264.DD5.1-iKiW.sup
+Part-Time.Girlfriend.2021.CHINESE.1080p.BluRay.x264.DD5.1-iKiW.sup | https://130.162.129.70/d/Movie/2021/[4.5](香港)出租女友 Part-Time Girlfriend.2021/Part-Time.Girlfriend.2021.CHINESE.1080p.BluRay.x264.DD5.1-iKiW.sup
+Rebel.Without.A.Cause.1955.1080p.BluRay.x264-CiNEFiLE.sup | http://130.162.129.70/d/Movie/1989以前/[7.7]養子不教誰之過 Rebel Without a Cause.1955/Rebel.Without.A.Cause.1955.1080p.BluRay.x264-CiNEFiLE.sup
+Rebel.Without.A.Cause.1955.1080p.BluRay.x264-CiNEFiLE.sup | https://130.162.129.70/d/Movie/1989以前/[7.7]養子不教誰之過 Rebel Without a Cause.1955/Rebel.Without.A.Cause.1955.1080p.BluRay.x264-CiNEFiLE.sup
+Sausalito.2000.CHINESE.1080p.BluRay.x264.DTS-FGT.sup | http://130.162.129.70/d/Movie/2000/[5.7](香港)一見鍾情 Sausalito.2000/Sausalito.2000.CHINESE.1080p.BluRay.x264.DTS-FGT.sup
+Sausalito.2000.CHINESE.1080p.BluRay.x264.DTS-FGT.sup | https://130.162.129.70/d/Movie/2000/[5.7](香港)一見鍾情 Sausalito.2000/Sausalito.2000.CHINESE.1080p.BluRay.x264.DTS-FGT.sup
+Special.Actors.2019.JAPANESE.1080p.BluRay.x264.DTS-CHD.sup | http://130.162.129.70/d/Movie/2019/[6.4](日本)特約經紀公司 Special Actors.2019/Special.Actors.2019.JAPANESE.1080p.BluRay.x264.DTS-CHD.sup
+Special.Actors.2019.JAPANESE.1080p.BluRay.x264.DTS-CHD.sup | https://130.162.129.70/d/Movie/2019/[6.4](日本)特約經紀公司 Special Actors.2019/Special.Actors.2019.JAPANESE.1080p.BluRay.x264.DTS-CHD.sup
+Spider-Man.No.Way.Home.2021.BluRay.2160p.TrueHD.7.1.HDR.x265.10bit-CHD.sup | http://182.34.168.98:8088/d/Quark/176.蜘蛛侠：英雄无归.Spider-Man.No.Way.Home.2021.BluRay.2160p.TrueHD.7.1.HDR.x265.10bit-CHD/Spider-Man.No.Way.Home.2021.BluRay.2160p.TrueHD.7.1.HDR.x265.10bit-CHD.sup
+Spider-Man.No.Way.Home.2021.BluRay.2160p.TrueHD.7.1.HDR.x265.10bit-CHD.sup | http://182.34.168.98:8088/d/QuarkTV/来自：分享/176.蜘蛛侠：英雄无归.Spider-Man.No.Way.Home.2021.BluRay.2160p.TrueHD.7.1.HDR.x265.10bit-CHD/Spider-Man.No.Way.Home.2021.BluRay.2160p.TrueHD.7.1.HDR.x265.10bit-CHD.sup
+Spider.Man.Into.The.Spider.Verse.2018.UHD.BluRay.2160p.10bit.HDR.4Audio.TrueHD(Atmos).7.1.x265-beA.sup | http://182.34.168.98:8088/d/Quark/065.蜘蛛侠：平行宇宙.Spider.Man.Into.The.Spider.Verse.2018.UHD.BluRay.2160p.10bit.HDR.4Audio.TrueHD(Atmos).7.1.x265-beAst/Spider.Man.Into.The.Spider.Verse.2018.UHD.BluRay.2160p.10bit.HDR.4Audio.TrueHD(Atmos).7.1.x265-beA.sup
+Spider.Man.Into.The.Spider.Verse.2018.UHD.BluRay.2160p.10bit.HDR.4Audio.TrueHD(Atmos).7.1.x265-beA.sup | http://182.34.168.98:8088/d/QuarkTV/来自：分享/065.蜘蛛侠：平行宇宙.Spider.Man.Into.The.Spider.Verse.2018.UHD.BluRay.2160p.10bit.HDR.4Audio.TrueHD(Atmos).7.1.x265-beAst/Spider.Man.Into.The.Spider.Verse.2018.UHD.BluRay.2160p.10bit.HDR.4Audio.TrueHD(Atmos).7.1.x265-beA.sup
+Stars.And.Roses.1989.CHINESE.1080p.BluRay.x264.DTS-FGT.sup | http://130.162.129.70/d/Movie/1989以前/[6.2](香港)愛人同志 Stars And Roses.1989/Stars.And.Roses.1989.CHINESE.1080p.BluRay.x264.DTS-FGT.sup
+Stars.And.Roses.1989.CHINESE.1080p.BluRay.x264.DTS-FGT.sup | https://130.162.129.70/d/Movie/1989以前/[6.2](香港)愛人同志 Stars And Roses.1989/Stars.And.Roses.1989.CHINESE.1080p.BluRay.x264.DTS-FGT.sup
+Thank.You.Sir.1989.CHINESE.1080p.BluRay.x264.FLAC.2.0-ADE.sup | http://130.162.129.70/d/Movie/1989以前/[6.5](香港)壯志雄心 Thank You, Sir.1989/Thank.You.Sir.1989.CHINESE.1080p.BluRay.x264.FLAC.2.0-ADE.sup
+Thank.You.Sir.1989.CHINESE.1080p.BluRay.x264.FLAC.2.0-ADE.sup | https://130.162.129.70/d/Movie/1989以前/[6.5](香港)壯志雄心 Thank You, Sir.1989/Thank.You.Sir.1989.CHINESE.1080p.BluRay.x264.FLAC.2.0-ADE.sup
+The Wolf Man 1941 1080p BluRay x264-CiNEFiLE.sup | http://130.162.129.70/d/Movie/1989以前/[7.3]狼人 The Wolf Man.1941/The Wolf Man 1941 1080p BluRay x264-CiNEFiLE.sup
+The Wolf Man 1941 1080p BluRay x264-CiNEFiLE.sup | https://130.162.129.70/d/Movie/1989以前/[7.3]狼人 The Wolf Man.1941/The Wolf Man 1941 1080p BluRay x264-CiNEFiLE.sup
+The.Emperors.Sword.2020.CHINESE.1080p.BluRay.x264.DTS-MT.sup | http://130.162.129.70/d/Movie/2020/[7.3](中國)亂世之定秦劍 The Emperor's Sword.2020/The.Emperors.Sword.2020.CHINESE.1080p.BluRay.x264.DTS-MT.sup
+The.Emperors.Sword.2020.CHINESE.1080p.BluRay.x264.DTS-MT.sup | https://130.162.129.70/d/Movie/2020/[7.3](中國)亂世之定秦劍 The Emperor's Sword.2020/The.Emperors.Sword.2020.CHINESE.1080p.BluRay.x264.DTS-MT.sup
+The.Miracle.Fighters.1982.CHINESE.1080p.BluRay.x264.DD5.1-HANDJOB.sup | http://130.162.129.70/d/Movie/1989以前/[6.9](香港)奇門遁甲 The Miracle Fighters.1982/The.Miracle.Fighters.1982.CHINESE.1080p.BluRay.x264.DD5.1-HANDJOB.sup
+The.Miracle.Fighters.1982.CHINESE.1080p.BluRay.x264.DD5.1-HANDJOB.sup | https://130.162.129.70/d/Movie/1989以前/[6.9](香港)奇門遁甲 The Miracle Fighters.1982/The.Miracle.Fighters.1982.CHINESE.1080p.BluRay.x264.DD5.1-HANDJOB.sup
+The.Romancing.Star.1987.CHINESE.1080p.BluRay.x264.DTS-FGT.sup | http://130.162.129.70/d/Movie/1989以前/[6.1](香港)精裝追女仔 The Romancing Star.1987/The.Romancing.Star.1987.CHINESE.1080p.BluRay.x264.DTS-FGT.sup
+The.Romancing.Star.1987.CHINESE.1080p.BluRay.x264.DTS-FGT.sup | https://130.162.129.70/d/Movie/1989以前/[6.1](香港)精裝追女仔 The Romancing Star.1987/The.Romancing.Star.1987.CHINESE.1080p.BluRay.x264.DTS-FGT.sup
+The.Romancing.Star.3.1989.CHINESE.1080p.BluRay.x264.DTS-FGT.sup | http://130.162.129.70/d/Movie/1989以前/[4.8](香港)精裝追女仔3 The Romancing Star III.1989/The.Romancing.Star.3.1989.CHINESE.1080p.BluRay.x264.DTS-FGT.sup
+The.Romancing.Star.3.1989.CHINESE.1080p.BluRay.x264.DTS-FGT.sup | https://130.162.129.70/d/Movie/1989以前/[4.8](香港)精裝追女仔3 The Romancing Star III.1989/The.Romancing.Star.3.1989.CHINESE.1080p.BluRay.x264.DTS-FGT.sup
+The.Royal.Scoundrel.1991.CHINESE.1080p.BluRay.x264.DTS-FGT.sup | http://130.162.129.70/d/Movie/1990~1999/[5.5](香港)沙灘仔與周師奶 The Royal Scoundrel.1991/The.Royal.Scoundrel.1991.CHINESE.1080p.BluRay.x264.DTS-FGT.sup
+The.Royal.Scoundrel.1991.CHINESE.1080p.BluRay.x264.DTS-FGT.sup | https://130.162.129.70/d/Movie/1990~1999/[5.5](香港)沙灘仔與周師奶 The Royal Scoundrel.1991/The.Royal.Scoundrel.1991.CHINESE.1080p.BluRay.x264.DTS-FGT.sup
+The.Truth.1988.CHINESE.1080p.BluRay.x264-HANDJOB.sup | http://130.162.129.70/d/Movie/1989以前/[7.0](香港)法內情 The Truth.1988/The.Truth.1988.CHINESE.1080p.BluRay.x264-HANDJOB.sup
+The.Truth.1988.CHINESE.1080p.BluRay.x264-HANDJOB.sup | https://130.162.129.70/d/Movie/1989以前/[7.0](香港)法內情 The Truth.1988/The.Truth.1988.CHINESE.1080p.BluRay.x264-HANDJOB.sup
+Three.Kims.2007.KOREAN.1080p.BluRay.x264.DTS-EPiC.sup | http://130.162.129.70/d/Movie/2007/[6.2](韓國)P.K金武門 Three Kims.2007/Three.Kims.2007.KOREAN.1080p.BluRay.x264.DTS-EPiC.sup
+Three.Kims.2007.KOREAN.1080p.BluRay.x264.DTS-EPiC.sup | https://130.162.129.70/d/Movie/2007/[6.2](韓國)P.K金武門 Three Kims.2007/Three.Kims.2007.KOREAN.1080p.BluRay.x264.DTS-EPiC.sup
+Tokyo.Twilight.1957.JAPANESE.1080p.BluRay.x264.DD2.0-CHD.sup | http://130.162.129.70/d/Movie/1989以前/[8.3](日本)東京暮色 Tokyo Twilight.1957/Tokyo.Twilight.1957.JAPANESE.1080p.BluRay.x264.DD2.0-CHD.sup
+Tokyo.Twilight.1957.JAPANESE.1080p.BluRay.x264.DD2.0-CHD.sup | https://130.162.129.70/d/Movie/1989以前/[8.3](日本)東京暮色 Tokyo Twilight.1957/Tokyo.Twilight.1957.JAPANESE.1080p.BluRay.x264.DD2.0-CHD.sup
+Vanishing.Point.1971.EXTENDED.1080p.BluRay.x264.DTS-FGT.sup | http://130.162.129.70/d/Movie/1989以前/[7.2]極樂狂飆 Vanishing Point.1971/Vanishing.Point.1971.EXTENDED.1080p.BluRay.x264.DTS-FGT.sup
+Vanishing.Point.1971.EXTENDED.1080p.BluRay.x264.DTS-FGT.sup | https://130.162.129.70/d/Movie/1989以前/[7.2]極樂狂飆 Vanishing Point.1971/Vanishing.Point.1971.EXTENDED.1080p.BluRay.x264.DTS-FGT.sup
+What.A.Hero.1992.1080p.BluRay.DD.5.1.x264-WMD.sup | http://130.162.129.70/d/Movie/1990~1999/[5.1](香港)嘩！英雄 What A Hero.1992/What.A.Hero.1992.1080p.BluRay.DD.5.1.x264-WMD.sup
+What.A.Hero.1992.1080p.BluRay.DD.5.1.x264-WMD.sup | https://130.162.129.70/d/Movie/1990~1999/[5.1](香港)嘩！英雄 What A Hero.1992/What.A.Hero.1992.1080p.BluRay.DD.5.1.x264-WMD.sup
+Yee.dam.kwan.ying.AKA.Just.Heroes.1989.1080p.BluRay.x264-HANDJOB.sup | http://130.162.129.70/d/Movie/1989以前/[6.5](香港)義膽群英 Just Heroes.1989/Yee.dam.kwan.ying.AKA.Just.Heroes.1989.1080p.BluRay.x264-HANDJOB.sup
+Yee.dam.kwan.ying.AKA.Just.Heroes.1989.1080p.BluRay.x264-HANDJOB.sup | https://130.162.129.70/d/Movie/1989以前/[6.5](香港)義膽群英 Just Heroes.1989/Yee.dam.kwan.ying.AKA.Just.Heroes.1989.1080p.BluRay.x264-HANDJOB.sup
+in.your.dreams.2017.1080p.bluray.x264-bipolar.sup | http://130.162.129.70/d/Movie/2017/[6.3](香港)以青春的名義 In Your Dreams.2017/in.your.dreams.2017.1080p.bluray.x264-bipolar.sup
+in.your.dreams.2017.1080p.bluray.x264-bipolar.sup | https://130.162.129.70/d/Movie/2017/[6.3](香港)以青春的名義 In Your Dreams.2017/in.your.dreams.2017.1080p.bluray.x264-bipolar.sup
+小人物2 2025 精修简体中字 V2.sup | http://59.62.196.32:9003/d/115/小人物2 2025 4K Web P8 精修简体中字/小人物2 2025 精修简体中字 V2.sup
+闪电侠.sup | http://112.13.121.252:8090/d/百度网盘/外挂字幕-回归/闪电侠/闪电侠.sup
+雷神4.Thor.Love.and.Thunder.S00E00.1080p.H265-NEW字幕组.sup | http://112.13.121.252:8090/d/百度网盘/测试文件超过1000/雷神4.Thor.Love.and.Thunder.S00E00.1080p.H265-NEW字幕组.sup
+雷神4.Thor.Love.and.Thunder.S00E00.1080p.H265-NEW字幕组V3.sup | http://112.13.121.252:8090/d/百度网盘/测试文件超过1000/雷神4.Thor.Love.and.Thunder.S00E00.1080p.H265-NEW字幕组V3.sup

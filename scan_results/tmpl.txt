@@ -1,0 +1,6 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+locale-archive.tmpl | https://154.12.23.79/d/mnt/lib/locale/locale-archive.tmpl
+nginx-default.tmpl | https://188.255.170.62/d/xkatld/zjmf-lxd-server-main-stable/lxdapi/nginx-default.tmpl
+nginx-default.tmpl | https://188.255.170.62/d/xkatld/zjmf-lxd-server/lxdapi/nginx-default.tmpl

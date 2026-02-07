@@ -1,0 +1,9 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+python3.12-config | https://8.140.252.113/d/4k/bin/X11/python3.12-config
+python3.12-config | https://8.140.252.113/d/4k/bin/python3.12-config
+python3.12-config | https://8.140.252.113/d/4k/usr/bin/python3.12-config
+x86_64-linux-gnu-python3.12-config | https://8.140.252.113/d/4k/bin/X11/x86_64-linux-gnu-python3.12-config
+x86_64-linux-gnu-python3.12-config | https://8.140.252.113/d/4k/bin/x86_64-linux-gnu-python3.12-config
+x86_64-linux-gnu-python3.12-config | https://8.140.252.113/d/4k/usr/bin/x86_64-linux-gnu-python3.12-config

@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+BCompare.tr | http://117.50.199.26:15244/d/nas/windows 工具/BCompare/BCompare.tr
+BCompare.tr | https://ipas.ic-market.top/d/nas/windows 工具/BCompare/BCompare.tr

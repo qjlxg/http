@@ -1,0 +1,11 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+mount.nfs | http://113.140.77.109:8881/d/服务器1/sbin/mount.nfs
+mount.nfs | http://113.140.77.109:8881/d/服务器1/usr/sbin/mount.nfs
+mount.nfs | https://154.12.23.79/d/mnt/sbin/mount.nfs
+mount.nfs | https://154.12.23.79/d/mnt/usr/sbin/mount.nfs
+umount.nfs | http://113.140.77.109:8881/d/服务器1/sbin/umount.nfs
+umount.nfs | http://113.140.77.109:8881/d/服务器1/usr/sbin/umount.nfs
+umount.nfs | https://154.12.23.79/d/mnt/sbin/umount.nfs
+umount.nfs | https://154.12.23.79/d/mnt/usr/sbin/umount.nfs

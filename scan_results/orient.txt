@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+REGISTO.ORIENT | https://93.93.116.119/d/Jie/注册文件orient/REGISTO.ORIENT
+X4204540-W.ORIENT | https://93.93.116.119/d/Xu/注册文件/X4204540-W.ORIENT

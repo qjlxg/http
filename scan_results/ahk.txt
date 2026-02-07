@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+simplepidx.ahk | http://118.25.145.11:88/d/福利/SimplePidX_1.4.1/files/simplepidx.ahk
+simplepidxbatch.ahk | http://118.25.145.11:88/d/福利/SimplePidX_1.4.1/files/simplepidxbatch.ahk

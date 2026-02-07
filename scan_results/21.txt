@@ -1,0 +1,8 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+libexslt.so.0.8.21 | https://8.140.252.113/d/4k/lib/x86_64-linux-gnu/libexslt.so.0.8.21
+libmysqlclient.so.21 | https://8.140.252.113/d/4k/lib/x86_64-linux-gnu/libmysqlclient.so.21
+libndctl.so.6.1.21 | https://8.140.252.113/d/4k/lib/x86_64-linux-gnu/libndctl.so.6.1.21
+libnewt.so.0.52.21 | http://113.140.77.109:8881/d/服务器1/lib64/libnewt.so.0.52.21
+libnewt.so.0.52.21 | http://113.140.77.109:8881/d/服务器1/usr/lib64/libnewt.so.0.52.21

@@ -1,0 +1,7 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+defaultpalette.wmsp | http://47.83.157.204:36081/d/硬件检测/网速测试/WirelessMon/defaultpalette.wmsp
+defaultpalette.wmsp | https://47.83.157.204/d/硬件检测/网速测试/WirelessMon/defaultpalette.wmsp
+green_yellow_red.wmsp | http://47.83.157.204:36081/d/硬件检测/网速测试/WirelessMon/green_yellow_red.wmsp
+green_yellow_red.wmsp | https://47.83.157.204/d/硬件检测/网速测试/WirelessMon/green_yellow_red.wmsp

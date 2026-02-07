@@ -1,0 +1,16 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+CH341S64.SYS | http://218.28.112.170:5555/d/软件/四个USB口发卡器驱动/四个USB口发卡器驱动/CH341S64.SYS
+CH341S98.SYS | http://218.28.112.170:5555/d/软件/四个USB口发卡器驱动/四个USB口发卡器驱动/CH341S98.SYS
+CH341SER.SYS | http://218.28.112.170:5555/d/软件/四个USB口发卡器驱动/四个USB口发卡器驱动/CH341SER.SYS
+Keyboard.sys | http://47.83.157.204:36081/d/手写笔/君彩djj-7驱动V7.2/KeyboardDriver/Keyboard.sys
+Keyboard.sys | https://47.83.157.204/d/手写笔/君彩djj-7驱动V7.2/KeyboardDriver/Keyboard.sys
+PREBOOT.sys | http://114.246.207.186:9000/d/st-bak/yileyoo易乐游/补丁/PREBOOT.sys
+idmtdi32.sys | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/idmtdi32.sys
+idmtdi64.sys | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/idmtdi64.sys
+idmwfp32.sys | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/idmwfp32.sys
+idmwfp64.sys | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/idmwfp64.sys
+kEvP64.sys | http://171.95.23.159:88/d/工具/工具/安全检测/kEvP64.sys
+porttalk.sys | http://218.76.165.27:88/d/硬件检测/硬盘修复/Victoria/porttalk.sys
+porttalk.sys | http://218.76.165.27:88/d/硬件检测/硬盘修复/victoria11/porttalk.sys

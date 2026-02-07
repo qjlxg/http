@@ -1,0 +1,59 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Everything.db | https://139.185.32.228/d/工具/Everything/Everything.db
+Everything.db | https://193.123.85.183/d/工具/Everything/Everything.db
+ShaderCache.db | https://47.251.7.109/d/temp/蛋博士q版rusk/Library/ShaderCache.db
+SyncTrans_13882720760.db | https://124.221.124.3/d/点我进网盘/.ecloud/13882720760/SyncTrans_13882720760.db
+Temperature.db | http://120.26.66.68:8008/d/桑达机器工具/OS2校准工具V2.018/data/Temperature.db
+Temperature.db | https://120.26.66.68:8009/d/桑达机器工具/OS2校准工具V2.018/data/Temperature.db
+Thumbs.db | http://114.246.207.186:9000/d/st-bak/temp/Thumbs.db
+Thumbs.db | http://114.246.207.186:9000/d/st-bak/temp/jietu/Thumbs.db
+Thumbs.db | http://114.246.207.186:9000/d/st-bak/胡俊/Thumbs.db
+Thumbs.db | http://118.25.145.11:88/d/音乐/HIFI/《A State Of Trance 2014》[FLAC 无损]/Thumbs.db
+Thumbs.db | http://118.25.145.11:88/d/音乐/HIFI/《六大发烧女声 CDA》[WAV+CUE]/Thumbs.db
+Thumbs.db | http://118.25.145.11:88/d/音乐/HIFI/一人一首成名曲（大陆版）/Thumbs.db
+Thumbs.db | http://118.25.145.11:88/d/音乐/HIFI/试音邓丽君DXD/Thumbs.db
+Thumbs.db | http://118.25.145.11:88/d/音乐/HIFI/邓丽君 - 君之千言万语40CD/Thumbs.db
+Thumbs.db | http://dnbllgtm.x3322.net:5244/d/小叮当/Thumbs.db
+Thumbs.db | http://dnbllgtm.x3322.net:5244/d/小叮当/歌/Thumbs.db
+Thumbs.db | http://dnbllgtm.x3322.net:5244/d/小叮当/歌/月宝  QQ音乐歌单/Thumbs.db
+Thumbs.db | http://dnbllgtm.x3322.net:5244/d/录播/Bilibili/吉利Geeli/Thumbs.db
+Thumbs.db | http://dnbllgtm.x3322.net:5244/d/录播/抖音/安妮大王（恩师小李逵_.）/Thumbs.db
+Thumbs.db | http://dnbllgtm.x3322.net:5244/d/录播/虎牙/唐轩宇-/Thumbs.db
+Thumbs.db | https://123.202.162.158:2083/d/2/我愛學語文小三（一版）/3AB_2024u/Thumbs.db
+Thumbs.db | https://139.185.32.228/d/工具/OEMDIY/Thumbs.db
+Thumbs.db | https://139.185.32.228/d/硬件/U盘说明书以及测试软件/银灿CDROM加密分区量产工具/Thumbs.db
+Thumbs.db | https://154.222.17.44/d/电信云盘/03、Corel/1、CorelDRAW/Thumbs.db
+Thumbs.db | https://154.222.17.44/d/电信云盘/04、C4D/Thumbs.db
+Thumbs.db | https://154.222.17.44/d/电信云盘/05、CATIA/13、CATIA V5-6R2021/Thumbs.db
+Thumbs.db | https://154.222.17.44/d/电信云盘/06、CAXA/CAXA制造工程师/Thumbs.db
+Thumbs.db | https://154.222.17.44/d/电信云盘/13、Zbrush/2、Mac/Thumbs.db
+Thumbs.db | https://154.222.17.44/d/电信云盘/16、Lumion/Lumion Pro 2024.4.2/Thumbs.db
+Thumbs.db | https://154.64.252.93/d/梓澪の妙妙屋/,【ACT-动作游戏】/【PC+安卓】[ACT]变幻装姬闪耀幻影！V1.04 云翻汉化版 + 动画中文漫画/Thumbs.db
+Thumbs.db | https://193.123.85.183/d/工具/OEMDIY/Thumbs.db
+Thumbs.db | https://193.123.85.183/d/硬件/U盘说明书以及测试软件/银灿CDROM加密分区量产工具/Thumbs.db
+Thumbs.db | https://24.18.156.162/d/MyCloud/Public/Towns at BRYANT HEIGHTS HOA/Thumbs.db
+Thumbs.db | https://38.102.124.214/d/秦时明月原声大碟(CD+DVD)/Scans/Thumbs.db
+Thumbs.db | https://47.236.182.67/d/001-About Windows OS Important Notice/Thumbs.db
+Thumbs.db | https://47.236.182.67/d/03-Technical Support Video/07-N100 4 LAN 1 to 4 NVMe Adapter Board Installation Video/Thumbs.db
+Thumbs.db | https://47.236.182.67/d/03-Technical Support Video/08-N100 4L 6L Turn Off Buzzer Tutorial/Buzzer BIOS Setting for N100 N305 6 LAN/Thumbs.db
+Thumbs.db | https://47.236.182.67/d/03-Technical Support Video/09-Installing a 3.5inch HDD Instructions/Thumbs.db
+Thumbs.db | https://47.236.182.67/d/03-Technical Support Video/13-Dual-screen Display Setup/Thumbs.db
+Thumbs.db | https://47.236.182.67/d/03-Technical Support Video/23-NAS 2 Bay 4 Bay N100 N305/01-How to Download PDF Files/Thumbs.db
+aliases.db | https://154.12.23.79/d/mnt/etc/aliases.db
+buffer.db | http://45.33.45.143/d/Shenshei-Public-Files/buffer.db
+buffer.db | https://45.33.45.143:8443/d/Shenshei-Public-Files/buffer.db
+data.db | http://47.243.16.97:81/d/data/data.db
+geoip.db | https://alist.990668.xyz/d/代理工具/nekoray-3.26-2023-12-09-windows64/nekoray/geoip.db
+geosite.db | https://alist.990668.xyz/d/代理工具/nekoray-3.26-2023-12-09-windows64/nekoray/geosite.db
+lft.db | https://52.140.241.52/d/sftp/jp/bin/lft.db
+regdit.db | http://171.95.23.159:88/d/工具/工具/安全检测/regdit.db
+regulatory.db | https://8.140.252.113/d/4k/lib/firmware/regulatory.db
+sync_13882720760.db | https://124.221.124.3/d/点我进网盘/.ecloud/13882720760/sync_13882720760.db
+sync_13882720760_r.db | https://124.221.124.3/d/点我进网盘/.ecloud/13882720760/sync_13882720760_r.db
+tcptraceroute.db | https://52.140.241.52/d/sftp/jp/sbin/tcptraceroute.db
+traceproto.db | https://52.140.241.52/d/sftp/jp/bin/traceproto.db
+traceroute.db | https://52.140.241.52/d/sftp/jp/bin/traceroute.db
+traceroute6.db | https://52.140.241.52/d/sftp/jp/bin/traceroute6.db
+wc.db | https://132.226.174.102/d/售后/3.1_生产资料/.svn/wc.db

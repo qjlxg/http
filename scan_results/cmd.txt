@@ -1,0 +1,83 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+ACDSee.cmd | http://171.95.23.159:88/d/工具/软件/ACDSee/ACDSee.cmd
+Autorun 病毒清除工具.CMD | http://118.25.145.11:88/d/群文件/Autorun 病毒清除工具.CMD
+Fn F5快捷键修复工具V2.79.1.cmd | https://8.217.236.10/d/Cloud189_Family/联想售后服务工具集/Fn F5快捷键修复工具V2.79.1.cmd
+Fn+F5快捷键修复工具V2.79.1.cmd | https://124.221.124.3/d/天翼网盘/系统类工具/联想售后服务工具集/Fn+F5快捷键修复工具V2.79.1.cmd
+Fn+F5快捷键修复工具V2.79.1.cmd | https://124.221.124.3/d/点我进网盘/系统类工具/联想售后服务工具集/Fn+F5快捷键修复工具V2.79.1.cmd
+Fn+F5快捷键修复工具V2.79.1.cmd | https://8.217.236.10/d/访客文件夹_可上传/安装包/联想售后服务工具集/Fn+F5快捷键修复工具V2.79.1.cmd
+KMS_VL_ALL.cmd | http://218.76.165.27:88/d/激活工具/Win11专业版激活工具/KMS_VL_ALL.cmd
+KMS_VL_ALL.cmd | http://218.76.165.27:88/d/激活工具/Win11激活工具/Win11专业版激活工具/KMS_VL_ALL.cmd
+KMS_VL_ALL_AIO_CN.cmd | http://192.9.134.188:8081/d/天翼云盘/装机/office/KMS_VL_ALL_AIO_CN.cmd
+KMS_VL_ALL_AIO_CN.cmd | http://47.83.157.204:36081/d/系统/工具/KMS激活工具/KMS_VL_ALL_AIO_CN.cmd
+KMS_VL_ALL_AIO_CN.cmd | https://154.222.17.44/d/移动云盘/11、Office/激活工具/KMS_VL_ALL_AIO_CN.cmd
+KMS_VL_ALL_AIO_CN.cmd | https://47.83.157.204/d/系统/工具/KMS激活工具/KMS_VL_ALL_AIO_CN.cmd
+KMS_VL_ALL_AIO_CN_V46.cmd | https://139.185.32.228/d/工具/激活/KMS_VL_ALL_AIO_CN_V46.cmd
+KMS_VL_ALL_AIO_CN_V46.cmd | https://193.123.85.183/d/工具/激活/KMS_VL_ALL_AIO_CN_V46.cmd
+KMS所有版本通用.cmd | http://pub.sa2.pw/d/GoogleDrive/ISO/Windows/KMS所有版本通用.cmd
+KMS所有版本通用.cmd | https://pub.sa2.pw/d/GoogleDrive/ISO/Windows/KMS所有版本通用.cmd
+MAS_1.4_AIO_CN.cmd | https://139.185.32.228/d/工具/激活/MAS_1.4_AIO_CN.cmd
+MAS_1.4_AIO_CN.cmd | https://193.123.85.183/d/工具/激活/MAS_1.4_AIO_CN.cmd
+MAS_AIO_3.0_CN.cmd | https://154.222.17.44/d/刘必琛蓝奏/12、Office/激活工具/MAS_AIO_3.0_CN.cmd
+MAS_AIO_3.0_CN.cmd | https://154.222.17.44/d/易洋辉蓝奏/12、Office/激活工具/MAS_AIO_3.0_CN.cmd
+MAS_AIO_3.0_CN.cmd | https://154.222.17.44/d/电信云盘/12、Office/激活工具/MAS_AIO_3.0_CN.cmd
+MAS_AIO_3.0_CN.cmd | https://154.222.17.44/d/细平蓝奏/12、Office/激活工具/MAS_AIO_3.0_CN.cmd
+MAS_AIO_3.0_CN.cmd | https://154.222.17.44/d/豆包云盘/12、Office/激活工具/MAS_AIO_3.0_CN.cmd
+MAS_AIO_3.0_CN.cmd | https://154.222.17.44/d/阿冬蓝奏/12、Office/激活工具/MAS_AIO_3.0_CN.cmd
+MAS_AIO_3.0_CN.cmd | https://154.222.17.44/d/陈鉴蓝奏/12、Office/激活工具/MAS_AIO_3.0_CN.cmd
+MAS_AIO_3.0_CN.cmd | https://154.222.17.44/d/黄某豆包/12、Office/激活工具/MAS_AIO_3.0_CN.cmd
+MAS_AIO_CN.cmd | https://alist.990668.xyz/d/激活工具/MAS_AIO_2.4-EN-CN/MAS_AIO_CN.cmd
+MAS_AIO_EN.cmd | https://alist.990668.xyz/d/激活工具/MAS_AIO_2.4-EN-CN/MAS_AIO_EN.cmd
+MAS_AIO_Win7-11_office通用激活.cmd | http://120.26.66.68:8008/d/MAS_AIO_Win7-11_office通用激活.cmd
+MAS_AIO_Win7-11_office通用激活.cmd | https://120.26.66.68:8009/d/MAS_AIO_Win7-11_office通用激活.cmd
+MAS_AIO_v2.6_Chs.cmd | http://110.241.245.106:666/d/清华同方华为授权/MAS_AIO_v2.6_Chs.cmd
+PECabCmd.CMD | http://171.95.23.159:88/d/工具/工具/图文工具/PECabCmd.CMD
+R2R_IS_AGAINST_BUSINESS_WAREZ_180201.cmd | http://pan.bkstudio.cn/d/插件/smart 智能人声处理/host/R2R_IS_AGAINST_BUSINESS_WAREZ_180201.cmd
+R2R_IS_AGAINST_BUSINESS_WAREZ_180201.cmd | https://120.26.117.65/d/插件/smart 智能人声处理/host/R2R_IS_AGAINST_BUSINESS_WAREZ_180201.cmd
+R2R_IS_AGAINST_BUSINESS_WAREZ_180201.cmd | https://pan.bkstudio.cn/d/插件/smart 智能人声处理/host/R2R_IS_AGAINST_BUSINESS_WAREZ_180201.cmd
+SRS_Injection驱动注入.cmd | http://171.95.23.159:88/d/工具/工具/驱动工具/SRS_Injection驱动注入.cmd
+SimplePidX Batch Checker.cmd | http://118.25.145.11:88/d/福利/SimplePidX_1.4.1/SimplePidX Batch Checker.cmd
+SimplePidX.cmd | http://118.25.145.11:88/d/福利/SimplePidX_1.4.1/SimplePidX.cmd
+W10各版本之间互换.cmd | https://139.185.32.228/d/ISO/10/YOS/W10各版本之间互换.cmd
+W10各版本之间互换.cmd | https://193.123.85.183/d/ISO/10/YOS/W10各版本之间互换.cmd
+WIN11 24H2激活.cmd | https://120.196.60.83:2083/d/下载文件/激活/WIN11 24H2激活.cmd
+Windows一键激活脚本.cmd | http://222.140.20.107:8085/d/操作系统/Windows一键激活脚本.cmd
+install.cmd | https://139.185.32.228/d/ISO/10/WindowsStore/install.cmd
+install.cmd | https://193.123.85.183/d/ISO/10/WindowsStore/install.cmd
+restart-network.cmd | http://pub.sa2.pw/d/GoogleDrive/脚本/restart-network.cmd
+restart-network.cmd | https://pub.sa2.pw/d/GoogleDrive/脚本/restart-network.cmd
+万能显卡VBE.CMD | http://171.95.23.159:88/d/工具/工具/三卡驱动/万能显卡VBE.CMD
+修复更新补丁后的组策略BUG-右键管理员运行.cmd | https://64.181.190.142:2083/d/天翼133/电脑系统/【不忘初心】Windows 10 19H2 1909.18363.628 九合一 [纯净精简版]（2020.02.08）/修复更新补丁后的组策略BUG-右键管理员运行.cmd
+关小数字键盘NumLK-off.cmd | http://171.95.23.159:88/d/工具/工具/系统工具/关小数字键盘NumLK-off.cmd
+关闭Defender.cmd | https://139.185.32.228/d/工具/系统更新及防火墙/关闭Defender.cmd
+关闭Defender.cmd | https://193.123.85.183/d/工具/系统更新及防火墙/关闭Defender.cmd
+关闭W10彻底更新 关闭杀软 (1).cmd | http://118.25.145.11:88/d/群文件/关闭W10彻底更新 关闭杀软 (1).cmd
+关闭W10彻底更新 关闭杀软 (2).cmd | http://118.25.145.11:88/d/群文件/关闭W10彻底更新 关闭杀软 (2).cmd
+关闭W10彻底更新 关闭杀软.cmd | http://118.25.145.11:88/d/群文件/关闭W10彻底更新 关闭杀软.cmd
+关闭系统更新.cmd | https://139.185.32.228/d/工具/系统更新及防火墙/关闭系统更新.cmd
+关闭系统更新.cmd | https://193.123.85.183/d/工具/系统更新及防火墙/关闭系统更新.cmd
+卸载服务.CMD | http://218.76.165.27:88/d/激活工具/windows server 2012 r2激活工具下载 免费版/kmsjihuogongju/卸载服务.CMD
+去除更新补丁后的安全中心图标.cmd | https://139.185.32.228/d/转存/Windows 10 不忘初心精简版/【不忘初心】Win10_21H1_19043.1165_X64_四合一[纯净精简版][2.58G](2021.8.11)/去除更新补丁后的安全中心图标.cmd
+去除更新补丁后的安全中心图标.cmd | https://193.123.85.183/d/转存/Windows 10 不忘初心精简版/【不忘初心】Win10_21H1_19043.1165_X64_四合一[纯净精简版][2.58G](2021.8.11)/去除更新补丁后的安全中心图标.cmd
+双击获取ip地址 .cmd | https://alist.990668.xyz/d/批处理/双击获取ip地址 .cmd
+安装驱动：拖cab过来.cmd | http://171.95.23.159:88/d/工具/工具/驱动工具/安装驱动：拖cab过来.cmd
+指纹功能修复工具V3.94.1.cmd | https://124.221.124.3/d/天翼网盘/系统类工具/联想售后服务工具集/指纹功能修复工具V3.94.1.cmd
+指纹功能修复工具V3.94.1.cmd | https://124.221.124.3/d/点我进网盘/系统类工具/联想售后服务工具集/指纹功能修复工具V3.94.1.cmd
+指纹功能修复工具V3.94.1.cmd | https://8.217.236.10/d/Cloud189_Family/联想售后服务工具集/指纹功能修复工具V3.94.1.cmd
+指纹功能修复工具V3.94.1.cmd | https://8.217.236.10/d/访客文件夹_可上传/安装包/联想售后服务工具集/指纹功能修复工具V3.94.1.cmd
+清除DNS缓存并重新注册DNS的批处理命令.cmd | https://alist.990668.xyz/d/批处理/清除DNS缓存并重新注册DNS的批处理命令.cmd
+滑动关机.cmd | https://alist.990668.xyz/d/批处理/滑动关机.cmd
+激活.cmd | https://120.196.60.83:2083/d/下载文件/激活/激活.cmd
+禁自动加VBE.CMD | http://171.95.23.159:88/d/工具/工具/三卡驱动/禁自动加VBE.CMD
+系统事件通知服务修复V3.95.1.cmd | https://124.221.124.3/d/天翼网盘/系统类工具/联想售后服务工具集/系统事件通知服务修复V3.95.1.cmd
+系统事件通知服务修复V3.95.1.cmd | https://124.221.124.3/d/点我进网盘/系统类工具/联想售后服务工具集/系统事件通知服务修复V3.95.1.cmd
+系统事件通知服务修复V3.95.1.cmd | https://8.217.236.10/d/Cloud189_Family/联想售后服务工具集/系统事件通知服务修复V3.95.1.cmd
+系统事件通知服务修复V3.95.1.cmd | https://8.217.236.10/d/访客文件夹_可上传/安装包/联想售后服务工具集/系统事件通知服务修复V3.95.1.cmd
+网络映射.cmd | http://171.95.23.159:88/d/工具/工具/网络工具/网络映射.cmd
+获取ip地址.cmd | https://alist.990668.xyz/d/批处理/获取ip地址.cmd
+重启Shell.cmd | http://171.95.23.159:88/d/工具/工具/系统工具/重启Shell.cmd
+防火墙服务修复工具V3.98.1.cmd | https://124.221.124.3/d/天翼网盘/系统类工具/联想售后服务工具集/防火墙服务修复工具V3.98.1.cmd
+防火墙服务修复工具V3.98.1.cmd | https://124.221.124.3/d/点我进网盘/系统类工具/联想售后服务工具集/防火墙服务修复工具V3.98.1.cmd
+防火墙服务修复工具V3.98.1.cmd | https://8.217.236.10/d/Cloud189_Family/联想售后服务工具集/防火墙服务修复工具V3.98.1.cmd
+防火墙服务修复工具V3.98.1.cmd | https://8.217.236.10/d/访客文件夹_可上传/安装包/联想售后服务工具集/防火墙服务修复工具V3.98.1.cmd

@@ -1,0 +1,29 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+丢掉.caf | https://pan.pkq7.cn/d/资源/微信提示音/丢掉.caf
+哨子.caf | https://pan.pkq7.cn/d/资源/微信提示音/哨子.caf
+嘟嘟噜1.caf | https://pan.pkq7.cn/d/资源/微信提示音/嘟嘟噜1.caf
+官方原生in.caf | https://pan.pkq7.cn/d/资源/微信提示音/官方原生in.caf
+尼桑.caf | https://pan.pkq7.cn/d/资源/微信提示音/尼桑.caf
+挤压.caf | https://pan.pkq7.cn/d/资源/微信提示音/挤压.caf
+提示音1.caf | https://pan.pkq7.cn/d/资源/微信提示音/提示音1.caf
+提示音2.caf | https://pan.pkq7.cn/d/资源/微信提示音/提示音2.caf
+提示音3.caf | https://pan.pkq7.cn/d/资源/微信提示音/提示音3.caf
+提示音4.caf | https://pan.pkq7.cn/d/资源/微信提示音/提示音4.caf
+提示音5.caf | https://pan.pkq7.cn/d/资源/微信提示音/提示音5.caf
+提示音6.caf | https://pan.pkq7.cn/d/资源/微信提示音/提示音6.caf
+提示音7.caf | https://pan.pkq7.cn/d/资源/微信提示音/提示音7.caf
+提示音8.caf | https://pan.pkq7.cn/d/资源/微信提示音/提示音8.caf
+提示音9.caf | https://pan.pkq7.cn/d/资源/微信提示音/提示音9.caf
+水滴.caf | https://pan.pkq7.cn/d/资源/微信提示音/水滴.caf
+经典信息.caf | https://pan.pkq7.cn/d/资源/微信提示音/经典信息.caf
+苹果提示音.caf | https://pan.pkq7.cn/d/资源/微信提示音/苹果提示音.caf
+苹果经典短信音.caf | https://pan.pkq7.cn/d/资源/微信提示音/苹果经典短信音.caf
+血小板.caf | https://pan.pkq7.cn/d/资源/微信提示音/血小板.caf
+超级马里奥.caf | https://pan.pkq7.cn/d/资源/微信提示音/超级马里奥.caf
+轻快.caf | https://pan.pkq7.cn/d/资源/微信提示音/轻快.caf
+错误提示音.caf | https://pan.pkq7.cn/d/资源/微信提示音/错误提示音.caf
+阿朵.caf | https://pan.pkq7.cn/d/资源/微信提示音/阿朵.caf
+阿豆.caf | https://pan.pkq7.cn/d/资源/微信提示音/阿豆.caf
+黑莓.caf | https://pan.pkq7.cn/d/资源/微信提示音/黑莓.caf

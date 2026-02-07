@@ -1,0 +1,6 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+libgnutls.so.30 | http://113.140.77.109:8881/d/服务器1/lib64/libgnutls.so.30
+libgnutls.so.30 | http://113.140.77.109:8881/d/服务器1/usr/lib64/libgnutls.so.30
+libgnutls.so.30 | https://8.140.252.113/d/4k/lib/x86_64-linux-gnu/libgnutls.so.30

@@ -1,0 +1,12 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Microsoft.VC80.CRT.manifest | http://120.26.66.68:8008/d/其他/分区工具/PA_Green/Microsoft.VC80.CRT.manifest
+Microsoft.VC80.CRT.manifest | http://171.95.23.159:88/d/工具/软件/USBKiller/Microsoft.VC80.CRT.manifest
+Microsoft.VC80.CRT.manifest | https://120.26.66.68:8009/d/其他/分区工具/PA_Green/Microsoft.VC80.CRT.manifest
+Microsoft.VC80.MFC.manifest | http://120.26.66.68:8008/d/其他/分区工具/PA_Green/Microsoft.VC80.MFC.manifest
+Microsoft.VC80.MFC.manifest | https://120.26.66.68:8009/d/其他/分区工具/PA_Green/Microsoft.VC80.MFC.manifest
+Microsoft.VC90.CRT.manifest | http://218.28.112.170:5555/d/软件/大宗物料/Microsoft.VC90.CRT.manifest
+U8PluginsUpdate.vshost.exe.manifest | http://218.28.112.170:5555/d/软件/U8/3.U8插件更程序1.3.0.8/U8PluginsUpdate.vshost.exe.manifest
+aida64.exe.manifest | https://139.185.32.228/d/硬件/AIDA64 Extreme/aida64.exe.manifest
+aida64.exe.manifest | https://193.123.85.183/d/硬件/AIDA64 Extreme/aida64.exe.manifest

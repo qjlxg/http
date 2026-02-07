@@ -1,0 +1,8 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+bfbmp.pbr | http://218.28.112.170:5555/d/软件/大宗物料/bfbmp.pbr
+list.pbr | http://218.28.112.170:5555/d/软件/大宗物料/Pic/list.pbr
+list0.pbr | http://218.28.112.170:5555/d/软件/大宗物料/Pic/list0.pbr
+list1.pbr | http://218.28.112.170:5555/d/软件/大宗物料/Pic/list1.pbr
+list2.pbr | http://218.28.112.170:5555/d/软件/大宗物料/Pic/list2.pbr

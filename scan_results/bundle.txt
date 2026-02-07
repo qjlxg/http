@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+VMware-Workstation-Full-15.0.0-10134415.x86_64.bundle | http://pub.sa2.pw/d/GoogleDrive/系统环境/VMware-Workstation-Full-15.0.0-10134415.x86_64.bundle
+VMware-Workstation-Full-15.0.0-10134415.x86_64.bundle | https://pub.sa2.pw/d/GoogleDrive/系统环境/VMware-Workstation-Full-15.0.0-10134415.x86_64.bundle

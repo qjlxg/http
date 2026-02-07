@@ -1,0 +1,19 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+EA6700_380.66_4-X7.5.trx | https://146.56.37.168:8080/d/SW/EA6700/EA6700_380.66_4-X7.5.trx
+EA6700_380.70_0-X7.9.1-koolshare.trx | https://146.56.37.168:8080/d/SW/EA6700/meilin/EA6700_380.70_0-X7.9.1-koolshare.trx
+EA6700_R5.0.9-linksys2asus.trx | https://146.56.37.168:8080/d/SW/EA6700/meilin/EA6700_R5.0.9-linksys2asus.trx
+EA6700_R5.1.0-g8fef67e.trx | https://146.56.37.168:8080/d/SW/EA6700/meilin/EA6700_R5.1.0-g8fef67e.trx
+LEDE+Reboot+By+XiaoShan+1.4.7+For+K3.trx | https://150.230.215.98/d/百度网盘/K3固件大全/K3_LEDE固件/LEDE+Reboot+By+XiaoShan+1.4.7+For+K3.trx
+R2100_3.4.3.9-099.trx | http://107.174.246.131:8082/d/web/刷机/Xiaomi AC2100/R2100_3.4.3.9-099.trx
+RT-AC3100_386.9_beta2_cfe(1).trx | https://150.230.215.98/d/百度网盘/K3/RT-AC3100_386.9_beta2_cfe(1).trx
+RT-AC3100_386.9_beta2_cfe.trx | https://150.230.215.98/d/百度网盘/K3/RT-AC3100_386.9_beta2_cfe.trx
+RT-AC3100_386.9_beta2_cfe.trx | https://150.230.215.98/d/百度网盘/K3固件大全/W梅林2023最新/RT-AC3100_386.9_beta2_cfe.trx
+RT-AC68U_378.56_beta2-X5.7-20151017（AC18传说中的梅林固件.trx | http://81.71.152.215/d/百度网盘/我的文档/-== 正确的教程 ==-/RT-AC68U_378.56_beta2-X5.7-20151017（AC18传说中的梅林固件.trx
+RT-AC88U_386.14_2-1c0e6da.trx | https://47.76.189.197/d/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/路由器梅林固件/RT-AC88U_386.14_2-1c0e6da.trx
+W-386.7_2.trx | https://150.230.215.98/d/百度网盘/K3固件大全/W梅林2023最新/W-386.7_2.trx
+W-K3_386.9_0_cfe.trx | https://150.230.215.98/d/百度网盘/K3/W-K3_386.9_0_cfe.trx
+W-K3_386.9_0_cfe.trx | https://150.230.215.98/d/百度网盘/K3固件大全/W梅林2023最新/W-K3_386.9_0_cfe.trx
+openwrt-bcm53xx-generic-phicomm_k3-squashfs.trx | https://150.230.215.98/d/百度网盘/K3/openwrt-bcm53xx-generic-phicomm_k3-squashfs.trx
+海蜘蛛-MTK7620_3.0.0.4_383_0-g55b2dc9.trx | https://150.230.215.98/d/百度网盘/我的资源/最全的斐讯K1 1208固件（201601）/海蜘蛛-MTK7620_3.0.0.4_383_0-g55b2dc9.trx

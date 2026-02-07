@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+伊吹.7zz | http://45.33.45.143/d/Shenshei-Public-Files/伊吹.7zz
+伊吹.7zz | https://45.33.45.143:8443/d/Shenshei-Public-Files/伊吹.7zz

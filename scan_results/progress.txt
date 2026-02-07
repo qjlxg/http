@@ -1,0 +1,7 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+fsck.progress | https://8.140.252.113/d/4k/run/systemd/fsck.progress
+unattended-upgrades.progress | https://52.140.241.52/d/sftp/jp/run/unattended-upgrades.progress
+unattended-upgrades.progress | https://8.140.252.113/d/4k/run/unattended-upgrades.progress
+unattended-upgrades.progress | https://8.140.252.113/d/4k/var/run/unattended-upgrades.progress

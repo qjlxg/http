@@ -1,0 +1,13 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Cursor_7.cur | http://218.28.112.170:5555/d/软件/大宗物料/Pic/Cursor_7.cur
+Cursor_H.cur | http://218.28.112.170:5555/d/软件/大宗物料/Pic/Cursor_H.cur
+Cursor_V.cur | http://218.28.112.170:5555/d/软件/大宗物料/Pic/Cursor_V.cur
+hand.cur | http://218.28.112.170:5555/d/软件/大宗物料/Pic/hand.cur
+hand.cur | https://8.217.236.10/d/Cloud189_Family/联想售后服务工具集/skin/hand.cur
+hand2.cur | http://218.28.112.170:5555/d/软件/大宗物料/Pic/hand2.cur
+splith.cur | http://218.28.112.170:5555/d/软件/大宗物料/Pic/splith.cur
+splitv.cur | http://218.28.112.170:5555/d/软件/大宗物料/Pic/splitv.cur
+zoomin.cur | http://218.28.112.170:5555/d/软件/大宗物料/Pic/zoomin.cur
+zoomout.cur | http://218.28.112.170:5555/d/软件/大宗物料/Pic/zoomout.cur

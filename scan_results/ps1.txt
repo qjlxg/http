@@ -1,0 +1,8 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+RemoveDSStoreFiles.ps1 | https://47.251.7.109/d/multimedia/RemoveDSStoreFiles.ps1
+RemoveDotUnderscoreFiles.ps1 | https://47.251.7.109/d/multimedia/RemoveDotUnderscoreFiles.ps1
+ZymycInstall.ps1 | http://120.26.66.68:8008/d/赵一鸣远程自动安装/ZymycInstall.ps1
+ZymycInstall.ps1 | https://120.26.66.68:8009/d/赵一鸣远程自动安装/ZymycInstall.ps1
+永久激活.ps1 | http://118.25.145.11:88/d/激活工具/永久激活.ps1

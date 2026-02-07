@@ -1,0 +1,9 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+dpkprinter.cat | http://171.95.23.159:88/d/工具/软件/新建文件夹 (2)/dpkprinter.cat
+idmtdi.cat | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/idmtdi.cat
+idmwfp.cat | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/idmwfp.cat
+rica6m.cat | http://120.26.66.68:8008/d/打印机驱动/c5503/disk1/rica6m.cat
+rica6m.cat | https://120.26.66.68:8009/d/打印机驱动/c5503/disk1/rica6m.cat
+xml-core.cat | https://8.140.252.113/d/4k/etc/sgml/xml-core.cat

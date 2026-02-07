@@ -1,0 +1,4 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+ethan.ovpn | https://24.18.156.162/d/MyCloud/Public/ethan.ovpn

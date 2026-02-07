@@ -1,0 +1,13 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+cef.pak | http://27.30.64.27:121/d/0.常驻/0.压缩包/CloudMusic v2.9.4 绿色版/cef.pak
+chrome_100_percent.pak | https://alist.990668.xyz/d/代理工具/clash/Clash.for.Windows-0.20.21-win/chrome_100_percent.pak
+chrome_100_percent.pak | https://alist.990668.xyz/d/代理工具/clash/Clash.for.Windows中文版64位-0.20.14/chrome_100_percent.pak
+chrome_100_percent.pak | https://alist.990668.xyz/d/其他/[简易]原神抽卡查询/Genshin-Wish-Export/chrome_100_percent.pak
+chrome_200_percent.pak | https://alist.990668.xyz/d/代理工具/clash/Clash.for.Windows-0.20.21-win/chrome_200_percent.pak
+chrome_200_percent.pak | https://alist.990668.xyz/d/代理工具/clash/Clash.for.Windows中文版64位-0.20.14/chrome_200_percent.pak
+chrome_200_percent.pak | https://alist.990668.xyz/d/其他/[简易]原神抽卡查询/Genshin-Wish-Export/chrome_200_percent.pak
+resources.pak | https://alist.990668.xyz/d/代理工具/clash/Clash.for.Windows-0.20.21-win/resources.pak
+resources.pak | https://alist.990668.xyz/d/代理工具/clash/Clash.for.Windows中文版64位-0.20.14/resources.pak
+resources.pak | https://alist.990668.xyz/d/其他/[简易]原神抽卡查询/Genshin-Wish-Export/resources.pak

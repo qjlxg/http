@@ -1,0 +1,24 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+bf_mtr.pbl | http://218.28.112.170:5555/d/软件/大宗物料/bf_mtr.pbl
+bfgl.pbl | http://218.28.112.170:5555/d/软件/大宗物料/bfgl.pbl
+bfgl_1.pbl | http://218.28.112.170:5555/d/软件/大宗物料/bfgl_1.pbl
+bfgl_10.pbl | http://218.28.112.170:5555/d/软件/大宗物料/bfgl_10.pbl
+bfgl_11.pbl | http://218.28.112.170:5555/d/软件/大宗物料/bfgl_11.pbl
+bfgl_18.pbl | http://218.28.112.170:5555/d/软件/大宗物料/bfgl_18.pbl
+bfgl_2.pbl | http://218.28.112.170:5555/d/软件/大宗物料/bfgl_2.pbl
+bfgl_3.pbl | http://218.28.112.170:5555/d/软件/大宗物料/bfgl_3.pbl
+bfgl_4.pbl | http://218.28.112.170:5555/d/软件/大宗物料/bfgl_4.pbl
+bfgl_5.pbl | http://218.28.112.170:5555/d/软件/大宗物料/bfgl_5.pbl
+bfgl_6.pbl | http://218.28.112.170:5555/d/软件/大宗物料/bfgl_6.pbl
+bfgl_7.pbl | http://218.28.112.170:5555/d/软件/大宗物料/bfgl_7.pbl
+bfgl_8.pbl | http://218.28.112.170:5555/d/软件/大宗物料/bfgl_8.pbl
+bfgl_9.pbl | http://218.28.112.170:5555/d/软件/大宗物料/bfgl_9.pbl
+bfmjgl.pbl | http://218.28.112.170:5555/d/软件/大宗物料/bfmjgl.pbl
+bfprint.pbl | http://218.28.112.170:5555/d/软件/大宗物料/bfprint.pbl
+bfprint0608.pbl | http://218.28.112.170:5555/d/软件/大宗物料/bfprint0608.pbl
+bfprint1213.pbl | http://218.28.112.170:5555/d/软件/大宗物料/bfprint1213.pbl
+bfprint_bz.pbl | http://218.28.112.170:5555/d/软件/大宗物料/bfprint_bz.pbl
+dbsetup.pbl | http://218.28.112.170:5555/d/软件/大宗物料/dbsetup.pbl
+ncc.pbl | http://218.28.112.170:5555/d/软件/大宗物料/ncc.pbl

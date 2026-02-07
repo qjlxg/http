@@ -1,0 +1,10 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+DEFECTSL.xslt | http://218.76.165.27:88/d/硬件检测/硬件检测/HDDScan/DEFECTSL.xslt
+DEFECTSP.xslt | http://218.76.165.27:88/d/硬件检测/硬件检测/HDDScan/DEFECTSP.xslt
+IDEID.xslt | http://218.76.165.27:88/d/硬件检测/硬件检测/HDDScan/IDEID.xslt
+SCSIID.xslt | http://218.76.165.27:88/d/硬件检测/硬件检测/HDDScan/SCSIID.xslt
+SMART.xslt | http://218.76.165.27:88/d/硬件检测/硬件检测/HDDScan/SMART.xslt
+SMART_SCSI.xslt | http://218.76.165.27:88/d/硬件检测/硬件检测/HDDScan/SMART_SCSI.xslt
+TEST.xslt | http://218.76.165.27:88/d/硬件检测/硬件检测/HDDScan/TEST.xslt

@@ -1,0 +1,15 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+mihomo-linux-amd64-v1-v1.19.13.pkg.tar.zst | https://47.76.189.197/d/科学软体/稳定版/Mihomo/mihomo-linux-amd64-v1-v1.19.13.pkg.tar.zst
+mihomo-linux-amd64-v1.19.13.pkg.tar.zst | https://47.76.189.197/d/科学软体/稳定版/Mihomo/mihomo-linux-amd64-v1.19.13.pkg.tar.zst
+mihomo-linux-amd64-v2-v1.19.13.pkg.tar.zst | https://47.76.189.197/d/科学软体/稳定版/Mihomo/mihomo-linux-amd64-v2-v1.19.13.pkg.tar.zst
+mihomo-linux-amd64-v3-v1.19.13.pkg.tar.zst | https://47.76.189.197/d/科学软体/稳定版/Mihomo/mihomo-linux-amd64-v3-v1.19.13.pkg.tar.zst
+mihomo-linux-arm64-v1.19.13.pkg.tar.zst | https://47.76.189.197/d/科学软体/稳定版/Mihomo/mihomo-linux-arm64-v1.19.13.pkg.tar.zst
+mihomo-linux-armv7-v1.19.13.pkg.tar.zst | https://47.76.189.197/d/科学软体/稳定版/Mihomo/mihomo-linux-armv7-v1.19.13.pkg.tar.zst
+nv_grid_ko_fnOS_6.6.38-trim-7.tar.zst | https://file.homelabproject.cc/d/foxipan/vGPU/16.7/nv_grid_ko_fnOS_6.6.38-trim-7.tar.zst
+nv_grid_merge_fnOS_6.6.38-trim_ko.tar.zst | https://file.homelabproject.cc/d/foxipan/vGPU/17.2/nv_grid_merge_fnOS_6.6.38-trim_ko.tar.zst
+sing-box_1.12.4_linux_aarch64.pkg.tar.zst | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_linux_aarch64.pkg.tar.zst
+sing-box_1.12.4_linux_armv7hl.pkg.tar.zst | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_linux_armv7hl.pkg.tar.zst
+sing-box_1.12.4_linux_x86_64.pkg.tar.zst | https://47.76.189.197/d/科学软体/稳定版/Sing_Box/sing-box_1.12.4_linux_x86_64.pkg.tar.zst
+vzdump-qemu-115-2023_04_12-22_29_32.vma.zst | https://file.homelabproject.cc/d/foxipan/proxmox-edge/sysimages/vzdump-qemu-115-2023_04_12-22_29_32.vma.zst

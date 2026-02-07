@@ -1,0 +1,29 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+_animated.less | https://185.231.245.25/d/storage/fa/less/_animated.less
+_bordered-pulled.less | https://185.231.245.25/d/storage/fa/less/_bordered-pulled.less
+_core.less | https://185.231.245.25/d/storage/fa/less/_core.less
+_duotone-icons.less | https://185.231.245.25/d/storage/fa/less/_duotone-icons.less
+_fixed-width.less | https://185.231.245.25/d/storage/fa/less/_fixed-width.less
+_icons.less | https://185.231.245.25/d/storage/fa/less/_icons.less
+_list.less | https://185.231.245.25/d/storage/fa/less/_list.less
+_mixins.less | https://185.231.245.25/d/storage/fa/less/_mixins.less
+_rotated-flipped.less | https://185.231.245.25/d/storage/fa/less/_rotated-flipped.less
+_screen-reader.less | https://185.231.245.25/d/storage/fa/less/_screen-reader.less
+_shims.less | https://185.231.245.25/d/storage/fa/less/_shims.less
+_sizing.less | https://185.231.245.25/d/storage/fa/less/_sizing.less
+_stacked.less | https://185.231.245.25/d/storage/fa/less/_stacked.less
+_variables.less | https://185.231.245.25/d/storage/fa/less/_variables.less
+brands.less | https://185.231.245.25/d/storage/fa/less/brands.less
+duotone.less | https://185.231.245.25/d/storage/fa/less/duotone.less
+fontawesome.less | https://185.231.245.25/d/storage/fa/less/fontawesome.less
+light.less | https://185.231.245.25/d/storage/fa/less/light.less
+regular.less | https://185.231.245.25/d/storage/fa/less/regular.less
+sharp-light.less | https://185.231.245.25/d/storage/fa/less/sharp-light.less
+sharp-regular.less | https://185.231.245.25/d/storage/fa/less/sharp-regular.less
+sharp-solid.less | https://185.231.245.25/d/storage/fa/less/sharp-solid.less
+sharp-thin.less | https://185.231.245.25/d/storage/fa/less/sharp-thin.less
+solid.less | https://185.231.245.25/d/storage/fa/less/solid.less
+thin.less | https://185.231.245.25/d/storage/fa/less/thin.less
+v4-shims.less | https://185.231.245.25/d/storage/fa/less/v4-shims.less

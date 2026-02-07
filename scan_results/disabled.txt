@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+color_prompt.sh.disabled | http://120.26.127.201:6009/d/4k/etc/profile.d/color_prompt.sh.disabled
+color_prompt.sh.disabled | https://124.71.4.178:6005/d/服务/etc/profile.d/color_prompt.sh.disabled

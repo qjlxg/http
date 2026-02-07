@@ -1,0 +1,13 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+real_learner_bart_CGEC.pt | https://alist.homelabproject.cc/d/local/tmp/real_learner_bart_CGEC.pt
+real_learner_bart_CGEC.pt | https://file.homelabproject.cc/d/local/tmp/real_learner_bart_CGEC.pt
+sam2.1_hiera_base_plus.pt | http://119.3.210.1:8083/d/权重文件/sam2/sam2.1_hiera_base_plus.pt
+sam2.1_hiera_large.pt | http://119.3.210.1:8083/d/权重文件/sam2/sam2.1_hiera_large.pt
+sam2.1_hiera_small.pt | http://119.3.210.1:8083/d/权重文件/sam2/sam2.1_hiera_small.pt
+sam2.1_hiera_tiny.pt | http://119.3.210.1:8083/d/权重文件/sam2/sam2.1_hiera_tiny.pt
+sam2_hiera_base_plus.pt | http://119.3.210.1:8083/d/权重文件/sam2/sam2_hiera_base_plus.pt
+sam2_hiera_large.pt | http://119.3.210.1:8083/d/权重文件/sam2/sam2_hiera_large.pt
+sam2_hiera_small.pt | http://119.3.210.1:8083/d/权重文件/sam2/sam2_hiera_small.pt
+sam2_hiera_tiny.pt | http://119.3.210.1:8083/d/权重文件/sam2/sam2_hiera_tiny.pt

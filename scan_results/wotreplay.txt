@@ -1,0 +1,4 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+#20150727_230625_germany-Waffentrager_E100_92_stalingrad.wotreplay | http://118.25.145.11:88/d/群文件/#20150727_230625_germany-Waffentrager_E100_92_stalingrad.wotreplay

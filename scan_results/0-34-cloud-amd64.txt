@@ -1,0 +1,7 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+System.map-5.10.0-34-cloud-amd64 | https://52.140.241.52/d/sftp/jp/boot/System.map-5.10.0-34-cloud-amd64
+config-5.10.0-34-cloud-amd64 | https://52.140.241.52/d/sftp/jp/boot/config-5.10.0-34-cloud-amd64
+initrd.img-5.10.0-34-cloud-amd64 | https://52.140.241.52/d/sftp/jp/boot/initrd.img-5.10.0-34-cloud-amd64
+vmlinuz-5.10.0-34-cloud-amd64 | https://52.140.241.52/d/sftp/jp/boot/vmlinuz-5.10.0-34-cloud-amd64

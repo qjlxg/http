@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+cpan5.32-x86_64-linux-gnu | https://52.140.241.52/d/sftp/jp/bin/cpan5.32-x86_64-linux-gnu
+perl5.32-x86_64-linux-gnu | https://52.140.241.52/d/sftp/jp/bin/perl5.32-x86_64-linux-gnu

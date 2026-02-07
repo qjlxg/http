@@ -1,0 +1,10 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+klicky 挂架.idea | https://142.171.66.197/d/onedrive/打印件/klicky 挂架.idea
+klipper 头.idea | https://142.171.66.197/d/onedrive/打印件/klipper 头.idea
+klipper 支架.idea | https://142.171.66.197/d/onedrive/打印件/klipper 支架.idea
+klipper 支架下.idea | https://142.171.66.197/d/onedrive/打印件/klipper 支架下.idea
+roll.idea | https://142.171.66.197/d/onedrive/附件/roll.idea
+螺丝盒.idea | https://142.171.66.197/d/onedrive/打印件/螺丝盒.idea
+螺丝盒抽屉.idea | https://142.171.66.197/d/onedrive/打印件/螺丝盒抽屉.idea

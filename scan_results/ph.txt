@@ -1,0 +1,21 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+_h2ph_pre.ph | http://113.140.77.109:8881/d/服务器1/lib64/perl5/_h2ph_pre.ph
+_h2ph_pre.ph | https://154.12.23.79/d/mnt/lib64/perl5/_h2ph_pre.ph
+endian.ph | https://154.12.23.79/d/mnt/lib64/perl5/endian.ph
+features-time64.ph | http://113.140.77.109:8881/d/服务器1/lib64/perl5/features-time64.ph
+features.ph | http://113.140.77.109:8881/d/服务器1/lib64/perl5/features.ph
+features.ph | https://154.12.23.79/d/mnt/lib64/perl5/features.ph
+signal.ph | https://154.12.23.79/d/mnt/lib64/perl5/signal.ph
+stdarg.ph | https://154.12.23.79/d/mnt/lib64/perl5/stdarg.ph
+stdc-predef.ph | http://113.140.77.109:8881/d/服务器1/lib64/perl5/stdc-predef.ph
+stdc-predef.ph | https://154.12.23.79/d/mnt/lib64/perl5/stdc-predef.ph
+stddef.ph | https://154.12.23.79/d/mnt/lib64/perl5/stddef.ph
+syscall.ph | http://113.140.77.109:8881/d/服务器1/lib64/perl5/syscall.ph
+syscall.ph | https://154.12.23.79/d/mnt/lib64/perl5/syscall.ph
+syslimits.ph | https://154.12.23.79/d/mnt/lib64/perl5/syslimits.ph
+syslog.ph | https://154.12.23.79/d/mnt/lib64/perl5/syslog.ph
+time.ph | https://154.12.23.79/d/mnt/lib64/perl5/time.ph
+wait.ph | https://154.12.23.79/d/mnt/lib64/perl5/wait.ph
+xlocale.ph | https://154.12.23.79/d/mnt/lib64/perl5/xlocale.ph

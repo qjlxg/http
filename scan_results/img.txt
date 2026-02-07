@@ -1,0 +1,72 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+136.img | https://47.93.245.149/d/蓝奏/136.img
+2021Project专业版.img | http://81.71.152.215/d/阿里云盘/Software/MS Office 2021 『简体中文』零售版镜像/2021Project专业版.img
+2021Visio专业版.img | http://81.71.152.215/d/阿里云盘/Software/MS Office 2021 『简体中文』零售版镜像/2021Visio专业版.img
+2021专业增强版.img | http://81.71.152.215/d/阿里云盘/Software/MS Office 2021 『简体中文』零售版镜像/2021专业增强版.img
+2021专业版.img | http://81.71.152.215/d/阿里云盘/Software/MS Office 2021 『简体中文』零售版镜像/2021专业版.img
+2021家庭企业版.img | http://81.71.152.215/d/阿里云盘/Software/MS Office 2021 『简体中文』零售版镜像/2021家庭企业版.img
+2021家庭学生版.img | http://81.71.152.215/d/阿里云盘/Software/MS Office 2021 『简体中文』零售版镜像/2021家庭学生版.img
+3.6.0_11-Mi10Pro_v3.1_A11-cmi-skkk_e80ad808.img | https://1.13.159.189/d/123云盘183/骁龙865系列机型TWRP/安卓11-TWRP/3.6.0_11-Mi10Pro_v3.1_A11-cmi-skkk_e80ad808.img
+3.6.0_11-Mi10Ultra_v3.1_A11-cas-skkk_59aec8fe.img | https://1.13.159.189/d/123云盘183/骁龙865系列机型TWRP/安卓11-TWRP/3.6.0_11-Mi10Ultra_v3.1_A11-cas-skkk_59aec8fe.img
+3.6.0_11-Mi10_v3.1_A11-umi-skkk_c8aecc95.img | https://1.13.159.189/d/123云盘183/骁龙865系列机型TWRP/安卓11-TWRP/3.6.0_11-Mi10_v3.1_A11-umi-skkk_c8aecc95.img
+3.6.0_11-RedmiK30Pro_v3.1_A11-lmi-skkk_27fdf0ce.img | https://1.13.159.189/d/123云盘183/骁龙865系列机型TWRP/安卓11-TWRP/3.6.0_11-RedmiK30Pro_v3.1_A11-lmi-skkk_27fdf0ce.img
+3.6.0_11-RedmiK30SUltra_v3.1_A11-apollo-skkk_20c05c84.img | https://1.13.159.189/d/123云盘183/骁龙865系列机型TWRP/安卓11-TWRP/3.6.0_11-RedmiK30SUltra_v3.1_A11-apollo-skkk_20c05c84.img
+Armbian_5.60_Aml-s9xxx_Ubuntu_xenial_default_4.18.7_20180928.img | https://8.217.236.10/d/Cloud189_Family/电脑系统/T1/Armbian_5.60_Aml-s9xxx_Ubuntu_xenial_default_4.18.7_20180928.img
+BaseImage.img | http://114.246.207.186:9000/d/st-bak/胡俊/Win10_22H2_full/BaseImage.img
+DS3617-1.03b_boot（6.23引导文件）.img | http://47.83.157.204:36081/d/黑群晖/ds3617xs/DS3617-1.03b_boot（6.23引导文件）.img
+DS3617-1.03b_boot（6.23引导文件）.img | https://47.83.157.204/d/黑群晖/ds3617xs/DS3617-1.03b_boot（6.23引导文件）.img
+DS3622xs7.1.1.img | https://64.181.190.142:2083/d/天翼133/VMware虚拟机黑群晖7.1.1 RC(懒人包)/Vmware7.1.1/DS3622xs7.1.1.img
+DS918+-7.1.1.img | https://64.181.190.142:2083/d/天翼133/VMware虚拟机黑群晖7.1.1 RC(懒人包)/Vmware7.1.1/DS918+-7.1.1.img
+HiNAS_25.10.01-bookworm-arm64-trunk_20251028.img | http://183.95.100.3:88/d/hinas/rockchip/hinas/HiNAS_25.10.01-bookworm-arm64-trunk_20251028.img
+HomeStudent2021Retail.img | http://107.174.246.131:8082/d/web/系统镜像/HomeStudent2021Retail.img
+Nianwrt.img | http://171.95.23.159:88/d/工具/群晖及软路由/软路由/Nianwrt.img
+O365ProPlusRetail.img | https://154.222.17.44/d/刘必琛蓝奏/12、Office/1、Win/O365ProPlusRetail.img
+O365ProPlusRetail.img | https://154.222.17.44/d/易洋辉蓝奏/12、Office/1、Win/O365ProPlusRetail.img
+O365ProPlusRetail.img | https://154.222.17.44/d/电信云盘/12、Office/1、Win/O365ProPlusRetail.img
+O365ProPlusRetail.img | https://154.222.17.44/d/细平蓝奏/12、Office/1、Win/O365ProPlusRetail.img
+O365ProPlusRetail.img | https://154.222.17.44/d/豆包云盘/12、Office/1、Win/O365ProPlusRetail.img
+O365ProPlusRetail.img | https://154.222.17.44/d/阿冬蓝奏/12、Office/1、Win/O365ProPlusRetail.img
+O365ProPlusRetail.img | https://154.222.17.44/d/陈鉴蓝奏/12、Office/1、Win/O365ProPlusRetail.img
+O365ProPlusRetail.img | https://154.222.17.44/d/黄某豆包/12、Office/1、Win/O365ProPlusRetail.img
+Office 2024 ProPlus LTSC 17928.20148.img | https://119.28.8.103/d/baidu/软件/Office 2024 ProPlus LTSC 17928.20148/Office 2024 ProPlus LTSC 17928.20148.img
+Office2013HomeStudentRetail.img | https://154.40.35.180/d/OfficeHomeStudent/Office2013HomeStudentRetail.img
+Office2016HomeStudentRetail.img | https://154.40.35.180/d/OfficeHomeStudent/Office2016HomeStudentRetail.img
+Office2019HomeStudentRetail.img | https://154.40.35.180/d/OfficeHomeStudent/Office2019HomeStudentRetail.img
+Office2021HomeStudentRetail.img | https://154.40.35.180/d/OfficeHomeStudent/Office2021HomeStudentRetail.img
+Office2024HomeRetail.img | https://154.40.35.180/d/OfficeHomeStudent/Office2024HomeRetail.img
+ProPlus2021Retail.img | http://107.174.246.131:8082/d/web/系统镜像/ProPlus2021Retail.img
+Professional2019Retail.img | https://193.123.237.119/d/OD-E5/things/Professional2019Retail.img
+S805-uboot-hinas.img | http://183.95.100.3:88/d/hinas/amlogic/S805玩客云/S805-uboot-hinas.img
+SA6400_7.21-69057（引导文件）.img | http://171.95.23.159:88/d/工具/群晖及软路由/群晖系统/SA6400_7.21-69057（引导文件）.img
+WiFi_magsik_boot.img | https://64.181.190.142:2083/d/天翼133/随身wifi/随身WIFI/WiFi_magsik_boot.img
+bleachwrt-plus-20241127-x86-64-generic-squashfs-combined-efi.img | http://dnbllgtm.x3322.net:5244/d/小叮当/虚拟机/bleachwrt-plus-20241127-x86-64-generic-squashfs-combined-efi.img
+boot.img | http://101.94.99.246:85/d/zzx/ROM/boot.img
+boot.img | http://alist.lyy901.cn/d/boot.img
+gnoboot-alpha7-4458.img | http://81.71.152.215/d/百度网盘/我的软件/群晖DSM-5.0-4458/gnoboot-alpha7-4458.img
+hw.img | https://alist.990668.xyz/d/系统安装/安卓/TWRPRecovery/hw.img
+initramfs-0-rescue-607ed7e2b03a61872e5d3b0aba2c900d.img | https://154.12.23.79/d/mnt/boot/initramfs-0-rescue-607ed7e2b03a61872e5d3b0aba2c900d.img
+initramfs-3.10.0-957.1.3.el7.x86_64.img | https://154.12.23.79/d/mnt/boot/initramfs-3.10.0-957.1.3.el7.x86_64.img
+initramfs-3.10.0-957.1.3.el7.x86_64kdump.img | https://154.12.23.79/d/mnt/boot/initramfs-3.10.0-957.1.3.el7.x86_64kdump.img
+initramfs-5.10.0-60.18.0.50.oe2203.aarch64.img | http://113.140.77.109:8881/d/服务器1/boot/initramfs-5.10.0-60.18.0.50.oe2203.aarch64.img
+initramfs-5.10.0-60.18.0.50.oe2203.aarch64kdump.img | http://113.140.77.109:8881/d/服务器1/boot/initramfs-5.10.0-60.18.0.50.oe2203.aarch64kdump.img
+initrd.img | https://8.140.252.113/d/4k/boot/initrd.img
+jammy-server-cloudimg-amd64.img | https://47.251.7.109/d/resources/images/linux/jammy-server-cloudimg-amd64.img
+openvpn_pihole.img | https://24.18.156.162/d/MyCloud/Public/openvpn_pihole.img
+pfSense-CE-memstick-2.7.2-RELEASE-amd64.img | https://47.236.182.67/d/04-System Installation Tutorial/01-pfsense Installation Tutorial/pfsense Installation Tutorial - English/pfSense-CE-memstick-2.7.2-RELEASE-amd64.img
+qwrt-x64-R23.11.23-k6.6-squashfs-combined-efi.img | http://171.95.23.159:88/d/工具/群晖及软路由/openwrt/qwrt-x64-R23.11.23-k6.6-squashfs-combined-efi.img
+recovery-4.0.1.5.img | https://alist.990668.xyz/d/系统安装/安卓/hwrecovery/recovery-4.0.1.5.img
+recovery-new-b919.img | https://150.230.215.98/d/百度网盘/来自：HUAWEI U8860/REC/recovery-new-b919.img
+recovery-new.img | https://150.230.215.98/d/百度网盘/来自：HUAWEI U8860/REC/recovery-new.img
+recovery.img | http://101.94.99.246:85/d/zzx/ROM/recovery.img
+recovery.img | https://150.230.215.98/d/百度网盘/来自：HUAWEI U8860/REC/recovery.img
+recovery6.0.1.2.img | https://150.230.215.98/d/百度网盘/来自：HUAWEI U8860/REC/recovery6.0.1.2.img
+rr.img | http://171.95.23.159:88/d/工具/群晖及软路由/群晖系统/rr.img
+sig-20220311172845.img | https://8.217.236.10/d/访客文件夹_可上传/sig-20220311172845.img
+super_empty.img | http://101.94.99.246:85/d/zzx/ROM/super_empty.img
+twrp-3.0.2-0-armani.img | https://alist.990668.xyz/d/系统安装/安卓/TWRPRecovery/twrp-3.0.2-0-armani.img
+twrp-3.6.1_9-0-oneplus3.img | http://192.9.134.188:8081/d/天翼云盘/装机/手机装机/twrp-3.6.1_9-0-oneplus3.img
+vbmeta.img | http://101.94.99.246:85/d/zzx/ROM/vbmeta.img
+官方recovery.img | https://150.230.215.98/d/百度网盘/来自：HUAWEI U8860/REC/官方recovery.img
+残芯-红米K40游戏增强版-12.0-twrp3.6.0-11_0-recovery-21.12.8-自动解密-2021.12.16-残芯工具刷入到boot分区.img | http://107.174.246.131:8082/d/web/刷机/Redmi K40 Gaming/残芯-红米K40游戏增强版-12.0-twrp3.6.0-11_0-recovery-21.12.8-自动解密-2021.12.16-残芯工具刷入到boot分区.img

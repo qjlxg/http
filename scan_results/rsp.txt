@@ -1,0 +1,7 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+csc.rsp | http://pan.uchenu.com/d/工作文档/bin/roslyn/csc.rsp
+csc.rsp | https://47.251.7.109/d/temp/蛋博士q版rusk/Assets/csc.rsp
+csi.rsp | http://pan.uchenu.com/d/工作文档/bin/roslyn/csi.rsp
+vbc.rsp | http://pan.uchenu.com/d/工作文档/bin/roslyn/vbc.rsp

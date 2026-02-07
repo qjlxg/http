@@ -1,0 +1,34 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+G7D.GHO | http://114.246.207.186:9000/d/st-bak/胡俊/G7D.GHO
+G7E.GHO | http://114.246.207.186:9000/d/st-bak/胡俊/G7E.GHO
+GHOSTXP.GHO | https://64.181.190.142:2083/d/天翼133/电脑系统/winxp/GHOSTXP.GHO
+Ghost_Win7_X64_CJ_V2023.04.GHO | http://218.76.165.27:88/d/系统镜像/Ghost_Win7_X64_CJ_V2023.04.GHO
+Ghost_Win7_X64_CJ_V2024.01.GHO | http://218.28.112.170:5555/d/镜像/Ghost_Win7_X64_CJ_V2024.01.GHO
+Ghost_Win7_X86_CJ_V2024.01.GHO | http://218.28.112.170:5555/d/镜像/Ghost_Win7_X86_CJ_V2024.01.GHO
+Ghost_XP_IE8_CJ_V2021.01.GHO | http://218.28.112.170:5555/d/镜像/Ghost_XP_IE8_CJ_V2021.01.GHO
+Ghostxpsp3纯净版3.9_IE8.gho | http://81.71.152.215/d/百度网盘/我的软件/Microsoft/Ghostxpsp3纯净版3.9_IE8.gho
+ITSK-WINXP-X86-IAR1-V2020.20.GHO | https://139.185.32.228/d/ISO/xp/ITSK-WINXP-X86-IAR1-V2020.20.GHO
+ITSK-WINXP-X86-IAR1-V2020.20.GHO | https://193.123.85.183/d/ISO/xp/ITSK-WINXP-X86-IAR1-V2020.20.GHO
+ITSK-WINXP-X86-IAR2-V2020.20.GHO | https://139.185.32.228/d/ISO/xp/ITSK-WINXP-X86-IAR2-V2020.20.GHO
+ITSK-WINXP-X86-IAR2-V2020.20.GHO | https://193.123.85.183/d/ISO/xp/ITSK-WINXP-X86-IAR2-V2020.20.GHO
+LCWIN764.GHO | http://47.83.157.204:36081/d/系统/ISOS/LCWIN764.GHO
+LCWIN764.GHO | https://47.83.157.204/d/系统/ISOS/LCWIN764.GHO
+LEMON-S379-AI.GHO | http://120.26.66.68:8008/d/乐檬老机器工具/乐檬机器系统/无摄像头AI/LEMON-S379-AI.GHO
+LEMON-S379-AI.GHO | https://120.26.66.68:8009/d/乐檬老机器工具/乐檬机器系统/无摄像头AI/LEMON-S379-AI.GHO
+Win10_Pro_x64_22H2_V1.GHO | https://154.222.17.44/d/刘必琛蓝奏/100、系统包/Windows_10/Win10_Pro_x64_22H2_V1.GHO
+Win10_Pro_x64_22H2_V1.GHO | https://154.222.17.44/d/易洋辉蓝奏/100、系统包/Windows_10/Win10_Pro_x64_22H2_V1.GHO
+Win10_Pro_x64_22H2_V1.GHO | https://154.222.17.44/d/细平蓝奏/100、系统包/Windows_10/Win10_Pro_x64_22H2_V1.GHO
+Win10_Pro_x64_22H2_V1.GHO | https://154.222.17.44/d/豆包云盘/100、系统包/Windows_10/Win10_Pro_x64_22H2_V1.GHO
+Win10_Pro_x64_22H2_V1.GHO | https://154.222.17.44/d/阿冬蓝奏/100、系统包/Windows_10/Win10_Pro_x64_22H2_V1.GHO
+Win10_Pro_x64_22H2_V1.GHO | https://154.222.17.44/d/陈鉴蓝奏/100、系统包/Windows_10/Win10_Pro_x64_22H2_V1.GHO
+Win10_Pro_x64_22H2_V1.GHO | https://154.222.17.44/d/黄某豆包/100、系统包/Windows_10/Win10_Pro_x64_22H2_V1.GHO
+Win10_SY3.GHO | http://114.246.207.186:9000/d/st-bak/系统&镜像/收银机系统/Win10_SY3.GHO
+Win10x64.GHO | http://171.95.23.159:88/d/工具/ISO/Win10x64.GHO
+Win7_x64_10.2c.GHO | http://222.140.20.107:8085/d/操作系统/吻妻季度版/Win7_x64_10.2c.GHO
+Win7_x64_22.3.GHO | http://222.140.20.107:8085/d/操作系统/吻妻季度版/Win7_x64_22.3.GHO
+Win7_x86_10.2c.GHO | http://222.140.20.107:8085/d/操作系统/吻妻季度版/Win7_x86_10.2c.GHO
+Win7_x86_22.3.GHO | http://222.140.20.107:8085/d/操作系统/吻妻季度版/Win7_x86_22.3.GHO
+Win7x64.GHO | http://171.95.23.159:88/d/工具/ISO/Win7x64.GHO
+Win7x86.GHO | http://171.95.23.159:88/d/工具/ISO/Win7x86.GHO

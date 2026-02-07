@@ -1,0 +1,21 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+_asyncio.pyd | https://45.77.200.196/d/proxyfile/exe/DLLs/_asyncio.pyd
+_bz2.pyd | https://45.77.200.196/d/proxyfile/exe/DLLs/_bz2.pyd
+_ctypes.pyd | https://45.77.200.196/d/proxyfile/exe/DLLs/_ctypes.pyd
+_decimal.pyd | https://45.77.200.196/d/proxyfile/exe/DLLs/_decimal.pyd
+_elementtree.pyd | https://45.77.200.196/d/proxyfile/exe/DLLs/_elementtree.pyd
+_hashlib.pyd | https://45.77.200.196/d/proxyfile/exe/DLLs/_hashlib.pyd
+_lzma.pyd | https://45.77.200.196/d/proxyfile/exe/DLLs/_lzma.pyd
+_msi.pyd | https://45.77.200.196/d/proxyfile/exe/DLLs/_msi.pyd
+_multiprocessing.pyd | https://45.77.200.196/d/proxyfile/exe/DLLs/_multiprocessing.pyd
+_overlapped.pyd | https://45.77.200.196/d/proxyfile/exe/DLLs/_overlapped.pyd
+_queue.pyd | https://45.77.200.196/d/proxyfile/exe/DLLs/_queue.pyd
+_socket.pyd | https://45.77.200.196/d/proxyfile/exe/DLLs/_socket.pyd
+_sqlite3.pyd | https://45.77.200.196/d/proxyfile/exe/DLLs/_sqlite3.pyd
+_ssl.pyd | https://45.77.200.196/d/proxyfile/exe/DLLs/_ssl.pyd
+pyexpat.pyd | https://45.77.200.196/d/proxyfile/exe/DLLs/pyexpat.pyd
+select.pyd | https://45.77.200.196/d/proxyfile/exe/DLLs/select.pyd
+unicodedata.pyd | https://45.77.200.196/d/proxyfile/exe/DLLs/unicodedata.pyd
+winsound.pyd | https://45.77.200.196/d/proxyfile/exe/DLLs/winsound.pyd

@@ -1,0 +1,15 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Lambda.z04 | https://59.110.14.40/d/bgm_art_temp/FANBOX收集/Lambda/Lambda.z04
+Lambda.z04 | https://59.110.14.40/d/other_temp/FANBOX收集/Lambda/Lambda.z04
+Split.Fiction.v20250317-P2P.z04 | https://113.207.49.5/d/游戏/SplitFiction-双影奇境/Split.Fiction.v20250317-P2P.z04
+[fanbox] BAE.C.z04 | https://59.110.14.40/d/bgm_art_temp/FANBOX收集/Bae.C/[fanbox] BAE.C.z04
+[fanbox] ETT.z04 | https://59.110.14.40/d/bgm_art_temp/FANBOX收集/ETT/[fanbox] ETT.z04
+[fanbox] ETT.z04 | https://59.110.14.40/d/other_temp/FANBOX收集/ETT/[fanbox] ETT.z04
+[fanbox] dikko.z04 | https://59.110.14.40/d/bgm_art_temp/FANBOX收集/Dikko/[fanbox] dikko.z04
+[fanbox] dikko.z04 | https://59.110.14.40/d/other_temp/FANBOX收集/Dikko/[fanbox] dikko.z04
+[fanbox] dikko_2.z04 | https://59.110.14.40/d/bgm_art_temp/FANBOX收集/Dikko/[fanbox] dikko_2.z04
+[fanbox] dikko_2.z04 | https://59.110.14.40/d/other_temp/FANBOX收集/Dikko/[fanbox] dikko_2.z04
+fanbox.z04 | https://59.110.14.40/d/bgm_art_temp/FANBOX收集/Kyomu7641/fanbox.z04
+逆流茶会.z04 | https://59.110.14.40/d/bgm_art_temp/FANBOX收集/nlch/逆流茶会.z04

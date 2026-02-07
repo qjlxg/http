@@ -1,0 +1,13 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+TA300-20150804.tsu | http://81.71.152.215/d/百度网盘/我的软件/ThinPuter3.3八月版本/TA300-20150804.tsu
+TA300-20150812.tsu | http://81.71.152.215/d/百度网盘/我的软件/ThinPuter3.3八月版本/TA300-20150812.tsu
+TA400-20150727.tsu | http://81.71.152.215/d/百度网盘/我的软件/ThinPuter3.3八月版本/TA400-20150727.tsu
+TA400-20150820.tsu | http://81.71.152.215/d/百度网盘/我的软件/ThinPuter3.3八月版本/TA400-20150820.tsu
+TA400E-20150729.tsu | http://81.71.152.215/d/百度网盘/我的软件/ThinPuter3.3八月版本/TA400E-20150729.tsu
+TC400-20150727-acer.tsu | http://81.71.152.215/d/百度网盘/我的软件/ThinPuter3.3八月版本/TC400-20150727-acer.tsu
+ovd-manager-20150730.tsu | http://81.71.152.215/d/百度网盘/我的软件/ThinPuter3.3八月版本/ovd-manager-20150730.tsu
+ovp-package-20150728.tsu | http://81.71.152.215/d/百度网盘/我的软件/ThinPuter3.3八月版本/ovp-package-20150728.tsu
+thinclient-3.3-20150728.tsu | http://81.71.152.215/d/百度网盘/我的软件/ThinPuter3.3八月版本/thinclient-3.3-20150728.tsu
+thinclient-windows-3.3-20150728.tsu | http://81.71.152.215/d/百度网盘/我的软件/ThinPuter3.3八月版本/thinclient-windows-3.3-20150728.tsu

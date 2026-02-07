@@ -1,0 +1,6 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+SharedVersion.cs | https://113.207.49.5/d/GitHub/repos/MediaBrowser_Emby/SharedVersion.cs
+SharedVersion.cs | https://113.207.49.5/d/GitHub/repos/jellyfin_jellyfin/SharedVersion.cs
+dump 2.cs | https://82.158.231.55/d/天翼云盘/游戏/dump 2.cs

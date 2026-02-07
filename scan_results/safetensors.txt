@@ -1,0 +1,93 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+2Guofeng2_v20.safetensors | https://107.189.7.215/d/模型/2Guofeng2_v20.safetensors
+3Guofeng3_v33.safetensors | https://107.189.7.215/d/模型/3Guofeng3_v33.safetensors
+4Guofeng4XL_v12.safetensors | https://107.189.7.215/d/模型/4Guofeng4XL_v12.safetensors
+ARankParty(Aparida)_NeneShifindle_IlluXL.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/ARankParty(Aparida)_NeneShifindle_IlluXL.safetensors
+ARankParty(Aparida)_OsenJamie_IlluXL.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/ARankParty(Aparida)_OsenJamie_IlluXL.safetensors
+Amiya.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/Amiya.safetensors
+Amy_Konosuba-KK77-V1.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/Amy_Konosuba-KK77-V1.safetensors
+AnythingXL_xl.safetensors | http://117.50.199.26:15244/d/oss/testModel/AnythingXL_xl.safetensors
+AnythingXL_xl.safetensors | https://ipas.ic-market.top/d/oss/testModel/AnythingXL_xl.safetensors
+Arknights-swire.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/Arknights-swire.safetensors
+Asagi_Caldwell_Seed-KK77-V1.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/Asagi_Caldwell_Seed-KK77-V1.safetensors
+CounterfeitV30_v30.safetensors | https://60.205.14.56/d/百度网盘/SD模型分享/CounterfeitV30_v30.safetensors
+DanMachi_AnyaFlomerXL.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/DanMachi_AnyaFlomerXL.safetensors
+DanMachi_AnyaFlomer_IlluXL.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/DanMachi_AnyaFlomer_IlluXL.safetensors
+Flay_Allster_Gundam_Seed-KK77-V1.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/Flay_Allster_Gundam_Seed-KK77-V1.safetensors
+Frostnova.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/Frostnova.safetensors
+Gertrude RAINSWORTH_v1.0_illustrious-000036.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/家里蹲吸血鬼的苦闷/Gertrude RAINSWORTH_v1.0_illustrious-000036.safetensors
+IsekaiNonbiriNouka_SenaXL.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/IsekaiNonbiriNouka_SenaXL.safetensors
+Karen HELVETIUS_illustrious-000042.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/家里蹲吸血鬼的苦闷/Karen HELVETIUS_illustrious-000042.safetensors
+Karla AMATSU_illustrious-000054.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/家里蹲吸血鬼的苦闷/Karla AMATSU_illustrious-000054.safetensors
+Mayura_Labatt_Gundam_seed-KK77-V1.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/Mayura_Labatt_Gundam_seed-KK77-V1.safetensors
+Mila_Micola-V1.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/Mila_Micola-V1.safetensors
+Millicent BLUENIGHT_v1.0_illustrious-000038.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/家里蹲吸血鬼的苦闷/Millicent BLUENIGHT_v1.0_illustrious-000038.safetensors
+Minami Yume.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/Minami Yume.safetensors
+MizuZokuseNoMahoutsukai_Sera_IlluXL.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/MizuZokuseNoMahoutsukai_Sera_IlluXL.safetensors
+Nelia CUNNINGHAM_v1.0_illustrious-000058.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/家里蹲吸血鬼的苦闷/Nelia CUNNINGHAM_v1.0_illustrious-000058.safetensors
+Nena_Trinity_Gundam_00_Pony.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/Nena_Trinity_Gundam_00_Pony.safetensors
+Pursena Adoldia_illustrious-000048.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/Pursena Adoldia_illustrious-000048.safetensors
+Roxanne-Isekai_meikyuu_de_harem_wo_IL.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/Roxanne-Isekai_meikyuu_de_harem_wo_IL.safetensors
+Roxanne_Harem-KK77-V3.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/Roxanne_Harem-KK77-V3.safetensors
+RuiruiXL.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/RuiruiXL.safetensors
+Rutina_harem-V1.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/Rutina_harem-V1.safetensors
+Shaosiyuan_xl.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/Shaosiyuan_xl.safetensors
+SousouNoFrieren_LawineXL.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/SousouNoFrieren_LawineXL.safetensors
+SousouNoFrieren_Lawine_IlluXL.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/SousouNoFrieren_Lawine_IlluXL.safetensors
+Terakomari GANDESBLOOD_illustrious-000058.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/家里蹲吸血鬼的苦闷/Terakomari GANDESBLOOD_illustrious-000058.safetensors
+Villhaze_v1.0_illustrious-000038.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/家里蹲吸血鬼的苦闷/Villhaze_v1.0_illustrious-000038.safetensors
+Wang_Liu_Gundam00_Pony_v2.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/Wang_Liu_Gundam00_Pony_v2.safetensors
+Ying Hua_illustrious-000040.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/Ying Hua_illustrious-000040.safetensors
+YuCui_illustrious-000030.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/YuCui_illustrious-000030.safetensors
+[hikari]altlene_il_v1.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/[hikari]altlene_il_v1.safetensors
+[hikari]fag_durga2_il_v1.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/[hikari]fag_durga2_il_v1.safetensors
+[hikari]sarah_il_v1.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/[hikari]sarah_il_v1.safetensors
+aiceKawaice_channel.safetensors | https://60.205.14.56/d/百度网盘/SD模型分享/aiceKawaice_channel.safetensors
+angel-usukubo-s1-illustriousxl-lora-nochekaiser.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/angel-usukubo-s1-illustriousxl-lora-nochekaiser.safetensors
+bianka.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/bianka.safetensors
+chara_IsekaiNonbiriNouka_Hakuren_v1.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/chara_IsekaiNonbiriNouka_Hakuren_v1.safetensors
+chara_IsekaiNonbiriNouka_Ria_v1.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/chara_IsekaiNonbiriNouka_Ria_v1.safetensors
+chara_IsekaiNonbiriNouka_Rurushi_v1.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/chara_IsekaiNonbiriNouka_Rurushi_v1.safetensors
+chara_IsekaiNonbiriNouka_Senna_v1.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/chara_IsekaiNonbiriNouka_Senna_v1.safetensors
+chara_Nekopara_Vanilla_v1.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/chara_Nekopara_Vanilla_v1.safetensors
+curuni-crueciel-s1-illustriousxl-lora-nochekaiser.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/curuni-crueciel-s1-illustriousxl-lora-nochekaiser.safetensors
+dosmix_.safetensors | https://107.189.7.215/d/模型/dosmix_.safetensors
+dreamshaperXL_lightningDPMSDE.safetensors | http://117.50.199.26:15244/d/oss/testModel/dreamshaperXL_lightningDPMSDE.safetensors
+dreamshaperXL_lightningDPMSDE.safetensors | https://ipas.ic-market.top/d/oss/testModel/dreamshaperXL_lightningDPMSDE.safetensors
+efa.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/efa.safetensors
+ficelle-harbeller-s1-illustriousxl-lora-nochekaiser.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/ficelle-harbeller-s1-illustriousxl-lora-nochekaiser.safetensors
+ghostmix_v20Bakedvae.safetensors | https://60.205.14.56/d/百度网盘/SD模型分享/ghostmix_v20Bakedvae.safetensors
+greyWolfXL_LoRA-C3Lier_AdamW_Dim16_Alpha16_UN-3e-4_TE-1.5e-4_10batch_ponyDiffusionV6XL_v6StartWithThisOne.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/greyWolfXL_LoRA-C3Lier_AdamW_Dim16_Alpha16_UN-3e-4_TE-1.5e-4_10batch_ponyDiffusionV6XL_v6StartWithThisOne.safetensors
+gridman_offset.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/gridman_offset.safetensors
+jamie_aparida_IllustriousXL_last.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/jamie_aparida_IllustriousXL_last.safetensors
+jamie_osen-aparida_s1-ixl-anime-soralz.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/jamie_osen-aparida_s1-ixl-anime-soralz.safetensors
+juggernautXL_ragnarokBy.safetensors | http://117.50.199.26:15244/d/oss/testModel/juggernautXL_ragnarokBy.safetensors
+juggernautXL_ragnarokBy.safetensors | https://ipas.ic-market.top/d/oss/testModel/juggernautXL_ragnarokBy.safetensors
+lawine_PONY_epoch-000023.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/lawine_PONY_epoch-000023.safetensors
+mint.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/mint.safetensors
+pursena-adoldia-s2-illustriousxl-lora-nochekaiser.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/pursena-adoldia-s2-illustriousxl-lora-nochekaiser.safetensors
+pursena-adoldia-s2-ponyxl-lora-nochekaiser.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/pursena-adoldia-s2-ponyxl-lora-nochekaiser.safetensors
+pursena_v2.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/pursena_v2.safetensors
+pursenaadoldias2-lora-nochekaiser.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/pursenaadoldias2-lora-nochekaiser.safetensors
+pursenaadoldias2-lyco-nochekaiser.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/pursenaadoldias2-lyco-nochekaiser.safetensors
+qteamixQ_omegaFp16.safetensors | https://60.205.14.56/d/百度网盘/SD模型分享/qteamixQ_omegaFp16.safetensors
+realvisxlV50_v50LightningBakedvae.safetensors | http://117.50.199.26:15244/d/oss/testModel/realvisxlV50_v50LightningBakedvae.safetensors
+realvisxlV50_v50LightningBakedvae.safetensors | https://ipas.ic-market.top/d/oss/testModel/realvisxlV50_v50LightningBakedvae.safetensors
+reginamercedes_vpred1024v1.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/reginamercedes_vpred1024v1.safetensors
+rpg_V4.safetensors | https://107.189.7.215/d/模型/rpg_V4.safetensors
+ruirui.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/ruirui.safetensors
+ruirui_ill_v1.0.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/ruirui_ill_v1.0.safetensors
+rundiffusionFX25D_v10.safetensors | https://60.205.14.56/d/百度网盘/SD模型分享/rundiffusionFX25D_v10.safetensors
+shroxanne-illu-nvwls-v1.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/shroxanne-illu-nvwls-v1.safetensors
+starlake-4.0.safetensors | https://60.205.14.56/d/百度网盘/SD模型分享/starlake-4.0.safetensors
+tmndMix_tmndMixVPruned.safetensors | https://60.205.14.56/d/百度网盘/SD模型分享/tmndMix_tmndMixVPruned.safetensors
+waiIllustriousSDXL_v150.safetensors | http://117.50.199.26:15244/d/oss/testModel/waiIllustriousSDXL_v150.safetensors
+waiIllustriousSDXL_v150.safetensors | https://ipas.ic-market.top/d/oss/testModel/waiIllustriousSDXL_v150.safetensors
+wangliumei2_pony.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/wangliumei2_pony.safetensors
+wangliumei_ill_new.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/wangliumei_ill_new.safetensors
+warthunder_ShenFengling.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/warthunder_ShenFengling.safetensors
+yesmix_v16Original.safetensors | https://107.189.7.215/d/模型/yesmix_v16Original.safetensors
+yuuki-konno-s2-illustriousxl-lora-nochekaiser.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/yuuki-konno-s2-illustriousxl-lora-nochekaiser.safetensors
+安洁莉娜5(头巾headband,三套衣服coat,multiple strap,swimsuit),.safetensors | https://59.110.14.40/d/other_temp/AI绘画模型/安洁莉娜5(头巾headband,三套衣服coat,multiple strap,swimsuit),.safetensors

@@ -1,0 +1,155 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+360Safe_sid+323328.pkg | https://138.2.125.16:2053/d/SoftShare/360Safe_sid+323328.pkg
+Acer 4750G  For  107X终结版 (地平线-seven).pkg | https://150.230.215.98/d/百度网盘/我的资源/Acer 4750G/Acer 4750G  For  107X终结版 (地平线-seven).pkg
+Acer 4750G 10.11驱动包.pkg | https://150.230.215.98/d/百度网盘/我的资源/Acer 4750G 10.11驱动包.pkg
+Acer 4750G For ML Ver2.0［地平线－seven］.pkg | https://150.230.215.98/d/百度网盘/我的资源/Acer 4750G/Acer 4750G For ML Ver2.0［地平线－seven］.pkg
+Acer 4750G For ML Ver2.1［地平线-seven］.pkg | https://150.230.215.98/d/百度网盘/我的资源/Acer 4750G/Acer 4750G For ML Ver2.1［地平线-seven］.pkg
+Acer 4750G For ML Ver2.2［地平线-seven］.pkg | https://150.230.215.98/d/百度网盘/我的资源/Acer 4750G/Acer 4750G For ML Ver2.2［地平线-seven］.pkg
+Acer 4750G For ML Ver2.3［地平线-seven］.pkg | https://150.230.215.98/d/百度网盘/我的资源/Acer 4750G/Acer 4750G For ML Ver2.3［地平线-seven］.pkg
+Acer 4750G For ML（地平线－seven）.pkg | https://150.230.215.98/d/百度网盘/我的资源/Acer 4750G/Acer 4750G For ML（地平线－seven）.pkg
+Acer_4750G_第七版.pkg | https://150.230.215.98/d/百度网盘/我的资源/Acer 4750G/Acer_4750G_第七版.pkg
+Acer_4750G_第八版稳定版.pkg | https://150.230.215.98/d/百度网盘/我的资源/Acer 4750G/Acer_4750G_第八版稳定版.pkg
+Acer_4750G第五版.pkg | https://150.230.215.98/d/百度网盘/我的资源/Acer 4750G/Acer_4750G第五版.pkg
+Acer_4750G第六版.pkg | https://150.230.215.98/d/百度网盘/我的资源/Acer 4750G/Acer_4750G第六版.pkg
+Acer_4750G第四版.pkg | https://150.230.215.98/d/百度网盘/我的资源/Acer 4750G/Acer_4750G第四版.pkg
+Aldente.pkg | https://146.56.37.168:8080/d/SW/MAC/Aldente.pkg
+DLP-OS7.4.0_1.00048.DLDB.pkg | https://82.156.231.141/d/离线特征库/7.4/DLP-OS7.4.0_1.00048.DLDB.pkg
+DLP-OS7.6.0_1.00048.DLDB.pkg | https://82.156.231.141/d/离线特征库/7.6/DLP-OS7.6.0_1.00048.DLDB.pkg
+Hiddify-MacOS-Installer.pkg | https://47.76.189.197/d/科学软体/稳定版/hiddify-app/Hiddify-MacOS-Installer.pkg
+Homebrew-4.5.2.pkg | https://146.56.37.168:8080/d/SW/MAC/Homebrew-4.5.2.pkg
+IRISUpdate-OS6.0.0_4.885-fgt.pkg | https://82.156.231.141/d/离线特征库/归档-月更新/6.0/IRISUpdate-OS6.0.0_4.885-fgt.pkg
+IRISUpdate-OS6.2.0_4.885-fgt.pkg | https://82.156.231.141/d/离线特征库/6.2/IRISUpdate-OS6.2.0_4.885-fgt.pkg
+InstallAssistant.pkg | https://103.136.146.29/d/BaiduTOG/InstallAssistant.pkg
+MAC远程软件（远程安装指导收费）.pkg | https://103.136.146.29/d/BaiduTOG/ai版本PS beta版本/1-WIN+MAC Beta安装教程与文件/MAC远程软件（远程安装指导收费）.pkg
+Microsoft_365_and_Office_16.93.25011212_Installer.pkg | https://81.70.142.195/d/百度网盘/百度云解压/Microsoft Office 2024 16.93 Mac/Microsoft_365_and_Office_16.93.25011212_Installer.pkg
+Microsoft_Office_16.16.20101200_Installer.pkg | https://146.56.37.168:8080/d/SW/MAC/Microsoft_Office_16.16.20101200_Installer.pkg
+Microsoft_Office_16.24.19041401_Installer.pkg | https://152.70.107.36/d/微软云盘/杂杂/苹果软件/Microsoft_Office_16.24.19041401_Installer.pkg
+Microsoft_Office_2016_15.24.0_160709_Installer.pkg | http://81.71.152.215/d/百度网盘/我的软件/MacOS/Microsoft_Office_2016_15.24.0_160709_Installer.pkg
+Microsoft_Office_2019_VL_Serializer.pkg | https://152.70.107.36/d/微软云盘/杂杂/苹果软件/Microsoft_Office_2019_VL_Serializer.pkg
+Microsoft_Office_LTSC_2024_VL_Serializer.pkg | https://81.70.142.195/d/百度网盘/百度云解压/Microsoft Office 2024 16.93 Mac/Microsoft_Office_LTSC_2024_VL_Serializer.pkg
+Moggy-1.5.6.pkg | https://15.235.206.230/d/Moggy-1.5.6.pkg
+Moggy-1.6.2.pkg | https://15.235.206.230/d/Moggy-1.6.2.pkg
+OpenCore-Patcher.pkg | https://107.189.7.215/d/OpenCore-Patcher.pkg
+ToDesk_4.3.1.1.pkg | https://154.222.17.44/d/电信云盘/00、工具/远程协助/ToDesk_4.3.1.1.pkg
+ToDesk_4.3.1.1.pkg | https://154.222.17.44/d/移动云盘/远程协助/ToDesk_4.3.1.1.pkg
+ToDesk_macOS_2.0.3.pkg | https://152.70.107.36/d/微软云盘/杂杂/苹果软件/ToDesk_macOS_2.0.3.pkg
+WebDriver-（17G65）无限制.pkg | http://118.25.145.11:88/d/群文件/WebDriver-（17G65）无限制.pkg
+apdb_OS6.0.0_29.00929.APDB.pkg | https://82.156.231.141/d/离线特征库/归档-月更新/6.0/apdb_OS6.0.0_29.00929.APDB.pkg
+apdb_OS6.2.0_29.00929.APDB.pkg | https://82.156.231.141/d/离线特征库/6.2/apdb_OS6.2.0_29.00929.APDB.pkg
+apdb_OS6.4.0_29.00929.APDB.pkg | https://82.156.231.141/d/离线特征库/归档-月更新/6.4/apdb_OS6.4.0_29.00929.APDB.pkg
+apdb_OS7.0.0_29.00929.APDB.pkg | https://82.156.231.141/d/离线特征库/7.0/apdb_OS7.0.0_29.00929.APDB.pkg
+apdb_OS7.2.0_29.00929.APDB.pkg | https://82.156.231.141/d/离线特征库/7.2/apdb_OS7.2.0_29.00929.APDB.pkg
+apdb_OS7.4.0_29.00929.APDB.pkg | https://82.156.231.141/d/离线特征库/7.4/apdb_OS7.4.0_29.00929.APDB.pkg
+apdb_OS7.6.0_29.00929.APDB.pkg | https://82.156.231.141/d/离线特征库/7.6/apdb_OS7.6.0_29.00929.APDB.pkg
+clash-party-macos-1.8.8-arm64.pkg | https://159.138.98.12/d/Mac/clash-party-macos-1.8.8-arm64.pkg
+ffdb_fos60_00007.04000.pkg | https://82.156.231.141/d/离线特征库/归档-月更新/6.0/ffdb_fos60_00007.04000.pkg
+ffdb_fos62_00007.04000.pkg | https://82.156.231.141/d/离线特征库/6.2/ffdb_fos62_00007.04000.pkg
+ffdb_fos64_00007.04000.pkg | https://82.156.231.141/d/离线特征库/归档-月更新/6.4/ffdb_fos64_00007.04000.pkg
+ffdb_fos70_00007.04000.pkg | https://82.156.231.141/d/离线特征库/7.0/ffdb_fos70_00007.04000.pkg
+ffdb_fos72_00007.04000.pkg | https://82.156.231.141/d/离线特征库/7.2/ffdb_fos72_00007.04000.pkg
+ffdb_fos74_00007.04000.pkg | https://82.156.231.141/d/离线特征库/7.4/ffdb_fos74_00007.04000.pkg
+ffdb_fos76_00007.04000.pkg | https://82.156.231.141/d/离线特征库/7.6/ffdb_fos76_00007.04000.pkg
+finalshell_install.pkg | https://152.70.107.36/d/微软云盘/杂杂/苹果软件/finalshell_install.pkg
+isdb_OS6.0.0_28.00827.ISDB.pkg | https://82.156.231.141/d/离线特征库/归档-月更新/6.0/isdb_OS6.0.0_28.00827.ISDB.pkg
+isdb_OS6.2.0_28.00827.ISDB.pkg | https://82.156.231.141/d/离线特征库/6.2/isdb_OS6.2.0_28.00827.ISDB.pkg
+isdb_OS6.4.0_28.00827.ISDB.pkg | https://82.156.231.141/d/离线特征库/归档-月更新/6.4/isdb_OS6.4.0_28.00827.ISDB.pkg
+isdb_OS7.0.0_28.00827.ISDB.pkg | https://82.156.231.141/d/离线特征库/7.0/isdb_OS7.0.0_28.00827.ISDB.pkg
+isdb_OS7.2.0_28.00827.ISDB.pkg | https://82.156.231.141/d/离线特征库/7.2/isdb_OS7.2.0_28.00827.ISDB.pkg
+isdb_OS7.4.0_28.00827.ISDB.pkg | https://82.156.231.141/d/离线特征库/7.4/isdb_OS7.4.0_28.00827.ISDB.pkg
+isdb_OS7.6.0_28.00827.ISDB.pkg | https://82.156.231.141/d/离线特征库/7.6/isdb_OS7.6.0_28.00827.ISDB.pkg
+mihomo-party-catalina-1.5.2-arm64.pkg | https://159.138.98.12/d/Mac/旧时软件/mihomo-party-catalina-1.5.2-arm64.pkg
+mihomo-party-catalina-1.8.4-arm64.pkg | https://47.76.189.197/d/科学软体/稳定版/Mihomo-Party/mihomo-party-catalina-1.8.4-arm64.pkg
+mihomo-party-catalina-1.8.4-x64.pkg | https://47.76.189.197/d/科学软体/稳定版/Mihomo-Party/mihomo-party-catalina-1.8.4-x64.pkg
+mihomo-party-macos-1.7.2-arm64.pkg | https://154.40.35.180/d/科学上网/macos/mihomo-party/mihomo-party-macos-1.7.2-arm64.pkg
+mihomo-party-macos-1.7.2-x64.pkg | https://154.40.35.180/d/科学上网/macos/mihomo-party/mihomo-party-macos-1.7.2-x64.pkg
+mihomo-party-macos-1.8.4-arm64.pkg | https://47.76.189.197/d/科学软体/稳定版/Mihomo-Party/mihomo-party-macos-1.8.4-arm64.pkg
+mihomo-party-macos-1.8.4-x64.pkg | https://47.76.189.197/d/科学软体/稳定版/Mihomo-Party/mihomo-party-macos-1.8.4-x64.pkg
+nids_OS6.0.0_28.00833.NIDS.pkg | https://82.156.231.141/d/离线特征库/归档-月更新/6.0/nids_OS6.0.0_28.00833.NIDS.pkg
+nids_OS6.2.0_28.00833.NIDS.pkg | https://82.156.231.141/d/离线特征库/6.2/nids_OS6.2.0_28.00833.NIDS.pkg
+nids_OS6.4.0_28.00833.NIDS.pkg | https://82.156.231.141/d/离线特征库/归档-月更新/6.4/nids_OS6.4.0_28.00833.NIDS.pkg
+nids_OS7.0.0_28.00833.NIDS.pkg | https://82.156.231.141/d/离线特征库/7.0/nids_OS7.0.0_28.00833.NIDS.pkg
+nids_OS7.2.0_28.00833.NIDS.pkg | https://82.156.231.141/d/离线特征库/7.2/nids_OS7.2.0_28.00833.NIDS.pkg
+nids_OS7.4.0_28.00833.NIDS.pkg | https://82.156.231.141/d/离线特征库/7.4/nids_OS7.4.0_28.00833.NIDS.pkg
+nids_OS7.6.0_28.00833.NIDS.pkg | https://82.156.231.141/d/离线特征库/7.6/nids_OS7.6.0_28.00833.NIDS.pkg
+sslar-1.5.6-arm64.pkg | http://38.47.107.159/d/FIClash/FIClash/FIClash/sslar-1.5.6-arm64.pkg
+sslar-1.5.6-arm64.pkg | http://38.47.107.159/d/FIClash/FIClash/emby/sslar-1.5.6-arm64.pkg
+sslar-1.5.6-arm64.pkg | http://38.47.107.159/d/FIClash/FIClash/sslar-1.5.6-arm64.pkg
+sslar-1.5.6-arm64.pkg | http://38.47.107.159/d/FIClash/emby/FIClash/sslar-1.5.6-arm64.pkg
+sslar-1.5.6-arm64.pkg | http://38.47.107.159/d/FIClash/emby/emby/sslar-1.5.6-arm64.pkg
+sslar-1.5.6-arm64.pkg | http://38.47.107.159/d/FIClash/emby/sslar-1.5.6-arm64.pkg
+sslar-1.5.6-arm64.pkg | http://38.47.107.159/d/FIClash/sslar-1.5.6-arm64.pkg
+sslar-1.5.6-arm64.pkg | http://38.47.107.159/d/emby/FIClash/FIClash/sslar-1.5.6-arm64.pkg
+sslar-1.5.6-arm64.pkg | http://38.47.107.159/d/emby/FIClash/emby/sslar-1.5.6-arm64.pkg
+sslar-1.5.6-arm64.pkg | http://38.47.107.159/d/emby/FIClash/sslar-1.5.6-arm64.pkg
+sslar-1.5.6-arm64.pkg | http://38.47.107.159/d/emby/emby/FIClash/sslar-1.5.6-arm64.pkg
+sslar-1.5.6-arm64.pkg | http://38.47.107.159/d/emby/emby/emby/sslar-1.5.6-arm64.pkg
+sslar-1.5.6-arm64.pkg | http://38.47.107.159/d/emby/emby/sslar-1.5.6-arm64.pkg
+sslar-1.5.6-arm64.pkg | http://38.47.107.159/d/emby/sslar-1.5.6-arm64.pkg
+sslar-1.5.6-arm64.pkg | http://38.47.107.159/d/sslar-1.5.6-arm64.pkg
+sslar-1.5.6-arm64.pkg | https://38.47.107.159/d/sslar-1.5.6-arm64.pkg
+sslar-1.5.6.pkg | http://38.47.107.159/d/FIClash/FIClash/FIClash/sslar-1.5.6.pkg
+sslar-1.5.6.pkg | http://38.47.107.159/d/FIClash/FIClash/emby/sslar-1.5.6.pkg
+sslar-1.5.6.pkg | http://38.47.107.159/d/FIClash/FIClash/sslar-1.5.6.pkg
+sslar-1.5.6.pkg | http://38.47.107.159/d/FIClash/emby/FIClash/sslar-1.5.6.pkg
+sslar-1.5.6.pkg | http://38.47.107.159/d/FIClash/emby/emby/sslar-1.5.6.pkg
+sslar-1.5.6.pkg | http://38.47.107.159/d/FIClash/emby/sslar-1.5.6.pkg
+sslar-1.5.6.pkg | http://38.47.107.159/d/FIClash/sslar-1.5.6.pkg
+sslar-1.5.6.pkg | http://38.47.107.159/d/emby/FIClash/FIClash/sslar-1.5.6.pkg
+sslar-1.5.6.pkg | http://38.47.107.159/d/emby/FIClash/emby/sslar-1.5.6.pkg
+sslar-1.5.6.pkg | http://38.47.107.159/d/emby/FIClash/sslar-1.5.6.pkg
+sslar-1.5.6.pkg | http://38.47.107.159/d/emby/emby/FIClash/sslar-1.5.6.pkg
+sslar-1.5.6.pkg | http://38.47.107.159/d/emby/emby/emby/sslar-1.5.6.pkg
+sslar-1.5.6.pkg | http://38.47.107.159/d/emby/emby/sslar-1.5.6.pkg
+sslar-1.5.6.pkg | http://38.47.107.159/d/emby/sslar-1.5.6.pkg
+sslar-1.5.6.pkg | http://38.47.107.159/d/sslar-1.5.6.pkg
+sslar-1.5.6.pkg | https://38.47.107.159/d/sslar-1.5.6.pkg
+sslar-1.5.7-arm64.pkg | http://38.47.107.159/d/FIClash/FIClash/FIClash/sslar-1.5.7-arm64.pkg
+sslar-1.5.7-arm64.pkg | http://38.47.107.159/d/FIClash/FIClash/emby/sslar-1.5.7-arm64.pkg
+sslar-1.5.7-arm64.pkg | http://38.47.107.159/d/FIClash/FIClash/sslar-1.5.7-arm64.pkg
+sslar-1.5.7-arm64.pkg | http://38.47.107.159/d/FIClash/emby/FIClash/sslar-1.5.7-arm64.pkg
+sslar-1.5.7-arm64.pkg | http://38.47.107.159/d/FIClash/emby/emby/sslar-1.5.7-arm64.pkg
+sslar-1.5.7-arm64.pkg | http://38.47.107.159/d/FIClash/emby/sslar-1.5.7-arm64.pkg
+sslar-1.5.7-arm64.pkg | http://38.47.107.159/d/FIClash/sslar-1.5.7-arm64.pkg
+sslar-1.5.7-arm64.pkg | http://38.47.107.159/d/emby/FIClash/FIClash/sslar-1.5.7-arm64.pkg
+sslar-1.5.7-arm64.pkg | http://38.47.107.159/d/emby/FIClash/emby/sslar-1.5.7-arm64.pkg
+sslar-1.5.7-arm64.pkg | http://38.47.107.159/d/emby/FIClash/sslar-1.5.7-arm64.pkg
+sslar-1.5.7-arm64.pkg | http://38.47.107.159/d/emby/emby/FIClash/sslar-1.5.7-arm64.pkg
+sslar-1.5.7-arm64.pkg | http://38.47.107.159/d/emby/emby/emby/sslar-1.5.7-arm64.pkg
+sslar-1.5.7-arm64.pkg | http://38.47.107.159/d/emby/emby/sslar-1.5.7-arm64.pkg
+sslar-1.5.7-arm64.pkg | http://38.47.107.159/d/emby/sslar-1.5.7-arm64.pkg
+sslar-1.5.7-arm64.pkg | http://38.47.107.159/d/sslar-1.5.7-arm64.pkg
+sslar-1.5.7-arm64.pkg | https://38.47.107.159/d/sslar-1.5.7-arm64.pkg
+sslar-1.5.7.pkg | http://38.47.107.159/d/FIClash/FIClash/FIClash/sslar-1.5.7.pkg
+sslar-1.5.7.pkg | http://38.47.107.159/d/FIClash/FIClash/emby/sslar-1.5.7.pkg
+sslar-1.5.7.pkg | http://38.47.107.159/d/FIClash/FIClash/sslar-1.5.7.pkg
+sslar-1.5.7.pkg | http://38.47.107.159/d/FIClash/emby/FIClash/sslar-1.5.7.pkg
+sslar-1.5.7.pkg | http://38.47.107.159/d/FIClash/emby/emby/sslar-1.5.7.pkg
+sslar-1.5.7.pkg | http://38.47.107.159/d/FIClash/emby/sslar-1.5.7.pkg
+sslar-1.5.7.pkg | http://38.47.107.159/d/FIClash/sslar-1.5.7.pkg
+sslar-1.5.7.pkg | http://38.47.107.159/d/emby/FIClash/FIClash/sslar-1.5.7.pkg
+sslar-1.5.7.pkg | http://38.47.107.159/d/emby/FIClash/emby/sslar-1.5.7.pkg
+sslar-1.5.7.pkg | http://38.47.107.159/d/emby/FIClash/sslar-1.5.7.pkg
+sslar-1.5.7.pkg | http://38.47.107.159/d/emby/emby/FIClash/sslar-1.5.7.pkg
+sslar-1.5.7.pkg | http://38.47.107.159/d/emby/emby/emby/sslar-1.5.7.pkg
+sslar-1.5.7.pkg | http://38.47.107.159/d/emby/emby/sslar-1.5.7.pkg
+sslar-1.5.7.pkg | http://38.47.107.159/d/emby/sslar-1.5.7.pkg
+sslar-1.5.7.pkg | http://38.47.107.159/d/sslar-1.5.7.pkg
+sslar-1.5.7.pkg | https://38.47.107.159/d/sslar-1.5.7.pkg
+vsigupdate-OS6.0.0_92.06106.ETDB.High.pkg | https://82.156.231.141/d/离线特征库/归档-月更新/6.0/vsigupdate-OS6.0.0_92.06106.ETDB.High.pkg
+vsigupdate-OS6.0.0_92.06106.MMDB.pkg | https://82.156.231.141/d/离线特征库/归档-月更新/6.0/vsigupdate-OS6.0.0_92.06106.MMDB.pkg
+vsigupdate-OS6.2.0_92.06106.ETDB.High.pkg | https://82.156.231.141/d/离线特征库/6.2/vsigupdate-OS6.2.0_92.06106.ETDB.High.pkg
+vsigupdate-OS6.2.0_92.06106.MMDB.pkg | https://82.156.231.141/d/离线特征库/6.2/vsigupdate-OS6.2.0_92.06106.MMDB.pkg
+vsigupdate-OS6.4.0_92.06106.ETDB.High.pkg | https://82.156.231.141/d/离线特征库/归档-月更新/6.4/vsigupdate-OS6.4.0_92.06106.ETDB.High.pkg
+vsigupdate-OS6.4.0_92.06106.MMDB.pkg | https://82.156.231.141/d/离线特征库/归档-月更新/6.4/vsigupdate-OS6.4.0_92.06106.MMDB.pkg
+vsigupdate-OS7.0.0_92.06159.ETDB.High.pkg | https://82.156.231.141/d/离线特征库/7.0/vsigupdate-OS7.0.0_92.06159.ETDB.High.pkg
+vsigupdate-OS7.0.0_92.06159.MMDB.pkg | https://82.156.231.141/d/离线特征库/7.0/vsigupdate-OS7.0.0_92.06159.MMDB.pkg
+vsigupdate-OS7.2.0_92.06159.ETDB.High.pkg | https://82.156.231.141/d/离线特征库/7.2/vsigupdate-OS7.2.0_92.06159.ETDB.High.pkg
+vsigupdate-OS7.2.0_92.06159.MMDB.pkg | https://82.156.231.141/d/离线特征库/7.2/vsigupdate-OS7.2.0_92.06159.MMDB.pkg
+vsigupdate-OS7.4.0_92.06158.ETDB.High.pkg | https://82.156.231.141/d/离线特征库/7.4/vsigupdate-OS7.4.0_92.06158.ETDB.High.pkg
+vsigupdate-OS7.4.0_92.06158.MMDB.pkg | https://82.156.231.141/d/离线特征库/7.4/vsigupdate-OS7.4.0_92.06158.MMDB.pkg
+vsigupdate-OS7.6.0_92.06158.ETDB.High.pkg | https://82.156.231.141/d/离线特征库/7.6/vsigupdate-OS7.6.0_92.06158.ETDB.High.pkg
+vsigupdate-OS7.6.0_92.06158.MMDB.pkg | https://82.156.231.141/d/离线特征库/7.6/vsigupdate-OS7.6.0_92.06158.MMDB.pkg
+掌中世界-1.5.6-arm64.pkg | https://154.37.216.229/d/官方APP/MAC/掌中世界-1.5.6-arm64.pkg
+掌中世界-1.5.6.pkg | https://154.37.216.229/d/官方APP/MAC/掌中世界-1.5.6.pkg

@@ -1,0 +1,1309 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+7z.dll | http://117.50.199.26:15244/d/nas/windows 工具/BCompare/7z.dll
+7z.dll | http://120.26.66.68:8008/d/其他/分区工具/PA_Green/7z.dll
+7z.dll | https://120.26.66.68:8009/d/其他/分区工具/PA_Green/7z.dll
+7z.dll | https://ipas.ic-market.top/d/nas/windows 工具/BCompare/7z.dll
+ACDAppInfo.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/ACDAppInfo.dll
+ACDCLClient.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/ACDCLClient.dll
+ACDFullLicense.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/ACDFullLicense.dll
+ACDInTouch.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/ACDInTouch.dll
+ADLXBindings.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/ADLXBindings.dll
+ADLXWrapper.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/ADLXWrapper.dll
+ATextOut64.dll | http://120.26.66.68:8008/d/其他/图形图像解压/PotPlayer64/ATextOut64.dll
+ATextOut64.dll | https://120.26.66.68:8009/d/其他/图形图像解压/PotPlayer64/ATextOut64.dll
+About.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/About.dll
+AdbWinApi.dll | http://120.26.66.68:8008/d/111/platform-tools/AdbWinApi.dll
+AdbWinApi.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/AdbWinApi.dll
+AdbWinApi.dll | https://120.26.66.68:8009/d/111/platform-tools/AdbWinApi.dll
+AdbWinApi.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/AdbWinApi.dll
+AdbWinApi.dll | https://138.2.4.204/d/阿里云盘/华为鸿蒙谷歌框架安装（良缘）/AdbWinApi.dll
+AdbWinApi.dll | https://alist.990668.xyz/d/windows优化工具/ButtonMapperSetup/Tools/AdbWinApi.dll
+AdbWinApi.dll | https://alist.990668.xyz/d/系统安装/安卓/ApkInstaller v1.4.0.0 Beta/AdbWinApi.dll
+AdbWinApi.dll | https://alist.990668.xyz/d/系统安装/安卓/hwrecovery/AdbWinApi.dll
+AdbWinApi.dll | https://alist.990668.xyz/d/系统安装/安卓/scrcpy-win64-v1.24/AdbWinApi.dll
+AdbWinApi.dll | https://alist.990668.xyz/d/系统安装/安卓/小米一键刷入r.e.c.o.v.e.r.y by cofface/AdbWinApi.dll
+AdbWinApi.dll | https://alist.990668.xyz/d/系统安装/安卓/搞机工具箱v9/AdbWinApi.dll
+AdbWinUsbApi.dll | http://120.26.66.68:8008/d/111/platform-tools/AdbWinUsbApi.dll
+AdbWinUsbApi.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/AdbWinUsbApi.dll
+AdbWinUsbApi.dll | https://120.26.66.68:8009/d/111/platform-tools/AdbWinUsbApi.dll
+AdbWinUsbApi.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/AdbWinUsbApi.dll
+AdbWinUsbApi.dll | https://138.2.4.204/d/阿里云盘/华为鸿蒙谷歌框架安装（良缘）/AdbWinUsbApi.dll
+AdbWinUsbApi.dll | https://alist.990668.xyz/d/windows优化工具/ButtonMapperSetup/Tools/AdbWinUsbApi.dll
+AdbWinUsbApi.dll | https://alist.990668.xyz/d/系统安装/安卓/ApkInstaller v1.4.0.0 Beta/AdbWinUsbApi.dll
+AdbWinUsbApi.dll | https://alist.990668.xyz/d/系统安装/安卓/scrcpy-win64-v1.24/AdbWinUsbApi.dll
+AdbWinUsbApi.dll | https://alist.990668.xyz/d/系统安装/安卓/小米一键刷入r.e.c.o.v.e.r.y by cofface/AdbWinUsbApi.dll
+AdbWinUsbApi.dll | https://alist.990668.xyz/d/系统安装/安卓/搞机工具箱v9/AdbWinUsbApi.dll
+AdobePIM.dll | http://218.28.112.170:5555/d/软件/Adobe_Photoshop_2025_v26.0.0.26/resources/AdobePIM.dll
+Adsapi32.dll | http://218.28.112.170:5555/d/软件/大宗物料/Adsapi32.dll
+Ameng.dll | http://218.28.112.170:5555/d/软件/大宗物料/Ameng.dll
+AnalyzeData.dll | http://218.28.112.170:5555/d/软件/大宗物料/HCNetSDKCom/AnalyzeData.dll
+AntiHooking.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/AntiHooking.dll
+ApkShellext2.dll | https://alist.990668.xyz/d/系统安装/安卓/ApkInstaller v1.4.0.0 Beta/ApkShellext2.dll
+Apowersoft.CommUtilities.Native.dll | http://47.83.157.204:36081/d/BeeCut 1.7.9.29/Apowersoft.CommUtilities.Native.dll
+Apowersoft.CommUtilities.Native.dll | https://47.83.157.204/d/BeeCut 1.7.9.29/Apowersoft.CommUtilities.Native.dll
+AssetStudio.PInvoke.dll | http://117.50.199.26:15244/d/nas/windows 工具/AssetStudioGUI/AssetStudio.PInvoke.dll
+AssetStudio.PInvoke.dll | https://ipas.ic-market.top/d/nas/windows 工具/AssetStudioGUI/AssetStudio.PInvoke.dll
+AssetStudio.dll | http://117.50.199.26:15244/d/nas/windows 工具/AssetStudioGUI/AssetStudio.dll
+AssetStudio.dll | https://ipas.ic-market.top/d/nas/windows 工具/AssetStudioGUI/AssetStudio.dll
+AssetStudioFBXWrapper.dll | http://117.50.199.26:15244/d/nas/windows 工具/AssetStudioGUI/AssetStudioFBXWrapper.dll
+AssetStudioFBXWrapper.dll | https://ipas.ic-market.top/d/nas/windows 工具/AssetStudioGUI/AssetStudioFBXWrapper.dll
+AssetStudioUtility.dll | http://117.50.199.26:15244/d/nas/windows 工具/AssetStudioGUI/AssetStudioUtility.dll
+AssetStudioUtility.dll | https://ipas.ic-market.top/d/nas/windows 工具/AssetStudioGUI/AssetStudioUtility.dll
+AudioIntercom.dll | http://218.28.112.170:5555/d/软件/大宗物料/HCNetSDKCom/AudioIntercom.dll
+AudioRender.dll | http://218.28.112.170:5555/d/软件/大宗物料/AudioRender.dll
+AudioRender.dll | http://218.28.112.170:5555/d/软件/大宗物料/HCNetSDKCom/AudioRender.dll
+Autofac.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/Autofac.dll
+BCShellEx64.dll | http://117.50.199.26:15244/d/nas/windows 工具/BCompare/BCShellEx64.dll
+BCShellEx64.dll | https://ipas.ic-market.top/d/nas/windows 工具/BCompare/BCShellEx64.dll
+BCUnRAR.dll | http://117.50.199.26:15244/d/nas/windows 工具/BCompare/BCUnRAR.dll
+BCUnRAR.dll | https://ipas.ic-market.top/d/nas/windows 工具/BCompare/BCUnRAR.dll
+BTNexgenIPL32.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/BTNexgenIPL32.dll
+BTNexgenIPL32.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/BTNexgenIPL32.dll
+BTNexgenIPL32u.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/BTNexgenIPL32u.dll
+BTNexgenIPL32u.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/BTNexgenIPL32u.dll
+BadApk.dll | https://alist.990668.xyz/d/系统安装/安卓/ApkInstaller v1.4.0.0 Beta/BadApk.dll
+BouncyCastle.Crypto.dll | http://120.26.66.68:8008/d/Tools/电子秤设置工具V1.0.3/设置工具/BouncyCastle.Crypto.dll
+BouncyCastle.Crypto.dll | http://120.26.66.68:8008/d/乐檬老机器工具/电子秤设置工具/BouncyCastle.Crypto.dll
+BouncyCastle.Crypto.dll | https://120.26.66.68:8009/d/Tools/电子秤设置工具V1.0.3/设置工具/BouncyCastle.Crypto.dll
+BouncyCastle.Crypto.dll | https://120.26.66.68:8009/d/乐檬老机器工具/电子秤设置工具/BouncyCastle.Crypto.dll
+BoxChs.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/BoxChs.dll
+BoxChs.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/BoxChs.dll
+CH341PT.DLL | http://218.28.112.170:5555/d/软件/四个USB口发卡器驱动/四个USB口发卡器驱动/CH341PT.DLL
+CLEPTransFile.dll | http://218.28.112.170:5555/d/软件/大宗物料/CLEPTransFile.dll
+CPUIDInterface.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/CPUIDInterface.dll
+CPUID_Util_VB.dll | http://218.28.112.170:5555/d/软件/大宗物料/CPUID_Util_VB.dll
+CUESDK_2015.dll | https://139.185.32.228/d/硬件/AIDA64 Extreme/CUESDK_2015.dll
+CUESDK_2015.dll | https://193.123.85.183/d/硬件/AIDA64 Extreme/CUESDK_2015.dll
+CVT_StdToHik.dll | http://218.28.112.170:5555/d/软件/大宗物料/CVT_StdToHik.dll
+CYHook.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/CYHook.dll
+CYHook.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/CYHook.dll
+CallApiA.dll | http://218.28.112.170:5555/d/软件/大宗物料/CallApiA.dll
+CaptureUWP64.dll | http://120.26.66.68:8008/d/其他/图形图像解压/PotPlayer64/CaptureUWP64.dll
+CaptureUWP64.dll | https://120.26.66.68:8009/d/其他/图形图像解压/PotPlayer64/CaptureUWP64.dll
+Comm.dll | http://218.28.112.170:5555/d/软件/大宗物料/Comm.dll
+CrashRpt.dll | http://117.50.199.26:15244/d/nas/windows 工具/Xshell+Xftp/CrashRpt.dll
+CrashRpt.dll | https://ipas.ic-market.top/d/nas/windows 工具/Xshell+Xftp/CrashRpt.dll
+D3DCompiler_43.dll | http://218.28.112.170:5555/d/软件/大宗物料/D3DCompiler_43.dll
+D3DX9_43.dll | http://218.28.112.170:5555/d/软件/大宗物料/D3DX9_43.dll
+DBManager.dll | http://218.28.112.170:5555/d/软件/U8/3.U8插件更程序1.3.0.8/DBManager.dll
+DBModel.dll | http://218.28.112.170:5555/d/软件/U8/3.U8插件更程序1.3.0.8/DBModel.dll
+DSStream.dll | http://218.28.112.170:5555/d/软件/大宗物料/DSStream.dll
+DVTFaceSDK.dll | http://218.28.112.170:5555/d/软件/大宗物料/DVTFaceSDK.dll
+Dapper.dll | http://218.28.112.170:5555/d/软件/U8/3.U8插件更程序1.3.0.8/Dapper.dll
+DaumCrashHandler64.dll | http://120.26.66.68:8008/d/其他/图形图像解压/PotPlayer64/DaumCrashHandler64.dll
+DaumCrashHandler64.dll | https://120.26.66.68:8009/d/其他/图形图像解压/PotPlayer64/DaumCrashHandler64.dll
+Decoder6ks.dll | http://218.28.112.170:5555/d/软件/大宗物料/Decoder6ks.dll
+DesktopHook.dll | http://120.26.66.68:8008/d/其他/图形图像解压/PotPlayer64/DesktopHook.dll
+DesktopHook.dll | https://120.26.66.68:8009/d/其他/图形图像解压/PotPlayer64/DesktopHook.dll
+DevComponents.DotNetBar2.dll | http://218.28.112.170:5555/d/软件/U8/3.U8插件更程序1.3.0.8/DevComponents.DotNetBar2.dll
+Dewlt.dll | http://218.28.112.170:5555/d/软件/大宗物料/Dewlt.dll
+DiskID32.dll | http://218.28.112.170:5555/d/软件/大宗物料/DiskID32.dll
+DiskScan.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/DiskScan.dll
+DllMonitor.dll | http://218.28.112.170:5555/d/软件/大宗物料/DllMonitor.dll
+DotNetZip.dll | http://218.28.112.170:5555/d/软件/MRK_银狐专杀_37_59230_231204150344/DotNetZip.dll
+DrawLib.dll | https://154.222.17.44/d/电信云盘/06、CAXA/DrawLib.dll
+DriverClean.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/DriverClean.dll
+DsSdk.dll | http://218.28.112.170:5555/d/软件/大宗物料/DsSdk.dll
+DsSdk.dll | http://218.28.112.170:5555/d/软件/大宗物料/HCNetSDKCom/DsSdk.dll
+EITCCBase.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCCBase.dll
+EITCC_AddNoise.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_AddNoise.dll
+EITCC_BathroomWindow.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_BathroomWindow.dll
+EITCC_Blinds.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_Blinds.dll
+EITCC_Bulge.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_Bulge.dll
+EITCC_ColoredEdges.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_ColoredEdges.dll
+EITCC_Contours.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_Contours.dll
+EITCC_Dauber.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_Dauber.dll
+EITCC_FurryEdges.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_FurryEdges.dll
+EITCC_LinearBlur.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_LinearBlur.dll
+EITCC_MedianNoiseRemoval.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_MedianNoiseRemoval.dll
+EITCC_Mirror.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_Mirror.dll
+EITCC_PixelExplosion.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_PixelExplosion.dll
+EITCC_Pixelate.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_Pixelate.dll
+EITCC_Posterize.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_Posterize.dll
+EITCC_RadialBlur.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_RadialBlur.dll
+EITCC_Ripple.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_Ripple.dll
+EITCC_ScatteredTiles.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_ScatteredTiles.dll
+EITCC_SheetMetal.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_SheetMetal.dll
+EITCC_Shift.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_Shift.dll
+EITCC_Solarize.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_Solarize.dll
+EITCC_Spread.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_Spread.dll
+EITCC_Sunspot.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_Sunspot.dll
+EITCC_Swirl.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_Swirl.dll
+EITCC_TopographicMap.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_TopographicMap.dll
+EITCC_UnsharpMask.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_UnsharpMask.dll
+EITCC_UserDefinedConvolution.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_UserDefinedConvolution.dll
+EITCC_Wind.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_Wind.dll
+EITCC_ZoomBlur.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/EITCC_ZoomBlur.dll
+EagleEyeRender.dll | http://218.28.112.170:5555/d/软件/大宗物料/EagleEyeRender.dll
+EasyUSB.dll | http://218.28.112.170:5555/d/软件/大宗物料/EasyUSB.dll
+Emoji.Wpf.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/Emoji.Wpf.dll
+EnCodeQr.dll | http://218.76.165.27:88/d/收银相关/芯烨票据产品打印测试工具V3.6C/芯烨票据产品打印测试工具V3.6C/EnCodeQr.dll
+ExFAT.dll | http://120.26.66.68:8008/d/其他/分区工具/PA_Green/ExFAT.dll
+ExFAT.dll | https://120.26.66.68:8009/d/其他/分区工具/PA_Green/ExFAT.dll
+ExtDB.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/ExtDB.dll
+EyeGuardHook.dll | http://117.50.199.26:15244/d/nas/windows 工具/EyeGuard(眼保健操)/EyeGuardHook.dll
+EyeGuardHook.dll | https://ipas.ic-market.top/d/nas/windows 工具/EyeGuard(眼保健操)/EyeGuardHook.dll
+FDP.dll | http://218.28.112.170:5555/d/软件/大宗物料/FDP.dll
+FJG_Comm.dll | http://218.28.112.170:5555/d/软件/大宗物料/FJG_Comm.dll
+FRESPRINTER.dll | http://171.95.23.159:88/d/工具/软件/新建文件夹 (2)/FRESPRINTER.dll
+FTPObjectA.dll | http://218.28.112.170:5555/d/软件/大宗物料/FTPObjectA.dll
+FUIPRINTER.dll | http://171.95.23.159:88/d/工具/软件/新建文件夹 (2)/FUIPRINTER.dll
+FUNIPRINTER.dll | http://171.95.23.159:88/d/工具/软件/新建文件夹 (2)/FUNIPRINTER.dll
+FanControl.IPC.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/FanControl.IPC.dll
+FanControl.Library.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/FanControl.Library.dll
+FanControl.Plugins.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/FanControl.Plugins.dll
+FanControl.Resources.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/FanControl.Resources.dll
+FilterDlgUI.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/FilterDlgUI.dll
+FontAwesome.WPF.dll | http://218.28.112.170:5555/d/软件/MRK_银狐专杀_37_59230_231204150344/FontAwesome.WPF.dll
+Framework.dll | http://47.83.157.204:36081/d/数据恢复/FonePaw 数据恢复  PJ版本/Crack/Framework.dll
+Framework.dll | https://47.83.157.204/d/数据恢复/FonePaw 数据恢复  PJ版本/Crack/Framework.dll
+GDW_Link.dll | http://218.28.112.170:5555/d/软件/大宗物料/GDW_Link.dll
+GDW_VPDCommDll.dll | http://218.28.112.170:5555/d/软件/大宗物料/GDW_VPDCommDll.dll
+GETDIR.DLL | http://218.28.112.170:5555/d/软件/大宗物料/GETDIR.DLL
+GameAssembly.dll | https://113.207.49.5/d/游戏/Ori and the Will of the Wisps/GameAssembly.dll
+GameCaptureHook.dll | http://120.26.66.68:8008/d/其他/图形图像解压/PotPlayer64/GameCaptureHook.dll
+GameCaptureHook.dll | https://120.26.66.68:8009/d/其他/图形图像解压/PotPlayer64/GameCaptureHook.dll
+GameCaptureHook64.dll | http://120.26.66.68:8008/d/其他/图形图像解压/PotPlayer64/GameCaptureHook64.dll
+GameCaptureHook64.dll | https://120.26.66.68:8009/d/其他/图形图像解压/PotPlayer64/GameCaptureHook64.dll
+GetDiskSerial.dll | http://218.28.112.170:5555/d/软件/大宗物料/GetDiskSerial.dll
+GetIP60.dll | http://218.28.112.170:5555/d/软件/大宗物料/GetIP60.dll
+GetProcessDLL.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/GetProcessDLL.dll
+GetTxtNT.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/GetTxtNT.dll
+GetTxtNT.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/GetTxtNT.dll
+GongSolutions.WPF.DragDrop.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/GongSolutions.WPF.DragDrop.dll
+Google.Protobuf.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/Google.Protobuf.dll
+GoogleAnalytics.dll | http://120.26.66.68:8008/d/其他/分区工具/PA_Green/GoogleAnalytics.dll
+GoogleAnalytics.dll | https://120.26.66.68:8009/d/其他/分区工具/PA_Green/GoogleAnalytics.dll
+GrantUiAccess.dll | https://61.184.67.134:2083/d/ClassIsland.10/Plugins/grantUiAccess/GrantUiAccess.dll
+GrantUiAccess.dll | https://61.184.67.134:2083/d/ClassIsland.bak/Plugins/grantUiAccess/GrantUiAccess.dll
+GrantUiAccess.dll | https://61.184.67.134:2083/d/ClassIsland/Plugins/grantUiAccess/GrantUiAccess.dll
+Grpc.Core.Api.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/Grpc.Core.Api.dll
+GrpcDotNetNamedPipes.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/GrpcDotNetNamedPipes.dll
+HCAlarm.dll | http://218.28.112.170:5555/d/软件/大宗物料/HCNetSDKCom/HCAlarm.dll
+HCCore.dll | http://218.28.112.170:5555/d/软件/大宗物料/HCCore.dll
+HCCoreDevCfg.dll | http://218.28.112.170:5555/d/软件/大宗物料/HCNetSDKCom/HCCoreDevCfg.dll
+HCDisplay.dll | http://218.28.112.170:5555/d/软件/大宗物料/HCNetSDKCom/HCDisplay.dll
+HCGeneralCfgMgr.dll | http://218.28.112.170:5555/d/软件/大宗物料/HCNetSDKCom/HCGeneralCfgMgr.dll
+HCIndustry.dll | http://218.28.112.170:5555/d/软件/大宗物料/HCNetSDKCom/HCIndustry.dll
+HCNetSDK.dll | http://218.28.112.170:5555/d/软件/大宗物料/HCNetSDK.dll
+HCPlayBack.dll | http://218.28.112.170:5555/d/软件/大宗物料/HCNetSDKCom/HCPlayBack.dll
+HCPreview.dll | http://218.28.112.170:5555/d/软件/大宗物料/HCNetSDKCom/HCPreview.dll
+HCVoiceTalk.dll | http://218.28.112.170:5555/d/软件/大宗物料/HCNetSDKCom/HCVoiceTalk.dll
+HHActiveX.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/HHActiveX.dll
+HW32F.DLL | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/HW32F.DLL
+HW32F.DLL | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/HW32F.DLL
+HWCHKA.DLL | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/HWCHKA.DLL
+HWCHKA.DLL | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/HWCHKA.DLL
+HWCHKC.DLL | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/HWCHKC.DLL
+HWCHKC.DLL | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/HWCHKC.DLL
+HWCHKX.DLL | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/HWCHKX.DLL
+HWCHKX.DLL | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/HWCHKX.DLL
+HWDecode.dll | http://218.28.112.170:5555/d/软件/大宗物料/HWDecode.dll
+HWGetPadID.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/HWGetPadID.dll
+HWGetPadID.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/HWGetPadID.dll
+HWLMAPI.DLL | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/HWLMAPI.DLL
+HWLMAPI.DLL | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/HWLMAPI.DLL
+HWPENA.DLL | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/HWPENA.DLL
+HWPENA.DLL | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/HWPENA.DLL
+HWPENC.DLL | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/HWPENC.DLL
+HWPENC.DLL | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/HWPENC.DLL
+HWSetup.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/HWSetup.dll
+HWSetup.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/HWSetup.dll
+HWSetupU.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/HWSetupU.dll
+HWSetupU.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/HWSetupU.dll
+HWSmoothDraw.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/HWSmoothDraw.dll
+HWSmoothDraw.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/HWSmoothDraw.dll
+HWSmoothDrawU.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/HWSmoothDrawU.dll
+HWSmoothDrawU.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/HWSmoothDrawU.dll
+HWXzyPad.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/HWXzyPad.dll
+HWXzyPad.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/amd64/HWXzyPad.dll
+HWXzyPad.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/i386/HWXzyPad.dll
+HWXzyPad.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/HWXzyPad.dll
+HWXzyPad.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/amd64/HWXzyPad.dll
+HWXzyPad.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/i386/HWXzyPad.dll
+HXVA.dll | http://218.28.112.170:5555/d/软件/大宗物料/HXVA.dll
+HardwareLib.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/HardwareLib.dll
+Hdrwvdi.dll | http://120.26.66.68:8008/d/其他/分区工具/diskgenius.PartitionGuru/Hdrwvdi.dll
+Hdrwvdi.dll | http://120.26.66.68:8008/d/其他/数据恢复/diskgenius.PartitionGuru/Hdrwvdi.dll
+Hdrwvdi.dll | https://120.26.66.68:8009/d/其他/分区工具/diskgenius.PartitionGuru/Hdrwvdi.dll
+Hdrwvdi.dll | https://120.26.66.68:8009/d/其他/数据恢复/diskgenius.PartitionGuru/Hdrwvdi.dll
+Hdrwvhd.dll | http://120.26.66.68:8008/d/其他/分区工具/diskgenius.PartitionGuru/Hdrwvhd.dll
+Hdrwvhd.dll | http://120.26.66.68:8008/d/其他/数据恢复/diskgenius.PartitionGuru/Hdrwvhd.dll
+Hdrwvhd.dll | https://120.26.66.68:8009/d/其他/分区工具/diskgenius.PartitionGuru/Hdrwvhd.dll
+Hdrwvhd.dll | https://120.26.66.68:8009/d/其他/数据恢复/diskgenius.PartitionGuru/Hdrwvhd.dll
+Hdrwvhdx.dll | http://120.26.66.68:8008/d/其他/分区工具/diskgenius.PartitionGuru/Hdrwvhdx.dll
+Hdrwvhdx.dll | http://120.26.66.68:8008/d/其他/数据恢复/diskgenius.PartitionGuru/Hdrwvhdx.dll
+Hdrwvhdx.dll | https://120.26.66.68:8009/d/其他/分区工具/diskgenius.PartitionGuru/Hdrwvhdx.dll
+Hdrwvhdx.dll | https://120.26.66.68:8009/d/其他/数据恢复/diskgenius.PartitionGuru/Hdrwvhdx.dll
+Hdrwvm.dll | http://120.26.66.68:8008/d/其他/分区工具/diskgenius.PartitionGuru/Hdrwvm.dll
+Hdrwvm.dll | http://120.26.66.68:8008/d/其他/数据恢复/diskgenius.PartitionGuru/Hdrwvm.dll
+Hdrwvm.dll | https://120.26.66.68:8009/d/其他/分区工具/diskgenius.PartitionGuru/Hdrwvm.dll
+Hdrwvm.dll | https://120.26.66.68:8009/d/其他/数据恢复/diskgenius.PartitionGuru/Hdrwvm.dll
+HidSharp.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/HidSharp.dll
+HmMerge.dll | http://218.28.112.170:5555/d/软件/大宗物料/HmMerge.dll
+HomepageSvc.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/HomepageSvc.dll
+HunLib.dll | http://120.26.66.68:8008/d/其他/数据恢复/finaldata/HunLib.dll
+HunLib.dll | https://120.26.66.68:8009/d/其他/数据恢复/finaldata/HunLib.dll
+HwPress.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/HwPress.dll
+HwPress.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/HwPress.dll
+Hwpenx.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/Hwpenx.dll
+Hwpenx.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/Hwpenx.dll
+IDBSvrps.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/IDBSvrps.dll
+IDMFType64.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/IDMFType64.dll
+IDMGetAll.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/IDMGetAll.dll
+IDMGetAll64.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/IDMGetAll64.dll
+IDMIECC.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/IDMIECC.dll
+IDMIECC64.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/IDMIECC64.dll
+IDMNetMon.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/IDMNetMon.dll
+IDMNetMon64.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/IDMNetMon64.dll
+IDMShellExt.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/IDMShellExt.dll
+IDMShellExt64.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/IDMShellExt64.dll
+IDMVMPrs.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/IDMVMPrs.dll
+IDMVMPrs64.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/IDMVMPrs64.dll
+INFDRV.dll | http://120.26.66.68:8008/d/其他/数据恢复/finaldata/INFDRV.dll
+INFDRV.dll | https://120.26.66.68:8009/d/其他/数据恢复/finaldata/INFDRV.dll
+INFTHK.DLL | http://120.26.66.68:8008/d/其他/数据恢复/finaldata/INFTHK.DLL
+INFTHK.DLL | https://120.26.66.68:8009/d/其他/数据恢复/finaldata/INFTHK.DLL
+ISSetup.dll | http://218.28.112.170:5555/d/软件/U8/1.U890SETUP/ISSetup.dll
+ISSetup.dll | http://47.83.157.204:36081/d/手写笔/君彩djj-7驱动V7.2/ISSetup.dll
+ISSetup.dll | https://47.236.182.67/d/05-Driver File/09-Driver for N100 Dual Lan Dual COM/Realtek_Audio/ISSetup.dll
+ISSetup.dll | https://47.83.157.204/d/手写笔/君彩djj-7驱动V7.2/ISSetup.dll
+InfoHelp.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/InfoHelp.dll
+Interop.IWshRuntimeLibrary.dll | http://218.28.112.170:5555/d/软件/U8/3.U8插件更程序1.3.0.8/Interop.IWshRuntimeLibrary.dll
+Interop.SQLDMO.dll | http://218.28.112.170:5555/d/软件/U8/3.U8插件更程序1.3.0.8/Interop.SQLDMO.dll
+JumpListDll.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/JumpListDll.dll
+K4os.Compression.LZ4.dll | http://117.50.199.26:15244/d/nas/windows 工具/AssetStudioGUI/K4os.Compression.LZ4.dll
+K4os.Compression.LZ4.dll | https://ipas.ic-market.top/d/nas/windows 工具/AssetStudioGUI/K4os.Compression.LZ4.dll
+LEDSender.dll | http://218.28.112.170:5555/d/软件/大宗物料/LEDSender.dll
+LHT_mdibmp.dll | http://218.28.112.170:5555/d/软件/大宗物料/LHT_mdibmp.dll
+LPKernelEx.dll | http://218.28.112.170:5555/d/软件/大宗物料/LPKernelEx.dll
+LangRes.dll | http://120.26.66.68:8008/d/其他/分区工具/diskgenius.PartitionGuru/LangRes.dll
+LangRes.dll | http://120.26.66.68:8008/d/其他/数据恢复/diskgenius.PartitionGuru/LangRes.dll
+LangRes.dll | https://120.26.66.68:8009/d/其他/分区工具/diskgenius.PartitionGuru/LangRes.dll
+LangRes.dll | https://120.26.66.68:8009/d/其他/数据恢复/diskgenius.PartitionGuru/LangRes.dll
+LibColorTransform.dll | http://218.28.112.170:5555/d/软件/大宗物料/LibColorTransform.dll
+LibreHardwareMonitorLib.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/LibreHardwareMonitorLib.dll
+LicenseProvider.dll | http://81.71.152.215/d/百度网盘/我的软件/AppScan 9.0/LicenseProvider.dll
+Linit.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/Linit.dll
+Linit.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/Linit.dll
+MCS_SR.dll | http://218.28.112.170:5555/d/软件/大宗物料/MCS_SR.dll
+MFC42.DLL | http://218.28.112.170:5555/d/软件/大宗物料/MFC42.DLL
+MFC42D.DLL | http://218.28.112.170:5555/d/软件/大宗物料/MFC42D.DLL
+MFCO42D.DLL | http://218.28.112.170:5555/d/软件/大宗物料/MFCO42D.DLL
+MP_Render.dll | http://218.28.112.170:5555/d/软件/大宗物料/MP_Render.dll
+MP_VIE.dll | http://218.28.112.170:5555/d/软件/大宗物料/MP_VIE.dll
+MSVBVM60.DLL | http://218.28.112.170:5555/d/软件/大宗物料/MSVBVM60.DLL
+MSVCRT.DLL | http://218.28.112.170:5555/d/软件/大宗物料/MSVCRT.DLL
+MSVCRTD.DLL | http://218.28.112.170:5555/d/软件/大宗物料/MSVCRTD.DLL
+MailKit.dll | https://139.185.32.228/d/硬件/CrystalDiskInfo_8.16.4_Green/CdiResource/MailKit.dll
+MailKit.dll | https://193.123.85.183/d/硬件/CrystalDiskInfo_8.16.4_Green/CdiResource/MailKit.dll
+MasterCom.dll | http://218.28.112.170:5555/d/软件/大宗物料/MasterCom.dll
+MasterRD.dll | http://218.28.112.170:5555/d/软件/大宗物料/MasterRD.dll
+MaterialDesignColors.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/MaterialDesignColors.dll
+MaterialDesignThemes.Wpf.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/MaterialDesignThemes.Wpf.dll
+MaterialSkin.dll | https://alist.990668.xyz/d/系统安装/安卓/搞机工具箱v9/MaterialSkin.dll
+MediaDB64.dll | http://120.26.66.68:8008/d/其他/图形图像解压/PotPlayer64/MediaDB64.dll
+MediaDB64.dll | https://120.26.66.68:8009/d/其他/图形图像解压/PotPlayer64/MediaDB64.dll
+Metageek.IoctlNdis.dll | http://47.83.157.204:36081/d/硬件检测/网速测试/Inssider/Metageek.IoctlNdis.dll
+Metageek.IoctlNdis.dll | https://47.83.157.204/d/硬件检测/网速测试/Inssider/Metageek.IoctlNdis.dll
+Microsoft.Bcl.AsyncInterfaces.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/Microsoft.Bcl.AsyncInterfaces.dll
+Microsoft.Build.Tasks.CodeAnalysis.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+Microsoft.CodeAnalysis.CSharp.Scripting.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Microsoft.CodeAnalysis.CSharp.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+Microsoft.CodeAnalysis.Scripting.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+Microsoft.CodeAnalysis.VisualBasic.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+Microsoft.CodeAnalysis.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/Microsoft.CodeAnalysis.dll
+Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll | http://pan.uchenu.com/d/工作文档/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Microsoft.DiaSymReader.Native.amd64.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+Microsoft.DiaSymReader.Native.x86.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+Microsoft.Toolkit.Uwp.Notifications.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/Microsoft.Toolkit.Uwp.Notifications.dll
+Microsoft.Win32.Primitives.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/Microsoft.Win32.Primitives.dll
+Microsoft.Win32.TaskScheduler.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/Microsoft.Win32.TaskScheduler.dll
+Microsoft.Win32.TaskScheduler.dll | https://61.184.67.134:2083/d/ClassIsland.10/Plugins/classisland.startUpAsAdmin/Microsoft.Win32.TaskScheduler.dll
+Microsoft.Win32.TaskScheduler.dll | https://61.184.67.134:2083/d/ClassIsland.bak/Plugins/classisland.startUpAsAdmin/Microsoft.Win32.TaskScheduler.dll
+Microsoft.Win32.TaskScheduler.dll | https://61.184.67.134:2083/d/ClassIsland/Plugins/classisland.startUpAsAdmin/Microsoft.Win32.TaskScheduler.dll
+Microsoft.Xaml.Behaviors.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/Microsoft.Xaml.Behaviors.dll
+MimeKit.dll | https://139.185.32.228/d/硬件/CrystalDiskInfo_8.16.4_Green/CdiResource/MimeKit.dll
+MimeKit.dll | https://193.123.85.183/d/硬件/CrystalDiskInfo_8.16.4_Green/CdiResource/MimeKit.dll
+Mono.Cecil.Mdb.dll | http://117.50.199.26:15244/d/nas/windows 工具/AssetStudioGUI/Mono.Cecil.Mdb.dll
+Mono.Cecil.Mdb.dll | https://ipas.ic-market.top/d/nas/windows 工具/AssetStudioGUI/Mono.Cecil.Mdb.dll
+Mono.Cecil.Pdb.dll | http://117.50.199.26:15244/d/nas/windows 工具/AssetStudioGUI/Mono.Cecil.Pdb.dll
+Mono.Cecil.Pdb.dll | https://ipas.ic-market.top/d/nas/windows 工具/AssetStudioGUI/Mono.Cecil.Pdb.dll
+Mono.Cecil.Rocks.dll | http://117.50.199.26:15244/d/nas/windows 工具/AssetStudioGUI/Mono.Cecil.Rocks.dll
+Mono.Cecil.Rocks.dll | https://ipas.ic-market.top/d/nas/windows 工具/AssetStudioGUI/Mono.Cecil.Rocks.dll
+Mono.Cecil.dll | http://117.50.199.26:15244/d/nas/windows 工具/AssetStudioGUI/Mono.Cecil.dll
+Mono.Cecil.dll | https://ipas.ic-market.top/d/nas/windows 工具/AssetStudioGUI/Mono.Cecil.dll
+Mpeg4Player.dll | http://218.28.112.170:5555/d/软件/大宗物料/Mpeg4Player.dll
+MpgLib.DLL | https://alist.990668.xyz/d/系统安装/安卓/ext4_unpacker-解包工具/MpgLib.DLL
+MyMenu.dll | http://218.28.112.170:5555/d/软件/大宗物料/MyMenu.dll
+MyUtil.dll | http://218.28.112.170:5555/d/软件/大宗物料/MyUtil.dll
+NPQos.dll | http://218.28.112.170:5555/d/软件/大宗物料/NPQos.dll
+NativeWifi.dll | http://47.83.157.204:36081/d/硬件检测/网速测试/Inssider/NativeWifi.dll
+NativeWifi.dll | https://47.83.157.204/d/硬件检测/网速测试/Inssider/NativeWifi.dll
+Newtonsoft.Json.dll | http://117.50.199.26:15244/d/nas/windows 工具/AssetStudioGUI/Newtonsoft.Json.dll
+Newtonsoft.Json.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/Newtonsoft.Json.dll
+Newtonsoft.Json.dll | http://120.26.66.68:8008/d/Tools/电子秤设置工具V1.0.3/设置工具/Newtonsoft.Json.dll
+Newtonsoft.Json.dll | http://120.26.66.68:8008/d/乐檬老机器工具/电子秤设置工具/Newtonsoft.Json.dll
+Newtonsoft.Json.dll | http://pan.uchenu.com/d/工作文档/bin/Newtonsoft.Json.dll
+Newtonsoft.Json.dll | https://120.26.66.68:8009/d/Tools/电子秤设置工具V1.0.3/设置工具/Newtonsoft.Json.dll
+Newtonsoft.Json.dll | https://120.26.66.68:8009/d/乐檬老机器工具/电子秤设置工具/Newtonsoft.Json.dll
+Newtonsoft.Json.dll | https://ipas.ic-market.top/d/nas/windows 工具/AssetStudioGUI/Newtonsoft.Json.dll
+NsCopyHook2.dll | http://117.50.199.26:15244/d/nas/windows 工具/Xshell+Xftp/NsCopyHook2.dll
+NsCopyHook2.dll | https://ipas.ic-market.top/d/nas/windows 工具/Xshell+Xftp/NsCopyHook2.dll
+NvAPIWrapper.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/NvAPIWrapper.dll
+OFCommon.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/OFCommon.dll
+OS2CheckToolDll.dll | http://120.26.66.68:8008/d/桑达机器工具/OS2校准工具V2.018/OS2CheckToolDll.dll
+OS2CheckToolDll.dll | https://120.26.66.68:8009/d/桑达机器工具/OS2校准工具V2.018/OS2CheckToolDll.dll
+OpenAL32.dll | http://218.28.112.170:5555/d/软件/大宗物料/HCNetSDKCom/OpenAL32.dll
+OpenAL32.dll | http://218.28.112.170:5555/d/软件/大宗物料/OpenAL32.dll
+OpenTK.GLControl.dll | http://117.50.199.26:15244/d/nas/windows 工具/AssetStudioGUI/OpenTK.GLControl.dll
+OpenTK.GLControl.dll | https://ipas.ic-market.top/d/nas/windows 工具/AssetStudioGUI/OpenTK.GLControl.dll
+OpenTK.dll | http://117.50.199.26:15244/d/nas/windows 工具/AssetStudioGUI/OpenTK.dll
+OpenTK.dll | https://ipas.ic-market.top/d/nas/windows 工具/AssetStudioGUI/OpenTK.dll
+PBDManA.dll | http://218.28.112.170:5555/d/软件/大宗物料/PBDManA.dll
+PBDOM90.dll | http://218.28.112.170:5555/d/软件/大宗物料/PBDOM90.dll
+PBXerces90.dll | http://218.28.112.170:5555/d/软件/大宗物料/PBXerces90.dll
+PCI8KP.DLL | http://218.28.112.170:5555/d/软件/大宗物料/PCI8KP.DLL
+PE.dll | http://120.26.66.68:8008/d/其他/分区工具/PA_Green/PE.dll
+PE.dll | https://120.26.66.68:8009/d/其他/分区工具/PA_Green/PE.dll
+PMApiCN64.dll | http://120.26.66.68:8008/d/打印机驱动/c5503/NETDLL64/PMApiCN64.dll
+PMApiCN64.dll | https://120.26.66.68:8009/d/打印机驱动/c5503/NETDLL64/PMApiCN64.dll
+PMApiCS64.dll | http://120.26.66.68:8008/d/打印机驱动/c5503/NETDLL64/PMApiCS64.dll
+PMApiCS64.dll | https://120.26.66.68:8009/d/打印机驱动/c5503/NETDLL64/PMApiCS64.dll
+PMApiDA64.dll | http://120.26.66.68:8008/d/打印机驱动/c5503/NETDLL64/PMApiDA64.dll
+PMApiDA64.dll | https://120.26.66.68:8009/d/打印机驱动/c5503/NETDLL64/PMApiDA64.dll
+PMApiDE64.dll | http://120.26.66.68:8008/d/打印机驱动/c5503/NETDLL64/PMApiDE64.dll
+PMApiDE64.dll | https://120.26.66.68:8009/d/打印机驱动/c5503/NETDLL64/PMApiDE64.dll
+PMApiEN64.dll | http://120.26.66.68:8008/d/打印机驱动/c5503/NETDLL64/PMApiEN64.dll
+PMApiEN64.dll | https://120.26.66.68:8009/d/打印机驱动/c5503/NETDLL64/PMApiEN64.dll
+PMApiES64.dll | http://120.26.66.68:8008/d/打印机驱动/c5503/NETDLL64/PMApiES64.dll
+PMApiES64.dll | https://120.26.66.68:8009/d/打印机驱动/c5503/NETDLL64/PMApiES64.dll
+PMApiFI64.dll | http://120.26.66.68:8008/d/打印机驱动/c5503/NETDLL64/PMApiFI64.dll
+PMApiFI64.dll | https://120.26.66.68:8009/d/打印机驱动/c5503/NETDLL64/PMApiFI64.dll
+PMApiFR64.dll | http://120.26.66.68:8008/d/打印机驱动/c5503/NETDLL64/PMApiFR64.dll
+PMApiFR64.dll | https://120.26.66.68:8009/d/打印机驱动/c5503/NETDLL64/PMApiFR64.dll
+PMApiHU64.dll | http://120.26.66.68:8008/d/打印机驱动/c5503/NETDLL64/PMApiHU64.dll
+PMApiHU64.dll | https://120.26.66.68:8009/d/打印机驱动/c5503/NETDLL64/PMApiHU64.dll
+PMApiIT64.dll | http://120.26.66.68:8008/d/打印机驱动/c5503/NETDLL64/PMApiIT64.dll
+PMApiIT64.dll | https://120.26.66.68:8009/d/打印机驱动/c5503/NETDLL64/PMApiIT64.dll
+PMApiNL64.dll | http://120.26.66.68:8008/d/打印机驱动/c5503/NETDLL64/PMApiNL64.dll
+PMApiNL64.dll | https://120.26.66.68:8009/d/打印机驱动/c5503/NETDLL64/PMApiNL64.dll
+PMApiNO64.dll | http://120.26.66.68:8008/d/打印机驱动/c5503/NETDLL64/PMApiNO64.dll
+PMApiNO64.dll | https://120.26.66.68:8009/d/打印机驱动/c5503/NETDLL64/PMApiNO64.dll
+PMApiPL64.dll | http://120.26.66.68:8008/d/打印机驱动/c5503/NETDLL64/PMApiPL64.dll
+PMApiPL64.dll | https://120.26.66.68:8009/d/打印机驱动/c5503/NETDLL64/PMApiPL64.dll
+PMApiPT64.dll | http://120.26.66.68:8008/d/打印机驱动/c5503/NETDLL64/PMApiPT64.dll
+PMApiPT64.dll | https://120.26.66.68:8009/d/打印机驱动/c5503/NETDLL64/PMApiPT64.dll
+PMApiSV64.dll | http://120.26.66.68:8008/d/打印机驱动/c5503/NETDLL64/PMApiSV64.dll
+PMApiSV64.dll | https://120.26.66.68:8009/d/打印机驱动/c5503/NETDLL64/PMApiSV64.dll
+PMApiTW64.dll | http://120.26.66.68:8008/d/打印机驱动/c5503/NETDLL64/PMApiTW64.dll
+PMApiTW64.dll | https://120.26.66.68:8009/d/打印机驱动/c5503/NETDLL64/PMApiTW64.dll
+PMCApi64.dll | http://120.26.66.68:8008/d/打印机驱动/c5503/NETDLL64/PMCApi64.dll
+PMCApi64.dll | https://120.26.66.68:8009/d/打印机驱动/c5503/NETDLL64/PMCApi64.dll
+PMCCom64.dll | http://120.26.66.68:8008/d/打印机驱动/c5503/NETDLL64/PMCCom64.dll
+PMCCom64.dll | https://120.26.66.68:8009/d/打印机驱动/c5503/NETDLL64/PMCCom64.dll
+PMCMisc64.dll | http://120.26.66.68:8008/d/打印机驱动/c5503/NETDLL64/PMCMisc64.dll
+PMCMisc64.dll | https://120.26.66.68:8009/d/打印机驱动/c5503/NETDLL64/PMCMisc64.dll
+PadCht.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/PadCht.dll
+PadCht.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/PadCht.dll
+PbJson.dll | http://218.28.112.170:5555/d/软件/大宗物料/PbJson.dll
+Pic.dll | http://218.28.112.170:5555/d/软件/大宗物料/Pic.dll
+PlateRecognize.dll | http://218.28.112.170:5555/d/软件/大宗物料/PlateRecognize.dll
+PlayCtrl.dll | http://218.28.112.170:5555/d/软件/大宗物料/PlayCtrl.dll
+PluginHelper.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/PluginHelper.dll
+PotIcons64.dll | http://120.26.66.68:8008/d/其他/图形图像解压/PotPlayer64/PotIcons64.dll
+PotIcons64.dll | https://120.26.66.68:8009/d/其他/图形图像解压/PotPlayer64/PotIcons64.dll
+PotPlayer64.dll | http://120.26.66.68:8008/d/其他/图形图像解压/PotPlayer64/PotPlayer64.dll
+PotPlayer64.dll | https://120.26.66.68:8009/d/其他/图形图像解压/PotPlayer64/PotPlayer64.dll
+PowerConfig.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/PowerConfig.dll
+ProductStatistics.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/ProductStatistics.dll
+Qt5Concurrent.dll | http://117.50.199.26:15244/d/nas/windows 工具/Snipaste 2.4 免安装/Qt5Concurrent.dll
+Qt5Concurrent.dll | http://120.26.66.68:8008/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/Qt5Concurrent.dll
+Qt5Concurrent.dll | https://103.136.146.29/d/Googledrive459/Windows软件/Snipaste-2.4-Beta-x64/Qt5Concurrent.dll
+Qt5Concurrent.dll | https://120.26.66.68:8009/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/Qt5Concurrent.dll
+Qt5Concurrent.dll | https://ipas.ic-market.top/d/nas/windows 工具/Snipaste 2.4 免安装/Qt5Concurrent.dll
+Qt5Core.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/Qt5Core.dll
+Qt5Core.dll | http://117.50.199.26:15244/d/nas/windows 工具/Snipaste 2.4 免安装/Qt5Core.dll
+Qt5Core.dll | http://120.26.66.68:8008/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/Qt5Core.dll
+Qt5Core.dll | https://103.136.146.29/d/Googledrive459/Windows软件/Snipaste-2.4-Beta-x64/Qt5Core.dll
+Qt5Core.dll | https://120.26.66.68:8009/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/Qt5Core.dll
+Qt5Core.dll | https://ipas.ic-market.top/d/nas/windows 工具/Snipaste 2.4 免安装/Qt5Core.dll
+Qt5Gui.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/Qt5Gui.dll
+Qt5Gui.dll | http://117.50.199.26:15244/d/nas/windows 工具/Snipaste 2.4 免安装/Qt5Gui.dll
+Qt5Gui.dll | http://120.26.66.68:8008/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/Qt5Gui.dll
+Qt5Gui.dll | https://103.136.146.29/d/Googledrive459/Windows软件/Snipaste-2.4-Beta-x64/Qt5Gui.dll
+Qt5Gui.dll | https://120.26.66.68:8009/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/Qt5Gui.dll
+Qt5Gui.dll | https://ipas.ic-market.top/d/nas/windows 工具/Snipaste 2.4 免安装/Qt5Gui.dll
+Qt5Multimedia.dll | http://117.50.199.26:15244/d/nas/windows 工具/Snipaste 2.4 免安装/Qt5Multimedia.dll
+Qt5Multimedia.dll | http://120.26.66.68:8008/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/Qt5Multimedia.dll
+Qt5Multimedia.dll | https://103.136.146.29/d/Googledrive459/Windows软件/Snipaste-2.4-Beta-x64/Qt5Multimedia.dll
+Qt5Multimedia.dll | https://120.26.66.68:8009/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/Qt5Multimedia.dll
+Qt5Multimedia.dll | https://ipas.ic-market.top/d/nas/windows 工具/Snipaste 2.4 免安装/Qt5Multimedia.dll
+Qt5Network.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/Qt5Network.dll
+Qt5Network.dll | http://117.50.199.26:15244/d/nas/windows 工具/Snipaste 2.4 免安装/Qt5Network.dll
+Qt5Network.dll | http://120.26.66.68:8008/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/Qt5Network.dll
+Qt5Network.dll | https://103.136.146.29/d/Googledrive459/Windows软件/Snipaste-2.4-Beta-x64/Qt5Network.dll
+Qt5Network.dll | https://120.26.66.68:8009/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/Qt5Network.dll
+Qt5Network.dll | https://ipas.ic-market.top/d/nas/windows 工具/Snipaste 2.4 免安装/Qt5Network.dll
+Qt5PrintSupport.dll | http://117.50.199.26:15244/d/nas/windows 工具/Snipaste 2.4 免安装/Qt5PrintSupport.dll
+Qt5PrintSupport.dll | http://120.26.66.68:8008/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/Qt5PrintSupport.dll
+Qt5PrintSupport.dll | https://103.136.146.29/d/Googledrive459/Windows软件/Snipaste-2.4-Beta-x64/Qt5PrintSupport.dll
+Qt5PrintSupport.dll | https://120.26.66.68:8009/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/Qt5PrintSupport.dll
+Qt5PrintSupport.dll | https://ipas.ic-market.top/d/nas/windows 工具/Snipaste 2.4 免安装/Qt5PrintSupport.dll
+Qt5Qml.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/Qt5Qml.dll
+Qt5QmlModels.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/Qt5QmlModels.dll
+Qt5QmlWorkerScript.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/Qt5QmlWorkerScript.dll
+Qt5Quick.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/Qt5Quick.dll
+Qt5QuickControls2.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/Qt5QuickControls2.dll
+Qt5QuickTemplates2.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/Qt5QuickTemplates2.dll
+Qt5RemoteObjects.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/Qt5RemoteObjects.dll
+Qt5Svg.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/Qt5Svg.dll
+Qt5Svg.dll | http://117.50.199.26:15244/d/nas/windows 工具/Snipaste 2.4 免安装/Qt5Svg.dll
+Qt5Svg.dll | http://120.26.66.68:8008/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/Qt5Svg.dll
+Qt5Svg.dll | https://103.136.146.29/d/Googledrive459/Windows软件/Snipaste-2.4-Beta-x64/Qt5Svg.dll
+Qt5Svg.dll | https://120.26.66.68:8009/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/Qt5Svg.dll
+Qt5Svg.dll | https://ipas.ic-market.top/d/nas/windows 工具/Snipaste 2.4 免安装/Qt5Svg.dll
+Qt5Widgets.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/Qt5Widgets.dll
+Qt5Widgets.dll | http://117.50.199.26:15244/d/nas/windows 工具/Snipaste 2.4 免安装/Qt5Widgets.dll
+Qt5Widgets.dll | http://120.26.66.68:8008/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/Qt5Widgets.dll
+Qt5Widgets.dll | https://103.136.146.29/d/Googledrive459/Windows软件/Snipaste-2.4-Beta-x64/Qt5Widgets.dll
+Qt5Widgets.dll | https://120.26.66.68:8009/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/Qt5Widgets.dll
+Qt5Widgets.dll | https://ipas.ic-market.top/d/nas/windows 工具/Snipaste 2.4 免安装/Qt5Widgets.dll
+Qt5WinExtras.dll | http://117.50.199.26:15244/d/nas/windows 工具/Snipaste 2.4 免安装/Qt5WinExtras.dll
+Qt5WinExtras.dll | http://120.26.66.68:8008/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/Qt5WinExtras.dll
+Qt5WinExtras.dll | https://103.136.146.29/d/Googledrive459/Windows软件/Snipaste-2.4-Beta-x64/Qt5WinExtras.dll
+Qt5WinExtras.dll | https://120.26.66.68:8009/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/Qt5WinExtras.dll
+Qt5WinExtras.dll | https://ipas.ic-market.top/d/nas/windows 工具/Snipaste 2.4 免安装/Qt5WinExtras.dll
+Qt5Xml.dll | http://117.50.199.26:15244/d/nas/windows 工具/Snipaste 2.4 免安装/Qt5Xml.dll
+Qt5Xml.dll | https://103.136.146.29/d/Googledrive459/Windows软件/Snipaste-2.4-Beta-x64/Qt5Xml.dll
+Qt5Xml.dll | https://ipas.ic-market.top/d/nas/windows 工具/Snipaste 2.4 免安装/Qt5Xml.dll
+Qt6Core.dll | https://alist.990668.xyz/d/代理工具/nekoray-3.26-2023-12-09-windows64/nekoray/Qt6Core.dll
+Qt6Gui.dll | https://alist.990668.xyz/d/代理工具/nekoray-3.26-2023-12-09-windows64/nekoray/Qt6Gui.dll
+Qt6Network.dll | https://alist.990668.xyz/d/代理工具/nekoray-3.26-2023-12-09-windows64/nekoray/Qt6Network.dll
+Qt6Svg.dll | https://alist.990668.xyz/d/代理工具/nekoray-3.26-2023-12-09-windows64/nekoray/Qt6Svg.dll
+Qt6Widgets.dll | https://alist.990668.xyz/d/代理工具/nekoray-3.26-2023-12-09-windows64/nekoray/Qt6Widgets.dll
+ROGAIOSDK.dll | https://139.185.32.228/d/硬件/AIDA64 Extreme/ROGAIOSDK.dll
+ROGAIOSDK.dll | https://193.123.85.183/d/硬件/AIDA64 Extreme/ROGAIOSDK.dll
+RPDIAP64.DLL | http://120.26.66.68:8008/d/打印机驱动/c5503/INSTDLL/RPDIAP64.DLL
+RPDIAP64.DLL | https://120.26.66.68:8009/d/打印机驱动/c5503/INSTDLL/RPDIAP64.DLL
+RSAPatch.dll | https://185.231.245.25/d/files/gi-private/windows/RSAPatch.dll
+Resetter.dll | https://alist.990668.xyz/d/打印机/L365.363.360.313.310.220.130清零软件永久版+使用教程/Resetter.dll
+ResourceManager.dll | http://114.246.207.186:9000/d/st-bak/徐鹏/ResourceManager.dll
+RhinoCore.dll | https://154.222.17.44/d/电信云盘/10、Rhino/Win/RhinoCore.dll
+Roboex32.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/Roboex32.dll
+RtlExUpd.dll | https://47.236.182.67/d/05-Driver File/09-Driver for N100 Dual Lan Dual COM/Realtek_Audio/RtlExUpd.dll
+SDL.dll | http://120.26.66.68:8008/d/其他/分区工具/diskgenius.PartitionGuru/SDL.dll
+SDL.dll | http://120.26.66.68:8008/d/其他/数据恢复/diskgenius.PartitionGuru/SDL.dll
+SDL.dll | https://120.26.66.68:8009/d/其他/分区工具/diskgenius.PartitionGuru/SDL.dll
+SDL.dll | https://120.26.66.68:8009/d/其他/数据恢复/diskgenius.PartitionGuru/SDL.dll
+SDL2.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/SDL2.dll
+SDL2.dll | http://27.30.64.27:121/d/0.常驻/0.压缩包/CloudMusic v2.9.4 绿色版/SDL2.dll
+SDL2.dll | https://alist.990668.xyz/d/系统安装/安卓/scrcpy-win64-v1.24/SDL2.dll
+SDL2_ttf.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/SDL2_ttf.dll
+SPUrlScanner.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/SPUrlScanner.dll
+SSDSecurityErase.dll | http://120.26.66.68:8008/d/其他/分区工具/PA_Green/SSDSecurityErase.dll
+SSDSecurityErase.dll | https://120.26.66.68:8009/d/其他/分区工具/PA_Green/SSDSecurityErase.dll
+SavePhoto.dll | http://218.28.112.170:5555/d/软件/大宗物料/SavePhoto.dll
+Scan.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/Scan.dll
+ScanPartition.dll | http://120.26.66.68:8008/d/其他/分区工具/PA_Green/ScanPartition.dll
+ScanPartition.dll | https://120.26.66.68:8009/d/其他/分区工具/PA_Green/ScanPartition.dll
+Scanner.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/Scanner.dll
+ScreenCapture.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/ScreenCapture.dll
+SetupChs.DLL | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/SetupChs.DLL
+SetupChs.DLL | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/SetupChs.DLL
+SetupCht.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/SetupCht.dll
+SetupCht.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/SetupCht.dll
+ShellIntMgr.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/ShellIntMgr.dll
+SimpleUpdater.dll | http://218.28.112.170:5555/d/软件/U8/3.U8插件更程序1.3.0.8/SimpleUpdater.dll
+SixLabors.Fonts.dll | http://117.50.199.26:15244/d/nas/windows 工具/AssetStudioGUI/SixLabors.Fonts.dll
+SixLabors.Fonts.dll | https://ipas.ic-market.top/d/nas/windows 工具/AssetStudioGUI/SixLabors.Fonts.dll
+SixLabors.ImageSharp.Drawing.dll | http://117.50.199.26:15244/d/nas/windows 工具/AssetStudioGUI/SixLabors.ImageSharp.Drawing.dll
+SixLabors.ImageSharp.Drawing.dll | https://ipas.ic-market.top/d/nas/windows 工具/AssetStudioGUI/SixLabors.ImageSharp.Drawing.dll
+SixLabors.ImageSharp.dll | http://117.50.199.26:15244/d/nas/windows 工具/AssetStudioGUI/SixLabors.ImageSharp.dll
+SixLabors.ImageSharp.dll | https://ipas.ic-market.top/d/nas/windows 工具/AssetStudioGUI/SixLabors.ImageSharp.dll
+SoundLib.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/SoundLib.dll
+SppExtComObjHook.dll | http://218.76.165.27:88/d/激活工具/Win11专业版激活工具/32-bit/SppExtComObjHook.dll
+SppExtComObjHook.dll | http://218.76.165.27:88/d/激活工具/Win11专业版激活工具/64-bit/SppExtComObjHook.dll
+StartUpAsAdmin.dll | https://61.184.67.134:2083/d/ClassIsland.10/Plugins/classisland.startUpAsAdmin/StartUpAsAdmin.dll
+StartUpAsAdmin.dll | https://61.184.67.134:2083/d/ClassIsland.bak/Plugins/classisland.startUpAsAdmin/StartUpAsAdmin.dll
+StartUpAsAdmin.dll | https://61.184.67.134:2083/d/ClassIsland/Plugins/classisland.startUpAsAdmin/StartUpAsAdmin.dll
+Stfu.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/Stfu.dll
+StrGene.dll | http://218.76.165.27:88/d/驱动相关/清零软件/Epson_L130_L220_L310_L360_L365_Reset/StrGene.dll
+StrGene.dll | http://218.76.165.27:88/d/驱动相关/清零软件/爱普生清零软件永久版L1218L1258L1259L3218L3219L3251L3253L3255L3256L3258L3266L3267L3268L3269L5298 图解/StrGene.dll
+StrGene.dll | https://alist.990668.xyz/d/打印机/L365.363.360.313.310.220.130清零软件永久版+使用教程/StrGene.dll
+StreamTransClient.dll | http://218.28.112.170:5555/d/软件/大宗物料/HCNetSDKCom/StreamTransClient.dll
+StreamTransClient.dll | http://218.28.112.170:5555/d/软件/大宗物料/StreamTransClient.dll
+StringBufferA.dll | http://218.28.112.170:5555/d/软件/大宗物料/StringBufferA.dll
+SuperRender.dll | http://218.28.112.170:5555/d/软件/大宗物料/SuperRender.dll
+Susi.dll | http://218.28.112.170:5555/d/软件/大宗物料/Susi.dll
+SysRest.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/SysRest.dll
+System.AppContext.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.AppContext.dll
+System.Buffers.dll | http://117.50.199.26:15244/d/nas/windows 工具/AssetStudioGUI/System.Buffers.dll
+System.Buffers.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/System.Buffers.dll
+System.Buffers.dll | https://139.185.32.228/d/硬件/CrystalDiskInfo_8.16.4_Green/CdiResource/System.Buffers.dll
+System.Buffers.dll | https://193.123.85.183/d/硬件/CrystalDiskInfo_8.16.4_Green/CdiResource/System.Buffers.dll
+System.Buffers.dll | https://ipas.ic-market.top/d/nas/windows 工具/AssetStudioGUI/System.Buffers.dll
+System.CodeDom.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/System.CodeDom.dll
+System.Collections.Immutable.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.Collections.Immutable.dll
+System.Console.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.Console.dll
+System.Diagnostics.DiagnosticSource.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/System.Diagnostics.DiagnosticSource.dll
+System.Diagnostics.DiagnosticSource.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+System.Diagnostics.FileVersionInfo.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+System.Diagnostics.StackTrace.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.Diagnostics.StackTrace.dll
+System.Globalization.Calendars.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.Globalization.Calendars.dll
+System.IO.Compression.ZipFile.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.IO.Compression.ZipFile.dll
+System.IO.Compression.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.IO.Compression.dll
+System.IO.FileSystem.Primitives.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.IO.FileSystem.Primitives.dll
+System.IO.FileSystem.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.IO.FileSystem.dll
+System.Memory.dll | http://117.50.199.26:15244/d/nas/windows 工具/AssetStudioGUI/System.Memory.dll
+System.Memory.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/System.Memory.dll
+System.Memory.dll | https://ipas.ic-market.top/d/nas/windows 工具/AssetStudioGUI/System.Memory.dll
+System.Net.Http.Formatting.dll | http://pan.uchenu.com/d/工作文档/bin/System.Net.Http.Formatting.dll
+System.Net.Http.Formatting.resources.dll | http://pan.uchenu.com/d/工作文档/bin/zh-Hans/System.Net.Http.Formatting.resources.dll
+System.Net.Http.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.Net.Http.dll
+System.Net.Sockets.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.Net.Sockets.dll
+System.Numerics.Vectors.dll | http://117.50.199.26:15244/d/nas/windows 工具/AssetStudioGUI/System.Numerics.Vectors.dll
+System.Numerics.Vectors.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/System.Numerics.Vectors.dll
+System.Numerics.Vectors.dll | https://ipas.ic-market.top/d/nas/windows 工具/AssetStudioGUI/System.Numerics.Vectors.dll
+System.Reflection.Metadata.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.Reflection.Metadata.dll
+System.Resources.Extensions.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/System.Resources.Extensions.dll
+System.Runtime.CompilerServices.Unsafe.dll | http://117.50.199.26:15244/d/nas/windows 工具/AssetStudioGUI/System.Runtime.CompilerServices.Unsafe.dll
+System.Runtime.CompilerServices.Unsafe.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/System.Runtime.CompilerServices.Unsafe.dll
+System.Runtime.CompilerServices.Unsafe.dll | https://ipas.ic-market.top/d/nas/windows 工具/AssetStudioGUI/System.Runtime.CompilerServices.Unsafe.dll
+System.Runtime.InteropServices.RuntimeInformation.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+System.Security.Cryptography.Algorithms.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+System.Security.Cryptography.Encoding.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.Security.Cryptography.Encoding.dll
+System.Security.Cryptography.Primitives.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.Security.Cryptography.Primitives.dll
+System.Security.Cryptography.X509Certificates.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+System.Text.Encoding.CodePages.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.Text.Encoding.CodePages.dll
+System.Threading.Tasks.Extensions.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/System.Threading.Tasks.Extensions.dll
+System.Threading.Tasks.Extensions.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.Threading.Tasks.Extensions.dll
+System.ValueTuple.dll | http://117.50.199.26:15244/d/nas/windows 工具/AssetStudioGUI/System.ValueTuple.dll
+System.ValueTuple.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/System.ValueTuple.dll
+System.ValueTuple.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.ValueTuple.dll
+System.ValueTuple.dll | https://ipas.ic-market.top/d/nas/windows 工具/AssetStudioGUI/System.ValueTuple.dll
+System.Web.Http.WebHost.dll | http://pan.uchenu.com/d/工作文档/bin/System.Web.Http.WebHost.dll
+System.Web.Http.WebHost.resources.dll | http://pan.uchenu.com/d/工作文档/bin/zh-Hans/System.Web.Http.WebHost.resources.dll
+System.Web.Http.dll | http://pan.uchenu.com/d/工作文档/bin/System.Web.Http.dll
+System.Web.Http.resources.dll | http://pan.uchenu.com/d/工作文档/bin/zh-Hans/System.Web.Http.resources.dll
+System.Xml.ReaderWriter.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.Xml.ReaderWriter.dll
+System.Xml.XPath.XDocument.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.Xml.XPath.XDocument.dll
+System.Xml.XPath.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.Xml.XPath.dll
+System.Xml.XmlDocument.dll | http://pan.uchenu.com/d/工作文档/bin/roslyn/System.Xml.XmlDocument.dll
+SystemTransform.dll | http://218.28.112.170:5555/d/软件/大宗物料/HCNetSDKCom/SystemTransform.dll
+SystemTransform.dll | http://218.28.112.170:5555/d/软件/大宗物料/SystemTransform.dll
+TH_PLATEID.dll | http://218.28.112.170:5555/d/软件/大宗物料/TH_PLATEID.dll
+Texture2DDecoderWrapper.dll | http://117.50.199.26:15244/d/nas/windows 工具/AssetStudioGUI/Texture2DDecoderWrapper.dll
+Texture2DDecoderWrapper.dll | https://ipas.ic-market.top/d/nas/windows 工具/AssetStudioGUI/Texture2DDecoderWrapper.dll
+TransportIrCOMM.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/TransportIrCOMM.dll
+TransportIrDA.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/TransportIrDA.dll
+TransportSerial.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/TransportSerial.dll
+TransportUSB.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/TransportUSB.dll
+Typography.GlyphLayout.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/Typography.GlyphLayout.dll
+Typography.OpenFont.dll | http://118.25.145.11:88/d/各种工具/CW/FanControl/Typography.OpenFont.dll
+UnityPlayer.dll | https://113.207.49.5/d/游戏/Ori and the Will of the Wisps/UnityPlayer.dll
+UnityPlayer.dll | https://24.18.156.162/d/MyCloud/Public/20th/UnityPlayer.dll
+VPRDev.dll | http://218.28.112.170:5555/d/软件/大宗物料/VPRDev.dll
+VPreview.dll | http://120.26.66.68:8008/d/其他/分区工具/diskgenius.PartitionGuru/VPreview.dll
+VPreview.dll | http://120.26.66.68:8008/d/其他/数据恢复/diskgenius.PartitionGuru/VPreview.dll
+VPreview.dll | https://120.26.66.68:8009/d/其他/分区工具/diskgenius.PartitionGuru/VPreview.dll
+VPreview.dll | https://120.26.66.68:8009/d/其他/数据恢复/diskgenius.PartitionGuru/VPreview.dll
+VSClientSdk.dll | http://218.28.112.170:5555/d/软件/大宗物料/VSClientSdk.dll
+VTImage.dll | http://218.28.112.170:5555/d/软件/大宗物料/VTImage.dll
+VZ_Sdk.dll | http://218.28.112.170:5555/d/软件/大宗物料/VZ_Sdk.dll
+VesnDataClient.dll | http://218.28.112.170:5555/d/软件/大宗物料/VesnDataClient.dll
+VirtualDesktop.dll | http://171.95.23.159:88/d/工具/工具/安全检测/VirtualDesktop.dll
+Vorbis.dll | https://alist.990668.xyz/d/系统安装/安卓/ext4_unpacker-解包工具/Vorbis.dll
+VzAudioDataPlayer.dll | http://218.28.112.170:5555/d/软件/大宗物料/VzAudioDataPlayer.dll
+VzDrawsLib.dll | http://218.28.112.170:5555/d/软件/大宗物料/VzDrawsLib.dll
+VzLPRSDK.dll | http://218.28.112.170:5555/d/软件/大宗物料/VzLPRSDK.dll
+VzPlayer2.dll | http://218.28.112.170:5555/d/软件/大宗物料/VzPlayer2.dll
+VzStreamClient.dll | http://218.28.112.170:5555/d/软件/大宗物料/VzStreamClient.dll
+WINSKCHS.DLL | http://218.28.112.170:5555/d/软件/大宗物料/WINSKCHS.DLL
+WINSOCK.DLL | http://218.28.112.170:5555/d/软件/大宗物料/WINSOCK.DLL
+WM161.dll | http://218.28.112.170:5555/d/软件/大宗物料/WM161.dll
+WebButtonA.dll | http://218.28.112.170:5555/d/软件/大宗物料/WebButtonA.dll
+WgSusi.dll | http://218.28.112.170:5555/d/软件/大宗物料/WgSusi.dll
+WimMgr.dll | http://120.26.66.68:8008/d/其他/分区工具/PA_Green/WimMgr.dll
+WimMgr.dll | https://120.26.66.68:8009/d/其他/分区工具/PA_Green/WimMgr.dll
+WinPixEventRuntime.dll | https://113.207.49.5/d/游戏/Ori and the Will of the Wisps/WinPixEventRuntime.dll
+XCRF500API.dll | http://218.28.112.170:5555/d/软件/大宗物料/XCRF500API.dll
+XLSWriter.dll | http://218.28.112.170:5555/d/软件/大宗物料/XLSWriter.dll
+XshellLib.dll | http://117.50.199.26:15244/d/nas/windows 工具/Xshell+Xftp/XshellLib.dll
+XshellLib.dll | https://ipas.ic-market.top/d/nas/windows 工具/Xshell+Xftp/XshellLib.dll
+YUVProcess.dll | http://218.28.112.170:5555/d/软件/大宗物料/YUVProcess.dll
+YamlDotNet.dll | http://218.28.112.170:5555/d/软件/MRK_银狐专杀_37_59230_231204150344/YamlDotNet.dll
+_Setup.dll | http://218.28.112.170:5555/d/软件/U8/1.U890SETUP/_Setup.dll
+_Setup.dll | http://47.83.157.204:36081/d/手写笔/君彩djj-7驱动V7.2/_Setup.dll
+_Setup.dll | https://47.83.157.204/d/手写笔/君彩djj-7驱动V7.2/_Setup.dll
+acdcp.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/acdcp.dll
+afaapi.dll | https://139.185.32.228/d/硬件/AIDA64 Extreme/afaapi.dll
+afaapi.dll | https://193.123.85.183/d/硬件/AIDA64 Extreme/afaapi.dll
+aida_arc.dll | https://139.185.32.228/d/硬件/AIDA64 Extreme/aida_arc.dll
+aida_arc.dll | https://193.123.85.183/d/硬件/AIDA64 Extreme/aida_arc.dll
+aida_bench32.dll | https://139.185.32.228/d/硬件/AIDA64 Extreme/aida_bench32.dll
+aida_bench32.dll | https://193.123.85.183/d/硬件/AIDA64 Extreme/aida_bench32.dll
+aida_bench64.dll | https://139.185.32.228/d/硬件/AIDA64 Extreme/aida_bench64.dll
+aida_bench64.dll | https://193.123.85.183/d/硬件/AIDA64 Extreme/aida_bench64.dll
+aida_diskbench.dll | https://139.185.32.228/d/硬件/AIDA64 Extreme/aida_diskbench.dll
+aida_diskbench.dll | https://193.123.85.183/d/硬件/AIDA64 Extreme/aida_diskbench.dll
+aida_helper64.dll | https://139.185.32.228/d/硬件/AIDA64 Extreme/aida_helper64.dll
+aida_helper64.dll | https://193.123.85.183/d/硬件/AIDA64 Extreme/aida_helper64.dll
+aida_icons10.dll | https://139.185.32.228/d/硬件/AIDA64 Extreme/aida_icons10.dll
+aida_icons10.dll | https://193.123.85.183/d/硬件/AIDA64 Extreme/aida_icons10.dll
+aida_icons2k.dll | https://139.185.32.228/d/硬件/AIDA64 Extreme/aida_icons2k.dll
+aida_icons2k.dll | https://193.123.85.183/d/硬件/AIDA64 Extreme/aida_icons2k.dll
+aida_mondiag.dll | https://139.185.32.228/d/硬件/AIDA64 Extreme/aida_mondiag.dll
+aida_mondiag.dll | https://193.123.85.183/d/硬件/AIDA64 Extreme/aida_mondiag.dll
+aida_uires.dll | https://139.185.32.228/d/硬件/AIDA64 Extreme/aida_uires.dll
+aida_uires.dll | https://193.123.85.183/d/硬件/AIDA64 Extreme/aida_uires.dll
+aida_uireshd.dll | https://139.185.32.228/d/硬件/AIDA64 Extreme/aida_uireshd.dll
+aida_uireshd.dll | https://193.123.85.183/d/硬件/AIDA64 Extreme/aida_uireshd.dll
+aida_update.dll | https://139.185.32.228/d/硬件/AIDA64 Extreme/aida_update.dll
+aida_update.dll | https://193.123.85.183/d/硬件/AIDA64 Extreme/aida_update.dll
+apdadrv.dll | http://218.76.165.27:88/d/驱动相关/清零软件/Epson_L130_L220_L310_L360_L365_Reset/apdadrv.dll
+apdadrv.dll | http://218.76.165.27:88/d/驱动相关/清零软件/爱普生清零软件永久版L1218L1258L1259L3218L3219L3251L3253L3255L3256L3258L3266L3267L3268L3269L5298 图解/apdadrv.dll
+apdadrv.dll | https://alist.990668.xyz/d/打印机/L365.363.360.313.310.220.130清零软件永久版+使用教程/apdadrv.dll
+api-ms-win-core-console-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-console-l1-1-0.dll
+api-ms-win-core-console-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-console-l1-1-0.dll
+api-ms-win-core-console-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-console-l1-1-0.dll
+api-ms-win-core-console-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-console-l1-1-0.dll
+api-ms-win-core-datetime-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-datetime-l1-1-0.dll
+api-ms-win-core-datetime-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-datetime-l1-1-0.dll
+api-ms-win-core-datetime-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-datetime-l1-1-0.dll
+api-ms-win-core-datetime-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-datetime-l1-1-0.dll
+api-ms-win-core-debug-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-debug-l1-1-0.dll
+api-ms-win-core-debug-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-debug-l1-1-0.dll
+api-ms-win-core-debug-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-debug-l1-1-0.dll
+api-ms-win-core-debug-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-debug-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-errorhandling-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-errorhandling-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-errorhandling-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-errorhandling-l1-1-0.dll
+api-ms-win-core-file-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-file-l1-1-0.dll
+api-ms-win-core-file-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-file-l1-1-0.dll
+api-ms-win-core-file-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-file-l1-1-0.dll
+api-ms-win-core-file-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-file-l1-1-0.dll
+api-ms-win-core-file-l1-2-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-file-l1-2-0.dll
+api-ms-win-core-file-l1-2-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-file-l1-2-0.dll
+api-ms-win-core-file-l1-2-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-file-l1-2-0.dll
+api-ms-win-core-file-l1-2-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-file-l1-2-0.dll
+api-ms-win-core-file-l2-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-file-l2-1-0.dll
+api-ms-win-core-file-l2-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-file-l2-1-0.dll
+api-ms-win-core-file-l2-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-file-l2-1-0.dll
+api-ms-win-core-file-l2-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-file-l2-1-0.dll
+api-ms-win-core-handle-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-handle-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-handle-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-handle-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-heap-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-heap-l1-1-0.dll
+api-ms-win-core-heap-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-heap-l1-1-0.dll
+api-ms-win-core-heap-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-heap-l1-1-0.dll
+api-ms-win-core-heap-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-heap-l1-1-0.dll
+api-ms-win-core-heap-l2-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-heap-l2-1-0.dll
+api-ms-win-core-heap-l2-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-heap-l2-1-0.dll
+api-ms-win-core-heap-l2-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-heap-l2-1-0.dll
+api-ms-win-core-heap-l2-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-heap-l2-1-0.dll
+api-ms-win-core-interlocked-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-interlocked-l1-1-0.dll
+api-ms-win-core-interlocked-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-interlocked-l1-1-0.dll
+api-ms-win-core-interlocked-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-interlocked-l1-1-0.dll
+api-ms-win-core-interlocked-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-interlocked-l1-1-0.dll
+api-ms-win-core-libraryloader-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-libraryloader-l1-1-0.dll
+api-ms-win-core-libraryloader-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-libraryloader-l1-1-0.dll
+api-ms-win-core-libraryloader-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-libraryloader-l1-1-0.dll
+api-ms-win-core-libraryloader-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-libraryloader-l1-1-0.dll
+api-ms-win-core-libraryloader-l1-2-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-libraryloader-l1-2-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-libraryloader-l1-2-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-libraryloader-l1-2-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-localization-l1-2-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-localization-l1-2-0.dll
+api-ms-win-core-localization-l1-2-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-localization-l1-2-0.dll
+api-ms-win-core-localization-l1-2-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-localization-l1-2-0.dll
+api-ms-win-core-localization-l1-2-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-localization-l1-2-0.dll
+api-ms-win-core-memory-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-memory-l1-1-0.dll
+api-ms-win-core-memory-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-memory-l1-1-0.dll
+api-ms-win-core-memory-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-memory-l1-1-0.dll
+api-ms-win-core-memory-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-memory-l1-1-0.dll
+api-ms-win-core-namedpipe-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-namedpipe-l1-1-0.dll
+api-ms-win-core-namedpipe-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-namedpipe-l1-1-0.dll
+api-ms-win-core-namedpipe-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-namedpipe-l1-1-0.dll
+api-ms-win-core-namedpipe-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-namedpipe-l1-1-0.dll
+api-ms-win-core-processenvironment-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-processenvironment-l1-1-0.dll
+api-ms-win-core-processenvironment-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-processenvironment-l1-1-0.dll
+api-ms-win-core-processenvironment-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-processenvironment-l1-1-0.dll
+api-ms-win-core-processenvironment-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-processenvironment-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-processthreads-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-processthreads-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-processthreads-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-processthreads-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-1.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-processthreads-l1-1-1.dll
+api-ms-win-core-processthreads-l1-1-1.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-processthreads-l1-1-1.dll
+api-ms-win-core-processthreads-l1-1-1.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-processthreads-l1-1-1.dll
+api-ms-win-core-processthreads-l1-1-1.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-processthreads-l1-1-1.dll
+api-ms-win-core-processtopology-obsolete-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-processtopology-obsolete-l1-1-0.dll
+api-ms-win-core-processtopology-obsolete-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-processtopology-obsolete-l1-1-0.dll
+api-ms-win-core-processtopology-obsolete-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-processtopology-obsolete-l1-1-0.dll
+api-ms-win-core-processtopology-obsolete-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-processtopology-obsolete-l1-1-0.dll
+api-ms-win-core-profile-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-profile-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-profile-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-profile-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-rtlsupport-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-rtlsupport-l1-1-0.dll
+api-ms-win-core-rtlsupport-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-rtlsupport-l1-1-0.dll
+api-ms-win-core-rtlsupport-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-rtlsupport-l1-1-0.dll
+api-ms-win-core-rtlsupport-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-rtlsupport-l1-1-0.dll
+api-ms-win-core-shlwapi-legacy-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-shlwapi-legacy-l1-1-0.dll
+api-ms-win-core-shlwapi-legacy-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-shlwapi-legacy-l1-1-0.dll
+api-ms-win-core-shlwapi-legacy-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-shlwapi-legacy-l1-1-0.dll
+api-ms-win-core-shlwapi-legacy-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-shlwapi-legacy-l1-1-0.dll
+api-ms-win-core-string-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-string-l1-1-0.dll
+api-ms-win-core-string-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-string-l1-1-0.dll
+api-ms-win-core-string-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-string-l1-1-0.dll
+api-ms-win-core-string-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-string-l1-1-0.dll
+api-ms-win-core-synch-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-synch-l1-1-0.dll
+api-ms-win-core-synch-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-synch-l1-1-0.dll
+api-ms-win-core-synch-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-synch-l1-1-0.dll
+api-ms-win-core-synch-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-synch-l1-1-0.dll
+api-ms-win-core-synch-l1-2-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-synch-l1-2-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-synch-l1-2-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-synch-l1-2-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-sysinfo-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-sysinfo-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-sysinfo-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-sysinfo-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-sysinfo-l1-1-0.dll
+api-ms-win-core-timezone-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-timezone-l1-1-0.dll
+api-ms-win-core-timezone-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-timezone-l1-1-0.dll
+api-ms-win-core-timezone-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-timezone-l1-1-0.dll
+api-ms-win-core-timezone-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-timezone-l1-1-0.dll
+api-ms-win-core-util-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-core-util-l1-1-0.dll
+api-ms-win-core-util-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-core-util-l1-1-0.dll
+api-ms-win-core-util-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-core-util-l1-1-0.dll
+api-ms-win-core-util-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-core-util-l1-1-0.dll
+api-ms-win-crt-conio-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-crt-conio-l1-1-0.dll
+api-ms-win-crt-conio-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-conio-l1-1-0.dll
+api-ms-win-crt-conio-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-crt-conio-l1-1-0.dll
+api-ms-win-crt-conio-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-conio-l1-1-0.dll
+api-ms-win-crt-convert-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-crt-convert-l1-1-0.dll
+api-ms-win-crt-convert-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-convert-l1-1-0.dll
+api-ms-win-crt-convert-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-crt-convert-l1-1-0.dll
+api-ms-win-crt-convert-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-convert-l1-1-0.dll
+api-ms-win-crt-environment-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-crt-environment-l1-1-0.dll
+api-ms-win-crt-environment-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-environment-l1-1-0.dll
+api-ms-win-crt-environment-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-crt-environment-l1-1-0.dll
+api-ms-win-crt-environment-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-environment-l1-1-0.dll
+api-ms-win-crt-filesystem-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-crt-filesystem-l1-1-0.dll
+api-ms-win-crt-filesystem-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-filesystem-l1-1-0.dll
+api-ms-win-crt-filesystem-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-crt-filesystem-l1-1-0.dll
+api-ms-win-crt-filesystem-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-filesystem-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-crt-locale-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-locale-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-crt-locale-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-locale-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-multibyte-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-crt-multibyte-l1-1-0.dll
+api-ms-win-crt-multibyte-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-multibyte-l1-1-0.dll
+api-ms-win-crt-multibyte-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-crt-multibyte-l1-1-0.dll
+api-ms-win-crt-multibyte-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-multibyte-l1-1-0.dll
+api-ms-win-crt-private-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-crt-private-l1-1-0.dll
+api-ms-win-crt-private-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-private-l1-1-0.dll
+api-ms-win-crt-private-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-crt-private-l1-1-0.dll
+api-ms-win-crt-private-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-private-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-crt-time-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-crt-time-l1-1-0.dll
+api-ms-win-crt-time-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-time-l1-1-0.dll
+api-ms-win-crt-time-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-crt-time-l1-1-0.dll
+api-ms-win-crt-time-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-time-l1-1-0.dll
+api-ms-win-crt-utility-l1-1-0.dll | http://120.26.66.68:8008/d/111/platform-tools/api-ms-win-crt-utility-l1-1-0.dll
+api-ms-win-crt-utility-l1-1-0.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-utility-l1-1-0.dll
+api-ms-win-crt-utility-l1-1-0.dll | https://120.26.66.68:8009/d/111/platform-tools/api-ms-win-crt-utility-l1-1-0.dll
+api-ms-win-crt-utility-l1-1-0.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/api-ms-win-crt-utility-l1-1-0.dll
+audioeffects.dll | http://27.30.64.27:121/d/0.常驻/0.压缩包/CloudMusic v2.9.4 绿色版/audioeffects.dll
+avcodec-54.dll | http://120.26.66.68:8008/d/其他/分区工具/diskgenius.PartitionGuru/avcodec-54.dll
+avcodec-54.dll | http://120.26.66.68:8008/d/其他/数据恢复/diskgenius.PartitionGuru/avcodec-54.dll
+avcodec-54.dll | https://120.26.66.68:8009/d/其他/分区工具/diskgenius.PartitionGuru/avcodec-54.dll
+avcodec-54.dll | https://120.26.66.68:8009/d/其他/数据恢复/diskgenius.PartitionGuru/avcodec-54.dll
+avcodec-57.dll | http://218.28.112.170:5555/d/软件/大宗物料/avcodec-57.dll
+avcodec-58.dll | http://218.28.112.170:5555/d/软件/大宗物料/avcodec-58.dll
+avcodec-59.dll | https://alist.990668.xyz/d/系统安装/安卓/scrcpy-win64-v1.24/avcodec-59.dll
+avcodec-61.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/avcodec-61.dll
+avdevice-58.dll | http://218.28.112.170:5555/d/软件/大宗物料/avdevice-58.dll
+avformat-54.dll | http://120.26.66.68:8008/d/其他/分区工具/diskgenius.PartitionGuru/avformat-54.dll
+avformat-54.dll | http://120.26.66.68:8008/d/其他/数据恢复/diskgenius.PartitionGuru/avformat-54.dll
+avformat-54.dll | https://120.26.66.68:8009/d/其他/分区工具/diskgenius.PartitionGuru/avformat-54.dll
+avformat-54.dll | https://120.26.66.68:8009/d/其他/数据恢复/diskgenius.PartitionGuru/avformat-54.dll
+avformat-57.dll | http://218.28.112.170:5555/d/软件/大宗物料/avformat-57.dll
+avformat-58.dll | http://218.28.112.170:5555/d/软件/大宗物料/avformat-58.dll
+avformat-59.dll | https://alist.990668.xyz/d/系统安装/安卓/scrcpy-win64-v1.24/avformat-59.dll
+avutil-52.dll | http://120.26.66.68:8008/d/其他/分区工具/diskgenius.PartitionGuru/avutil-52.dll
+avutil-52.dll | http://120.26.66.68:8008/d/其他/数据恢复/diskgenius.PartitionGuru/avutil-52.dll
+avutil-52.dll | https://120.26.66.68:8009/d/其他/分区工具/diskgenius.PartitionGuru/avutil-52.dll
+avutil-52.dll | https://120.26.66.68:8009/d/其他/数据恢复/diskgenius.PartitionGuru/avutil-52.dll
+avutil-55.dll | http://218.28.112.170:5555/d/软件/大宗物料/avutil-55.dll
+avutil-56.dll | http://218.28.112.170:5555/d/软件/大宗物料/avutil-56.dll
+avutil-57.dll | https://alist.990668.xyz/d/系统安装/安卓/scrcpy-win64-v1.24/avutil-57.dll
+avutil-59.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/avutil-59.dll
+bink2w32.dll | https://113.207.49.5/d/游戏/STEINS;GATE/bink2w32.dll
+boxcht.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/boxcht.dll
+boxcht.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/boxcht.dll
+bscommon.dll | http://27.30.64.27:121/d/0.常驻/0.压缩包/CloudMusic v2.9.4 绿色版/bscommon.dll
+cairo.dll | http://218.28.112.170:5555/d/软件/大宗物料/cairo.dll
+calib.dll | http://218.28.112.170:5555/d/软件/大宗物料/ClientDemoDll/calib.dll
+check32.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/check32.dll
+check32.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/check32.dll
+cloudmusic.dll | http://27.30.64.27:121/d/0.常驻/0.压缩包/CloudMusic v2.9.4 绿色版/cloudmusic.dll
+common.dll | http://218.28.112.170:5555/d/软件/大宗物料/common.dll
+concrt140.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/concrt140.dll
+cpuidsdk.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/cpuidsdk.dll
+cuDSStream.dll | http://218.28.112.170:5555/d/软件/大宗物料/cuDSStream.dll
+d3dcompiler_43.dll | http://27.30.64.27:121/d/0.常驻/0.压缩包/CloudMusic v2.9.4 绿色版/d3dcompiler_43.dll
+d3dcompiler_46.dll | http://27.30.64.27:121/d/0.常驻/0.压缩包/CloudMusic v2.9.4 绿色版/d3dcompiler_46.dll
+d3dcompiler_47.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/d3dcompiler_47.dll
+d3dcompiler_47.dll | http://120.26.66.68:8008/d/其他/图形图像解压/PotPlayer64/d3dcompiler_47.dll
+d3dcompiler_47.dll | https://120.26.66.68:8009/d/其他/图形图像解压/PotPlayer64/d3dcompiler_47.dll
+d3dcompiler_47.dll | https://alist.990668.xyz/d/代理工具/clash/Clash.for.Windows-0.20.21-win/d3dcompiler_47.dll
+d3dcompiler_47.dll | https://alist.990668.xyz/d/代理工具/clash/Clash.for.Windows中文版64位-0.20.14/d3dcompiler_47.dll
+d3dcompiler_47.dll | https://alist.990668.xyz/d/其他/[简易]原神抽卡查询/Genshin-Wish-Export/d3dcompiler_47.dll
+d3dx9_43.dll | http://120.26.66.68:8008/d/其他/图形图像解压/PotPlayer64/d3dx9_43.dll
+d3dx9_43.dll | https://120.26.66.68:8009/d/其他/图形图像解压/PotPlayer64/d3dx9_43.dll
+dataexchange.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/dataexchange.dll
+datastate.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/datastate.dll
+dav1d.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/dav1d.dll
+dbghelp.dll | http://27.30.64.27:121/d/0.常驻/0.压缩包/CloudMusic v2.9.4 绿色版/dbghelp.dll
+decode.dll | http://218.28.112.170:5555/d/软件/大宗物料/decode.dll
+dhvecsystem.dll | http://218.28.112.170:5555/d/软件/大宗物料/dhvecsystem.dll
+digitacam.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/digitacam.dll
+dirlist.dll | https://60.205.14.56/d/百度网盘/1视觉小说/fate/dirlist.dll
+discord-rpc.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/discord-rpc.dll
+diskinfo.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/diskinfo.dll
+dllh264.dll | http://218.28.112.170:5555/d/软件/大宗物料/dllh264.dll
+downlWithIDM.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/downlWithIDM.dll
+downlWithIDM64.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/downlWithIDM64.dll
+drawer.dll | https://60.205.14.56/d/百度网盘/1视觉小说/fate/drawer.dll
+dwHelper2A.dll | http://218.28.112.170:5555/d/软件/大宗物料/dwHelper2A.dll
+engdll.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/engdll.dll
+engdll.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/engdll.dll
+extrans.dll | https://60.205.14.56/d/百度网盘/1视觉小说/fate/extrans.dll
+fctlextend.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/fctlextend.dll
+fdxutil.dll | http://120.26.66.68:8008/d/其他/数据恢复/finaldata/fdxutil.dll
+fdxutil.dll | https://120.26.66.68:8009/d/其他/数据恢复/finaldata/fdxutil.dll
+ffcodec64.dll | http://120.26.66.68:8008/d/其他/图形图像解压/PotPlayer64/ffcodec64.dll
+ffcodec64.dll | https://120.26.66.68:8009/d/其他/图形图像解压/PotPlayer64/ffcodec64.dll
+ffmpeg.dll | https://alist.990668.xyz/d/代理工具/clash/Clash.for.Windows-0.20.21-win/ffmpeg.dll
+ffmpeg.dll | https://alist.990668.xyz/d/代理工具/clash/Clash.for.Windows中文版64位-0.20.14/ffmpeg.dll
+ffmpeg.dll | https://alist.990668.xyz/d/其他/[简易]原神抽卡查询/Genshin-Wish-Export/ffmpeg.dll
+ffmpegsumo.dll | http://27.30.64.27:121/d/0.常驻/0.压缩包/CloudMusic v2.9.4 绿色版/ffmpegsumo.dll
+filectl.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/filectl.dll
+filter.dll | https://60.205.14.56/d/百度网盘/1视觉小说/fate/filter.dll
+firespark.dll | https://60.205.14.56/d/百度网盘/1视觉小说/fate/firespark.dll
+fnthex32.dll | http://218.28.112.170:5555/d/软件/大宗物料/fnthex32.dll
+gdiplus.dll | http://218.28.112.170:5555/d/软件/大宗物料/gdiplus.dll
+getcpuid.dll | http://218.28.112.170:5555/d/软件/大宗物料/getcpuid.dll
+hd_dt_wl.dll | http://218.28.112.170:5555/d/软件/大宗物料/hd_dt_wl.dll
+hid.dll | https://192.18.139.229/d/皮肤盒子/hid.dll
+hlog.dll | http://218.28.112.170:5555/d/软件/大宗物料/hlog.dll
+hoedown.dll | http://117.50.199.26:15244/d/nas/windows 工具/Snipaste 2.4 免安装/hoedown.dll
+hoedown.dll | http://120.26.66.68:8008/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/hoedown.dll
+hoedown.dll | https://103.136.146.29/d/Googledrive459/Windows软件/Snipaste-2.4-Beta-x64/hoedown.dll
+hoedown.dll | https://120.26.66.68:8009/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/hoedown.dll
+hoedown.dll | https://ipas.ic-market.top/d/nas/windows 工具/Snipaste 2.4 免安装/hoedown.dll
+hostfxr.dll | http://120.26.66.68:8008/d/其他/办公软件/Office Tool/hostfxr.dll
+hostfxr.dll | https://120.26.66.68:8009/d/其他/办公软件/Office Tool/hostfxr.dll
+hpr.dll | http://218.28.112.170:5555/d/软件/大宗物料/hpr.dll
+huawei_pc_manager_bootstrap_core.dll | http://47.117.1.8/d/华为电脑管家安装/huawei_pc_manager_bootstrap_core.dll
+huawei_pc_manager_bootstrap_core.dll | https://47.117.1.8/d/华为电脑管家安装/huawei_pc_manager_bootstrap_core.dll
+hw32.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/hw32.dll
+hw32.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/hw32.dll
+hwlx32.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/hwlx32.dll
+hwlx32.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/hwlx32.dll
+iDecoders.dll | http://218.28.112.170:5555/d/软件/大宗物料/iDecoders.dll
+iconv.dll | http://120.26.66.68:8008/d/其他/分区工具/PA_Green/iconv.dll
+iconv.dll | http://218.28.112.170:5555/d/软件/大宗物料/ClientDemoDll/iconv.dll
+iconv.dll | https://120.26.66.68:8009/d/其他/分区工具/PA_Green/iconv.dll
+idmbrbtn.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/idmbrbtn.dll
+idmbrbtn64.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/idmbrbtn64.dll
+idmcchandler7.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/idmcchandler7.dll
+idmcchandler7_64.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/idmcchandler7_64.dll
+idmfsa.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/idmfsa.dll
+idmftype.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/idmftype.dll
+idmindex.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/idmindex.dll
+idmmkb.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/idmmkb.dll
+idmmzcc7.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/idmmzcc7.dll
+idmmzcc7_64.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/idmmzcc7_64.dll
+idmvconv.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/idmvconv.dll
+idmvs.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/idmvs.dll
+ipwssl5.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/ipwssl5.dll
+jwusbchk.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/jwusbchk.dll
+jwusbchk.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/jwusbchk.dll
+jydisk.dll | http://218.28.112.170:5555/d/软件/大宗物料/jydisk.dll
+kernel.dll | http://171.95.23.159:88/d/工具/软件/USBKiller/kernel.dll
+kpci800.dll | http://218.28.112.170:5555/d/软件/大宗物料/kpci800.dll
+krmovie.dll | https://60.205.14.56/d/百度网盘/1视觉小说/fate/krmovie.dll
+libEGL.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/libEGL.dll
+libEGL.dll | http://27.30.64.27:121/d/0.常驻/0.压缩包/CloudMusic v2.9.4 绿色版/libEGL.dll
+libEGL.dll | https://alist.990668.xyz/d/代理工具/clash/Clash.for.Windows-0.20.21-win/libEGL.dll
+libEGL.dll | https://alist.990668.xyz/d/代理工具/clash/Clash.for.Windows中文版64位-0.20.14/libEGL.dll
+libEGL.dll | https://alist.990668.xyz/d/其他/[简易]原神抽卡查询/Genshin-Wish-Export/libEGL.dll
+libFLAC++_dynamic.dll | http://27.30.64.27:121/d/0.常驻/0.压缩包/CloudMusic v2.9.4 绿色版/libFLAC++_dynamic.dll
+libFLAC_dynamic.dll | http://27.30.64.27:121/d/0.常驻/0.压缩包/CloudMusic v2.9.4 绿色版/libFLAC_dynamic.dll
+libGLESv2.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/libGLESv2.dll
+libGLESv2.dll | http://27.30.64.27:121/d/0.常驻/0.压缩包/CloudMusic v2.9.4 绿色版/libGLESv2.dll
+libGLESv2.dll | https://alist.990668.xyz/d/代理工具/clash/Clash.for.Windows-0.20.21-win/libGLESv2.dll
+libGLESv2.dll | https://alist.990668.xyz/d/代理工具/clash/Clash.for.Windows中文版64位-0.20.14/libGLESv2.dll
+libGLESv2.dll | https://alist.990668.xyz/d/其他/[简易]原神抽卡查询/Genshin-Wish-Export/libGLESv2.dll
+libReadFace2.dll | http://218.28.112.170:5555/d/软件/大宗物料/libReadFace2.dll
+libWinDA.dll | http://27.30.64.27:121/d/0.常驻/0.压缩包/CloudMusic v2.9.4 绿色版/libWinDA.dll
+libcef.dll | http://27.30.64.27:121/d/0.常驻/0.压缩包/CloudMusic v2.9.4 绿色版/libcef.dll
+libcrypto-1_1-x64.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/libcrypto-1_1-x64.dll
+libcrypto-1_1-x64.dll | http://117.50.199.26:15244/d/nas/windows 工具/Snipaste 2.4 免安装/libcrypto-1_1-x64.dll
+libcrypto-1_1-x64.dll | http://120.26.66.68:8008/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/libcrypto-1_1-x64.dll
+libcrypto-1_1-x64.dll | http://218.28.112.170:5555/d/软件/大宗物料/ClientDemoDll/libcrypto-1_1-x64.dll
+libcrypto-1_1-x64.dll | http://222.140.20.107:8085/d/工具应用/网络/Sublime Text_4137/libcrypto-1_1-x64.dll
+libcrypto-1_1-x64.dll | https://103.136.146.29/d/Googledrive459/Windows软件/Snipaste-2.4-Beta-x64/libcrypto-1_1-x64.dll
+libcrypto-1_1-x64.dll | https://120.26.66.68:8009/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/libcrypto-1_1-x64.dll
+libcrypto-1_1-x64.dll | https://ipas.ic-market.top/d/nas/windows 工具/Snipaste 2.4 免安装/libcrypto-1_1-x64.dll
+libcrypto-1_1.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/libcrypto-1_1.dll
+libcrypto-1_1.dll | http://218.28.112.170:5555/d/软件/大宗物料/ClientDemoDll/libcrypto-1_1.dll
+libcrypto-1_1.dll | https://45.77.200.196/d/proxyfile/exe/libcrypto-1_1.dll
+libcrypto-3-x64.dll | https://alist.990668.xyz/d/代理工具/nekoray-3.26-2023-12-09-windows64/nekoray/libcrypto-3-x64.dll
+libcrypto.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/libcrypto.dll
+libcurl.dll | http://120.25.232.244:8880/d/小工具/批量处理/libcurl.dll
+libcurl.dll | http://218.28.112.170:5555/d/软件/大宗物料/ClientDemoDll/libcurl.dll
+libcurl.dll | http://27.30.64.27:121/d/0.常驻/0.压缩包/CloudMusic v2.9.4 绿色版/libcurl.dll
+libcurl.dll | https://124.221.124.3/d/天翼网盘/系统类工具/联想售后服务工具集/libcurl.dll
+libcurl.dll | https://124.221.124.3/d/点我进网盘/系统类工具/联想售后服务工具集/libcurl.dll
+libcurl.dll | https://8.217.236.10/d/Cloud189_Family/联想售后服务工具集/libcurl.dll
+libcurl.dll | https://8.217.236.10/d/访客文件夹_可上传/安装包/联想售后服务工具集/libcurl.dll
+libeay32.dll | http://118.25.145.11:88/d/各种工具/CW/IPMITool/libeay32.dll
+libeay32.dll | http://120.26.66.68:8008/d/111/platform-tools/libeay32.dll
+libeay32.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/libeay32.dll
+libeay32.dll | http://120.26.66.68:8008/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/libeay32.dll
+libeay32.dll | http://218.28.112.170:5555/d/软件/大宗物料/HCNetSDKCom/libeay32.dll
+libeay32.dll | http://218.28.112.170:5555/d/软件/大宗物料/libeay32.dll
+libeay32.dll | https://120.26.66.68:8009/d/111/platform-tools/libeay32.dll
+libeay32.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/libeay32.dll
+libeay32.dll | https://120.26.66.68:8009/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/libeay32.dll
+libeay32.dll | https://139.185.32.228/d/硬件/AIDA64 Extreme/libeay32.dll
+libeay32.dll | https://193.123.85.183/d/硬件/AIDA64 Extreme/libeay32.dll
+libgcc_s_dw2-1.dll | http://218.28.112.170:5555/d/软件/大宗物料/libgcc_s_dw2-1.dll
+libgcc_s_sjlj-1.dll | http://120.26.66.68:8008/d/其他/分区工具/PA_Green/libgcc_s_sjlj-1.dll
+libgcc_s_sjlj-1.dll | https://120.26.66.68:8009/d/其他/分区工具/PA_Green/libgcc_s_sjlj-1.dll
+libh264.dll | http://218.28.112.170:5555/d/软件/大宗物料/libh264.dll
+libiconv2.dll | http://218.28.112.170:5555/d/软件/大宗物料/HCNetSDKCom/libiconv2.dll
+libjcc.dll | http://218.28.112.170:5555/d/软件/大宗物料/libjcc.dll
+libmmd.dll | http://218.28.112.170:5555/d/软件/大宗物料/libmmd.dll
+libmwlmgrimpl.dll | https://24.18.156.162/d/Mathworks Matlab R2023a (当前最新版本)/libmwlmgrimpl.dll
+libmysql.dll | https://140.238.33.66/d/ios/CloudPaste/2025-04-26/libmysql.dll
+libssl-1_1-x64.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/libssl-1_1-x64.dll
+libssl-1_1-x64.dll | http://117.50.199.26:15244/d/nas/windows 工具/Snipaste 2.4 免安装/libssl-1_1-x64.dll
+libssl-1_1-x64.dll | http://120.26.66.68:8008/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/libssl-1_1-x64.dll
+libssl-1_1-x64.dll | http://218.28.112.170:5555/d/软件/大宗物料/ClientDemoDll/libssl-1_1-x64.dll
+libssl-1_1-x64.dll | http://222.140.20.107:8085/d/工具应用/网络/Sublime Text_4137/libssl-1_1-x64.dll
+libssl-1_1-x64.dll | https://103.136.146.29/d/Googledrive459/Windows软件/Snipaste-2.4-Beta-x64/libssl-1_1-x64.dll
+libssl-1_1-x64.dll | https://120.26.66.68:8009/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/libssl-1_1-x64.dll
+libssl-1_1-x64.dll | https://ipas.ic-market.top/d/nas/windows 工具/Snipaste 2.4 免安装/libssl-1_1-x64.dll
+libssl-1_1.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/libssl-1_1.dll
+libssl-1_1.dll | http://218.28.112.170:5555/d/软件/大宗物料/ClientDemoDll/libssl-1_1.dll
+libssl-1_1.dll | https://45.77.200.196/d/proxyfile/exe/libssl-1_1.dll
+libssl-3-x64.dll | https://alist.990668.xyz/d/代理工具/nekoray-3.26-2023-12-09-windows64/nekoray/libssl-3-x64.dll
+libssl.dll | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/libssl.dll
+libwim-15.dll | http://120.26.66.68:8008/d/其他/分区工具/PA_Green/libwim-15.dll
+libwim-15.dll | https://120.26.66.68:8009/d/其他/分区工具/PA_Green/libwim-15.dll
+libwinpthread-1.dll | http://120.26.66.68:8008/d/111/platform-tools/libwinpthread-1.dll
+libwinpthread-1.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/libwinpthread-1.dll
+libwinpthread-1.dll | http://218.28.112.170:5555/d/软件/大宗物料/libwinpthread-1.dll
+libwinpthread-1.dll | http://dnbllgtm.x3322.net:5244/d/小叮当/IOS/jitterbugpair-win64/libwinpthread-1.dll
+libwinpthread-1.dll | https://120.26.66.68:8009/d/111/platform-tools/libwinpthread-1.dll
+libwinpthread-1.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/libwinpthread-1.dll
+libwinpthread-1.dll | https://164.152.19.201/d/苹果禁音/WIN禁音/jitterbugpair-win64/libwinpthread-1.dll
+libx264.dll | http://218.28.112.170:5555/d/软件/大宗物料/libx264.dll
+libxml2-2.dll | http://120.26.66.68:8008/d/其他/分区工具/PA_Green/libxml2-2.dll
+libxml2-2.dll | https://120.26.66.68:8009/d/其他/分区工具/PA_Green/libxml2-2.dll
+libxml2.dll | http://218.28.112.170:5555/d/软件/大宗物料/ClientDemoDll/libxml2.dll
+mac.dll | http://218.28.112.170:5555/d/软件/大宗物料/mac.dll
+main.dll | http://47.83.157.204:36081/d/数据恢复/价值500元的的数据恢复软件/补丁/main.dll
+main.dll | https://47.83.157.204/d/数据恢复/价值500元的的数据恢复软件/补丁/main.dll
+mfc110.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/mfc110.dll
+mfc110.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/mfc110.dll
+mfc110chs.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/mfc110chs.dll
+mfc110chs.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/mfc110chs.dll
+mfc110cht.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/mfc110cht.dll
+mfc110cht.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/mfc110cht.dll
+mfc110enu.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/mfc110enu.dll
+mfc110enu.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/mfc110enu.dll
+mfc110u.dll | https://alist.990668.xyz/d/windows优化工具/4.windows更新清理工具/mfc110u.dll
+mfc80.dll | http://120.26.66.68:8008/d/其他/分区工具/PA_Green/mfc80.dll
+mfc80.dll | https://120.26.66.68:8009/d/其他/分区工具/PA_Green/mfc80.dll
+mfc80u.dll | http://120.26.66.68:8008/d/其他/分区工具/PA_Green/mfc80u.dll
+mfc80u.dll | https://120.26.66.68:8009/d/其他/分区工具/PA_Green/mfc80u.dll
+mfcm80.dll | http://120.26.66.68:8008/d/其他/分区工具/PA_Green/mfcm80.dll
+mfcm80.dll | https://120.26.66.68:8009/d/其他/分区工具/PA_Green/mfcm80.dll
+mfcm80u.dll | http://120.26.66.68:8008/d/其他/分区工具/PA_Green/mfcm80u.dll
+mfcm80u.dll | https://120.26.66.68:8009/d/其他/分区工具/PA_Green/mfcm80u.dll
+mscoree.dll | http://117.50.199.26:15244/d/nas/windows 工具/BCompare/mscoree.dll
+mscoree.dll | https://ipas.ic-market.top/d/nas/windows 工具/BCompare/mscoree.dll
+msshell.dll | http://171.95.23.159:88/d/工具/软件/mpkc/msshell.dll
+msvcm80.dll | http://120.26.66.68:8008/d/其他/分区工具/PA_Green/msvcm80.dll
+msvcm80.dll | http://171.95.23.159:88/d/工具/软件/USBKiller/msvcm80.dll
+msvcm80.dll | https://120.26.66.68:8009/d/其他/分区工具/PA_Green/msvcm80.dll
+msvcp100.dll | http://171.95.23.159:88/d/工具/软件/USBKiller/msvcp100.dll
+msvcp100.dll | http://218.28.112.170:5555/d/软件/大宗物料/msvcp100.dll
+msvcp110.dll | https://alist.990668.xyz/d/windows优化工具/4.windows更新清理工具/msvcp110.dll
+msvcp140.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/msvcp140.dll
+msvcp140.dll | http://117.50.199.26:15244/d/nas/windows 工具/Snipaste 2.4 免安装/msvcp140.dll
+msvcp140.dll | http://120.26.66.68:8008/d/111/platform-tools/msvcp140.dll
+msvcp140.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/msvcp140.dll
+msvcp140.dll | http://120.26.66.68:8008/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/msvcp140.dll
+msvcp140.dll | https://103.136.146.29/d/Googledrive459/Windows软件/Snipaste-2.4-Beta-x64/msvcp140.dll
+msvcp140.dll | https://120.26.66.68:8009/d/111/platform-tools/msvcp140.dll
+msvcp140.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/msvcp140.dll
+msvcp140.dll | https://120.26.66.68:8009/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/msvcp140.dll
+msvcp140.dll | https://ipas.ic-market.top/d/nas/windows 工具/Snipaste 2.4 免安装/msvcp140.dll
+msvcp140_1.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/msvcp140_1.dll
+msvcp140_1.dll | http://120.26.66.68:8008/d/111/platform-tools/msvcp140_1.dll
+msvcp140_1.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/msvcp140_1.dll
+msvcp140_1.dll | https://120.26.66.68:8009/d/111/platform-tools/msvcp140_1.dll
+msvcp140_1.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/msvcp140_1.dll
+msvcp140_2.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/msvcp140_2.dll
+msvcp140_atomic_wait.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/msvcp140_atomic_wait.dll
+msvcp140_codecvt_ids.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/msvcp140_codecvt_ids.dll
+msvcp60.dll | http://171.95.23.159:88/d/工具/软件/ACDSee/msvcp60.dll
+msvcp71.dll | http://218.28.112.170:5555/d/软件/大宗物料/msvcp71.dll
+msvcp80.dll | http://120.26.66.68:8008/d/其他/分区工具/PA_Green/msvcp80.dll
+msvcp80.dll | http://171.95.23.159:88/d/工具/软件/USBKiller/msvcp80.dll
+msvcp80.dll | https://120.26.66.68:8009/d/其他/分区工具/PA_Green/msvcp80.dll
+msvcr100.dll | http://171.95.23.159:88/d/工具/软件/USBKiller/msvcr100.dll
+msvcr100.dll | http://218.28.112.170:5555/d/软件/大宗物料/msvcr100.dll
+msvcr100.dll | http://222.140.20.107:8085/d/工具应用/网络/Sublime Text_4137/msvcr100.dll
+msvcr110.dll | https://alist.990668.xyz/d/windows优化工具/4.windows更新清理工具/msvcr110.dll
+msvcr120.dll | http://117.50.199.26:15244/d/nas/windows 工具/Snipaste 2.4 免安装/msvcr120.dll
+msvcr120.dll | http://120.26.66.68:8008/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/msvcr120.dll
+msvcr120.dll | http://218.28.112.170:5555/d/软件/大宗物料/ClientDemoDll/msvcr120.dll
+msvcr120.dll | https://103.136.146.29/d/Googledrive459/Windows软件/Snipaste-2.4-Beta-x64/msvcr120.dll
+msvcr120.dll | https://120.26.66.68:8009/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/msvcr120.dll
+msvcr120.dll | https://ipas.ic-market.top/d/nas/windows 工具/Snipaste 2.4 免安装/msvcr120.dll
+msvcr71.dll | http://218.28.112.170:5555/d/软件/大宗物料/msvcr71.dll
+msvcr80.dll | http://120.26.66.68:8008/d/其他/分区工具/PA_Green/msvcr80.dll
+msvcr80.dll | http://171.95.23.159:88/d/工具/软件/USBKiller/msvcr80.dll
+msvcr80.dll | https://120.26.66.68:8009/d/其他/分区工具/PA_Green/msvcr80.dll
+msvcr90.dll | http://218.28.112.170:5555/d/软件/大宗物料/HCNetSDKCom/msvcr90.dll
+msvcr90.dll | http://218.28.112.170:5555/d/软件/大宗物料/msvcr90.dll
+msys-usb-1.0.dll | https://alist.990668.xyz/d/系统安装/安卓/scrcpy-win64-v1.24/msys-usb-1.0.dll
+mvDSStream.dll | http://218.28.112.170:5555/d/软件/大宗物料/mvDSStream.dll
+mwhrf_bj.dll | http://218.28.112.170:5555/d/软件/大宗物料/mwhrf_bj.dll
+mwrf32.dll | http://218.28.112.170:5555/d/软件/大宗物料/mwrf32.dll
+mxFpDll.dll | http://218.28.112.170:5555/d/软件/大宗物料/mxFpDll.dll
+mxUsbDriver.dll | http://218.28.112.170:5555/d/软件/大宗物料/mxUsbDriver.dll
+mxUtil.dll | http://218.28.112.170:5555/d/软件/大宗物料/mxUtil.dll
+nertc_sdk.dll | http://27.30.64.27:121/d/0.常驻/0.压缩包/CloudMusic v2.9.4 绿色版/nertc_sdk.dll
+nim.dll | http://27.30.64.27:121/d/0.常驻/0.压缩包/CloudMusic v2.9.4 绿色版/nim.dll
+nim_chatroom.dll | http://27.30.64.27:121/d/0.常驻/0.压缩包/CloudMusic v2.9.4 绿色版/nim_chatroom.dll
+nim_core.dll | http://27.30.64.27:121/d/0.常驻/0.压缩包/CloudMusic v2.9.4 绿色版/nim_core.dll
+nim_tools_http.dll | http://27.30.64.27:121/d/0.常驻/0.压缩包/CloudMusic v2.9.4 绿色版/nim_tools_http.dll
+nslicense.dll | http://117.50.199.26:15244/d/nas/windows 工具/Xshell+Xftp/nslicense.dll
+nslicense.dll | http://42.193.16.82/d/常用软件/xshell5系列/nslicense.dll
+nslicense.dll | https://ipas.ic-market.top/d/nas/windows 工具/Xshell+Xftp/nslicense.dll
+nsprofile2.dll | http://117.50.199.26:15244/d/nas/windows 工具/Xshell+Xftp/nsprofile2.dll
+nsprofile2.dll | https://ipas.ic-market.top/d/nas/windows 工具/Xshell+Xftp/nsprofile2.dll
+nsresource.dll | http://117.50.199.26:15244/d/nas/windows 工具/Xshell+Xftp/nsresource.dll
+nsresource.dll | https://ipas.ic-market.top/d/nas/windows 工具/Xshell+Xftp/nsresource.dll
+nssftp.dll | http://117.50.199.26:15244/d/nas/windows 工具/Xshell+Xftp/nssftp.dll
+nssftp.dll | https://ipas.ic-market.top/d/nas/windows 工具/Xshell+Xftp/nssftp.dll
+nssock2.dll | http://117.50.199.26:15244/d/nas/windows 工具/Xshell+Xftp/nssock2.dll
+nssock2.dll | https://ipas.ic-market.top/d/nas/windows 工具/Xshell+Xftp/nssock2.dll
+nsssh3.dll | http://117.50.199.26:15244/d/nas/windows 工具/Xshell+Xftp/nsssh3.dll
+nsssh3.dll | https://ipas.ic-market.top/d/nas/windows 工具/Xshell+Xftp/nsssh3.dll
+nsutil2.dll | http://117.50.199.26:15244/d/nas/windows 工具/Xshell+Xftp/nsutil2.dll
+nsutil2.dll | https://ipas.ic-market.top/d/nas/windows 工具/Xshell+Xftp/nsutil2.dll
+ntwdblib.DLL | http://218.28.112.170:5555/d/软件/大宗物料/ntwdblib.DLL
+oci.dll | http://218.28.112.170:5555/d/软件/大宗物料/oci.dll
+opus.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/opus.dll
+oraociei10.dll | http://218.28.112.170:5555/d/软件/大宗物料/oraociei10.dll
+padchs.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/padchs.dll
+padchs.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/padchs.dll
+pbPaint.dll | http://218.28.112.170:5555/d/软件/大宗物料/pbPaint.dll
+pbdir90.dll | http://218.28.112.170:5555/d/软件/大宗物料/pbdir90.dll
+pbdvt.dll | http://218.28.112.170:5555/d/软件/大宗物料/pbdvt.dll
+pbdwe90.dll | http://218.28.112.170:5555/d/软件/大宗物料/pbdwe90.dll
+pbdwr90.dll | http://218.28.112.170:5555/d/软件/大宗物料/pbdwr90.dll
+pbejbclient90.dll | http://218.28.112.170:5555/d/软件/大宗物料/pbejbclient90.dll
+pbfunc.dll | http://218.28.112.170:5555/d/软件/大宗物料/pbfunc.dll
+pbin990.dll | http://218.28.112.170:5555/d/软件/大宗物料/pbin990.dll
+pbjag90.dll | http://218.28.112.170:5555/d/软件/大宗物料/pbjag90.dll
+pbjdb90.dll | http://218.28.112.170:5555/d/软件/大宗物料/pbjdb90.dll
+pbjvm90.dll | http://218.28.112.170:5555/d/软件/大宗物料/pbjvm90.dll
+pbmss90.dll | http://218.28.112.170:5555/d/软件/大宗物料/pbmss90.dll
+pbo7390.dll | http://218.28.112.170:5555/d/软件/大宗物料/pbo7390.dll
+pbo8490.dll | http://218.28.112.170:5555/d/软件/大宗物料/pbo8490.dll
+pbo9090.dll | http://218.28.112.170:5555/d/软件/大宗物料/pbo9090.dll
+pbodb90.dll | http://218.28.112.170:5555/d/软件/大宗物料/pbodb90.dll
+pbole90.dll | http://218.28.112.170:5555/d/软件/大宗物料/pbole90.dll
+pbrtc90.dll | http://218.28.112.170:5555/d/软件/大宗物料/pbrtc90.dll
+pbsoapclient90.dll | http://218.28.112.170:5555/d/软件/大宗物料/pbsoapclient90.dll
+pbsyc90.dll | http://218.28.112.170:5555/d/软件/大宗物料/pbsyc90.dll
+pbsyj90.dll | http://218.28.112.170:5555/d/软件/大宗物料/pbsyj90.dll
+pbtra90.dll | http://218.28.112.170:5555/d/软件/大宗物料/pbtra90.dll
+pbvm90.dll | http://218.28.112.170:5555/d/软件/大宗物料/pbvm90.dll
+pci8402.dll | http://218.28.112.170:5555/d/软件/大宗物料/pci8402.dll
+pci8405.dll | http://218.28.112.170:5555/d/软件/大宗物料/pci8405.dll
+pcmasterdata.dll | http://120.26.66.68:8008/d/其他/硬件检测清理/软媒/pcmasterdata.dll
+pcmasterdata.dll | https://120.26.66.68:8009/d/其他/硬件检测清理/软媒/pcmasterdata.dll
+pcmasterdata.dll | https://alist.990668.xyz/d/windows优化工具/6.魔方清理/pcmasterdata.dll
+pidgenx32.dll | http://118.25.145.11:88/d/福利/SimplePidX_1.4.1/files/pidgenx32.dll
+pidgenx64.dll | http://118.25.145.11:88/d/福利/SimplePidX_1.4.1/files/pidgenx64.dll
+pos_ad_dll.dll | http://120.26.66.68:8008/d/乐檬老机器工具/英泰测试工具20181207/DLL/pos_ad_dll.dll
+pos_ad_dll.dll | https://120.26.66.68:8009/d/乐檬老机器工具/英泰测试工具20181207/DLL/pos_ad_dll.dll
+pthreadGC2.dll | http://120.26.66.68:8008/d/其他/分区工具/PA_Green/pthreadGC2.dll
+pthreadGC2.dll | https://120.26.66.68:8009/d/其他/分区工具/PA_Green/pthreadGC2.dll
+pthreadVC2.dll | http://171.95.23.159:88/d/工具/软件/USBKiller/pthreadVC2.dll
+python33.dll | http://222.140.20.107:8085/d/工具应用/网络/Sublime Text_4137/python33.dll
+python38.dll | http://222.140.20.107:8085/d/工具应用/网络/Sublime Text_4137/python38.dll
+python38.dll | https://45.77.200.196/d/proxyfile/exe/python38.dll
+qgenericbearer.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/bearer/qgenericbearer.dll
+qgif.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/imageformats/qgif.dll
+qicns.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/imageformats/qicns.dll
+qico.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/imageformats/qico.dll
+qjpeg.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/imageformats/qjpeg.dll
+qmlplugin.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtQml/qmlplugin.dll
+qsgd3d12backend.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/scenegraph/qsgd3d12backend.dll
+qsvg.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/imageformats/qsvg.dll
+qsvgicon.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/iconengines/qsvgicon.dll
+qtga.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/imageformats/qtga.dll
+qtgraphicaleffectsplugin.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtGraphicalEffects/qtgraphicaleffectsplugin.dll
+qtiff.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/imageformats/qtiff.dll
+qtquick2plugin.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/QtQuick.2/qtquick2plugin.dll
+quazip.dll | http://117.50.199.26:15244/d/nas/windows 工具/Snipaste 2.4 免安装/quazip.dll
+quazip.dll | http://120.26.66.68:8008/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/quazip.dll
+quazip.dll | https://103.136.146.29/d/Googledrive459/Windows软件/Snipaste-2.4-Beta-x64/quazip.dll
+quazip.dll | https://120.26.66.68:8009/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/quazip.dll
+quazip.dll | https://ipas.ic-market.top/d/nas/windows 工具/Snipaste 2.4 免安装/quazip.dll
+quazip5.dll | http://120.26.66.68:8008/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/quazip5.dll
+quazip5.dll | https://120.26.66.68:8009/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/quazip5.dll
+qwbmp.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/imageformats/qwbmp.dll
+qwebp.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/imageformats/qwebp.dll
+qwindows.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/platforms/qwindows.dll
+qwindowsvistastyle.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/styles/qwindowsvistastyle.dll
+render.dll | http://218.28.112.170:5555/d/软件/大宗物料/render.dll
+rgfpctl.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/rgfpctl.dll
+rgfpctlextend.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/rgfpctlextend.dll
+sdcore.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/sdcore.dll
+sdtapi.dll | http://218.28.112.170:5555/d/软件/大宗物料/sdtapi.dll
+segment.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/segment.dll
+segment.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/segment.dll
+seinweb.dll | http://218.28.112.170:5555/d/软件/大宗物料/seinweb.dll
+setupeng.dll | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/setupeng.dll
+setupeng.dll | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/setupeng.dll
+slideopen.dll | https://60.205.14.56/d/百度网盘/1视觉小说/fate/slideopen.dll
+sqlite3.dll | http://120.26.66.68:8008/d/桑达机器工具/OS2校准工具V2.018/sqlite3.dll
+sqlite3.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/sqlite3.dll
+sqlite3.dll | https://120.26.66.68:8009/d/桑达机器工具/OS2校准工具V2.018/sqlite3.dll
+ssleay32.dll | http://120.26.66.68:8008/d/111/platform-tools/ssleay32.dll
+ssleay32.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/ssleay32.dll
+ssleay32.dll | http://120.26.66.68:8008/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/ssleay32.dll
+ssleay32.dll | http://218.28.112.170:5555/d/软件/大宗物料/HCNetSDKCom/ssleay32.dll
+ssleay32.dll | http://218.28.112.170:5555/d/软件/大宗物料/ssleay32.dll
+ssleay32.dll | https://120.26.66.68:8009/d/111/platform-tools/ssleay32.dll
+ssleay32.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/ssleay32.dll
+ssleay32.dll | https://120.26.66.68:8009/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/ssleay32.dll
+ssleay32.dll | https://139.185.32.228/d/硬件/AIDA64 Extreme/ssleay32.dll
+ssleay32.dll | https://193.123.85.183/d/硬件/AIDA64 Extreme/ssleay32.dll
+steam_api.dll | https://113.207.49.5/d/游戏/STEINS;GATE/steam_api.dll
+storarc.dll | https://139.185.32.228/d/硬件/AIDA64 Extreme/storarc.dll
+storarc.dll | https://193.123.85.183/d/硬件/AIDA64 Extreme/storarc.dll
+storelib.dll | https://139.185.32.228/d/硬件/AIDA64 Extreme/storelib.dll
+storelib.dll | https://193.123.85.183/d/硬件/AIDA64 Extreme/storelib.dll
+storelibir-2.dll | https://139.185.32.228/d/硬件/AIDA64 Extreme/storelibir-2.dll
+storelibir-2.dll | https://193.123.85.183/d/硬件/AIDA64 Extreme/storelibir-2.dll
+storelibir.dll | https://139.185.32.228/d/硬件/AIDA64 Extreme/storelibir.dll
+storelibir.dll | https://193.123.85.183/d/硬件/AIDA64 Extreme/storelibir.dll
+svighost.dll | http://171.95.23.159:88/d/工具/软件/USBKiller/svighost.dll
+swresample-0.dll | http://120.26.66.68:8008/d/其他/分区工具/diskgenius.PartitionGuru/swresample-0.dll
+swresample-0.dll | http://120.26.66.68:8008/d/其他/数据恢复/diskgenius.PartitionGuru/swresample-0.dll
+swresample-0.dll | https://120.26.66.68:8009/d/其他/分区工具/diskgenius.PartitionGuru/swresample-0.dll
+swresample-0.dll | https://120.26.66.68:8009/d/其他/数据恢复/diskgenius.PartitionGuru/swresample-0.dll
+swresample-3.dll | http://218.28.112.170:5555/d/软件/大宗物料/swresample-3.dll
+swresample-4.dll | https://alist.990668.xyz/d/系统安装/安卓/scrcpy-win64-v1.24/swresample-4.dll
+swscale-2.dll | http://120.26.66.68:8008/d/其他/分区工具/diskgenius.PartitionGuru/swscale-2.dll
+swscale-2.dll | http://120.26.66.68:8008/d/其他/数据恢复/diskgenius.PartitionGuru/swscale-2.dll
+swscale-2.dll | https://120.26.66.68:8009/d/其他/分区工具/diskgenius.PartitionGuru/swscale-2.dll
+swscale-2.dll | https://120.26.66.68:8009/d/其他/数据恢复/diskgenius.PartitionGuru/swscale-2.dll
+swscale-5.dll | http://218.28.112.170:5555/d/软件/大宗物料/swscale-5.dll
+swscale-6.dll | https://alist.990668.xyz/d/系统安装/安卓/scrcpy-win64-v1.24/swscale-6.dll
+translate.dll | http://120.26.66.68:8008/d/其他/分区工具/PA_Green/translate.dll
+translate.dll | https://120.26.66.68:8009/d/其他/分区工具/PA_Green/translate.dll
+uchenu.api.dll | http://pan.uchenu.com/d/工作文档/bin/uchenu.api.dll
+ucrtbase.dll | http://120.26.66.68:8008/d/111/platform-tools/ucrtbase.dll
+ucrtbase.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/ucrtbase.dll
+ucrtbase.dll | https://120.26.66.68:8009/d/111/platform-tools/ucrtbase.dll
+ucrtbase.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/ucrtbase.dll
+uiaccess.dll | https://61.184.67.134:2083/d/ClassIsland.10/Plugins/grantUiAccess/uiaccess.dll
+uiaccess.dll | https://61.184.67.134:2083/d/ClassIsland.bak/Plugins/grantUiAccess/uiaccess.dll
+uiaccess.dll | https://61.184.67.134:2083/d/ClassIsland/Plugins/grantUiAccess/uiaccess.dll
+util.dll | https://60.205.14.56/d/百度网盘/1视觉小说/fate/util.dll
+vccorlib140.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/vccorlib140.dll
+vcruntime140.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/vcruntime140.dll
+vcruntime140.dll | http://117.50.199.26:15244/d/nas/windows 工具/Snipaste 2.4 免安装/vcruntime140.dll
+vcruntime140.dll | http://120.26.66.68:8008/d/111/platform-tools/vcruntime140.dll
+vcruntime140.dll | http://120.26.66.68:8008/d/其他/adb安装小飞/platform-tools/vcruntime140.dll
+vcruntime140.dll | http://120.26.66.68:8008/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/vcruntime140.dll
+vcruntime140.dll | http://222.140.20.107:8085/d/工具应用/网络/Sublime Text_4137/vcruntime140.dll
+vcruntime140.dll | https://103.136.146.29/d/Googledrive459/Windows软件/Snipaste-2.4-Beta-x64/vcruntime140.dll
+vcruntime140.dll | https://120.26.66.68:8009/d/111/platform-tools/vcruntime140.dll
+vcruntime140.dll | https://120.26.66.68:8009/d/其他/adb安装小飞/platform-tools/vcruntime140.dll
+vcruntime140.dll | https://120.26.66.68:8009/d/其他/图形图像解压/Snipaste-2.2.1-Beta2-x64/vcruntime140.dll
+vcruntime140.dll | https://ipas.ic-market.top/d/nas/windows 工具/Snipaste 2.4 免安装/vcruntime140.dll
+vcruntime140_1.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/vcruntime140_1.dll
+vcruntime140_threads.dll | http://101.94.99.246:85/d/share/MoonlightPortable-x64-6.0.1/vcruntime140_threads.dll
+vk_swiftshader.dll | https://alist.990668.xyz/d/代理工具/clash/Clash.for.Windows-0.20.21-win/vk_swiftshader.dll
+vk_swiftshader.dll | https://alist.990668.xyz/d/代理工具/clash/Clash.for.Windows中文版64位-0.20.14/vk_swiftshader.dll
+vk_swiftshader.dll | https://alist.990668.xyz/d/其他/[简易]原神抽卡查询/Genshin-Wish-Export/vk_swiftshader.dll
+vulkan-1.dll | https://alist.990668.xyz/d/代理工具/clash/Clash.for.Windows-0.20.21-win/vulkan-1.dll
+vulkan-1.dll | https://alist.990668.xyz/d/代理工具/clash/Clash.for.Windows中文版64位-0.20.14/vulkan-1.dll
+vulkan-1.dll | https://alist.990668.xyz/d/其他/[简易]原神抽卡查询/Genshin-Wish-Export/vulkan-1.dll
+webres.dll | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/webres.dll
+wfZip.dll | http://218.28.112.170:5555/d/软件/大宗物料/wfZip.dll
+wimgapi.dll | http://120.26.66.68:8008/d/其他/分区工具/PA_Green/wimgapi.dll
+wimgapi.dll | https://120.26.66.68:8009/d/其他/分区工具/PA_Green/wimgapi.dll
+winmm.dll | https://149.88.72.234/d/文件下载/工具/2Md文档/winmm.dll
+wintecscale.dll | http://120.26.66.68:8008/d/乐檬老机器工具/英泰测试工具20181207/wintecscale.dll
+wintecscale.dll | https://120.26.66.68:8009/d/乐檬老机器工具/英泰测试工具20181207/wintecscale.dll
+wke.dll | https://124.221.124.3/d/天翼网盘/系统类工具/联想售后服务工具集/wke.dll
+wke.dll | https://124.221.124.3/d/点我进网盘/系统类工具/联想售后服务工具集/wke.dll
+wke.dll | https://8.217.236.10/d/Cloud189_Family/联想售后服务工具集/wke.dll
+wke.dll | https://8.217.236.10/d/访客文件夹_可上传/安装包/联想售后服务工具集/wke.dll
+ws2_32.dll | http://218.28.112.170:5555/d/软件/大宗物料/ws2_32.dll
+wtsapi32.dll | http://81.71.152.215/d/阿里云盘/来自分享/小米电脑管家/wtsapi32.dll
+wuvorbis.dll | https://60.205.14.56/d/百度网盘/1视觉小说/fate/wuvorbis.dll
+xmindshell.dll | http://120.26.66.68:8008/d/其他/办公软件/XMind/xmindshell.dll
+xmindshell.dll | https://120.26.66.68:8009/d/其他/办公软件/XMind/xmindshell.dll
+zlib.dll | http://218.28.112.170:5555/d/软件/大宗物料/zlib.dll
+zlib1.dll | http://218.28.112.170:5555/d/软件/大宗物料/ClientDemoDll/zlib1.dll
+zlib1.dll | http://218.28.112.170:5555/d/软件/大宗物料/zlib1.dll
+zxing.dll | http://120.26.66.68:8008/d/Tools/电子秤设置工具V1.0.3/设置工具/zxing.dll
+zxing.dll | http://120.26.66.68:8008/d/乐檬老机器工具/电子秤设置工具/zxing.dll
+zxing.dll | https://120.26.66.68:8009/d/Tools/电子秤设置工具V1.0.3/设置工具/zxing.dll
+zxing.dll | https://120.26.66.68:8009/d/乐檬老机器工具/电子秤设置工具/zxing.dll
+小米电脑管家补丁wtsapi32.dll | http://81.71.152.215/d/百度网盘/我的资源/小米电脑管家补丁wtsapi32.dll
+说唱和声.dll | http://pan.bkstudio.cn/d/插件/说唱和声.dll
+说唱和声.dll | https://120.26.117.65/d/插件/说唱和声.dll
+说唱和声.dll | https://pan.bkstudio.cn/d/插件/说唱和声.dll

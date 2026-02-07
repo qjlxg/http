@@ -1,0 +1,7 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Impact effort matrix.whiteboard | http://pub.sa2.pw/d/bacloud/1/模板/Impact effort matrix.whiteboard
+Impact effort matrix.whiteboard | https://pub.sa2.pw/d/bacloud/1/模板/Impact effort matrix.whiteboard
+SWOT analysis.whiteboard | http://pub.sa2.pw/d/bacloud/1/模板/SWOT analysis.whiteboard
+SWOT analysis.whiteboard | https://pub.sa2.pw/d/bacloud/1/模板/SWOT analysis.whiteboard

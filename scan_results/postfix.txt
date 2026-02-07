@@ -1,0 +1,14 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+mailq.postfix | https://154.12.23.79/d/mnt/bin/mailq.postfix
+mailq.postfix | https://154.12.23.79/d/mnt/usr/bin/mailq.postfix
+newaliases.postfix | https://154.12.23.79/d/mnt/bin/newaliases.postfix
+newaliases.postfix | https://154.12.23.79/d/mnt/usr/bin/newaliases.postfix
+rmail.postfix | https://154.12.23.79/d/mnt/bin/rmail.postfix
+rmail.postfix | https://154.12.23.79/d/mnt/usr/bin/rmail.postfix
+sendmail.postfix | https://154.12.23.79/d/mnt/lib/sendmail.postfix
+sendmail.postfix | https://154.12.23.79/d/mnt/sbin/sendmail.postfix
+sendmail.postfix | https://154.12.23.79/d/mnt/usr/lib/sendmail.postfix
+sendmail.postfix | https://154.12.23.79/d/mnt/usr/sbin/sendmail.postfix
+smtp.postfix | https://154.12.23.79/d/mnt/etc/pam.d/smtp.postfix

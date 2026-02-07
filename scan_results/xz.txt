@@ -1,0 +1,33 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+2403update声音最新包.tar.xz | http://81.71.152.215/d/百度网盘/CM2025-麒麟系统/长城TN140C2-2403系统+补丁/2403update声音最新包.tar.xz
+Python-3.11.14.tar.xz | http://117.50.199.26:15244/d/nas/windows 工具/Python-3.11.14.tar.xz
+Python-3.11.14.tar.xz | https://ipas.ic-market.top/d/nas/windows 工具/Python-3.11.14.tar.xz
+aliproxy.tar.xz | https://1.13.159.189/d/雨呢网盘 视频 动漫 写真/Box/lib/aliproxy.tar.xz
+allinone.tar.xz | https://1.13.159.189/d/雨呢网盘 视频 动漫 写真/Box/lib/allinone.tar.xz
+clash2singbox.tar.xz | https://1.13.159.189/d/雨呢网盘 视频 动漫 写真/Box/lib/clash2singbox.tar.xz
+cn_win2016_uefi.xz | http://222.216.50.54:8181/d/DD/Vultr/cn_win2016_uefi.xz
+ffmpeg-3.1-32bit-static.tar.xz | http://pub.sa2.pw/d/GoogleDrive/系统环境/ffmpeg/ffmpeg-3.1-32bit-static.tar.xz
+ffmpeg-3.1-32bit-static.tar.xz | https://pub.sa2.pw/d/GoogleDrive/系统环境/ffmpeg/ffmpeg-3.1-32bit-static.tar.xz
+ffmpeg-3.1-64bit-static.tar.xz | http://pub.sa2.pw/d/GoogleDrive/系统环境/ffmpeg/ffmpeg-3.1-64bit-static.tar.xz
+ffmpeg-3.1-64bit-static.tar.xz | https://pub.sa2.pw/d/GoogleDrive/系统环境/ffmpeg/ffmpeg-3.1-64bit-static.tar.xz
+ffmpeg.dyn.tar.xz | https://1.13.159.189/d/雨呢网盘 视频 动漫 写真/Box/lib/ffmpeg.dyn.tar.xz
+ffmpeg_6.1.1.orig.tar.xz | http://222.140.20.107:8085/d/工具应用/媒体/影音编辑/ffmpeg_6.1.1.orig.tar.xz
+hdsentinel_gui64bit.tar.xz | http://222.140.20.107:8085/d/工具应用/磁盘/硬盘哨兵 LINUX （免费） 0.19/hdsentinel_gui64bit.tar.xz
+libxlsdk.tar.xz | https://1.13.159.189/d/雨呢网盘 视频 动漫 写真/Box/lib/libxlsdk.tar.xz
+netdata-ebpf-co-re-glibc-v0.9.3.3.tar.xz | http://172.93.221.47:30001/d/软件/Netdata/netdata-v1.36.1/netdata-ebpf-co-re-glibc-v0.9.3.3.tar.xz
+netdata-ebpf-co-re-glibc-v1.1.2.tar.xz | http://172.93.221.47:30001/d/软件/Netdata/netdata-v1.39.1/netdata-ebpf-co-re-glibc-v1.1.2.tar.xz
+netdata-kernel-collector-glibc-v0.9.3.tar.xz | http://172.93.221.47:30001/d/软件/Netdata/netdata-v1.36.1/netdata-kernel-collector-glibc-v0.9.3.tar.xz
+netdata-kernel-collector-glibc-v1.1.2.tar.xz | http://172.93.221.47:30001/d/软件/Netdata/netdata-v1.39.1/netdata-kernel-collector-glibc-v1.1.2.tar.xz
+netdata-kernel-collector-musl-v1.1.2.tar.xz | http://172.93.221.47:30001/d/软件/Netdata/netdata-v1.39.1/netdata-kernel-collector-musl-v1.1.2.tar.xz
+node-v16.14.0-linux-x64.tar.xz | http://172.93.221.47:30001/d/软件/Nodejs/node-v16.14.0-linux-x64.tar.xz
+node-v18.15.0-linux-x64.tar.xz | http://172.93.221.47:30001/d/软件/Nodejs/node-v18.15.0-linux-x64.tar.xz
+sing-box.tar.xz | https://1.13.159.189/d/雨呢网盘 视频 动漫 写真/Box/lib/sing-box.tar.xz
+tsetup.6.0.2.tar.xz | https://47.76.189.197/d/科学软体/稳定版/Telegram_desktop/tsetup.6.0.2.tar.xz
+ubuntu.tar.xz | https://154.40.35.180/d/ubuntu.tar.xz
+zh-cn_win10_ltsc_uefi.xz | http://222.216.50.54:8181/d/DD/Vultr/zh-cn_win10_ltsc_uefi.xz
+zh-cn_win2022_uefi.xz | http://222.216.50.54:8181/d/DD/Vultr/zh-cn_win2022_uefi.xz
+zh-cn_windows10_ltsc.xz | https://47.98.114.46/d/iso/zh-cn_windows10_ltsc.xz
+zh-cn_windows11_22h2.xz | https://47.98.114.46/d/iso/zh-cn_windows11_22h2.xz
+不认证书安装麒麟9000c+UOS1070内核补丁包.tar.xz | http://110.241.245.106:666/d/软件/交警专版/GA软件 华为/不认证书安装麒麟9000c+UOS1070内核补丁包.tar.xz

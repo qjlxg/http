@@ -1,0 +1,9 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+mime.types | http://117.50.199.26:15244/d/nas/windows 工具/BCompare/mime.types
+mime.types | http://42.193.16.82/d/nginx/apt-arm/conf/mime.types
+mime.types | http://42.193.16.82/d/nginx/x86/conf/mime.types
+mime.types | https://52.140.241.52/d/sftp/jp/etc/mime.types
+mime.types | https://8.140.252.113/d/4k/etc/mime.types
+mime.types | https://ipas.ic-market.top/d/nas/windows 工具/BCompare/mime.types

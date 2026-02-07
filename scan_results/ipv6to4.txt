@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+ip-down.ipv6to4 | https://154.12.23.79/d/mnt/etc/ppp/ip-down.ipv6to4
+ip-up.ipv6to4 | https://154.12.23.79/d/mnt/etc/ppp/ip-up.ipv6to4

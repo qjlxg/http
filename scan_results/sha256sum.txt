@@ -1,0 +1,15 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Country-asn.mmdb.sha256sum | https://47.76.189.197/d/科学软体/稳定版/Geoip/Country-asn.mmdb.sha256sum
+Country-only-cn-private.mmdb.sha256sum | https://47.76.189.197/d/科学软体/稳定版/Geoip/Country-only-cn-private.mmdb.sha256sum
+Country-without-asn.mmdb.sha256sum | https://47.76.189.197/d/科学软体/稳定版/Geoip/Country-without-asn.mmdb.sha256sum
+Country.mmdb.sha256sum | https://47.76.189.197/d/科学软体/稳定版/Geoip/Country.mmdb.sha256sum
+cn.dat.sha256sum | https://47.76.189.197/d/科学软体/稳定版/Geoip/cn.dat.sha256sum
+geoip-asn.dat.sha256sum | https://47.76.189.197/d/科学软体/稳定版/Geoip/geoip-asn.dat.sha256sum
+geoip-only-cn-private.dat.sha256sum | https://47.76.189.197/d/科学软体/稳定版/Geoip/geoip-only-cn-private.dat.sha256sum
+geoip.dat.sha256sum | https://47.76.189.197/d/科学软体/稳定版/Geoip/geoip.dat.sha256sum
+geoip.dat.sha256sum | https://47.76.189.197/d/科学软体/稳定版/v2ray-rules-dat/geoip.dat.sha256sum
+geosite.dat.sha256sum | https://47.76.189.197/d/科学软体/稳定版/v2ray-rules-dat/geosite.dat.sha256sum
+private.dat.sha256sum | https://47.76.189.197/d/科学软体/稳定版/Geoip/private.dat.sha256sum
+rules.zip.sha256sum | https://47.76.189.197/d/科学软体/稳定版/v2ray-rules-dat/rules.zip.sha256sum

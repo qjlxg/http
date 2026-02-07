@@ -1,0 +1,33 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Makefile.inc | https://154.12.23.79/d/mnt/lib64/icu/Makefile.inc
+compose.ARMSCII-8.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.ARMSCII-8.inc
+compose.CP1251.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.CP1251.inc
+compose.CP1255.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.CP1255.inc
+compose.CP1256.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.CP1256.inc
+compose.GEORGIAN-ACADEMY.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.GEORGIAN-ACADEMY.inc
+compose.GEORGIAN-PS.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.GEORGIAN-PS.inc
+compose.IBM1133.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.IBM1133.inc
+compose.ISIRI-3342.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.ISIRI-3342.inc
+compose.ISO-8859-1.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.ISO-8859-1.inc
+compose.ISO-8859-10.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.ISO-8859-10.inc
+compose.ISO-8859-11.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.ISO-8859-11.inc
+compose.ISO-8859-13.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.ISO-8859-13.inc
+compose.ISO-8859-14.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.ISO-8859-14.inc
+compose.ISO-8859-15.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.ISO-8859-15.inc
+compose.ISO-8859-16.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.ISO-8859-16.inc
+compose.ISO-8859-2.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.ISO-8859-2.inc
+compose.ISO-8859-3.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.ISO-8859-3.inc
+compose.ISO-8859-4.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.ISO-8859-4.inc
+compose.ISO-8859-5.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.ISO-8859-5.inc
+compose.ISO-8859-6.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.ISO-8859-6.inc
+compose.ISO-8859-7.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.ISO-8859-7.inc
+compose.ISO-8859-8.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.ISO-8859-8.inc
+compose.ISO-8859-9.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.ISO-8859-9.inc
+compose.KOI8-R.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.KOI8-R.inc
+compose.KOI8-U.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.KOI8-U.inc
+compose.TIS-620.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.TIS-620.inc
+compose.VISCII.inc | https://8.140.252.113/d/4k/etc/console-setup/compose.VISCII.inc
+pkgdata.inc | https://154.12.23.79/d/mnt/lib64/icu/pkgdata.inc
+remap.inc | https://8.140.252.113/d/4k/etc/console-setup/remap.inc

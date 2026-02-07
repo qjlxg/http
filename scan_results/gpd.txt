@@ -1,0 +1,8 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+DPKPRINTER.gpd | http://171.95.23.159:88/d/工具/软件/新建文件夹 (2)/DPKPRINTER.gpd
+DPKPRINTERU.gpd | http://171.95.23.159:88/d/工具/软件/新建文件夹 (2)/DPKPRINTERU.gpd
+STDNAMES.GPD | http://171.95.23.159:88/d/工具/软件/新建文件夹 (2)/STDNAMES.GPD
+common7.gpd | http://171.95.23.159:88/d/工具/软件/新建文件夹 (2)/common7.gpd
+commonU7.gpd | http://171.95.23.159:88/d/工具/软件/新建文件夹 (2)/commonU7.gpd

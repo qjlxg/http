@@ -1,0 +1,28 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+2.Microsoft.DolbyAudioExtensions_1.0.61521.0_x64__8wekyb3d8bbwe.appx | https://154.40.35.180/d/24h2 dobly/2.Microsoft.DolbyAudioExtensions_1.0.61521.0_x64__8wekyb3d8bbwe.appx
+903DB504.46618D74B1ECA_9.5.4.0_x86__a99ra4d2cbcxa.Appx | https://154.17.230.25/d/Software/QQ/903DB504.46618D74B1ECA_9.5.4.0_x86__a99ra4d2cbcxa.Appx
+Microsoft.HEVCVideoExtension_1.0.21821.0_x64__8wekyb3d8bbwe(20240204181742).Appx | http://192.9.134.188:8081/d/天翼云盘/装机/微软常用运行库/Microsoft.HEVCVideoExtension_1.0.21821.0_x64__8wekyb3d8bbwe(20240204181742).Appx
+Microsoft.HEVCVideoExtension_1.0.31823.0_x64__8wekyb3d8bbwe.Appx | https://205.185.119.127/d/Soft/Win 10 HEVC支持/win10heic支持/Microsoft.HEVCVideoExtension_1.0.31823.0_x64__8wekyb3d8bbwe.Appx
+Microsoft.HEVCVideoExtension_1.0.40203.0_x86__8wekyb3d8bbwe.Appx | https://205.185.119.127/d/Soft/Win 10 HEVC支持/win10heic支持/Microsoft.HEVCVideoExtension_1.0.40203.0_x86__8wekyb3d8bbwe.Appx
+Microsoft.NET.Native.Framework.2.2_2.2.29512.0_x64__8wekyb3d8bbwe.Appx | https://154.40.35.180/d/微软商店/Microsoft.NET.Native.Framework.2.2_2.2.29512.0_x64__8wekyb3d8bbwe.Appx
+Microsoft.NET.Native.Runtime.2.2_2.2.28604.0_x64__8wekyb3d8bbwe.Appx | https://154.40.35.180/d/微软商店/Microsoft.NET.Native.Runtime.2.2_2.2.28604.0_x64__8wekyb3d8bbwe.Appx
+Microsoft.UI.Xaml.2.4_2.42007.9001.0_x64__8wekyb3d8bbwe.Appx | https://154.40.35.180/d/微软商店/Microsoft.UI.Xaml.2.4_2.42007.9001.0_x64__8wekyb3d8bbwe.Appx
+Microsoft.UI.Xaml.2.6_2.62108.18004.0_x64__8wekyb3d8bbwe.Appx | http://47.83.157.204:36081/d/系统/win11安卓安装包+WSA工具箱+正版系统/Microsoft.UI.Xaml.2.6_2.62108.18004.0_x64__8wekyb3d8bbwe.Appx
+Microsoft.UI.Xaml.2.6_2.62108.18004.0_x64__8wekyb3d8bbwe.Appx | http://81.71.152.215/d/阿里云盘/Software/win11安卓安装包+WSA工具箱+正版系统/Microsoft.UI.Xaml.2.6_2.62108.18004.0_x64__8wekyb3d8bbwe.Appx
+Microsoft.UI.Xaml.2.6_2.62108.18004.0_x64__8wekyb3d8bbwe.Appx | https://47.83.157.204/d/系统/win11安卓安装包+WSA工具箱+正版系统/Microsoft.UI.Xaml.2.6_2.62108.18004.0_x64__8wekyb3d8bbwe.Appx
+Microsoft.UI.Xaml.2.8_8.2501.31001.0_x64__8wekyb3d8bbwe.Appx | https://154.40.35.180/d/微软商店/Microsoft.UI.Xaml.2.8_8.2501.31001.0_x64__8wekyb3d8bbwe.Appx
+Microsoft.VCLibs.140.00.UWPDesktop_14.0.30704.0_arm64__8wekyb3d8bbwe.Appx | https://154.17.230.25/d/Software/QQ/Microsoft.VCLibs.140.00.UWPDesktop_14.0.30704.0_arm64__8wekyb3d8bbwe.Appx
+Microsoft.VCLibs.140.00.UWPDesktop_14.0.30704.0_arm__8wekyb3d8bbwe.Appx | https://154.17.230.25/d/Software/QQ/Microsoft.VCLibs.140.00.UWPDesktop_14.0.30704.0_arm__8wekyb3d8bbwe.Appx
+Microsoft.VCLibs.140.00.UWPDesktop_14.0.30704.0_x64__8wekyb3d8bbwe.Appx | https://154.17.230.25/d/Software/QQ/Microsoft.VCLibs.140.00.UWPDesktop_14.0.30704.0_x64__8wekyb3d8bbwe.Appx
+Microsoft.VCLibs.140.00.UWPDesktop_14.0.30704.0_x86__8wekyb3d8bbwe.Appx | https://154.17.230.25/d/Software/QQ/Microsoft.VCLibs.140.00.UWPDesktop_14.0.30704.0_x86__8wekyb3d8bbwe.Appx
+Microsoft.VCLibs.140.00.UWPDesktop_14.0.32530.0_arm64__8wekyb3d8bbwe.Appx | https://154.17.230.25/d/Software/QQ/Microsoft.VCLibs.140.00.UWPDesktop_14.0.32530.0_arm64__8wekyb3d8bbwe.Appx
+Microsoft.VCLibs.140.00.UWPDesktop_14.0.32530.0_arm__8wekyb3d8bbwe.Appx | https://154.17.230.25/d/Software/QQ/Microsoft.VCLibs.140.00.UWPDesktop_14.0.32530.0_arm__8wekyb3d8bbwe.Appx
+Microsoft.VCLibs.140.00.UWPDesktop_14.0.32530.0_x64__8wekyb3d8bbwe.Appx | https://154.17.230.25/d/Software/QQ/Microsoft.VCLibs.140.00.UWPDesktop_14.0.32530.0_x64__8wekyb3d8bbwe.Appx
+Microsoft.VCLibs.140.00.UWPDesktop_14.0.32530.0_x86__8wekyb3d8bbwe.Appx | https://154.17.230.25/d/Software/QQ/Microsoft.VCLibs.140.00.UWPDesktop_14.0.32530.0_x86__8wekyb3d8bbwe.Appx
+Microsoft.VCLibs.140.00.UWPDesktop_14.0.33728.0_x64__8wekyb3d8bbwe.Appx | https://154.40.35.180/d/微软商店/Microsoft.VCLibs.140.00.UWPDesktop_14.0.33728.0_x64__8wekyb3d8bbwe.Appx
+Microsoft.VCLibs.140.00_14.0.33519.0_x64__8wekyb3d8bbwe.Appx | https://154.40.35.180/d/微软商店/Microsoft.VCLibs.140.00_14.0.33519.0_x64__8wekyb3d8bbwe.Appx
+qquwp版解压后在qq_bin文件夹_启动903DB504.46618D74B1ECA_9.5.4.0_x86__a99ra4d2cbcxa.Appx | https://139.185.32.228/d/软件/qquwp版解压后在qq_bin文件夹_启动903DB504.46618D74B1ECA_9.5.4.0_x86__a99ra4d2cbcxa.Appx
+qquwp版解压后在qq_bin文件夹_启动903DB504.46618D74B1ECA_9.5.4.0_x86__a99ra4d2cbcxa.Appx | https://193.123.85.183/d/软件/qquwp版解压后在qq_bin文件夹_启动903DB504.46618D74B1ECA_9.5.4.0_x86__a99ra4d2cbcxa.Appx
+插件Microsoft.HEVCVideoExtension_1.0.21821.0_x64__8wekyb3d8bbwe.Appx | http://192.9.134.188:8081/d/天翼云盘/装机/微软常用运行库/插件Microsoft.HEVCVideoExtension_1.0.21821.0_x64__8wekyb3d8bbwe.Appx

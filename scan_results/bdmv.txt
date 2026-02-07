@@ -1,0 +1,7 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+MovieObject.bdmv | https://141.98.197.102/d/影视/TimeScapes.2012.DOCU.2160p.BluRay.HEVC.DTS-HD.MA.2.0-PRECELL/BDMV/MovieObject.bdmv
+MovieObject.bdmv | https://141.98.197.102:7443/d/影视/TimeScapes.2012.DOCU.2160p.BluRay.HEVC.DTS-HD.MA.2.0-PRECELL/BDMV/MovieObject.bdmv
+index.bdmv | https://141.98.197.102/d/影视/TimeScapes.2012.DOCU.2160p.BluRay.HEVC.DTS-HD.MA.2.0-PRECELL/BDMV/index.bdmv
+index.bdmv | https://141.98.197.102:7443/d/影视/TimeScapes.2012.DOCU.2160p.BluRay.HEVC.DTS-HD.MA.2.0-PRECELL/BDMV/index.bdmv

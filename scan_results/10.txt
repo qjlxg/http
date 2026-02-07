@@ -1,0 +1,45 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+libaec.so.0.0.10 | http://113.140.77.109:8881/d/服务器1/lib64/libaec.so.0.0.10
+libaec.so.0.0.10 | http://113.140.77.109:8881/d/服务器1/usr/lib64/libaec.so.0.0.10
+libblas.so.3.10 | http://113.140.77.109:8881/d/服务器1/lib64/libblas.so.3.10
+libblas.so.3.10 | http://113.140.77.109:8881/d/服务器1/usr/lib64/libblas.so.3.10
+libcbor.so.0.10 | https://8.140.252.113/d/4k/lib/x86_64-linux-gnu/libcbor.so.0.10
+libcrypto.so.10 | https://154.12.23.79/d/mnt/lib64/libcrypto.so.10
+libcrypto.so.10 | https://154.12.23.79/d/mnt/usr/lib64/libcrypto.so.10
+libgmp.so.10 | http://113.140.77.109:8881/d/服务器1/lib64/libgmp.so.10
+libgmp.so.10 | http://113.140.77.109:8881/d/服务器1/usr/lib64/libgmp.so.10
+libgmp.so.10 | https://154.12.23.79/d/mnt/lib64/libgmp.so.10
+libgmp.so.10 | https://154.12.23.79/d/mnt/usr/lib64/libgmp.so.10
+libgmp.so.10 | https://8.140.252.113/d/4k/lib/x86_64-linux-gnu/libgmp.so.10
+libgusb.so.2.0.10 | http://113.140.77.109:8881/d/服务器1/lib64/libgusb.so.2.0.10
+libgusb.so.2.0.10 | http://113.140.77.109:8881/d/服务器1/usr/lib64/libgusb.so.2.0.10
+libgusb.so.2.0.10 | https://8.140.252.113/d/4k/lib/x86_64-linux-gnu/libgusb.so.2.0.10
+libhdf5.so.10 | http://113.140.77.109:8881/d/服务器1/lib64/libhdf5.so.10
+libhdf5.so.10 | http://113.140.77.109:8881/d/服务器1/usr/lib64/libhdf5.so.10
+libhdf5_fortran.so.10 | http://113.140.77.109:8881/d/服务器1/lib64/libhdf5_fortran.so.10
+libhdf5_fortran.so.10 | http://113.140.77.109:8881/d/服务器1/usr/lib64/libhdf5_fortran.so.10
+libhdf5_hl.so.10 | http://113.140.77.109:8881/d/服务器1/lib64/libhdf5_hl.so.10
+libhdf5_hl.so.10 | http://113.140.77.109:8881/d/服务器1/usr/lib64/libhdf5_hl.so.10
+libhdf5hl_fortran.so.10 | http://113.140.77.109:8881/d/服务器1/lib64/libhdf5hl_fortran.so.10
+libhdf5hl_fortran.so.10 | http://113.140.77.109:8881/d/服务器1/usr/lib64/libhdf5hl_fortran.so.10
+libkdb5.so.10 | http://113.140.77.109:8881/d/服务器1/lib64/libkdb5.so.10
+libkdb5.so.10 | http://113.140.77.109:8881/d/服务器1/usr/lib64/libkdb5.so.10
+libkdb5.so.10 | https://8.140.252.113/d/4k/lib/x86_64-linux-gnu/libkdb5.so.10
+libkeyutils.so.1.10 | http://113.140.77.109:8881/d/服务器1/lib64/libkeyutils.so.1.10
+libkeyutils.so.1.10 | http://113.140.77.109:8881/d/服务器1/usr/lib64/libkeyutils.so.1.10
+libkeyutils.so.1.10 | https://8.140.252.113/d/4k/lib/x86_64-linux-gnu/libkeyutils.so.1.10
+libkmod.so.2.2.10 | https://154.12.23.79/d/mnt/lib64/libkmod.so.2.2.10
+libkmod.so.2.2.10 | https://154.12.23.79/d/mnt/usr/lib64/libkmod.so.2.2.10
+liblapack.so.3.10 | http://113.140.77.109:8881/d/服务器1/lib64/liblapack.so.3.10
+liblapack.so.3.10 | http://113.140.77.109:8881/d/服务器1/usr/lib64/liblapack.so.3.10
+liblapacke.so.3.10 | http://113.140.77.109:8881/d/服务器1/lib64/liblapacke.so.3.10
+liblapacke.so.3.10 | http://113.140.77.109:8881/d/服务器1/usr/lib64/liblapacke.so.3.10
+libsnappy.so.1.1.10 | https://8.140.252.113/d/4k/lib/x86_64-linux-gnu/libsnappy.so.1.1.10
+libssl.so.10 | https://154.12.23.79/d/mnt/lib64/libssl.so.10
+libssl.so.10 | https://154.12.23.79/d/mnt/usr/lib64/libssl.so.10
+libtirpc.so.1.0.10 | https://154.12.23.79/d/mnt/lib64/libtirpc.so.1.0.10
+libtirpc.so.1.0.10 | https://154.12.23.79/d/mnt/usr/lib64/libtirpc.so.1.0.10
+libxtables.so.10 | https://154.12.23.79/d/mnt/lib64/libxtables.so.10
+libxtables.so.10 | https://154.12.23.79/d/mnt/usr/lib64/libxtables.so.10

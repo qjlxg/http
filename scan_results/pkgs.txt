@@ -1,0 +1,6 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+reboot-required.pkgs | https://52.140.241.52/d/sftp/jp/run/reboot-required.pkgs
+reboot-required.pkgs | https://8.140.252.113/d/4k/run/reboot-required.pkgs
+reboot-required.pkgs | https://8.140.252.113/d/4k/var/run/reboot-required.pkgs

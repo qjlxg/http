@@ -1,0 +1,10 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+LDAE5.mdx | https://146.56.37.168:8080/d/Dict/LDAE5.mdx
+LDOCE5++ V 2-15.mdx | https://146.56.37.168:8080/d/Dict/LDOCE 5++ V2.15/LDOCE5++ V 2-15.mdx
+LDOCE5-Asicsfree.mdx | https://146.56.37.168:8080/d/Dict/LDOCE5-Asicsfree.mdx
+LDOCE6++ En-Cn V2-19.mdx | https://146.56.37.168:8080/d/Dict/LDOCE6++ En-Cn V2-19/LDOCE6++ En-Cn V2-19.mdx
+牛津高阶8简体.mdx | https://146.56.37.168:8080/d/Dict/牛津高阶8简体.mdx
+牛津高阶8简体.mdx | https://146.56.37.168:8080/d/Dict/牛津高阶8简体spx/牛津高阶8简体.mdx
+牛津高阶英汉双解词典（第10版）V3.mdx | https://146.56.37.168:8080/d/Dict/牛津高阶英汉双解词典（第10版）V3/牛津高阶英汉双解词典（第10版）V3.mdx

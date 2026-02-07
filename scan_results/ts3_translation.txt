@@ -1,0 +1,6 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Chinese_Translation_zh-CN.ts3_translation | http://103.205.4.20/d/Software/TeamSpeak/Chinese_Translation_zh-CN.ts3_translation
+Chinese_Translation_zh-CN.ts3_translation | https://192.18.139.229/d/语音工具/Chinese_Translation_zh-CN.ts3_translation
+汉化包.ts3_translation | http://dnbllgtm.x3322.net:5244/d/小叮当/软件/语音/汉化包.ts3_translation

@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Chinese.ptl | http://81.71.152.215/d/百度网盘/我的视频/《Packet Tracer使用视频教程》(1)/Chinese.ptl
+Chinese.ptl | http://81.71.152.215/d/百度网盘/我的视频/《Packet Tracer使用视频教程》/Chinese.ptl

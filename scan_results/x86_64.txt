@@ -1,0 +1,11 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+System.map-3.10.0-957.1.3.el7.x86_64 | https://154.12.23.79/d/mnt/boot/System.map-3.10.0-957.1.3.el7.x86_64
+config-3.10.0-957.1.3.el7.x86_64 | https://154.12.23.79/d/mnt/boot/config-3.10.0-957.1.3.el7.x86_64
+glibc_post_upgrade.x86_64 | https://154.12.23.79/d/mnt/sbin/glibc_post_upgrade.x86_64
+glibc_post_upgrade.x86_64 | https://154.12.23.79/d/mnt/usr/sbin/glibc_post_upgrade.x86_64
+iconvconfig.x86_64 | https://154.12.23.79/d/mnt/sbin/iconvconfig.x86_64
+iconvconfig.x86_64 | https://154.12.23.79/d/mnt/usr/sbin/iconvconfig.x86_64
+libnssckbi.so.x86_64 | https://154.12.23.79/d/mnt/etc/alternatives/libnssckbi.so.x86_64
+vmlinuz-3.10.0-957.1.3.el7.x86_64 | https://154.12.23.79/d/mnt/boot/vmlinuz-3.10.0-957.1.3.el7.x86_64

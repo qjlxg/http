@@ -1,0 +1,28 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+aclocal-1.13 | https://154.12.23.79/d/mnt/bin/aclocal-1.13
+aclocal-1.13 | https://154.12.23.79/d/mnt/usr/bin/aclocal-1.13
+automake-1.13 | https://154.12.23.79/d/mnt/bin/automake-1.13
+automake-1.13 | https://154.12.23.79/d/mnt/usr/bin/automake-1.13
+libarchive.so.13 | http://113.140.77.109:8881/d/服务器1/lib64/libarchive.so.13
+libarchive.so.13 | http://113.140.77.109:8881/d/服务器1/usr/lib64/libarchive.so.13
+libarchive.so.13 | https://154.12.23.79/d/mnt/lib64/libarchive.so.13
+libarchive.so.13 | https://154.12.23.79/d/mnt/usr/lib64/libarchive.so.13
+libarchive.so.13 | https://8.140.252.113/d/4k/lib/x86_64-linux-gnu/libarchive.so.13
+libdbus-1.so.3.19.13 | http://113.140.77.109:8881/d/服务器1/lib64/libdbus-1.so.3.19.13
+libdbus-1.so.3.19.13 | http://113.140.77.109:8881/d/服务器1/usr/lib64/libdbus-1.so.3.19.13
+libipset.so.13 | http://113.140.77.109:8881/d/服务器1/lib64/libipset.so.13
+libipset.so.13 | http://113.140.77.109:8881/d/服务器1/usr/lib64/libipset.so.13
+libipset.so.13 | https://154.12.23.79/d/mnt/lib64/libipset.so.13
+libipset.so.13 | https://154.12.23.79/d/mnt/usr/lib64/libipset.so.13
+libipset.so.13 | https://8.140.252.113/d/4k/lib/x86_64-linux-gnu/libipset.so.13
+libpcre.so.1.2.13 | http://113.140.77.109:8881/d/服务器1/lib64/libpcre.so.1.2.13
+libpcre.so.1.2.13 | http://113.140.77.109:8881/d/服务器1/usr/lib64/libpcre.so.1.2.13
+libpcre16.so.0.2.13 | http://113.140.77.109:8881/d/服务器1/lib64/libpcre16.so.0.2.13
+libpcre16.so.0.2.13 | http://113.140.77.109:8881/d/服务器1/usr/lib64/libpcre16.so.0.2.13
+libpcre32.so.0.0.13 | http://113.140.77.109:8881/d/服务器1/lib64/libpcre32.so.0.0.13
+libpcre32.so.0.0.13 | http://113.140.77.109:8881/d/服务器1/usr/lib64/libpcre32.so.0.0.13
+libunbound.so.8.1.13 | http://113.140.77.109:8881/d/服务器1/lib64/libunbound.so.8.1.13
+libunbound.so.8.1.13 | http://113.140.77.109:8881/d/服务器1/usr/lib64/libunbound.so.8.1.13
+libwebpmux.so.3.0.13 | https://8.140.252.113/d/4k/lib/x86_64-linux-gnu/libwebpmux.so.3.0.13

@@ -1,0 +1,7 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+base.fgd | https://47.116.119.109/d/GSM/L4D2/bin/base.fgd
+base.fgd | https://47.116.14.121:8443/d/GSM/L4D2/bin/base.fgd
+left4dead2.fgd | https://47.116.119.109/d/GSM/L4D2/bin/left4dead2.fgd
+left4dead2.fgd | https://47.116.14.121:8443/d/GSM/L4D2/bin/left4dead2.fgd

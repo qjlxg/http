@@ -1,0 +1,19 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Clash.Nyanpasu.aarch64.app.tar.gz.sig | https://47.76.189.197/d/科学软体/稳定版/clash-nyanpasu/Clash.Nyanpasu.aarch64.app.tar.gz.sig
+Clash.Nyanpasu_1.6.1_x64-setup.nsis.zip.sig | https://47.76.189.197/d/科学软体/稳定版/clash-nyanpasu/Clash.Nyanpasu_1.6.1_x64-setup.nsis.zip.sig
+Clash.Nyanpasu_x64.app.tar.gz.sig | https://47.76.189.197/d/科学软体/稳定版/clash-nyanpasu/Clash.Nyanpasu_x64.app.tar.gz.sig
+Clash.Verge_2.4.0_arm64-setup.exe.sig | https://47.76.189.197/d/科学软体/稳定版/clash-verge-rev/Clash.Verge_2.4.0_arm64-setup.exe.sig
+Clash.Verge_2.4.0_arm64_fixed_webview2-setup.exe.sig | https://47.76.189.197/d/科学软体/稳定版/clash-verge-rev/Clash.Verge_2.4.0_arm64_fixed_webview2-setup.exe.sig
+Clash.Verge_2.4.0_x64-setup.exe.sig | https://47.76.189.197/d/科学软体/稳定版/clash-verge-rev/Clash.Verge_2.4.0_x64-setup.exe.sig
+Clash.Verge_2.4.0_x64_fixed_webview2-setup.exe.sig | https://47.76.189.197/d/科学软体/稳定版/clash-verge-rev/Clash.Verge_2.4.0_x64_fixed_webview2-setup.exe.sig
+Clash.Verge_aarch64.app.tar.gz.sig | https://47.76.189.197/d/科学软体/稳定版/clash-verge-rev/Clash.Verge_aarch64.app.tar.gz.sig
+Clash.Verge_x64.app.tar.gz.sig | https://47.76.189.197/d/科学软体/稳定版/clash-verge-rev/Clash.Verge_x64.app.tar.gz.sig
+SYMBOL.SIG | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/data/SYMBOL.SIG
+SYMBOL.SIG | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/data/SYMBOL.SIG
+ShadowsocksR-dotnet2.0.exe.sig | http://120.26.66.68:8008/d/其他/办公软件/ShadowsocksR-win-4.8.0 (2)/ShadowsocksR-dotnet2.0.exe.sig
+ShadowsocksR-dotnet2.0.exe.sig | https://120.26.66.68:8009/d/其他/办公软件/ShadowsocksR-win-4.8.0 (2)/ShadowsocksR-dotnet2.0.exe.sig
+ShadowsocksR-dotnet4.0.exe.sig | http://120.26.66.68:8008/d/其他/办公软件/ShadowsocksR-win-4.8.0 (2)/ShadowsocksR-dotnet4.0.exe.sig
+ShadowsocksR-dotnet4.0.exe.sig | https://120.26.66.68:8009/d/其他/办公软件/ShadowsocksR-win-4.8.0 (2)/ShadowsocksR-dotnet4.0.exe.sig
+clash-nyanpasu_1.6.1_amd64.AppImage.tar.gz.sig | https://47.76.189.197/d/科学软体/稳定版/clash-nyanpasu/clash-nyanpasu_1.6.1_amd64.AppImage.tar.gz.sig

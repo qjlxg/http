@@ -1,0 +1,20 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+bnxt_re.driver | https://8.140.252.113/d/4k/etc/libibverbs.d/bnxt_re.driver
+cxgb4.driver | https://8.140.252.113/d/4k/etc/libibverbs.d/cxgb4.driver
+efa.driver | https://8.140.252.113/d/4k/etc/libibverbs.d/efa.driver
+erdma.driver | https://8.140.252.113/d/4k/etc/libibverbs.d/erdma.driver
+hfi1verbs.driver | https://8.140.252.113/d/4k/etc/libibverbs.d/hfi1verbs.driver
+hns.driver | https://8.140.252.113/d/4k/etc/libibverbs.d/hns.driver
+ipathverbs.driver | https://8.140.252.113/d/4k/etc/libibverbs.d/ipathverbs.driver
+irdma.driver | https://8.140.252.113/d/4k/etc/libibverbs.d/irdma.driver
+mana.driver | https://8.140.252.113/d/4k/etc/libibverbs.d/mana.driver
+mlx4.driver | https://8.140.252.113/d/4k/etc/libibverbs.d/mlx4.driver
+mlx5.driver | https://8.140.252.113/d/4k/etc/libibverbs.d/mlx5.driver
+mthca.driver | https://8.140.252.113/d/4k/etc/libibverbs.d/mthca.driver
+ocrdma.driver | https://8.140.252.113/d/4k/etc/libibverbs.d/ocrdma.driver
+qedr.driver | https://8.140.252.113/d/4k/etc/libibverbs.d/qedr.driver
+rxe.driver | https://8.140.252.113/d/4k/etc/libibverbs.d/rxe.driver
+siw.driver | https://8.140.252.113/d/4k/etc/libibverbs.d/siw.driver
+vmw_pvrdma.driver | https://8.140.252.113/d/4k/etc/libibverbs.d/vmw_pvrdma.driver

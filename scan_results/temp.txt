@@ -1,0 +1,11 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+2024.04.24-CW-AL-(4L+2F_8L)-(8L-N100-N200-I3-N305 Support 5 xM.2)_NoLogo.iso.temp | https://47.236.182.67/d/02-BIOS Files Summary/Mini PC BIOS Files/07-2024.04.24-CW-AL-(4L+2F_8L)-(8L-N100-N200-I3-N305 Support 5 xM.2)/2024.04.24-CW-AL-(4L+2F_8L)-(8L-N100-N200-I3-N305 Support 5 xM.2)_NoLogo.iso.temp
+CPOS_setup_3.2.4.exe.temp | http://120.26.66.68:8008/d/打印机驱动/CPOS_setup_3.2.4.exe.temp
+CPOS_setup_3.2.4.exe.temp | https://120.26.66.68:8009/d/打印机驱动/CPOS_setup_3.2.4.exe.temp
+CW-UUIDUP.iso.temp | https://47.236.182.67/d/03-Technical Support Video/21-How to change UUIDUP for S2 Dual LAN Dual SFP/CW-UUIDUP.iso.temp
+POS80.exe.temp | http://120.26.66.68:8008/d/Tools/POS80.exe.temp
+POS80.exe.temp | https://120.26.66.68:8009/d/Tools/POS80.exe.temp
+d9ae47e8398c267c4b180ae12e069485.temp | http://45.33.45.143/d/Shenshei-Public-Files/d9ae47e8398c267c4b180ae12e069485.temp
+d9ae47e8398c267c4b180ae12e069485.temp | https://45.33.45.143:8443/d/Shenshei-Public-Files/d9ae47e8398c267c4b180ae12e069485.temp

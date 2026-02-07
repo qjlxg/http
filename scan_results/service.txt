@@ -1,0 +1,8 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+gost.service | http://pub.sa2.pw/d/shadow/drive1/gost/gost.service
+gost.service | https://pub.sa2.pw/d/shadow/drive1/gost/gost.service
+one-api.service | https://113.207.49.5/d/GitHub/repos/songquanpeng_one-api/one-api.service
+zerotier-join.service | https://52.140.241.52/d/R2/zero_back/zerotier-join.service
+zerotier-one.service | https://52.140.241.52/d/R2/zero_back/zerotier-one.service

@@ -1,0 +1,4 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Arnold Shader Suite C4D.lib4d | https://154.222.17.44/d/移动云盘/04、C4D/Arnold-材质球/Arnold Shader Suite C4D.lib4d

@@ -1,0 +1,30 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/12.0/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/12.1/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/12.2/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/12.3/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/12.4/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/13.0/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/13.1/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/13.2/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/13.3/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/13.4/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/13.5/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/13.6/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/13.7/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/14.0/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/14.1/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/14.2/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/14.3/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/14.4/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/14.5/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/15.0/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/15.2/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/15.4/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/15.5/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/16.0/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/16.2/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/16.4/DeveloperDiskImage.dmg.signature
+DeveloperDiskImage.dmg.signature | https://pan.ios222.com/d/DeviceSupport/17.0/DeveloperDiskImage.dmg.signature

@@ -1,0 +1,13 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+2x8-pic.rdlc | https://93.93.116.119/d/Jie/CLIENTE TEST/2x8-pic.rdlc
+2x8_2xPrecio_IGO.rdlc | https://93.93.116.119/d/TPV/Densen/Etiquetas/2x8_2xPrecio_IGO.rdlc
+2x8_Sin_CodigoBarra.rdlc | https://93.93.116.119/d/TPV/Densen/Etiquetas/2x8_Sin_CodigoBarra.rdlc
+4x11-CODE128.rdlc | https://93.93.116.119/d/TPV/Densen/Etiquetas/4x11-CODE128.rdlc
+5x13-code128-Grande.rdlc | https://93.93.116.119/d/TPV/Densen/Etiquetas/5x13-code128-Grande.rdlc
+5x13_2xPrecio-code128-20251219.rdlc | https://93.93.116.119/d/TPV/Densen/Etiquetas/5x13_2xPrecio-code128-20251219.rdlc
+5x13_2xPrecio-code128-color.rdlc | https://93.93.116.119/d/TPV/Densen/Etiquetas/5x13_2xPrecio-code128-color.rdlc
+5x13_JELTON.rdlc | https://93.93.116.119/d/TPV/Densen/Etiquetas/5x13_JELTON.rdlc
+Albaran2013有抬头.rdlc | https://93.93.116.119/d/TPV/Densen/Albaran2013有抬头.rdlc
+Factura2013西班牙语.rdlc | https://93.93.116.119/d/TPV/Densen/Factura2013西班牙语.rdlc

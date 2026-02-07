@@ -1,0 +1,6 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+r8a779x_usb3_v1.dlmem | http://113.140.77.109:8881/d/服务器1/lib/firmware/r8a779x_usb3_v1.dlmem
+r8a779x_usb3_v2.dlmem | http://113.140.77.109:8881/d/服务器1/lib/firmware/r8a779x_usb3_v2.dlmem
+r8a779x_usb3_v3.dlmem | http://113.140.77.109:8881/d/服务器1/lib/firmware/r8a779x_usb3_v3.dlmem

@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+OEMSETUP.DSC | http://120.26.66.68:8008/d/打印机驱动/c5503/disk1/OEMSETUP.DSC
+OEMSETUP.DSC | https://120.26.66.68:8009/d/打印机驱动/c5503/disk1/OEMSETUP.DSC

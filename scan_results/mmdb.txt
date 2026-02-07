@@ -1,0 +1,8 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Country-asn.mmdb | https://47.76.189.197/d/科学软体/稳定版/Geoip/Country-asn.mmdb
+Country-only-cn-private.mmdb | https://47.76.189.197/d/科学软体/稳定版/Geoip/Country-only-cn-private.mmdb
+Country-without-asn.mmdb | https://47.76.189.197/d/科学软体/稳定版/Geoip/Country-without-asn.mmdb
+Country.mmdb | https://159.138.98.12/d/其他/杂项/Country.mmdb
+Country.mmdb | https://47.76.189.197/d/科学软体/稳定版/Geoip/Country.mmdb

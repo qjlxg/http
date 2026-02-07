@@ -1,0 +1,14 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+bg.mpk | https://113.207.49.5/d/游戏/STEINS;GATE/USRDIR/bg.mpk
+bgm.mpk | https://113.207.49.5/d/游戏/STEINS;GATE/USRDIR/bgm.mpk
+chara.mpk | https://113.207.49.5/d/游戏/STEINS;GATE/USRDIR/chara.mpk
+manual.mpk | https://113.207.49.5/d/游戏/STEINS;GATE/USRDIR/manual.mpk
+mask.mpk | https://113.207.49.5/d/游戏/STEINS;GATE/USRDIR/mask.mpk
+mgsshader.mpk | https://113.207.49.5/d/游戏/STEINS;GATE/USRDIR/mgsshader.mpk
+script.mpk | https://113.207.49.5/d/游戏/STEINS;GATE/USRDIR/script.mpk
+se.mpk | https://113.207.49.5/d/游戏/STEINS;GATE/USRDIR/se.mpk
+shader.mpk | https://113.207.49.5/d/游戏/STEINS;GATE/USRDIR/shader.mpk
+system.mpk | https://113.207.49.5/d/游戏/STEINS;GATE/USRDIR/system.mpk
+voice.mpk | https://113.207.49.5/d/游戏/STEINS;GATE/USRDIR/voice.mpk

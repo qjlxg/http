@@ -1,0 +1,17 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+lvmetad.socket | https://154.12.23.79/d/mnt/run/lvm/lvmetad.socket
+lvmpolld.socket | http://113.140.77.109:8881/d/服务器1/run/lvm/lvmpolld.socket
+lvmpolld.socket | https://154.12.23.79/d/mnt/run/lvm/lvmpolld.socket
+lvmpolld.socket | https://8.140.252.113/d/4k/run/lvm/lvmpolld.socket
+lxd-installer.socket | https://8.140.252.113/d/4k/run/lxd-installer.socket
+lxd-installer.socket | https://8.140.252.113/d/4k/var/run/lxd-installer.socket
+pmcd.socket | https://8.140.252.113/d/4k/run/pcp/pmcd.socket
+pmlogger.2057.socket | https://8.140.252.113/d/4k/run/pcp/pmlogger.2057.socket
+pmlogger.primary.socket | https://8.140.252.113/d/4k/run/pcp/pmlogger.primary.socket
+pmproxy.socket | https://8.140.252.113/d/4k/run/pcp/pmproxy.socket
+snapd-snap.socket | https://8.140.252.113/d/4k/run/snapd-snap.socket
+snapd-snap.socket | https://8.140.252.113/d/4k/var/run/snapd-snap.socket
+snapd.socket | https://8.140.252.113/d/4k/run/snapd.socket
+snapd.socket | https://8.140.252.113/d/4k/var/run/snapd.socket

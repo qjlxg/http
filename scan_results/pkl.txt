@@ -1,0 +1,5 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+data12.pkl | https://45.77.200.196/d/代码片段/data12.pkl
+featurised_example.pkl | http://43.142.43.120:8000/d/xuaoyu/alphafold3/test_data/featurised_example.pkl

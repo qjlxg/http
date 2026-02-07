@@ -1,0 +1,38 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+.panelTask.pl | https://154.12.23.79/d/mnt/dev/shm/.panelTask.pl
+.panelTask.pl | https://8.140.252.113/d/4k/dev/shm/.panelTask.pl
+.panelTask.pl | https://8.140.252.113/d/4k/run/shm/.panelTask.pl
+.start_task.pl | https://154.12.23.79/d/mnt/dev/shm/.start_task.pl
+.start_task.pl | https://8.140.252.113/d/4k/dev/shm/.start_task.pl
+.start_task.pl | https://8.140.252.113/d/4k/run/shm/.start_task.pl
+CA.pl | http://113.140.77.109:8881/d/服务器1/bin/CA.pl
+CA.pl | http://113.140.77.109:8881/d/服务器1/usr/bin/CA.pl
+Config_git.pl | http://113.140.77.109:8881/d/服务器1/lib64/perl5/Config_git.pl
+Config_git.pl | https://154.12.23.79/d/mnt/lib64/perl5/Config_git.pl
+Config_heavy.pl | http://113.140.77.109:8881/d/服务器1/lib64/perl5/Config_heavy.pl
+Config_heavy.pl | https://154.12.23.79/d/mnt/lib64/perl5/Config_heavy.pl
+bt.pl | https://8.140.252.113/d/4k/dev/shm/bt.pl
+bt.pl | https://8.140.252.113/d/4k/run/shm/bt.pl
+bt_apacheVersion.pl | https://154.12.23.79/d/mnt/var/bt_apacheVersion.pl
+bt_apacheVersion.pl | https://8.140.252.113/d/4k/var/bt_apacheVersion.pl
+bt_auto_run.pl | https://8.140.252.113/d/4k/dev/shm/bt_auto_run.pl
+bt_auto_run.pl | https://8.140.252.113/d/4k/run/shm/bt_auto_run.pl
+disk.pl | https://154.12.23.79/d/mnt/bt-backup/disk.pl
+disk.pl | https://154.12.23.79/d/mnt/www/disk.pl
+disk.pl | https://8.140.252.113/d/4k/www/disk.pl
+lib.pl | https://154.12.23.79/d/mnt/bt-backup/server/lib.pl
+lib.pl | https://154.12.23.79/d/mnt/www/server/lib.pl
+lib.pl | https://8.140.252.113/d/4k/www/server/lib.pl
+makedumpfile-R.pl | https://8.140.252.113/d/4k/bin/X11/makedumpfile-R.pl
+makedumpfile-R.pl | https://8.140.252.113/d/4k/bin/makedumpfile-R.pl
+makedumpfile-R.pl | https://8.140.252.113/d/4k/usr/bin/makedumpfile-R.pl
+reserve_space.pl | https://154.12.23.79/d/mnt/bt-backup/reserve_space.pl
+reserve_space.pl | https://154.12.23.79/d/mnt/www/reserve_space.pl
+reserve_space.pl | https://8.140.252.113/d/4k/www/reserve_space.pl
+rsyslog-recover-qi.pl | https://154.12.23.79/d/mnt/bin/rsyslog-recover-qi.pl
+rsyslog-recover-qi.pl | https://154.12.23.79/d/mnt/usr/bin/rsyslog-recover-qi.pl
+split_updata.pl | https://alist.990668.xyz/d/系统安装/安卓/huawei_update_unpack/split_updata.pl
+tsget.pl | http://113.140.77.109:8881/d/服务器1/bin/tsget.pl
+tsget.pl | http://113.140.77.109:8881/d/服务器1/usr/bin/tsget.pl

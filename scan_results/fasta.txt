@@ -1,0 +1,8 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+bfd-first_non_consensus_sequences.fasta | http://43.142.43.120:8000/d/xuaoyu/alphafold3/database/bfd-first_non_consensus_sequences.fasta
+nt_rna_2023_02_23_clust_seq_id_90_cov_80_rep_seq.fasta | http://43.142.43.120:8000/d/xuaoyu/alphafold3/database/nt_rna_2023_02_23_clust_seq_id_90_cov_80_rep_seq.fasta
+pdb_seqres_2022_09_28.fasta | http://43.142.43.120:8000/d/xuaoyu/alphafold3/database/pdb_seqres_2022_09_28.fasta
+rfam_14_9_clust_seq_id_90_cov_80_rep_seq.fasta | http://43.142.43.120:8000/d/xuaoyu/alphafold3/database/rfam_14_9_clust_seq_id_90_cov_80_rep_seq.fasta
+rnacentral_active_seq_id_90_cov_80_linclust.fasta | http://43.142.43.120:8000/d/xuaoyu/alphafold3/database/rnacentral_active_seq_id_90_cov_80_linclust.fasta

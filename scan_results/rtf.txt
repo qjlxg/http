@@ -1,0 +1,14 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+EULA.rtf | http://218.28.112.170:5555/d/软件/Advanced/Advanced SystemCare/EULA.rtf
+License.rtf | https://220.190.14.253:6010/d/PC软件/ARCHPR暴力破解压缩工具/Elcomsoft Password Recovery/License.rtf
+License.rtf | https://www.bx02.icu:6010/d/PC软件/ARCHPR暴力破解压缩工具/Elcomsoft Password Recovery/License.rtf
+USB_SupportList.rtf | http://218.76.165.27:88/d/硬件检测/硬盘修复/Victoria/USB_SupportList.rtf
+USB_SupportList.rtf | http://218.76.165.27:88/d/硬件检测/硬盘修复/victoria11/USB_SupportList.rtf
+motionmapper.rtf | https://47.116.119.109/d/GSM/L4D2/bin/motionmapper.rtf
+motionmapper.rtf | https://47.116.14.121:8443/d/GSM/L4D2/bin/motionmapper.rtf
+东方夜雀食堂.RTF | https://138.2.4.204/d/阿里云盘/游戏/[RPG游戏]【RPG中文】东方夜雀食堂 v1.2.1-官方中文版【1.05G】/东方夜雀食堂.RTF
+启发式评估.rtf | https://138.2.4.204/d/阿里云盘/产品经理/产品经理(1)/启发式评估.rtf
+启发式评估.rtf | https://138.2.4.204/d/阿里云盘/产品经理/产品经理/启发式评估.rtf
+钟道隆逆向英语学习法.rtf | https://24.18.156.162/d/MyCloud/Book/ENG/钟道隆逆向英语学习法.rtf

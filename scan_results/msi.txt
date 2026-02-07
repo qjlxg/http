@@ -1,0 +1,150 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+7z2405-x64.msi | https://47.251.7.109/d/resources/app/windows_apps/7z2405-x64.msi
+7z2405.msi | https://47.251.7.109/d/resources/app/windows_apps/7z2405.msi
+AccessClient_Win.msi | http://222.140.20.107:8085/d/工具应用/网络/HW桌面云客户端/AccessClient_Win.msi
+AcroPro.msi | http://120.26.66.68:8008/d/其他/办公软件/Adobe Acrobat DC 2022 x64 SP/AcroPro.msi
+AcroPro.msi | http://120.26.66.68:8008/d/其他/图形图像解压/Adobe Acrobat DC 2019 SP/AcroPro.msi
+AcroPro.msi | https://120.26.66.68:8009/d/其他/办公软件/Adobe Acrobat DC 2022 x64 SP/AcroPro.msi
+AcroPro.msi | https://120.26.66.68:8009/d/其他/图形图像解压/Adobe Acrobat DC 2019 SP/AcroPro.msi
+AcroRdrALSDx64_2200120085_all_DC.msi | http://192.9.134.188:8081/d/天翼云盘/装机/AcroRdrALSDx64_2200120085_all_DC.msi
+Charles 4.6.6 x64_foxirj.com.msi | https://116.63.33.248/d/共享/Charles 4.6.6 x64_foxirj.com.msi
+Clash.Verge_1.3.5_x64_zh-CN.msi | https://8.222.163.34/d/2.share/Clash.Verge_1.3.5_x64_zh-CN.msi
+Cloudflare_WARP_Release-x64.msi | https://alist.990668.xyz/d/代理工具/Cloudflare_WARP/Cloudflare_WARP_Release-x64.msi
+Duplicate Cleaner Pro 5.0.13.msi | http://81.71.152.215/d/阿里云盘/Software/【文件查重神器】Duplicate Cleaner Pro 5.0.13 中文版/Duplicate Cleaner Pro 5.0.13.msi
+FileConverter-2.1-x64-setup[图片音视频格式转换].msi | http://42.193.46.147:88/d/windows/推荐软件/FileConverter-2.1-x64-setup[图片音视频格式转换].msi
+FontPack11009_XtdAlf_Lang.msi | https://24.18.156.162/d/MyCloud/Book/政治/FontPack11009_XtdAlf_Lang.msi
+Hamachi-2012.msi | https://93.93.116.119/d/Xu/Hamachi-2012.msi
+Hamachi-2020.msi | https://93.93.116.119/d/Xu/Hamachi-2020.msi
+IE运行时报错修复工具V1.61.1.msi | https://124.221.124.3/d/天翼网盘/系统类工具/联想售后服务工具集/IE运行时报错修复工具V1.61.1.msi
+IE运行时报错修复工具V1.61.1.msi | https://124.221.124.3/d/点我进网盘/系统类工具/联想售后服务工具集/IE运行时报错修复工具V1.61.1.msi
+IE运行时报错修复工具V1.61.1.msi | https://8.217.236.10/d/Cloud189_Family/联想售后服务工具集/IE运行时报错修复工具V1.61.1.msi
+IE运行时报错修复工具V1.61.1.msi | https://8.217.236.10/d/访客文件夹_可上传/安装包/联想售后服务工具集/IE运行时报错修复工具V1.61.1.msi
+ImageGlass_8.2.6.6_x64.msi | https://139.185.32.228/d/软件/ImageGlass_8.2.6.6_x64.msi
+ImageGlass_8.2.6.6_x64.msi | https://193.123.85.183/d/软件/ImageGlass_8.2.6.6_x64.msi
+ImageGlass_9.3.2.520_x64.msi | https://113.207.49.5/d/软件/ImageGlass/ImageGlass_9.3.2.520_x64.msi
+KB-U890-0001-100727-U890SP1.msi | http://218.28.112.170:5555/d/软件/U8/2.U890SP1/KB-U890-0001-100727-U890SP1.msi
+LTspice64.msi | http://47.107.48.145:8001/d/Bishezhidao/AD822整流/仿真软件/LTspice64.msi
+LicensingServer_11.10_8.1.0.8.12012-CTX_Licensing.msi | http://81.71.152.215/d/百度网盘/我的视频/《XenServer6.0管理视频教程》/LicensingServer_11.10_8.1.0.8.12012-CTX_Licensing.msi
+MAXSUNSetup_1.1.9.msi | https://120.196.60.83:2083/d/下载文件/软件/铭瑄灯控/MAXSUNSetup_1.1.9.msi
+MicrosoftEdgeEnterpriseX64.msi | http://218.76.165.27:88/d/装机必备/MicrosoftEdgeEnterpriseX64.msi
+MicrosoftEdge_87.0.664.66_X64.msi | https://139.185.32.228/d/ISO/10/不忘初心20H2/MicrosoftEdge_87.0.664.66_X64.msi
+MicrosoftEdge_87.0.664.66_X64.msi | https://193.123.85.183/d/ISO/10/不忘初心20H2/MicrosoftEdge_87.0.664.66_X64.msi
+MicrosoftEdge浏览器X64_93.0.961.62.msi | https://139.185.32.228/d/转存/Windows 10 不忘初心精简版/【不忘初心】Win10_21H1_19043.1266_X64_可更新[纯净精简版][2.45G](2021.10.6)/MicrosoftEdge浏览器X64_93.0.961.62.msi
+MicrosoftEdge浏览器X64_93.0.961.62.msi | https://139.185.32.228/d/转存/Windows 10 不忘初心精简版/【不忘初心】Windows10 21H1 (19043.1266) X64 无更新[纯净精简版][1.87G](2021.10.7)/MicrosoftEdge浏览器X64_93.0.961.62.msi
+MicrosoftEdge浏览器X64_93.0.961.62.msi | https://139.185.32.228/d/转存/Windows 10 不忘初心精简版/【不忘初心自用版】[太阳谷] Win10_21H1_19043.1266_X64_无更新[精简版][1.91G](2021.10.8)/MicrosoftEdge浏览器X64_93.0.961.62.msi
+MicrosoftEdge浏览器X64_93.0.961.62.msi | https://193.123.85.183/d/转存/Windows 10 不忘初心精简版/【不忘初心】Win10_21H1_19043.1266_X64_可更新[纯净精简版][2.45G](2021.10.6)/MicrosoftEdge浏览器X64_93.0.961.62.msi
+MicrosoftEdge浏览器X64_93.0.961.62.msi | https://193.123.85.183/d/转存/Windows 10 不忘初心精简版/【不忘初心】Windows10 21H1 (19043.1266) X64 无更新[纯净精简版][1.87G](2021.10.7)/MicrosoftEdge浏览器X64_93.0.961.62.msi
+MicrosoftEdge浏览器X64_93.0.961.62.msi | https://193.123.85.183/d/转存/Windows 10 不忘初心精简版/【不忘初心自用版】[太阳谷] Win10_21H1_19043.1266_X64_无更新[精简版][1.91G](2021.10.8)/MicrosoftEdge浏览器X64_93.0.961.62.msi
+MouseWithoutBordersSetup.msi | http://153.99.141.172:2223/d/test/文件/文件/MouseWithoutBordersSetup.msi
+MySQL安装工具.msi | https://43.161.227.68:8443/d/👉点击进入🔥蜘蛛资源站/0. 信息技术/02 MySQL数据库/MySQL安装工具.msi
+Nessus-10.4.2-x64.msi | http://171.95.23.159:88/d/工具/工具/网络软件/Nessus-10.4.2-x64.msi
+NetSonar_win-x64_v0.1.2.msi | http://114.246.207.186:9000/d/st-bak/temp/NetSonar_win-x64_v0.1.2.msi
+OpenHashTab_Machine_x64.msi | http://vultr.a-1s.com:5244/d/share/OpenHashTab_Machine_x64.msi
+OpenVPN_For_Windows7.msi | http://183.6.111.162:666/d/工具/OpenVPN_For_Windows7.msi
+QNAPQfinderProWindows-7.13.0.1014.msi | https://206.237.10.186/d/knas-56/A9-ISO/QNAP/QNAPQfinderProWindows-7.13.0.1014.msi
+Quicker.x64.1.11.8.0.msi | https://103.136.146.29/d/Googledrive459/Windows软件/Quicker.x64.1.11.8.0.msi
+Quicker.x64.1.39.43.0.msi | http://121.29.144.225:8888/d/云盘/Quicker.x64.1.39.43.0.msi
+RDLC报表设计器.msi | https://93.93.116.119/d/TPV/Densen/RDLC报表设计器.msi
+Redis-x64-3.0.504.msi | http://pan.uchenu.com/d/软件工具/开发相关/Redis-x64-3.0.504.msi
+SteamInstall.msi | http://118.25.145.11:88/d/各种软件/VC DX等/SteamInstall.msi
+SteamInstall.msi | http://118.25.145.11:88/d/游戏必备/SteamInstall.msi
+Symantec_Ghost_Standard_Tools.msi | http://81.71.152.215/d/百度网盘/我的软件/Symantec & Acronis/Symantec_Ghost_Standard_Tools.msi
+Synology Drive Client-4.0.1-17885-x64.msi | https://47.243.226.34/d/Synology Drive Client-4.0.1-17885-x64.msi
+TortoiseGit-2.13.0.1-64bit.msi | https://alistrn2.hwb0307.com/d/softwares/TortoiseGit/TortoiseGit-2.13.0.1-64bit.msi
+TortoiseGit-LanguagePack-2.13.0.0-64bit-zh_CN.msi | https://alistrn2.hwb0307.com/d/softwares/TortoiseGit/TortoiseGit-LanguagePack-2.13.0.0-64bit-zh_CN.msi
+TortoiseSVN-1.14.5.29465-x64-svn-1.14.2.msi | http://117.50.199.26:15244/d/nas/windows 工具/TortoiseSVN-1.14.5.29465-x64-svn-1.14.2.msi
+TortoiseSVN-1.14.5.29465-x64-svn-1.14.2.msi | https://ipas.ic-market.top/d/nas/windows 工具/TortoiseSVN-1.14.5.29465-x64-svn-1.14.2.msi
+TortoiseSVN-1.14.9.29743-x64-svn-1.14.5.msi | http://117.50.199.26:15244/d/nas/windows 工具/TortoiseSVN-1.14.9.29743-x64-svn-1.14.5.msi
+TortoiseSVN-1.14.9.29743-x64-svn-1.14.5.msi | https://ipas.ic-market.top/d/nas/windows 工具/TortoiseSVN-1.14.9.29743-x64-svn-1.14.5.msi
+USB server usb-over-network-client-64bit.msi | http://192.9.134.188:8081/d/天翼云盘/装机/实用软件/USB server usb-over-network-client-64bit.msi
+UsbDk_1.0.22_x64.msi | https://141.98.197.102/d/手机PC端工具/联发科强制解开bl锁工具/UsbDk_1.0.22_x64.msi
+UsbDk_1.0.22_x64.msi | https://141.98.197.102:7443/d/手机PC端工具/联发科强制解开bl锁工具/UsbDk_1.0.22_x64.msi
+UsbDk_1.0.22_x86.msi | https://141.98.197.102/d/手机PC端工具/联发科强制解开bl锁工具/UsbDk_1.0.22_x86.msi
+UsbDk_1.0.22_x86.msi | https://141.98.197.102:7443/d/手机PC端工具/联发科强制解开bl锁工具/UsbDk_1.0.22_x86.msi
+WinDirStat-x64-v2.2.2.msi | http://vultr.a-1s.com:5244/d/share/WinDirStat-x64-v2.2.2.msi
+WinDirStat-x64清理C盘软件.msi | https://124.221.124.3/d/天翼网盘/系统类工具/WinDirStat-x64清理C盘软件.msi
+WinDirStat-x64清理C盘软件.msi | https://124.221.124.3/d/点我进网盘/系统类工具/WinDirStat-x64清理C盘软件.msi
+WindowsPCHealthCheckSetup (1).msi | http://118.25.145.11:88/d/群文件/WindowsPCHealthCheckSetup (1).msi
+WindowsPCHealthCheckSetup (2).msi | http://118.25.145.11:88/d/群文件/WindowsPCHealthCheckSetup (2).msi
+WindowsPCHealthCheckSetup (3).msi | http://118.25.145.11:88/d/群文件/WindowsPCHealthCheckSetup (3).msi
+WindowsPCHealthCheckSetup (4).msi | http://118.25.145.11:88/d/群文件/WindowsPCHealthCheckSetup (4).msi
+WindowsPCHealthCheckSetup (5).msi | http://118.25.145.11:88/d/群文件/WindowsPCHealthCheckSetup (5).msi
+WindowsPCHealthCheckSetup (6).msi | http://118.25.145.11:88/d/群文件/WindowsPCHealthCheckSetup (6).msi
+WindowsPCHealthCheckSetup.msi | http://118.25.145.11:88/d/群文件/WindowsPCHealthCheckSetup.msi
+XenCenter6.2.msi | http://81.71.152.215/d/百度网盘/我的视频/《XenServer6.0管理视频教程》/XenCenter6.2.msi
+XenCenter6.2.msi | http://81.71.152.215/d/百度网盘/我的视频/《思杰桌面虚拟化与应用虚拟化技术简易教程》/XenCenter6.2.msi
+XenServer-6.0.0-XenCenter-Japanese-SimplifiedChinese.msi | http://81.71.152.215/d/百度网盘/我的视频/《XenServer6.0管理视频教程》/XenServer-6.0.0-XenCenter-Japanese-SimplifiedChinese.msi
+ZeroTier One.msi | http://171.95.23.159:88/d/工具/群晖及软路由/手机软件/ZeroTier One.msi
+agent_standard_x64亚信杀毒客户端.msi | http://171.95.23.159:88/d/工具/软件/财政亚信.准入客户端/agent_standard_x64亚信杀毒客户端.msi
+agent_standard_x86亚信杀毒客户端.32.msi | http://171.95.23.159:88/d/工具/软件/财政亚信.准入客户端/agent_standard_x86亚信杀毒客户端.32.msi
+blender-4.5.2-windows-x64.msi | https://154.222.17.44/d/电信云盘/其他软件/blender-4.5.2-windows-x64.msi
+calibre-64bit-7.22.0.msi | https://156.254.114.150/d/calibre-64bit-7.22.0.msi
+excel 多开.msi | http://118.25.145.11:88/d/各种工具/excel 多开.msi
+go1.19.3.windows-amd64.msi | https://103.136.146.29/d/Googledrive459/Windows软件/go1.19.3.windows-amd64.msi
+grafana-enterprise-12.0.1.windows-amd64.msi | http://114.246.207.186:9000/d/st-bak/temp/监控/grafana-enterprise-12.0.1.windows-amd64.msi
+iloader-windows-x64.msi | https://164.152.19.201/d/苹果禁音/WIN禁音/iloader-windows-x64.msi
+jami.release.x64.msi | http://171.95.23.159:88/d/工具/工具/网络软件/jami.release.x64.msi
+jami_x86_64-202112221025.msi | http://171.95.23.159:88/d/工具/工具/网络软件/jami_x86_64-202112221025.msi
+metasploitframework-latest.msi | http://171.95.23.159:88/d/工具/工具/网络软件/metasploitframework-latest.msi
+mysql-installer-community-8.0.40.0.msi | http://pan.uchenu.com/d/软件工具/开发相关/mysql-installer-community-8.0.40.0.msi
+node-v20.11.1-x64.msi | https://8.217.236.10/d/访客文件夹_可上传/python/node-v20.11.1-x64.msi
+node-v22.21.0-x64.msi | http://42.193.46.147:88/d/windows/编程软件/node-v22.21.0-x64.msi
+openvpn(高通WIN10).msi | http://183.6.111.162:666/d/工具/openvpn(高通WIN10).msi
+phy.msi | http://118.25.145.11:88/d/各种软件/VC DX等/phy.msi
+phy.msi | http://118.25.145.11:88/d/游戏必备/phy.msi
+rustdesk-1.3.0-x86_64.msi | http://119.163.196.146:8989/d/rustdesk-1.3.0-x86_64.msi
+rustdesk-1.4.0-x86_64.msi | https://113.207.49.5/d/软件/rustdesk/rustdesk-1.4.0-x86_64.msi
+rustdesk远程桌面 密码Aa60.msi | http://118.25.145.11:88/d/小白新手指引/远程工具/rustdesk远程桌面 密码Aa60.msi
+setup_full-3.6.11.msi | http://81.71.152.215/d/百度网盘/V3.6.0.1/服务端/setup_full-3.6.11.msi
+sshfs-win-3.5.20357-x86.msi | http://47.83.157.204:36081/d/win挂载sftp/sshfs-win-3.5.20357-x86.msi
+sshfs-win-3.5.20357-x86.msi | https://47.83.157.204/d/win挂载sftp/sshfs-win-3.5.20357-x86.msi
+tightvnc-2.8.85-gpl-setup-64bit.msi | http://222.140.20.107:8085/d/工具应用/网络/vnc/tightvnc-2.8.85-gpl-setup-64bit.msi
+win7禁用IPv6及其组件工具V2.01.1.msi | https://124.221.124.3/d/天翼网盘/系统类工具/联想售后服务工具集/win7禁用IPv6及其组件工具V2.01.1.msi
+win7禁用IPv6及其组件工具V2.01.1.msi | https://124.221.124.3/d/点我进网盘/系统类工具/联想售后服务工具集/win7禁用IPv6及其组件工具V2.01.1.msi
+win7禁用IPv6及其组件工具V2.01.1.msi | https://8.217.236.10/d/Cloud189_Family/联想售后服务工具集/win7禁用IPv6及其组件工具V2.01.1.msi
+win7禁用IPv6及其组件工具V2.01.1.msi | https://8.217.236.10/d/访客文件夹_可上传/安装包/联想售后服务工具集/win7禁用IPv6及其组件工具V2.01.1.msi
+windows_exporter.msi | http://114.246.207.186:9000/d/st-bak/temp/监控/windows_exporter.msi
+windows更新修复工具V1.69.1.msi | https://124.221.124.3/d/天翼网盘/系统类工具/联想售后服务工具集/windows更新修复工具V1.69.1.msi
+windows更新修复工具V1.69.1.msi | https://124.221.124.3/d/点我进网盘/系统类工具/联想售后服务工具集/windows更新修复工具V1.69.1.msi
+windows更新修复工具V1.69.1.msi | https://8.217.236.10/d/Cloud189_Family/联想售后服务工具集/windows更新修复工具V1.69.1.msi
+windows更新修复工具V1.69.1.msi | https://8.217.236.10/d/访客文件夹_可上传/安装包/联想售后服务工具集/windows更新修复工具V1.69.1.msi
+winfsp-1.11.22176.msi | http://47.83.157.204:36081/d/win挂载sftp/winfsp-1.11.22176.msi
+winfsp-1.11.22176.msi | https://47.83.157.204/d/win挂载sftp/winfsp-1.11.22176.msi
+wireguard-amd64-0.5.3.msi | http://103.205.4.20/d/Software/网络工具/wireguard-amd64-0.5.3.msi
+wireguard.msi | https://113.207.49.5/d/软件/wireGuard/wireguard.msi
+xna31.msi | http://118.25.145.11:88/d/各种软件/VC DX等/xna31.msi
+xna31.msi | http://118.25.145.11:88/d/游戏必备/xna31.msi
+xna40.msi | http://118.25.145.11:88/d/各种软件/VC DX等/xna40.msi
+xna40.msi | http://118.25.145.11:88/d/游戏必备/xna40.msi
+zabbix_agent-5.2.7-windows-amd64-openssl.msi | https://alist.990668.xyz/d/zabbix/zabbix_agent-5.2.7-windows-amd64-openssl.msi
+zabbix_agent2-5.2.7-windows-amd64-openssl.msi | https://alist.990668.xyz/d/zabbix/zabbix_agent2-5.2.7-windows-amd64-openssl.msi
+启用IPv6及其组件工具V1.96.1.msi | https://124.221.124.3/d/天翼网盘/系统类工具/联想售后服务工具集/启用IPv6及其组件工具V1.96.1.msi
+启用IPv6及其组件工具V1.96.1.msi | https://124.221.124.3/d/点我进网盘/系统类工具/联想售后服务工具集/启用IPv6及其组件工具V1.96.1.msi
+启用IPv6及其组件工具V1.96.1.msi | https://8.217.236.10/d/Cloud189_Family/联想售后服务工具集/启用IPv6及其组件工具V1.96.1.msi
+启用IPv6及其组件工具V1.96.1.msi | https://8.217.236.10/d/访客文件夹_可上传/安装包/联想售后服务工具集/启用IPv6及其组件工具V1.96.1.msi
+启用win7所有隧道接口的IPv6V1.91.1(1).msi | https://124.221.124.3/d/天翼网盘/系统类工具/联想售后服务工具集/启用win7所有隧道接口的IPv6V1.91.1(1).msi
+启用win7所有隧道接口的IPv6V1.91.1(1).msi | https://124.221.124.3/d/点我进网盘/系统类工具/联想售后服务工具集/启用win7所有隧道接口的IPv6V1.91.1(1).msi
+启用win7所有隧道接口的IPv6V1.91.1(1).msi | https://8.217.236.10/d/Cloud189_Family/联想售后服务工具集/启用win7所有隧道接口的IPv6V1.91.1(1).msi
+启用win7所有隧道接口的IPv6V1.91.1(1).msi | https://8.217.236.10/d/访客文件夹_可上传/安装包/联想售后服务工具集/启用win7所有隧道接口的IPv6V1.91.1(1).msi
+启用或禁用Win7 边栏工具V1.76.1.msi | https://124.221.124.3/d/天翼网盘/系统类工具/联想售后服务工具集/启用或禁用Win7 边栏工具V1.76.1.msi
+启用或禁用Win7 边栏工具V1.76.1.msi | https://124.221.124.3/d/点我进网盘/系统类工具/联想售后服务工具集/启用或禁用Win7 边栏工具V1.76.1.msi
+启用或禁用Win7 边栏工具V1.76.1.msi | https://8.217.236.10/d/Cloud189_Family/联想售后服务工具集/启用或禁用Win7 边栏工具V1.76.1.msi
+启用或禁用Win7 边栏工具V1.76.1.msi | https://8.217.236.10/d/访客文件夹_可上传/安装包/联想售后服务工具集/启用或禁用Win7 边栏工具V1.76.1.msi
+安装Microsoft.NET Framework4的更新时间过长修复工具V1.90.1.msi | https://124.221.124.3/d/天翼网盘/系统类工具/联想售后服务工具集/安装Microsoft.NET Framework4的更新时间过长修复工具V1.90.1.msi
+安装Microsoft.NET Framework4的更新时间过长修复工具V1.90.1.msi | https://124.221.124.3/d/点我进网盘/系统类工具/联想售后服务工具集/安装Microsoft.NET Framework4的更新时间过长修复工具V1.90.1.msi
+安装Microsoft.NET Framework4的更新时间过长修复工具V1.90.1.msi | https://8.217.236.10/d/Cloud189_Family/联想售后服务工具集/安装Microsoft.NET Framework4的更新时间过长修复工具V1.90.1.msi
+安装Microsoft.NET Framework4的更新时间过长修复工具V1.90.1.msi | https://8.217.236.10/d/访客文件夹_可上传/安装包/联想售后服务工具集/安装Microsoft.NET Framework4的更新时间过长修复工具V1.90.1.msi
+禁用所有隧道接口的 IPv6V1.99.1.msi | https://124.221.124.3/d/天翼网盘/系统类工具/联想售后服务工具集/禁用所有隧道接口的 IPv6V1.99.1.msi
+禁用所有隧道接口的 IPv6V1.99.1.msi | https://124.221.124.3/d/点我进网盘/系统类工具/联想售后服务工具集/禁用所有隧道接口的 IPv6V1.99.1.msi
+禁用所有隧道接口的 IPv6V1.99.1.msi | https://8.217.236.10/d/Cloud189_Family/联想售后服务工具集/禁用所有隧道接口的 IPv6V1.99.1.msi
+禁用所有隧道接口的 IPv6V1.99.1.msi | https://8.217.236.10/d/访客文件夹_可上传/安装包/联想售后服务工具集/禁用所有隧道接口的 IPv6V1.99.1.msi
+自动更新修复工具V4.03.1.msi | https://124.221.124.3/d/天翼网盘/系统类工具/联想售后服务工具集/自动更新修复工具V4.03.1.msi
+自动更新修复工具V4.03.1.msi | https://124.221.124.3/d/点我进网盘/系统类工具/联想售后服务工具集/自动更新修复工具V4.03.1.msi
+自动更新修复工具V4.03.1.msi | https://8.217.236.10/d/Cloud189_Family/联想售后服务工具集/自动更新修复工具V4.03.1.msi
+自动更新修复工具V4.03.1.msi | https://8.217.236.10/d/访客文件夹_可上传/安装包/联想售后服务工具集/自动更新修复工具V4.03.1.msi
+驱动报错修复工具V2.06.1.msi | https://124.221.124.3/d/天翼网盘/系统类工具/联想售后服务工具集/驱动报错修复工具V2.06.1.msi
+驱动报错修复工具V2.06.1.msi | https://124.221.124.3/d/点我进网盘/系统类工具/联想售后服务工具集/驱动报错修复工具V2.06.1.msi
+驱动报错修复工具V2.06.1.msi | https://8.217.236.10/d/Cloud189_Family/联想售后服务工具集/驱动报错修复工具V2.06.1.msi
+驱动报错修复工具V2.06.1.msi | https://8.217.236.10/d/访客文件夹_可上传/安装包/联想售后服务工具集/驱动报错修复工具V2.06.1.msi

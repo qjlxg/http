@@ -1,0 +1,9 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+cpan5.38-x86_64-linux-gnu | https://8.140.252.113/d/4k/bin/X11/cpan5.38-x86_64-linux-gnu
+cpan5.38-x86_64-linux-gnu | https://8.140.252.113/d/4k/bin/cpan5.38-x86_64-linux-gnu
+cpan5.38-x86_64-linux-gnu | https://8.140.252.113/d/4k/usr/bin/cpan5.38-x86_64-linux-gnu
+perl5.38-x86_64-linux-gnu | https://8.140.252.113/d/4k/bin/X11/perl5.38-x86_64-linux-gnu
+perl5.38-x86_64-linux-gnu | https://8.140.252.113/d/4k/bin/perl5.38-x86_64-linux-gnu
+perl5.38-x86_64-linux-gnu | https://8.140.252.113/d/4k/usr/bin/perl5.38-x86_64-linux-gnu

@@ -1,0 +1,45 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+C1evo3050Ti.rom | https://124.221.124.3/d/天翼网盘/bios以及vbios类/C1evo3050Ti.rom
+C1evo3050Ti.rom | https://124.221.124.3/d/点我进网盘/bios以及vbios类/C1evo3050Ti.rom
+G97E-GP104.rom | https://124.221.124.3/d/天翼网盘/bios以及vbios类/G97E-GP104.rom
+G97E-GP104.rom | https://124.221.124.3/d/点我进网盘/bios以及vbios类/G97E-GP104.rom
+Hasee_T8_私模原厂.rom | https://124.221.124.3/d/天翼网盘/bios以及vbios类/Hasee_T8_私模原厂.rom
+Hasee_T8_私模原厂.rom | https://124.221.124.3/d/点我进网盘/bios以及vbios类/Hasee_T8_私模原厂.rom
+NH55VPY_原厂RTX3060_VBIOS_GA106.rom | https://124.221.124.3/d/天翼网盘/bios以及vbios类/VBIOS/NH55VPY_原厂RTX3060_VBIOS_GA106.rom
+NH55VPY_原厂RTX3060_VBIOS_GA106.rom | https://124.221.124.3/d/点我进网盘/bios以及vbios类/VBIOS/NH55VPY_原厂RTX3060_VBIOS_GA106.rom
+R9000K_2021_RTX3080_原厂VBIOS_GA104.rom | https://124.221.124.3/d/天翼网盘/bios以及vbios类/R9000K_2021_RTX3080_原厂VBIOS_GA104.rom
+R9000K_2021_RTX3080_原厂VBIOS_GA104.rom | https://124.221.124.3/d/点我进网盘/bios以及vbios类/R9000K_2021_RTX3080_原厂VBIOS_GA104.rom
+RTX3060_105w_VBIOS.rom | https://124.221.124.3/d/天翼网盘/bios以及vbios类/RTX3060_105w_VBIOS.rom
+RTX3060_105w_VBIOS.rom | https://124.221.124.3/d/点我进网盘/bios以及vbios类/RTX3060_105w_VBIOS.rom
+RTX3060_Z8_DA5_130w_GA106.rom | https://124.221.124.3/d/天翼网盘/bios以及vbios类/RTX3060_Z8_DA5_130w_GA106.rom
+RTX3060_Z8_DA5_130w_GA106.rom | https://124.221.124.3/d/点我进网盘/bios以及vbios类/RTX3060_Z8_DA5_130w_GA106.rom
+RTX3070_ZX9_GA104.rom | https://124.221.124.3/d/天翼网盘/bios以及vbios类/RTX3070_ZX9_GA104.rom
+RTX3070_ZX9_GA104.rom | https://124.221.124.3/d/点我进网盘/bios以及vbios类/RTX3070_ZX9_GA104.rom
+T8_3060原厂vbios.rom | https://124.221.124.3/d/天翼网盘/bios以及vbios类/T8_3060原厂vbios.rom
+T8_3060原厂vbios.rom | https://124.221.124.3/d/点我进网盘/bios以及vbios类/T8_3060原厂vbios.rom
+TX8 CU5_2060_TU106.rom | https://124.221.124.3/d/天翼网盘/bios以及vbios类/TX8 CU5_2060_TU106.rom
+TX8 CU5_2060_TU106.rom | https://124.221.124.3/d/点我进网盘/bios以及vbios类/TX8 CU5_2060_TU106.rom
+TX8_ca5_原厂3060_GA106.rom | https://124.221.124.3/d/天翼网盘/bios以及vbios类/TX8_ca5_原厂3060_GA106.rom
+TX8_ca5_原厂3060_GA106.rom | https://124.221.124.3/d/点我进网盘/bios以及vbios类/TX8_ca5_原厂3060_GA106.rom
+TX9_RTX3070_原厂VBIOS_115W.rom | https://124.221.124.3/d/天翼网盘/bios以及vbios类/TX9_RTX3070_原厂VBIOS_115W.rom
+TX9_RTX3070_原厂VBIOS_115W.rom | https://124.221.124.3/d/点我进网盘/bios以及vbios类/TX9_RTX3070_原厂VBIOS_115W.rom
+Z7T-TAX XX原厂_RTX3050TI_VBIOS.rom | https://124.221.124.3/d/天翼网盘/bios以及vbios类/Z7T-TAX XX原厂_RTX3050TI_VBIOS.rom
+Z7T-TAX XX原厂_RTX3050TI_VBIOS.rom | https://124.221.124.3/d/点我进网盘/bios以及vbios类/Z7T-TAX XX原厂_RTX3050TI_VBIOS.rom
+Z7T-TA原厂_RTX3050TI_VBIOS.rom | https://124.221.124.3/d/天翼网盘/bios以及vbios类/Z7T-TA原厂_RTX3050TI_VBIOS.rom
+Z7T-TA原厂_RTX3050TI_VBIOS.rom | https://124.221.124.3/d/点我进网盘/bios以及vbios类/Z7T-TA原厂_RTX3050TI_VBIOS.rom
+Z7_RA5_95W_3050_原厂vbios_GA107.rom | https://124.221.124.3/d/天翼网盘/bios以及vbios类/Z7_RA5_95W_3050_原厂vbios_GA107.rom
+Z7_RA5_95W_3050_原厂vbios_GA107.rom | https://124.221.124.3/d/点我进网盘/bios以及vbios类/Z7_RA5_95W_3050_原厂vbios_GA107.rom
+Z7_TA5_3050显卡vbios.rom | https://124.221.124.3/d/天翼网盘/bios以及vbios类/Z7_TA5_3050显卡vbios.rom
+Z7_TA5_3050显卡vbios.rom | https://124.221.124.3/d/点我进网盘/bios以及vbios类/Z7_TA5_3050显卡vbios.rom
+Z8_CA系列_RTX3060_支持外接显示器_130w.rom | https://124.221.124.3/d/天翼网盘/bios以及vbios类/Z8_CA系列_RTX3060_支持外接显示器_130w.rom
+Z8_CA系列_RTX3060_支持外接显示器_130w.rom | https://124.221.124.3/d/点我进网盘/bios以及vbios类/Z8_CA系列_RTX3060_支持外接显示器_130w.rom
+Z8_CA系列原厂VBIOS_GA106.rom | https://124.221.124.3/d/天翼网盘/bios以及vbios类/Z8_CA系列原厂VBIOS_GA106.rom
+Z8_CA系列原厂VBIOS_GA106.rom | https://124.221.124.3/d/点我进网盘/bios以及vbios类/Z8_CA系列原厂VBIOS_GA106.rom
+Z8_CU系列原厂VBIOS_TU106vbios.rom | https://124.221.124.3/d/天翼网盘/bios以及vbios类/Z8_CU系列原厂VBIOS_TU106vbios.rom
+Z8_CU系列原厂VBIOS_TU106vbios.rom | https://124.221.124.3/d/点我进网盘/bios以及vbios类/Z8_CU系列原厂VBIOS_TU106vbios.rom
+Z8_TAX XX_rtx3060原厂vbios.rom | https://124.221.124.3/d/天翼网盘/bios以及vbios类/Z8_TAX XX_rtx3060原厂vbios.rom
+Z8_TAX XX_rtx3060原厂vbios.rom | https://124.221.124.3/d/点我进网盘/bios以及vbios类/Z8_TAX XX_rtx3060原厂vbios.rom
+flash_M_1.rom | https://alist.homelabproject.cc/d/local/tmp/flash_M_1.rom
+flash_M_1.rom | https://file.homelabproject.cc/d/local/tmp/flash_M_1.rom

@@ -1,0 +1,21 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+ACDSee.inf | http://171.95.23.159:88/d/工具/软件/ACDSee/ACDSee.inf
+CH341SER.INF | http://218.28.112.170:5555/d/软件/四个USB口发卡器驱动/四个USB口发卡器驱动/CH341SER.INF
+DPKPRINTER.inf | http://171.95.23.159:88/d/工具/软件/新建文件夹 (2)/DPKPRINTER.inf
+Keyboard.inf | http://47.83.157.204:36081/d/手写笔/君彩djj-7驱动V7.2/KeyboardDriver/Keyboard.inf
+Keyboard.inf | https://47.83.157.204/d/手写笔/君彩djj-7驱动V7.2/KeyboardDriver/Keyboard.inf
+OEMSETUP.INF | http://120.26.66.68:8008/d/打印机驱动/c5503/disk1/OEMSETUP.INF
+OEMSETUP.INF | https://120.26.66.68:8009/d/打印机驱动/c5503/disk1/OEMSETUP.INF
+autorun.inf | http://218.28.112.170:5555/d/软件/Microsoft Office  2016/autorun.inf
+autorun.inf | http://47.83.157.204:36081/d/手写笔/友基S300X/autorun.inf
+autorun.inf | http://47.83.157.204:36081/d/手写笔/君彩djj-7驱动V7.2/autorun.inf
+autorun.inf | https://24.18.156.162/d/Mathworks Matlab R2023a (当前最新版本)/autorun.inf
+autorun.inf | https://47.83.157.204/d/手写笔/友基S300X/autorun.inf
+autorun.inf | https://47.83.157.204/d/手写笔/君彩djj-7驱动V7.2/autorun.inf
+idmtdi.inf | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/idmtdi.inf
+idmwfp.inf | https://64.181.190.142:2083/d/天翼133/常用软件/Internet Download Manager/idmwfp.inf
+steam.inf | https://47.116.119.109/d/GSM/L4D2/left4dead2/steam.inf
+steam.inf | https://47.116.14.121:8443/d/GSM/L4D2/left4dead2/steam.inf
+token.inf | https://81.70.142.195/d/云主机本地/token.inf

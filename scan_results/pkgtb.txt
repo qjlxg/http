@@ -1,0 +1,7 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+RT-AX86U_PRO_3004_388.8_2_nand_squashfs-fb760e1.pkgtb | https://47.76.189.197/d/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/路由器梅林固件/RT-AX86U_PRO_3004_388.8_2_nand_squashfs-fb760e1.pkgtb
+RT-BE86U_3.0.0.6_102_37174_koolcenter_nand_squashfs-e468b59.pkgtb | https://146.56.37.168:8080/d/SW/BE86U/RT-BE86U_3.0.0.6_102_37174_koolcenter_nand_squashfs-e468b59.pkgtb
+RT-BE86U_3006_102.3_0_nand_squashfs-9eb32d5.pkgtb | https://146.56.37.168:8080/d/SW/BE86U/RT-BE86U_3006_102.3_0_nand_squashfs-9eb32d5.pkgtb
+RT_BE88U_3_0_0_6_102_33921_alpha_2_0_koolcenter_nand_squashfs.pkgtb | https://47.76.189.197/d/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/[Mega云盘]路由器梅林固件与MerLinClash和科学上网插件/路由器梅林固件/RT_BE88U_3_0_0_6_102_33921_alpha_2_0_koolcenter_nand_squashfs.pkgtb

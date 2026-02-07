@@ -1,0 +1,34 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+CAD常见问题处理手册.chm | http://183.6.111.162:666/d/工具/中望CAD/CAD常见问题处理手册.chm
+CATIA安装教程.chm | https://154.222.17.44/d/刘必琛蓝奏/05、CATIA/CATIA安装教程.chm
+CATIA安装教程.chm | https://154.222.17.44/d/易洋辉蓝奏/05、CATIA/CATIA安装教程.chm
+CATIA安装教程.chm | https://154.222.17.44/d/王欢豆包/05、CATIA/CATIA安装教程.chm
+CATIA安装教程.chm | https://154.222.17.44/d/电信云盘/05、CATIA/CATIA安装教程.chm
+CATIA安装教程.chm | https://154.222.17.44/d/移动云盘/05、CATIA/CATIA安装教程.chm
+CATIA安装教程.chm | https://154.222.17.44/d/细平蓝奏/05、CATIA/CATIA安装教程.chm
+CATIA安装教程.chm | https://154.222.17.44/d/豆包云盘/05、CATIA/CATIA安装教程.chm
+CATIA安装教程.chm | https://154.222.17.44/d/闻某豆包/05、CATIA/CATIA安装教程.chm
+CATIA安装教程.chm | https://154.222.17.44/d/阿冬蓝奏/05、CATIA/CATIA安装教程.chm
+CATIA安装教程.chm | https://154.222.17.44/d/陈鉴蓝奏/05、CATIA/CATIA安装教程.chm
+CATIA安装教程.chm | https://154.222.17.44/d/黄某豆包/05、CATIA/CATIA安装教程.chm
+DND3R法术大不全V1.16.CHM | http://45.33.45.143/d/Shenshei-Public-Files/DND3R法术大不全V1.16.CHM
+DND3R法术大不全V1.16.CHM | https://45.33.45.143:8443/d/Shenshei-Public-Files/DND3R法术大不全V1.16.CHM
+PHB3R中文完成版.CHM | http://45.33.45.143/d/Shenshei-Public-Files/PHB3R中文完成版.CHM
+PHB3R中文完成版.CHM | https://45.33.45.143:8443/d/Shenshei-Public-Files/PHB3R中文完成版.CHM
+XYplorer.chm | https://139.185.32.228/d/工具/XYplorer/XYplorer.chm
+XYplorer.chm | https://193.123.85.183/d/工具/XYplorer/XYplorer.chm
+aida64.chm | https://139.185.32.228/d/硬件/AIDA64 Extreme/aida64.chm
+aida64.chm | https://193.123.85.183/d/硬件/AIDA64 Extreme/aida64.chm
+help_bf.chm | http://218.28.112.170:5555/d/软件/大宗物料/help_bf.chm
+msitoexe.chm | https://alist.990668.xyz/d/其他/msi转exe软件_v1205/MSI to EXE Compiler Pro 1.2.0.5/msitoexe.chm
+pad32s.chm | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/pad32s.chm
+pad32s.chm | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/pad32s.chm
+pad32t.chm | http://47.83.157.204:36081/d/手写笔/唐人笔TR-TP618/pad32t.chm
+pad32t.chm | https://47.83.157.204/d/手写笔/唐人笔TR-TP618/pad32t.chm
+rica6Mch.chm | http://120.26.66.68:8008/d/打印机驱动/c5503/disk1/rica6Mch.chm
+rica6Mch.chm | https://120.26.66.68:8009/d/打印机驱动/c5503/disk1/rica6Mch.chm
+wc.chm | https://47.116.119.109/d/GSM/L4D2/bin/wc.chm
+wc.chm | https://47.116.14.121:8443/d/GSM/L4D2/bin/wc.chm
+启动U盘制作手册.chm | http://118.25.145.11:88/d/群文件/启动U盘制作手册.chm

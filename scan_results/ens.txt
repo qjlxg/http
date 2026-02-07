@@ -1,0 +1,9 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Chinese Std GBT7714 (author-year).ens | https://38.147.185.13/d/Endnote Style/Chinese Std GBT7714 (author-year).ens
+Chinese Std GBT7714 (numeric).ens | https://38.147.185.13/d/Endnote Style/Chinese Std GBT7714 (numeric).ens
+Chinese Std GBT7714-2015 (numeric).ENS | https://38.147.185.13/d/Endnote Style/Chinese Std GBT7714-2015 (numeric).ENS
+Computers and Geosciences.ens | https://38.147.185.13/d/Endnote Style/Computers and Geosciences.ens
+Computers and Geotechnics.ens | https://38.147.185.13/d/Endnote Style/Computers and Geotechnics.ens
+Engineering Geology.ens | https://38.147.185.13/d/Endnote Style/Engineering Geology.ens

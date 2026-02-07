@@ -1,0 +1,6 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+mgy_clusters_2022_05.fa | http://43.142.43.120:8000/d/xuaoyu/alphafold3/database/mgy_clusters_2022_05.fa
+uniprot_all_2021_04.fa | http://43.142.43.120:8000/d/xuaoyu/alphafold3/database/uniprot_all_2021_04.fa
+uniref90_2022_05.fa | http://43.142.43.120:8000/d/xuaoyu/alphafold3/database/uniref90_2022_05.fa

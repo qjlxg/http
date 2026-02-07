@@ -1,0 +1,9 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+bfsystem_log.ldf | http://218.28.112.170:5555/d/软件/大宗物料/bfsystem_log.ldf
+ds_shop_log.ldf | https://93.93.116.119/d/Jie/CLIENTE TEST/vihela/ds_shop_log.ldf
+library_log.ldf | http://8.130.32.122/d/ali番剧/A传输用/library_log.ldf
+library_log.ldf | http://8.130.32.122/d/temp/library_log.ldf
+school_log.ldf | http://8.130.32.122/d/ali番剧/A传输用/school_log.ldf
+school_log.ldf | http://8.130.32.122/d/temp/school_log.ldf

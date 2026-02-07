@@ -1,0 +1,4 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+llftool.license_Zone.Identifier | http://222.140.20.107:8085/d/工具应用/磁盘/LLFTOOL/llftool.license_Zone.Identifier

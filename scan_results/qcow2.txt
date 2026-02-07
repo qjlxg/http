@@ -1,0 +1,39 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+almalinux8.qcow2 | http://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/almalinux8.qcow2
+almalinux8.qcow2 | https://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/almalinux8.qcow2
+archlinux.qcow2 | http://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/archlinux.qcow2
+archlinux.qcow2 | https://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/archlinux.qcow2
+asav952-204.qcow2 | http://81.71.152.215/d/百度网盘/我的软件/Cisco & Juniper/asav952-204.qcow2
+centos7.qcow2 | http://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/centos7.qcow2
+centos7.qcow2 | https://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/centos7.qcow2
+centos8-stream.qcow2 | http://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/centos8-stream.qcow2
+centos8-stream.qcow2 | https://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/centos8-stream.qcow2
+centos9-stream.qcow2 | http://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/centos9-stream.qcow2
+centos9-stream.qcow2 | https://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/centos9-stream.qcow2
+debian-12-generic-amd64.qcow2 | https://107.189.7.215/d/debian-12-generic-amd64.qcow2
+debian-12-genericcloud-amd64.qcow2 | https://107.189.7.215/d/debian-12-genericcloud-amd64.qcow2
+debian-12-nocloud-amd64.qcow2 | https://alist.homelabproject.cc/d/local/img/Linux/debian-12-nocloud-amd64.qcow2
+debian10.qcow2 | http://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/debian10.qcow2
+debian10.qcow2 | https://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/debian10.qcow2
+debian11.qcow2 | http://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/debian11.qcow2
+debian11.qcow2 | https://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/debian11.qcow2
+debian9.qcow2 | http://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/debian9.qcow2
+debian9.qcow2 | https://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/debian9.qcow2
+fedora33.qcow2 | http://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/fedora33.qcow2
+fedora33.qcow2 | https://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/fedora33.qcow2
+fedora34.qcow2 | http://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/fedora34.qcow2
+fedora34.qcow2 | https://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/fedora34.qcow2
+opensuse-leap-15.qcow2 | http://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/opensuse-leap-15.qcow2
+opensuse-leap-15.qcow2 | https://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/opensuse-leap-15.qcow2
+rockylinux8.qcow2 | http://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/rockylinux8.qcow2
+rockylinux8.qcow2 | https://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/rockylinux8.qcow2
+routeros_v6.qcow2 | http://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/routeros_v6.qcow2
+routeros_v6.qcow2 | https://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/routeros_v6.qcow2
+routeros_v7.qcow2 | http://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/routeros_v7.qcow2
+routeros_v7.qcow2 | https://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/routeros_v7.qcow2
+ubuntu18.qcow2 | http://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/ubuntu18.qcow2
+ubuntu18.qcow2 | https://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/ubuntu18.qcow2
+ubuntu20.qcow2 | http://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/ubuntu20.qcow2
+ubuntu20.qcow2 | https://pub.sa2.pw/d/GoogleDrive/ISO/微基主机服务 (wikihost)系统模板/ubuntu20.qcow2

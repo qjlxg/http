@@ -1,0 +1,15 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+ld.gold | http://113.140.77.109:8881/d/服务器1/bin/ld.gold
+ld.gold | http://113.140.77.109:8881/d/服务器1/usr/bin/ld.gold
+ld.gold | https://154.12.23.79/d/mnt/bin/ld.gold
+ld.gold | https://154.12.23.79/d/mnt/usr/bin/ld.gold
+ld.gold | https://52.140.241.52/d/sftp/jp/bin/ld.gold
+ld.gold | https://8.140.252.113/d/4k/bin/X11/ld.gold
+ld.gold | https://8.140.252.113/d/4k/bin/ld.gold
+ld.gold | https://8.140.252.113/d/4k/usr/bin/ld.gold
+x86_64-linux-gnu-ld.gold | https://52.140.241.52/d/sftp/jp/bin/x86_64-linux-gnu-ld.gold
+x86_64-linux-gnu-ld.gold | https://8.140.252.113/d/4k/bin/X11/x86_64-linux-gnu-ld.gold
+x86_64-linux-gnu-ld.gold | https://8.140.252.113/d/4k/bin/x86_64-linux-gnu-ld.gold
+x86_64-linux-gnu-ld.gold | https://8.140.252.113/d/4k/usr/bin/x86_64-linux-gnu-ld.gold

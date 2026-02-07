@@ -1,0 +1,6 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+ChatGPT_1.2023.314_apkcombo.com.xapk | https://116.63.33.248/d/共享/ChatGPT_1.2023.314_apkcombo.com.xapk
+Jellyfin_for_Android_TV_f41eff51.xapk | http://171.95.23.159:88/d/工具/群晖及软路由/手机软件/Jellyfin_for_Android_TV_f41eff51.xapk
+Project Makeover_2.123.5.xapk | https://43.134.188.216/d/Project Makeover_2.123.5.xapk

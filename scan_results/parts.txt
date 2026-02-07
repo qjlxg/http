@@ -1,0 +1,8 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+.1224644ee92895be53ead838d109bfabc846aceb.parts | https://101.35.82.72/d/影视/qBittorrent动漫/炼气十万年 (2023)/.1224644ee92895be53ead838d109bfabc846aceb.parts
+.1516986122b29f104b0dd77d3bba39544e50cd1a.parts | https://101.35.82.72/d/影视/qBittorrent动漫/紫川 (2021)/.1516986122b29f104b0dd77d3bba39544e50cd1a.parts
+.5c1e3545bd21fa797c195296b11b5464dd4114a3.parts | https://101.35.82.72/d/影视/qBittorrent电视剧/Wild.Ambition.Bloom (2025) S01 4K DV HQ 60fps DTS&DDP 单集12GB HiveWeb自动更新/.5c1e3545bd21fa797c195296b11b5464dd4114a3.parts
+.777c678145514b21c5eadbcf1228b798f1435c9e.parts | https://101.35.82.72/d/影视/qBittorrent动漫/吞噬星空 (2020)/.777c678145514b21c5eadbcf1228b798f1435c9e.parts
+.e4ae38786859aa7841905882495043593cd340fa.parts | https://101.35.82.72/d/影视/qBittorrent动漫/诛仙 (2022)/.e4ae38786859aa7841905882495043593cd340fa.parts

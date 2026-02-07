@@ -1,0 +1,19 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+dinov2_vitb14_pretrain.pth | http://119.3.210.1:8083/d/权重文件/dino2/dinov2_vitb14_pretrain.pth
+dinov2_vitg14_pretrain.pth | http://119.3.210.1:8083/d/权重文件/dino2/dinov2_vitg14_pretrain.pth
+dinov2_vitl14_pretrain.pth | http://119.3.210.1:8083/d/权重文件/dino2/dinov2_vitl14_pretrain.pth
+dinov2_vits14_pretrain.pth | http://119.3.210.1:8083/d/权重文件/dino2/dinov2_vits14_pretrain.pth
+dinov3_vitb16_pretrain_lvd1689m-73cec8be.pth | http://119.3.210.1:8083/d/权重文件/dino3/dinov3_vitb16_pretrain_lvd1689m-73cec8be.pth
+dinov3_vitl16_pretrain_lvd1689m-8aa4cbdd.pth | http://119.3.210.1:8083/d/权重文件/dino3/dinov3_vitl16_pretrain_lvd1689m-8aa4cbdd.pth
+dinov3_vits16_pretrain_lvd1689m-08c60483.pth | http://119.3.210.1:8083/d/权重文件/dino3/dinov3_vits16_pretrain_lvd1689m-08c60483.pth
+dinov3_vits16plus_pretrain_lvd1689m-4057cbaa.pth | http://119.3.210.1:8083/d/权重文件/dino3/dinov3_vits16plus_pretrain_lvd1689m-4057cbaa.pth
+genshin-columbina_200e_8200s.pth | http://166.111.238.247:9004/d/RVC-model/genshin-columbina_200e_8200s.pth
+genshin-columbina_250e_10250s.pth | http://166.111.238.247:9004/d/RVC-model/genshin-columbina_250e_10250s.pth
+genshin-columbina_300e_12300s.pth | http://166.111.238.247:9004/d/RVC-model/genshin-columbina_300e_12300s.pth
+genshin-columbina_350e_14350s.pth | http://166.111.238.247:9004/d/RVC-model/genshin-columbina_350e_14350s.pth
+genshin-columbina_400e_16400s.pth | http://166.111.238.247:9004/d/RVC-model/genshin-columbina_400e_16400s.pth
+sam_vit_b_01ec64.pth | http://119.3.210.1:8083/d/权重文件/sam/sam_vit_b_01ec64.pth
+sam_vit_h_4b8939.pth | http://119.3.210.1:8083/d/权重文件/sam/sam_vit_h_4b8939.pth
+sam_vit_l_0b3195.pth | http://119.3.210.1:8083/d/权重文件/sam/sam_vit_l_0b3195.pth

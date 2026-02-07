@@ -1,0 +1,8 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+Citrix_License_Server_VPX_v11.10.0_Build_12002.xva | http://81.71.152.215/d/百度网盘/我的视频/《XenServer6.0管理视频教程》/Citrix_License_Server_VPX_v11.10.0_Build_12002.xva
+Citrix_License_Server_Virtual_Appliance_11.12.xva | http://81.71.152.215/d/百度网盘/我的软件/Citrix软件镜像/Citrix_License_Server_Virtual_Appliance_11.12.xva
+NSVPX-XEN-10.5-50.10_nc.xva | http://81.71.152.215/d/百度网盘/我的软件/Citrix软件镜像/NSVPX-XEN-10.5-50.10_nc.xva
+XenServer-6.0.0.1-wlb-Japanese-SimplifiedChinese.xva | http://81.71.152.215/d/百度网盘/我的视频/《XenServer6.0管理视频教程》/XenServer-6.0.0.1-wlb-Japanese-SimplifiedChinese.xva
+XenServer-6.0.2-dvsc.xva | http://81.71.152.215/d/百度网盘/我的视频/《XenServer6.0管理视频教程》/XenServer-6.0.2-dvsc.xva

@@ -1,0 +1,11 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+(未保存).stl | https://142.171.66.197/d/onedrive/(未保存).stl
+board tag plate.stl | https://24.18.156.162/d/board tag plate.stl
+board tag stick.stl | https://24.18.156.162/d/board tag stick.stl
+board tag v6.stl | https://24.18.156.162/d/board tag v6.stl
+实体2.stl | https://142.171.66.197/d/onedrive/实体2.stl
+螺丝盒6格.stl | https://142.171.66.197/d/onedrive/打印件/螺丝盒6格.stl
+风扇.stl | https://142.171.66.197/d/onedrive/风扇.stl
+风扇支架.stl | https://142.171.66.197/d/onedrive/风扇支架.stl

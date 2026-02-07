@@ -1,0 +1,13 @@
+# 扫描更新时间: 2026-02-07 22:47:29
+# 排除规则: 已过滤常见网页杂质文件及 txt/md
+
+mssdolby.flt | https://47.116.119.109/d/GSM/L4D2/bin/mssdolby.flt
+mssdolby.flt | https://47.116.14.121:8443/d/GSM/L4D2/bin/mssdolby.flt
+mssds3d.flt | https://47.116.119.109/d/GSM/L4D2/bin/mssds3d.flt
+mssds3d.flt | https://47.116.14.121:8443/d/GSM/L4D2/bin/mssds3d.flt
+mssdsp.flt | https://47.116.119.109/d/GSM/L4D2/bin/mssdsp.flt
+mssdsp.flt | https://47.116.14.121:8443/d/GSM/L4D2/bin/mssdsp.flt
+msseax.flt | https://47.116.119.109/d/GSM/L4D2/bin/msseax.flt
+msseax.flt | https://47.116.14.121:8443/d/GSM/L4D2/bin/msseax.flt
+msssrs.flt | https://47.116.119.109/d/GSM/L4D2/bin/msssrs.flt
+msssrs.flt | https://47.116.14.121:8443/d/GSM/L4D2/bin/msssrs.flt
