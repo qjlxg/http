@@ -6,16 +6,15 @@ from collections import deque
 # 配置
 INPUT_FILE = 'duplicate.txt'
 OUTPUT_FILE = 'scan_alist.txt'
-MAX_THREADS = 15  # 降低一点线程数，提高稳定性
+MAX_THREADS = 15  
 TIMEOUT = 5       
-MAX_DEPTH = 10    # 限制最大扫描深度，防止死循环
+MAX_DEPTH = 10    
 
 def get_alist_list(base_url, path="/"):
-    """调用 AList V3 API 获取文件列表"""
     api_url = f"{base_url.rstrip('/')}/api/fs/list"
     payload = {"path": path, "password": "", "page": 1, "per_page": 0}
     try:
-        # 增加 verify=False 忽略某些站点的 SSL 证书错误
+        # 忽略 SSL 证书错误
         resp = requests.post(api_url, json=payload, timeout=TIMEOUT, verify=False)
         if resp.status_code == 200:
             data = resp.json()
@@ -26,15 +25,13 @@ def get_alist_list(base_url, path="/"):
     return []
 
 def process_url(url):
-    """使用队列迭代（广度优先）代替递归，防止递归溢出"""
-    print(f"正在扫描: {url}")
-    local_results = {}
-    queue = deque([("/", 0)]) # (路径, 当前深度)
-    visited_paths = {"/"}      # 防止某些站点循环引用
+    """扫描单个站点"""
+    local_data = [] # 存储结构: (ext, filename, download_url)
+    queue = deque([("/", 0)]) 
+    visited_paths = {"/"}      
 
     while queue:
         current_path, depth = queue.popleft()
-        
         if depth > MAX_DEPTH:
             continue
 
@@ -45,7 +42,6 @@ def process_url(url):
         for item in items:
             name = item.get('name')
             is_dir = item.get('is_dir')
-            # 处理路径拼接
             full_path = f"{current_path.rstrip('/')}/{name}"
             
             if is_dir:
@@ -57,46 +53,55 @@ def process_url(url):
                 ext = ext.lower() if ext else ".no_ext"
                 download_url = f"{url.rstrip('/')}/d{full_path}"
                 
-                if ext not in local_results:
-                    local_results[ext] = []
-                local_results[ext].append(f"{name} | {download_url}")
+                # 记录该文件的元组，用于后续去重
+                local_data.append((ext, name, download_url))
                 
-    return local_results
+    return local_data
 
 def main():
-    # 忽略 SSL 警告
     requests.packages.urllib3.disable_warnings()
     
     if not os.path.exists(INPUT_FILE):
-        print("未找到 duplicate.txt")
         return
 
     with open(INPUT_FILE, 'r') as f:
-        urls = [line.strip() for line in f if line.strip().startswith('http')]
+        urls = list(set([line.strip() for line in f if line.strip().startswith('http')]))
 
-    final_results = {}
+    final_registry = set() # 使用集合记录 (文件名, 下载链接) 的唯一组合
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
         future_to_url = {executor.submit(process_url, url): url for url in urls}
         for future in concurrent.futures.as_completed(future_to_url):
             try:
-                thread_data = future.result()
-                for ext, links in thread_data.items():
-                    if ext not in final_results:
-                        final_results[ext] = []
-                    final_results[ext].extend(links)
+                # 线程返回的是该站点下的所有文件列表
+                site_files = future.result()
+                for item in site_files:
+                    # 只有文件名和下载链接完全一样才会被 set 去重
+                    final_registry.add(item) 
             except Exception as e:
-                print(f"任务执行出错: {e}")
+                print(f"站点扫描异常: {e}")
 
-    # 按扩展名保存
+    # 将结果按扩展名组织归类
+    ext_map = {}
+    for ext, name, d_url in final_registry:
+        if ext not in ext_map:
+            ext_map[ext] = []
+        ext_map[ext].append(f"{name} | {d_url}")
+
+    # 写入文件
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-        for ext in sorted(final_results.keys()):
+        f.write(f"# 扫描完成时间: {time_now()}\n")
+        for ext in sorted(ext_map.keys()):
             f.write(f"\n[{ext}]\n")
-            # 去重并排序
-            unique_links = sorted(list(set(final_results[ext])))
-            for line in unique_links:
+            # 同一后缀下的文件按名称排序
+            for line in sorted(ext_map[ext]):
                 f.write(line + "\n")
-    print(f"扫描完成，结果已保存至 {OUTPUT_FILE}")
+
+def time_now():
+    from datetime import datetime
+    import pytz
+    tz = pytz.timezone('Asia/Shanghai')
+    return datetime.now(tz).strftime("%Y-%m-%d %H:%M:%S")
 
 if __name__ == "__main__":
     main()
